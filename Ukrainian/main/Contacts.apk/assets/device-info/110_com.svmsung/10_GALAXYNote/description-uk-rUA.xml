@@ -1,0 +1,16 @@
+<feature>
+    <name>Galaxy Note</name>
+    <boolean>TRUE</boolean>
+    <title>
+Імпорт контактів з Samsung GALAXY Note:
+
+1.Відкрийте “Настройки”
+
+2.Відкрийт пункт “Bluetooth”
+
+3.Цвімкніть “Bluetooth”
+
+4.Натисніть на кнопку “Далі”
+    </title>
+    <header></header>
+</feature>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Відгуки</string>
+    <string name="user_feedback">Відгуки</string>
+    <string name="report_miui">Звіт в MIUI</string>
+    <string name="menu_send">Надіслати звіт</string>
+    <string name="menu_copy">Копіювати</string>
+    <string name="menu_attach_screenshot">Прикріпити скріншот</string>
+    <string name="menu_discard">Відмінити</string>
+    <string name="description">Опис англійською мовою (обов\'язково)</string>
+    <string name="btn_send">Надіслати</string>
+    <string name="err_type">Тип звіту</string>
+    <string name="err_type_reboot">Система перезавантажується</string>
+    <string name="err_type_force_close">Фатальна помилка</string>
+    <string name="err_type_network">Мережеві проблеми</string>
+    <string name="err_type_others">Інше</string>
+    <string name="err_type_power_consuming">Вжиток енергії</string>
+    <string name="err_type_call">Проблеми з викликами</string>
+    <string name="err_type_suggestion">Пропозиції</string>
+    <string name="err_type_data_lost">Втрата даних</string>
+    <string name="status_msg_pending_upload">Завантажується звітів: %d…</string>
+    <string name="status_msg_collecting_log">Збереження логів</string>
+    <string name="action_submit">Підтвердити</string>
+    <string name="section_err_type">Тип звіту</string>
+    <string name="section_description">Опис</string>
+    <string name="section_screenshot">Скріншот</string>
+    <string name="toast_report_sent_succeed">Звіт відправлено.</string>
+    <string name="toast_report_sent_failed">Помилка відправки звіту.</string>
+    <string name="toast_report_copied_to_clipboard">Звіт скопійований в буфер обміну.</string>
+    <string name="toast_description_required">Опис не може бути порожнім.</string>
+    <string name="toast_pending_log_collection">Збереження логів…</string>
+    <string name="toast_feedback_submitted">Ваш звіт успішно зареєстрований.</string>
+    <string name="toast_feedback_pending_wlan">Ваш звіт буде відправлений при підключенні Wi-fi</string>
+    <string name="discard_draft_dialog_title">Відміна проекту</string>
+    <string name="discard_draft_dialog_content">Звіт був виправлений, натисніть ок для відміни проекту.</string>
+    <string name="discard_draft_dialog_button_discard">ОК</string>
+    <string name="discard_draft_dialog_button_cancel">Відміна</string>
+    <string name="network_unavailable_dialog_title">Мережа недоступна</string>
+    <string name="network_unavailable_dialog_content">Ваш звіт буде відправлений при підключенні до мережі</string>
+    <string name="network_unavailable_dialog_button_ok">ОК</string>
+    <string name="wlan_unavailable_dialog_title">Немає мереж Wi-fi</string>
+    <string name="wlan_unavailable_dialog_content">%s доступно для 2G/3G, натисніть ОК для відправки лише по Wi-fi</string>
+    <string name="wlan_unavailable_dialog_button_sent">Надіслати зараз</string>
+    <string name="wlan_unavailable_dialog_button_ok">ОК</string>
+    <string name="packaging_dialog_content">Створення звіту…</string>
+	<string name="bugreport_feedback_from">Відправник: %s</string>
+</resources>

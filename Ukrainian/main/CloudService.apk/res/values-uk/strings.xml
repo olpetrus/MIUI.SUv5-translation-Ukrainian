@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Менеджер акаунтів Xiaomi</string>
+    <string name="sync_item_sms_title">Синхронізація SMS</string>
+    <string name="sync_item_sms_summary">Отримання сертифіката</string>
+    <string name="sub_sync_item_sms_title_wifi_only">MMS тільки по Wi-Fi</string>
+    <string name="sub_sync_item_sms_summary">Рекомендується ввімкнути, або збільшиться витрата трафіку</string>
+    <string name="pref_title_sync_contacts_title">Синхронізація контактів</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only">Фото тільки по Wi-Fi</string>
+    <string name="pref_summary_sync_display_photo_on_wifi_only">Рекомендується ввімкнути, або збільшиться витрата трафіку</string>
+    <string name="find_device">Знайти пристрій</string>
+    <string name="find_device_stop_noise">Натисніть \"ОК\" для вимикання звуку</string>
+    <string name="sync_item_calllog_title">Синхронізація журналу викликів</string>
+    <string name="sync_item_calllog_summary">Увімкніть, для синхронізації журналу викликів</string>
+</resources>

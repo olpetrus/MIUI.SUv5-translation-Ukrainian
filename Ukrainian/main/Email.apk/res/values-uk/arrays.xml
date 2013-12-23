@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Дрібний</item>
+        <item>Невеликий</item>
+        <item>Звичайний</item>
+        <item>Великий</item>
+        <item>Величезний</item>
+    </string-array>
+    <string-array name="general_preference_auto_advance_summary_array">
+        <item>Показувати нові повідомлення після видалення листа</item>
+        <item>Показувати старі повідомлення після видалення листа</item>
+        <item>Показувати список повідомлень після видалення листа</item>
+    </string-array>
+</resources>
