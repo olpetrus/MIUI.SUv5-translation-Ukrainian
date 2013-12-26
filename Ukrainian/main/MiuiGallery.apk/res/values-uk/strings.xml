@@ -478,4 +478,11 @@
 	<string name="confirm_delete_this_picture">Видалити обране зображення?</string>
     <string name="confirm_delete_this_video">Видалити обране відео?</string>
 	<string name="loading_members">Завантаження користувачів…</string>
+		<string name="loading_video">Завантаження відео…</string>
+    <string name="loading_image">Завантаження зображення…</string>
+    <string name="loading_suspend">Завантаження буде продовжено при підключенні до мережі Wi-Fi.</string>
+    <string name="confirm_download_video_title">Завантаження відео</string>
+    <string name="confirm_download_video_message">Для перегляду відео необхідно повністю завантажити його. Завантаження буде продовжено при підключенні до мережі Wi-Fi.</string>
+    <string name="image_download_item_title">Завантажити зображення (%s)</string>
+    <string name="folder_holder_file">Необхідно видалити цей файл пізніше</string>
 </resources>

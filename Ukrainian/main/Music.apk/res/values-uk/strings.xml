@@ -336,4 +336,5 @@
     <string name="synchronize_guide_toast">Для вмикання синхронізації зайдіть в \"Налаштування\" > \"Синхронізувати перелік пісень\".</string>
     <string name="find_ktv">Пошук музики в KTV</string>
     <string name="playlist_my_ktv">Плейлист KTV</string>
+	<string name="pay_service_guide_new">Музика високої якості доступна</string>
 </resources>

@@ -1166,4 +1166,9 @@
     <string name="refresh">Оновити</string>
     <string name="yellowpage_navigation_search_city_name_hint">Місто</string>
     <string name="yellowpage_navigation_search_select_city">Оберіть місто</string>
+	<string name="type_mx_msg">Хмарні повідомлення</string>
+	<string name="yellowpage_navigation_search_result_no_more">Більше результату немає</string>
+    <string name="yellowpage_navigation_search_result_network_error">Помилка підключення до мережі</string>
+    <string name="yellowpage_navigation_search_result_service_error">Сервіс недоступний</string>
+    <string name="yellowpage_navigation_search_result_unknown_error">Невідома помилка</string>
 </resources>
