@@ -1074,8 +1074,8 @@
     <string name="sim_enter_cancel">Скасувати</string>
     <string name="device_info_settings">Стан телефону</string>
     <string name="system_update_settings_list_item_title">Оновлення системи</string>
-    <string name="firmware_version">Версія Android:</string>
-    <string name="model_number">Модель:</string>
+    <string name="firmware_version">Версія Android</string>
+    <string name="model_number">Модель</string>
     <string name="fcc_equipment_id">ID обладнання</string>
     <string name="baseband_version">Радіомодуль:</string>
     <string name="kernel_version">Версія ядра:</string>

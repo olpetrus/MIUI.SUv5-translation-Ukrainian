@@ -189,7 +189,7 @@
     <string name="cloud_app_backup_title">Бекап в хмари</string>
     <string name="cloud_app_just_show_in_current_device">Тільки додатки на цьому пристрої</string>
     <string name="cloud_app_mine">Загруженные додатки</string>
-    <string name="cloud_app_backup_summary">Автокопіювання додатків та користувацьких даних, коли телефон заряджається та під\'єднано до Wi-Fi</string>
+    <string name="cloud_app_backup_summary">Автобекап додатків та користувацьких даних, коли телефон заряджається та під\'єднано до Wi-Fi</string>
     <string name="cloud_app_function_summary">Якщо Ви створите бекап в хмарах, то зможете швидко відновити його на будь-якому пристрої.</string>
     <string name="cloud_app_restore_action_bar_title">%1$s даних було скопійовано</string>
     <string name="cloud_app_current_device">Поточний пристрій</string>
