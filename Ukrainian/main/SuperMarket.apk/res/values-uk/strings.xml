@@ -381,5 +381,4 @@
     <string name="signature_inconsistent_message">Ця програма має підпис в маркеті,що відрізняється, продовжити оновлення?</string>
     <string name="notif_title_auto_update_on">Автопоновлення додатків включено</string>
     <string name="notif_summary_auto_update_on">Mi-Маркет оновить ваші програми автоматично</string>
-    <string name="login_now">Войти</string>
 </resources>
