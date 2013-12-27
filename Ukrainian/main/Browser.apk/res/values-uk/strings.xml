@@ -165,7 +165,7 @@
 	<string name="pref_privacy_security_title">Особисті дані</string>
 	<string name="pref_privacy_clear_cache">Очистити кеш</string>
 	<string name="pref_privacy_clear_cache_summary">Видалити контент і дані, збережені браузером</string>
-	<string name="pref_privacy_clear_cache_dlg">Видалити контент і бази даних?</string>
+	<string name="pref_privacy_clear_cache_dlg">Очистити кеш браузера?</string>
 	<string name="pref_privacy_cookies_title">Файли cookie</string>
 	<string name="pref_privacy_clear_cookies">Видалити cookie</string>
 	<string name="pref_privacy_clear_cookies_summary">Видалити усi файли cookie браузера</string>

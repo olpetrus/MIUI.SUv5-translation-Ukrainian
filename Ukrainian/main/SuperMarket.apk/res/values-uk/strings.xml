@@ -360,4 +360,26 @@
 	<string name="no_favorites">Немає обраного</string>
 	<string name="resume">Відновити</string>
     <string name="downloading">Пауза</string>
+	<string name="pref_category_title_slient_install">Сховати повідомлення про установці</string>
+    <string name="pref_category_title_auto_update">Автопоновлення програм</string>
+    <string name="pref_category_title_delta_update">Інкрементне оновлення</string>
+    <string name="pref_category_title_update_all">Оновити все</string>
+    <string name="pref_title_about">Про програму</string>
+    <string name="pref_title_feature_intro">Особливості</string>
+    <string name="pref_title_web_market">Web маркет</string>
+    <string name="pref_title_web_dev">Розробник</string>
+    <string name="pref_title_version">Версія</string>
+    <string name="pref_title_slient_install">При натисканні в Mi-Маркеті \"Встановити \", вибраний додаток встановиться без будь яких спливаючих вікон і повідомлень.</string>
+    <string name="pref_title_auto_update">При появі, оновлення встановлених програм встановляться самостійно, коли ви не використовуєте телефон (тільки при підключенні до Wi-Fi). Цей спосіб допоможе вам заощадити час на перевірці оновлень вручну.</string>
+    <string name="pref_title_delta_update">Щоб заощадити витрати на мобільний інтернет, Mi-Маркет буде завантажувати тільки ту частину додатку, котра оновилась.</string>
+    <string name="pref_title_update_all">Щоб отримати всі оновлення, доступні для ваших програм в один дотик, перейдіть на вкладку \"Мої \" і натисніть \"Оновити все \".</string>
+    <string name="pref_summary_feature_intro">Дізнайтеся щодо особливостей Mi-Маркету</string>
+    <string name="pref_summary_web_market0">"Відвідайте: "</string>
+    <string name="pref_summary_web_dev0">"Відвідайте: "</string>
+    <string name="updatable_apps">Поновлювані програми</string>
+    <string name="signature_inconsistent_apps">Несумісні програми</string>
+    <string name="signature_inconsistent_message">Ця програма має підпис в маркеті,що відрізняється, продовжити оновлення?</string>
+    <string name="notif_title_auto_update_on">Автопоновлення додатків включено</string>
+    <string name="notif_summary_auto_update_on">Mi-Маркет оновить ваші програми автоматично</string>
+    <string name="login_now">Войти</string>
 </resources>

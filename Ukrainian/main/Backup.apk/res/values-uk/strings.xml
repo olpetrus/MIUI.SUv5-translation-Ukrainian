@@ -120,7 +120,7 @@
 	<string name="restore_contact_content">Відновлення контактів може призвести до дублювання контактів. Після відновлення можна виконати злиття дублікатів контактів.</string>
 	<string name="progress_restore_hint">Відновлення…</string>
 	<string name="cancel_restore">Скасувати відновлення</string>
-	<string name="restore_failed">Помилка відновлення.</string>
+	<string name="restore_failed">Помилка відновлення</string>
 	<string name="local_select_sysdata">Система</string>
 	<string name="local_select_userapp">Додатки</string>
 	<string name="local_select_account_contact">Облікові записи та контакти</string>
