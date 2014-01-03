@@ -76,4 +76,5 @@
     <string name="editmode_menu_delete">Видалити</string>
     <string name="all_downloads">Всі завантаження</string>
     <string name="app_downloads">Завантаження: %s</string>
+	<string name="xunlei_brand">Підтримка: Xunlei</string>
 </resources>

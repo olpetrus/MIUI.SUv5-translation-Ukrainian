@@ -147,6 +147,6 @@
     <string name="navigation_search_hot_cities">Популярні</string>
     <string name="navigation_search_all_cities">Все міста</string>
     <string name="order_empty_hint">Немає замовлень</string>
-    <string name="order_merchant_title">Мої замовлення - %s</string>
+    <string name="order_merchant_title">Мої замовлення</string>
     <string name="order_id">ID замовлення: %s</string>
 </resources>

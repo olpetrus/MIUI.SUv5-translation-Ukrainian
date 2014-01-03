@@ -88,4 +88,16 @@
         <item quantity="other">Пісень буде завантажено: %d</item>
         <item quantity="one">1 пісня буде завантажена</item>
     </plurals>
+	<plurals name="Nexpired_remind">
+		<item quantity="other">Залишилося днів: %d</item>
+        <item quantity="one">Залишилося днів:: %d</item>
+    </plurals>
+    <plurals name="Nvip_expired_remind">
+        <item quantity="other">Закінчується термін дії доступу до музики високої якості (залишилося днів:% d)</item>
+    </plurals>
+	<plurals name="Nexpiration_reminder">
+        <item quantity="other">Термін дії закінчується через% d дн.</item>
+        <item quantity="one">Термін дії закінчується через% d дн.</item>
+    </plurals>
+
 </resources>

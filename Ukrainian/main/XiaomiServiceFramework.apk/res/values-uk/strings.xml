@@ -448,4 +448,32 @@
     <string name="activate_status_desc_acquire_sim_pass_token_password_error">Не вдається отримати відомості безпеки через невірний пароль</string>
     <string name="checking_input">Перевірка даних…</string>
     <string name="skip_login_u"><u>Пропустити</u></string>
+	<string name="micloud_data_loading">Завантаження…</string>
+	<string name="micloud_space_full_influence"><u>Що робити, якщо закінчилося вільне місце в MiCloud?</u></string>
+	<string name="micloud_title_dspt" formatted="false">Всього: %s \n Зайнято: %s | Вільно: %s</string>
+	<string name="micloud_title_full_dspt" formatted="false">Пам'ять заповнена!</string>
+	<string name="micloud_user_base_info">Інформація користувача</string>
+	<string name="micloud_user_email">Пошта</string>
+	<string name="micloud_user_phone">Номер телефону</string>
+	<string name="micloud_user_name">Им\'я користувача</string>
+	<string name="micloud_user_id">ID користувача</string>
+	<string name="micloud_storage_space">Пам\'ять</string>
+	<string name="micloud_user_space_usage">Зайнято пам\'яті</string>
+	<string name="micloud_web_discription_01">Відвідайте сайт i.xiaomi.com</string>
+	<string name="micloud_web_discription_02">для перегляду і управління файлами</string>
+	<string name="micloud_gallery_image">Зображення</string>
+	<string name="micloud_gallery_video">Відео</string>
+	<string name="micloud_app_data">Резервні копії програм</string>
+	<string name="micloud_account_details">Інформація аккаунта</string>
+	<string name="micloud_full_influence_title">Інформація про пам\'ять</string>
+	<string name="micloud_warn_full_msg">Пам\'ять заповнена!</string>
+	<string name="micloud_warn_low_title">Пам\'ять майже заповнена \u2026</string>
+	<string name="micloud_warn_low_sum">Пам\'ять заповнена на 90%</string>
+	<string name="micloud_warn_full_title">Пам\'ять заповнена!</string>
+	<string name="micloud_warn_full_sum">Дані не можуть бути синхронізовані з MiCloud в даний момент.</string>
+	<string name="micloud_none">Пусто</string>
+	<string name="micloud_full_influence_dspt">Всі фото, відео, замітки і дані програм будуть синхронізовані з MiCloud. \n\nТакім чином, якщо ви втратите або зламаєте телефон, ваші дані залишаться в безпеці. \n\nКоли пам'ять в MiCloud заповнена, ваші старі дані не зникнуть, проте, нові дані не зможуть синхронізуватися з MiCloud. \n\nЩоб це виправити, необхідно буде видалити непотрібні дані з MiCloud.</string>
+	<string name="enable_sync_dspt">Синхронізація відключена</string>
+	<string name="enable_sync">Включити</string>
+
 </resources>

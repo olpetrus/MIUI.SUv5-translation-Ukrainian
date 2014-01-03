@@ -1171,4 +1171,5 @@
     <string name="yellowpage_navigation_search_result_network_error">Помилка підключення до мережі</string>
     <string name="yellowpage_navigation_search_result_service_error">Сервіс недоступний</string>
     <string name="yellowpage_navigation_search_result_unknown_error">Невідома помилка</string>
+	<string name="yellowpage_navigation_menu_order">Моє замовлення</string>
 </resources>

@@ -3265,7 +3265,7 @@ Android File Transfer
     <string name="power_center_state_on">Увімкнено</string>
     <string name="power_center_state_off">Вимкнено</string>
     <string name="power_center_consume_time">Лишилось: %1$s</string>
-    <string name="power_center_charge_time">Зарядку буде завершено в %1$s</string>
+    <string name="power_center_charge_time">Буде заряджений за %1$s</string>
     <string name="power_center_battery_full">Батарею заряджено</string>
     <string name="power_chooser_title">Режим економії батареї</string>
     <string name="power_chooser_check_box_title">Економія заряду батареї</string>

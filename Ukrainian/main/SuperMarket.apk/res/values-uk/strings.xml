@@ -360,7 +360,7 @@
 	<string name="no_favorites">Немає обраного</string>
 	<string name="resume">Відновити</string>
     <string name="downloading">Пауза</string>
-	<string name="pref_category_title_slient_install">Сховати повідомлення про установці</string>
+	<string name="pref_category_title_slient_install">Сховати повідомлення при установці</string>
     <string name="pref_category_title_auto_update">Автопоновлення програм</string>
     <string name="pref_category_title_delta_update">Інкрементне оновлення</string>
     <string name="pref_category_title_update_all">Оновити все</string>

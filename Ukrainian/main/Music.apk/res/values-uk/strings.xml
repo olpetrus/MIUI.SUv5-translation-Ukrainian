@@ -336,5 +336,18 @@
     <string name="synchronize_guide_toast">Для вмикання синхронізації зайдіть в \"Налаштування\" > \"Синхронізувати перелік пісень\".</string>
     <string name="find_ktv">Пошук музики в KTV</string>
     <string name="playlist_my_ktv">Плейлист KTV</string>
-	<string name="pay_service_guide_new">Музика високої якості доступна</string>
+	<string name="pay_service_guide_new">Доступна музика високої якості</string>
+	<string name="vip_recommend_rebuy">Придбати (5 MiCredits за 30 днів)</string>
+	<string name="music_quality">Якість музики</string>
+	<string name="higher_quality_music">Висока якість музики</string>
+	<string name="menu_higher_quality_music">Висока якість музики (щомісячний доступ)</string>
+	<string name="higher_quality_music_summary">Прослухати і завантажити музику вищої якості</string>
+	<string name="expired">Термін дії закінчився</string>
+	<string name="enabled">Включено</string>
+	<string name="valid_period">"Термін дії : "</string>
+	<string name="vip_bought">Ви вже придбали доступ до музики високої якості</string>
+	<string name="vip_expired">Термін дії доступу до музики високої якості минув</string>
+	<string name="vip_rebuy">Придбати</string>
+	<string name="data_usage_warning">Мобільний трафік</string>
+	<string name="data_usage_warning_summary">ППри прослуховуванні музики високої якості через мобільний інтернет можливе надмірне споживання трафіка.</string>
 </resources>
