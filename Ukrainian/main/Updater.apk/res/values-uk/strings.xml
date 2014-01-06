@@ -74,7 +74,7 @@
     <string name="new_updates_found_notification_title">Знайдено оновлення системи</string>
     <string name="network_error">Мережева помилка.</string>
     <string name="monthly_build">Щомісячна збірка</string>
-    <string name="weekly_build">Щонедільна збірка</string>
+    <string name="weekly_build">Щотижнева збірка</string>
     <string name="daily_build">Щоденна збірка</string>
     <string name="experimental_build">Експериментальна збірка</string>
     <string name="internal_build">Внутрішня збірка</string>

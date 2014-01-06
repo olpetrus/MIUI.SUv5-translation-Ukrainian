@@ -213,7 +213,7 @@
     <string name="radio_info_signal_strength_label">Гучність сигналу</string>
     <string name="radio_info_call_status_label">Стан виклику:</string>
     <string name="radio_info_ppp_sent_label">Надіслано PPP:</string>
-    <string name="radio_info_radio_resets_label">Скидання настройок радіо:</string>
+    <string name="radio_info_radio_resets_label">Скидання налаштувань радіо:</string>
     <string name="radio_info_message_waiting_label">Очікування повідомлення:</string>
     <string name="radio_info_phone_number_label">Номер телефону:</string>
     <string name="radio_info_band_mode_label">Вибрати радіостанцію</string>
@@ -598,7 +598,7 @@
     <string name="wifi_wps_complete">WPS вдало. З\'єднання з мережаю…</string>
     <string name="wifi_wps_connected">Під\'єднання до мережі Wi-Fi %s</string>
     <string name="wifi_wps_in_progress">WPS вже використовується, для завершення потрібно близько хвилини</string>
-    <string name="wifi_wps_failed">"Не можу настроїти WPS. Попробуйте ще раз"</string>
+    <string name="wifi_wps_failed">Не можу налаштувати WPS. Попробуйте ще раз</string>
     <string name="wifi_wps_failed_generic">Помилка WPS. Повторите спробу через декілька хвилин.</string>
     <string name="wifi_wps_failed_wep">Налаштування безпеки роутеру (WEP) не підтримуються</string>
     <string name="wifi_wps_failed_tkip">Налаштування безпеки роутеру (TKIP) не підтримуються</string>
@@ -652,7 +652,7 @@
     <string name="wifi_setting_frequency_band_error">При налагодженні смуги частот виникла неполадка.</string>
     <string name="wifi_advanced_mac_address_title">MAC-адреса</string>
     <string name="wifi_advanced_ip_address_title">IP-адреса</string>
-    <string name="wifi_wag_ip_settings_titlebar">Настройки WAG IP</string>
+    <string name="wifi_wag_ip_settings_titlebar">Налаштування WAG IP</string>
     <string name="wifi_use_wag_ip">Вик. WAG DNS</string>
     <string name="wag_fqdn">Назва домену WAG</string>
     <string name="wag_port">Порт WAG</string>
@@ -955,7 +955,7 @@
     <string name="error_mcc_not3">Поле MCC повинно містити 3 літери.</string>
     <string name="error_mnc_not23">Поле MNC повинно містити 2 або 3 літери.</string>
     <string name="restore_default_apn">Відновлення настройок APN по замовчанню.</string>
-    <string name="menu_restore">Скидання настройок</string>
+    <string name="menu_restore">Скидання налаштувань</string>
     <string name="restore_default_apn_completed">Налаштування по замовчанню відновлені.</string>
     <string name="master_clear_title">Скидання даних</string>
     <string name="master_clear_summary">Повернення до заводських налаштувань та видалення всіх даних з пам\'яті телефону</string>
@@ -976,7 +976,7 @@
 Щоб видалити музику, світлини та інші дані користувача, необхідно очистити "<b>USB накопичувач</b>.</string>
     <string name="erase_external_storage">Очистити USB накопичувач</string>
     <string name="erase_external_storage_description">Видалити з USB накопичувача всі дані, в том числі музику та світлини</string>
-    <string name="master_clear_button_text">Скидання настройок телефону</string>
+    <string name="master_clear_button_text">Скидання налаштувань телефону</string>
     <string name="master_clear_final_desc">Видалити всю приватну інформацію та завантажені додатки без можливості відновлення?</string>
     <string name="master_clear_final_button_text">Видалити все</string>
     <string name="master_clear_gesture_prompt">Накреслити графічний ключ</string>
@@ -1139,7 +1139,7 @@
     <string name="sort_order_size">Впорядкувати за розміром</string>
     <string name="show_running_services">Показати активні служби</string>
     <string name="show_background_processes">Показати процеси в кеші</string>
-    <string name="reset_app_preferences">Скидання настройок додатків</string>
+    <string name="reset_app_preferences">Скидання налаштувань додатків</string>
     <string name="reset_app_preferences_title">Скинути налаштування додатків?</string>
     <string name="reset_app_preferences_desc">"Це скасує всі налаштування для:
 
@@ -1354,7 +1354,7 @@
     <string name="app_name_label">Додаток</string>
     <string name="launch_count_label">Підрахунок</string>
     <string name="usage_time_label">Час використання</string>
-    <string name="accessibility_settings">Спец. можливості</string>
+    <string name="accessibility_settings">Спеціальні можливості</string>
     <string name="accessibility_settings_title">Налаштування спец. можливостей</string>
     <string name="accessibility_services_title">Служби</string>
     <string name="accessibility_system_title">Система</string>
@@ -2405,13 +2405,13 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="master_clear_all">Вернуться до заводських налаштувань?\nУвага! Операція незворотня!</string>
     <string name="master_clear_erase_application_progress">Видалення додатків…</string>
     <string name="erase_internal_storage">Очистити внутрішній накопичувач</string>
-    <string name="erase_internal_storage_description">Видалити музика, світлини, відео та інше</string>
+    <string name="erase_internal_storage_description">Видалити музику, світлини, відео та інше</string>
     <string name="storage_format">Формат</string>
     <string name="device_default_name">Пристрій MIUI.SU</string>
     <string name="bluetooth_default_name">Пристрій Xiaomi</string>
     <string name="bluetooth_profile_name">%1$s пристрій Xiaomi</string>
     <string name="usage_log">Статистика використання додатків</string>
-    <string name="bluetooth_device_searchable">Увімкнути визначення</string>
+    <string name="bluetooth_device_searchable">Видимість</string>
     <string name="usb_msd_title">Накопичувач</string>
     <string name="usb_msd_summary">Дозволяє передавати файли на Windows та Mac</string>
     <string name="usb_msd_driver_installer_title">Встановлювач драйверів (MSD)</string>

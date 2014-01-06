@@ -6,7 +6,7 @@
     <string name="menu_send">Надіслати звіт</string>
     <string name="menu_copy">Копіювати</string>
     <string name="menu_attach_screenshot">Прикріпити скріншот</string>
-    <string name="menu_discard">Відмінити</string>
+    <string name="menu_discard">Скасувати</string>
     <string name="description">Опис англійською мовою (обов\'язково)</string>
     <string name="btn_send">Надіслати</string>
     <string name="err_type">Тип звіту</string>

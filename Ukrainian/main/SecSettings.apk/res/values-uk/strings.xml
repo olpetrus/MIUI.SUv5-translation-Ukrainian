@@ -11,7 +11,7 @@
 Однак, ви зможете отримати накопичені дані у разі увімкнення екрана"</string>
     <string name="smart_network_guide_check">Більше не показувати</string>
     <string name="text_empty">Повідомлення пусте</string>
-    <string name="tap_to_configure">Натисніть, щоб настроїти</string>
+    <string name="tap_to_configure">Натисніть, щоб налаштувати</string>
     <string name="adv_vpn">Advanced IPsec VPN</string>
     <string name="basic_vpn_settings">Basic VPN</string>
     <string name="font_change_popup">Дуже великі літери можна використовувати лише в певних програмах. В усіх інших програмах використовуватимуться великі літери</string>
@@ -85,7 +85,7 @@
     <string name="bluetooth">Bluetooth</string>
     <string name="bluetooth_visibility">Видимий</string>
     <string name="bluetooth_is_discoverable">Вид. для всіх розт. поблизу прис. Bluetooth (%1$s)</string>
-    <string name="bluetooth_is_discoverable_always">Видимий для всіх розташованих поблизу пристроїв Bluetooth</string>
+    <string name="bluetooth_is_discoverable_always">Показувати для пристроїв Bluetooth</string>
     <string name="bluetooth_not_visible_to_other_devices">Невидимий для інших пристроїв Bluetooth</string>
     <string name="bluetooth_only_visible_to_paired_devices">Видимий лише для підключених пристроїв</string>
     <string name="bluetooth_not_discoverable">Зробити пристрій видимим</string>
@@ -607,7 +607,7 @@
     <string name="wifi_ap_allow_device_added">Пристрій %s додано до списку дозволених пристроїв</string>
     <string name="wifi_ap_allow_device_removed">Пристрій %s видалено зі списку дозволених пристроїв</string>
     <string name="wifi_ap_allow_device_already_added">Пристрій %1$s (%2$s) уже додано як %3$s</string>
-    <string name="wifi_ap_menu_configure">Настроїти</string>
+    <string name="wifi_ap_menu_configure">Налаштувати</string>
     <string name="wifi_ap_menu_timeout">Устан. часу очікув.</string>
     <string name="wifi_ap_menu_allow_list">Дозв. пристрої</string>
     <string name="wifi_ap_menu_help">Довідка</string>
@@ -752,7 +752,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="wifi_p2p_disconnect_message">Відключення призведе до завершення підключення до %s</string>
     <string name="wifi_p2p_disconnect_multiple_message">Відключення призведе дозавершення підключення до %1$s та ще декількох (%2$s) інших пристроїв</string>
     <string name="wifi_p2p_cancel_connect_title">Підключення Wi-Fi Direct</string>
-    <string name="wifi_p2p_turnon_message">Увімкніть Wi-Fi Direct, щоб настроїти однорангове підключення</string>
+    <string name="wifi_p2p_turnon_message">Увімкніть Wi-Fi Direct, щоб налаштувати однорангове підключення</string>
     <string name="wifi_p2p_busy_devices_summary">Підключено до іншого пристрою</string>
     <string name="wifi_p2p_busy_toast_message">Пристрій підключено до іншого пристрою</string>
     <string name="wifi_p2p_connect_button_text">З\'єднати</string>
@@ -1090,7 +1090,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="media_format_gesture_explanation">Щоб підтвердити форматування USB-накопичувача, накресліть зразок розблокування</string>
     <string name="media_format_gesture_explanation_sd">Щоб підтвердити форматування карти пам\'яті, накресліть зразок розблокування</string>
     <string name="call_settings_title">Установки виклику</string>
-    <string name="call_settings_summary">Настроїти голосову пошту, переадресацію викликів, очікування виклику та ідентифікацію номера</string>
+    <string name="call_settings_summary">Налаштувати голосову пошту, переадресацію викликів, очікування виклику та ідентифікацію номера</string>
     <string name="tether_settings_title_usb">Прив\'язка USB</string>
     <string name="tether_settings_title_wifi">Портативна точка доступу</string>
     <string name="tether_settings_title_bluetooth">Прив\'язка Bluetooth</string>
@@ -1589,7 +1589,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="tts_data_installed_summary">Голоси, потрібні для синтезу мовлення, вже встановлено належним чином</string>
     <string name="tts_settings_changed_demo">Установки змінено. Це приклад їх впливу на звучання</string>
     <string name="tts_engine_error">Неможливо запустити систему. Відсутні компоненти</string>
-    <string name="tts_engine_error_config">Настроїти</string>
+    <string name="tts_engine_error_config">Налаштувати</string>
     <string name="tts_engine_error_reselect">Вибрати іншу систему TTS</string>
     <string name="tts_engine_security_warning">Ця система синтезу мовлення може збирати всі дані мовлення, включно з паролями, номерами кредитних карток та іншими особистими даними. Продовжити?</string>
     <string name="tts_engines_section">Системи</string>
@@ -1697,7 +1697,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="wifi_setup_status_connecting">З\'єднання…</string>
     <string name="wifi_setup_status_proceed_to_next">Перейдіть до наступного кроку</string>
     <string name="wifi_setup_status_eap_not_supported">EAP не підтримується</string>
-    <string name="wifi_setup_eap_not_supported">Неможливо настроїти підключення до мережі Wi-Fi за протоколом EAP під час настроювання. Це можна зробити після завершення настроювання, відкривши меню \"Установки\" > \"Безпр. з\'єдн. та мережі\"</string>
+    <string name="wifi_setup_eap_not_supported">Неможливо налаштувати підключення до мережі Wi-Fi за протоколом EAP під час настроювання. Це можна зробити після завершення настроювання, відкривши меню \"Установки\" > \"Безпр. з\'єдн. та мережі\"</string>
     <string name="wifi_setup_description_connecting">Підключення. Зачекайте…</string>
     <string name="wifi_setup_description_connected">Натисніть \"Далі\", щоб продовжити настроювання. Натисніть \"Назад\", щоб підключитися до іншої мережі Wi-Fi</string>
     <string name="accessibility_sync_enabled">Синхронізацію ввімкнено</string>
@@ -3053,7 +3053,7 @@ Tap OK to continue"</string>
     <string name="guide_dialog_comlete_title">Кінець покрокового довідника</string>
     <string name="guide_dialog_comlete_summary">Кінець покрокового довідника. Поверніться до довідки</string>
     <string name="guide_dialog_attention_title">Увага</string>
-    <string name="guide_bt_ap_connected">Утворення пари або підключення до вибраного пристрою виконано. Натисніть значок настроювання, щоб настроїти профіль пристрою</string>
+    <string name="guide_bt_ap_connected">Утворення пари або підключення до вибраного пристрою виконано. Натисніть значок настроювання, щоб налаштувати профіль пристрою</string>
     <string name="guide_bt_select_ap_summary">Натисніть пристрій, з яким потрібно утворити пару або до якого потрібно підключитися. Якщо пристрою немає у списку, переконайтеся, що він видимий, а потім натисніть \"Сканувати\"</string>
     <string name="guide_searching">Сканування пристроїв…</string>
     <string name="wrong_input_toast">Неприпустима дія. Cпробуйте ще раз</string>
@@ -3178,7 +3178,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
     <string name="bright_adjustment_panel_title">Налаштування яскравості</string>
     <string name="bright_adjustment_panel_summary">Налаштування яскравості екрана у панелі сповіщень</string>
     <string name="set_quick_setting_button_title">Встановлення кнопок швидких налаштувань</string>
-    <string name="set_quick_setting_button_summary">Можна настроїти кнопки швидкого доступу до установок, які відображатимуться на панелі сповіщень. Натисніть та утримуйте, а потім перетягніть кнопки, щоб додати, приховати або перевпорядкувати їх. Кнопки, переміщені до області доступних кнопок, не відображатимуться на панелі сповіщень</string>
+    <string name="set_quick_setting_button_summary">Можна налаштувати кнопки швидкого доступу до установок, які відображатимуться на панелі сповіщень. Натисніть та утримуйте, а потім перетягніть кнопки, щоб додати, приховати або перевпорядкувати їх. Кнопки, переміщені до області доступних кнопок, не відображатимуться на панелі сповіщень</string>
     <string name="notification_panel_wifi">Wi-Fi</string>
     <string name="notification_panel_gps">GPS</string>
     <string name="notification_panel_sound">Звуки</string>

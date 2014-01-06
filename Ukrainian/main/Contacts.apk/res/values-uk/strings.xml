@@ -606,7 +606,7 @@
     <string name="callrecordview_menu_delete_called">Очистити вихідні</string>
     <string name="callrecordview_menu_delete_accepted">Очистити прийняті</string>
     <string name="callrecordview_menu_delete_stranger">Очистити невідомі</string>
-    <string name="callrecordview_menu_delete_confirm">Видалити %s?</string>
+    <string name="callrecordview_menu_delete_confirm">Підтвердіть дію\n%s?</string>
     <string name="callrecordview_menu_delete_one">Видалити з журналу викликів</string>
     <string name="callrecordview_menu_add_call_note">Додати нотатки виклику</string>
     <string name="callrecordview_menu_edit_call_note">Редагувати нотатки виклику</string>
@@ -863,13 +863,13 @@
     <string name="smart_group_frequency_label">За останніми викликами</string>
     <string name="smart_group_company_unavailable">Немає компанії</string>
     <string name="smart_group_location_unavailable">Немає адреси</string>
-    <string name="smart_group_frequency_1">На протязі місяця</string>
-    <string name="smart_group_frequency_2">На протязі 3 місяців</string>
-    <string name="smart_group_frequency_3">На протязі 6 місяців</string>
+    <string name="smart_group_frequency_1">Протягом місяця</string>
+    <string name="smart_group_frequency_2">Протягом 3-х місяців</string>
+    <string name="smart_group_frequency_3">Протягом 6-ти місяців</string>
     <string name="smart_group_frequency_4">Більше 6 місяців</string> 
     <string name="contact_detail_calllog_call_record_tips">Запис виклику</string>
     <string name="contact_detail_calllog_call_note_tips">Нотатки виклику</string>
-    <string name="import_from_other_phone">Імпорт з другого телефону</string>
+    <string name="import_from_other_phone">Імпорт з іншого телефону</string>
     <string name="device_brand_title">Оберіть марку телефону</string>
     <string name="device_version_title">Оберіть модель телефону</string>
     <string name="device_list_title">Оберіть телефон</string>

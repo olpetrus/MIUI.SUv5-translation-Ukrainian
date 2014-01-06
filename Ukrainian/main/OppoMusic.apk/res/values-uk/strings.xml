@@ -2,7 +2,7 @@
 <resources>
     <string name="complete">Завершено</string>
     <string name="confirm">Підтвердити</string>
-    <string name="cancel">Відмінити</string>
+    <string name="cancel">Скасувати</string>
     <string name="save">Зберегти</string>
     <string name="select_all">Вибрати все</string>
     <string name="deselect_all">Зняти вибір</string>

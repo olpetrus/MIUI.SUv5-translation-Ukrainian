@@ -206,7 +206,7 @@
     <string name="Settings_Help_GPS">Збереження координат GPS в інформації про файл</string>
     <string name="Settings_Help_ShutterSound">Вибір звуку затвору</string>
     <string name="Settings_Help_Storage">Вибір місця для збереження зображень та відео</string>
-    <string name="Settings_Help_ResetSettings">Скидання настройок</string>
+    <string name="Settings_Help_ResetSettings">Скидання налаштувань</string>
     <string name="Settings_Help_VideoQuality">Настройка якості відео</string>
     <string name="Settings_Help_ExposureMeter">Вибір області для експозиції</string>
     <string name="Settings_Help_AudioRecording">Запис відео з звуком</string>
@@ -237,7 +237,7 @@
     <string name="close_camera_for_unmounted_memory">Перед використанням камери вимкніть USB накопичувач</string>
     <string name="message_size_limited">Досягнуто максимальний розмір повідомлення</string>
     <string name="crop_save_text">Зберегти</string>
-    <string name="crop_discard_text">відмінити</string>
+    <string name="crop_discard_text">Скасувати</string>
     <string name="crop_gallery_text">Галерея</string>
     <string name="wallpaper">Настройка шпалер. Зачекайте…</string>
     <string name="crop_label">Обрізати</string>

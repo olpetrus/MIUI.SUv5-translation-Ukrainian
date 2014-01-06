@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="voiceassist_settings_title">Налаштування голосового помічника</string>
-    <string name="voiceassist_settings">Настройки голосового помощника</string>
+    <string name="voiceassist_settings">Налаштування голосового помощника</string>
     <string name="quick_launch_settings">Швидкий запуск</string>
     <string name="menu_long_press_launch">Утримуйте клавішу \"Меню \" для запуску</string>
     <string name="phone_by_ear_launch">Піднесіть телефон до вуха</string>

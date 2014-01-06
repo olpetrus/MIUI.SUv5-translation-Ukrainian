@@ -31,7 +31,7 @@
     <string name="micloud_password_error_inconsistent">Паролі не співпадають</string>
     <string name="micloud_active_alert_title">Надіслати SMS</string>
     <string name="micloud_via_sms_alert">При отримані через SMS можливі додаткові витрати.</string>
-    <string name="micloud_via_int_sms_alert">При отриманий через SMS можливі додаткові витрати на роумінг.</string>
+    <string name="micloud_via_int_sms_alert">Надсилання SMS для активації може бути предметом тарифікації за міжнародні повідомлення.</string>
     <string name="micloud_val_sms_alert">Для перевірки номеру буде надіслано SMS. Продовжити?</string>
     <string name="micloud_error_email">Невірний e-mail</string>
     <string name="micloud_account">Обліковий запис Xiaomi</string>
@@ -82,11 +82,11 @@
     <string name="data_sync_notice">Використовуйте ваш обліковий запис для синхронізації повідомлень, контактів та приватних даних</string>
     <string name="sync_dspt">Увімкнути синхронізацію</string>
     <string name="sync_sub_dspt">При отриманий через SMS можливі додаткові витрати.</string>
-    <string name="sync_sub_int_dspt">При отриманий через SMS можливі додаткові витрати на роумінг.</string>
+    <string name="sync_sub_int_dspt">Надсилання SMS для активації може бути предметом тарифікації за міжнародні повідомлення.</string>
     <string name="send_sms_for_sync_title">Надіслати повідомлення</string>
     <string name="send_sms_for_sync_notice">При отриманий через SMS можливі додаткові витрати.</string>
 	<string name="title">Назва</string>
-    <string name="send_int_sms_for_sync_notice">При отриманий через SMS можливі додаткові витрати на роумінг.</string>
+    <string name="send_int_sms_for_sync_notice">Надсилання SMS для активації може бути предметом тарифікації за міжнародні повідомлення.</string>
     <string name="failed_to_send_activate_email">Збій при надсиланні активаційного листа.</string>
     <string name="access_denied">Доступ заборонено</string>
     <string name="reging">Реєстрація…</string>
@@ -126,8 +126,8 @@
     <string name="user_agreement_p4">Політикою конфіденційності</string>
     <string name="user_agreement_p5">"При вході ви повинні погодитися з "</string>
     <string name="skip_setup_account_title">Пропустити налаштування</string>
-    <string name="skip_setup_account_msg">Ви можете настроїти обліковий запис пізніше в налаштуваннях.</string>
-    <string name="account_dspt">Обліковий запис Xiaomi може синхронізувати і резервувати ваші SMS, контакти, світлини і т.і.</string>
+    <string name="skip_setup_account_msg">Ви можете налаштувати обліковий запис пізніше в налаштуваннях.</string>
+    <string name="account_dspt">Обліковий запис Xiaomi може синхронізувати і резервувати ваші SMS, контакти, світлини і нотатки.</string>
     <string name="remove_unactivated_account_notice">Обліковий запис Xiaomi не активовано.</string>
     <string name="remove_confirm">Вийти</string>
     <string name="find_password_on_web_msg">Відвідайте account.xiaomi.com для відновлення паролю.</string>

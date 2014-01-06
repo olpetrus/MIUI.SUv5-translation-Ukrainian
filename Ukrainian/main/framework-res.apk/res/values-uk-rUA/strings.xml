@@ -75,7 +75,7 @@
     <string name="day_of_week_long_tuesday">Вівторок</string>
     <string name="day_of_week_long_wednesday">Середа</string>
     <string name="day_of_week_long_thursday">Четвер</string>
-    <string name="day_of_week_long_friday">П\'ятница</string>
+    <string name="day_of_week_long_friday">П\'ятниця</string>
     <string name="day_of_week_long_saturday">Субота</string>
     <string name="day_of_week_medium_sunday">Нд</string>
     <string name="day_of_week_medium_monday">Пн</string>
@@ -662,7 +662,7 @@
     <string name="sms_short_code_confirm_allow">Надіслати</string>
     <string name="sms_short_code_confirm_deny">Скасувати</string>
     <string name="sms_short_code_remember_choice">Запам\'ятати мій вибір</string>
-    <string name="sms_short_code_remember_undo_instruction">Ви зможете змінити це пізніше в Настройки > Додатки</string>
+    <string name="sms_short_code_remember_undo_instruction">Ви зможете змінити це пізніше в Налаштування > Додатки</string>
     <string name="sms_short_code_confirm_always_allow">Дозволити завжди</string>
     <string name="sms_short_code_confirm_never_allow">Забороняти завжди</string>
     <string name="sim_removed_title">SIM карта видалено</string>

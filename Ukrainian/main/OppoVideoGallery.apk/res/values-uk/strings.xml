@@ -41,7 +41,7 @@
     <string name="video_context_menu_header">Опції відео</string>
     <string name="movieviewlabel">Відео</string>
     <string name="loading_video">Завантаження відео…</string>
-    <string name="cancel">Відмінити</string>
+    <string name="cancel">Скасувати</string>
     <string name="pref_equalizer_settings">НАЛАШТУВАННЯ ЗВУКОВОГО ЕФЕКТУ</string>
     <string name="pref_unheadset_state_title">Звуковий ефект гучномовця</string>
     <string name="pref_headset_state_title">Налаштування звукового ефекту для навушників</string>
@@ -53,7 +53,7 @@
     <string name="sort_order">Сортувати за</string>
     <string name="refresh_media_database">Оновити</string>
     <string name="select_all">Вибрати усі</string>
-    <string name="deselect_all">Відмінити усі</string>
+    <string name="deselect_all">Скасувати усі</string>
     <string name="delete">Видалити</string>
     <string name="send_by_bt">Надіслати через BT</string>
     <string name="pref_video_circulate_mode_title">Автоматично повторювати</string>
@@ -112,7 +112,7 @@
     <string name="rename_dialog_btn_ok">OK</string>
     <string name="rename_dialog_btn_cancel">Відміна</string>
     <string name="oppo_menu_select_all">Вибрати усі</string>
-    <string name="oppo_menu_cancel_all">Відмінити усі</string>
+    <string name="oppo_menu_cancel_all">Скасувати усі</string>
     <string name="start_service">Увімкнути сервіс</string>
     <string name="stop_service">Вимкнути сервіс</string>
     <string name="connect_wifi">Підключення Wi-Fi:</string>

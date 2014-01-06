@@ -201,7 +201,7 @@
     <string name="optmenu_record">Запис FM</string>
     <string name="optmenu_record_stop">Стоп</string>
     <string name="btn_save_recording">Зберегти</string>
-    <string name="btn_discard_recording">Відмінити</string>
+    <string name="btn_discard_recording">Скасувати</string>
     <string name="edit_recording_name_hint">Введіть назву запису</string>
     <string name="dlg_save_recording_title">Зберегти запис</string>
     <string name="dlg_save_recording_storage_warning">Недостатньо місця для зберігання! Зберегти запис?</string>

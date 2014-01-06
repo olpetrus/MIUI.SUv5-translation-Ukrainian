@@ -15,7 +15,7 @@
     <string name="confirm_restore_title">Відновити по замовчанню</string>
     <string name="confirm_restore_message">Відновити налаштування камери по замовчанню?</string>
     <string name="review_play">Відтворити</string>
-    <string name="review_cancel">ВІДМІНИТИ</string>
+    <string name="review_cancel">Скасувати</string>
     <string name="review_ok">ВИКОНАНО</string>
     <string name="review_retake">ПЕРЕЗНЯТИ</string>
     <string name="camera_gallery_photos_text">Галерея</string>

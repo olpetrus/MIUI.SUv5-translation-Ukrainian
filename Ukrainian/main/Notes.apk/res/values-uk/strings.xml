@@ -65,7 +65,7 @@
 	<string name="search_hint">Знайти нотатки</string>
 	<string name="search_setting_description">Текст в нотатки</string>
 	<string name="search">Нотатки</string>
-	<string name="button_new_note">Нова нотатки</string>
+	<string name="button_new_note">Нова нотатка</string>
 	<string name="default_folder_name">Нотатки</string>
 	<string name="attachment_gallery">Галерея</string>
 	<string name="attachment_camera">Камера</string>

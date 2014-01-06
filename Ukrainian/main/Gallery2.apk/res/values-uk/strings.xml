@@ -274,7 +274,7 @@
 	<string name="accessibility_switch_to_video">Переключити на відео</string>
 	<string name="accessibility_switch_to_panorama">Переключити на панораму</string>
 	<string name="accessibility_switch_to_new_panorama">Переключити на нову панораму</string>
-	<string name="accessibility_review_cancel">Відмінити перегляд</string>
+	<string name="accessibility_review_cancel">Скасувати перегляд</string>
 	<string name="accessibility_review_ok">Перегляд завершено </string>
 	<string name="accessibility_review_retake">Передивитися</string>
 	<string name="empty">" "</string>
@@ -374,7 +374,7 @@
 	<string name="deleted">Видалено</string>
 	<string name="undo">НАЗАД</string>
 	<string name="select_all">Обрати все</string>
-	<string name="deselect_all">Відмінити все</string>
+	<string name="deselect_all">Скасувати все</string>
 	<string name="slideshow">Слайдшоу</string>
 	<string name="details">Властивості</string>
 	<string name="details_title">%1$d з %2$d:</string>

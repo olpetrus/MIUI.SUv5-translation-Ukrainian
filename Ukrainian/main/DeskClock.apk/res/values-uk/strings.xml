@@ -54,7 +54,7 @@
 	<string name="alarm_notify_snooze_text">Натисніть, для відміни %s</string>
     <string name="snooze_confirm_message">Відкладений будильник був відмінений, %s відкладено знову.\nВи можете вимкнути цей будильник.</string>
     <string name="snooze_confirm_ok">Готово</string>
-    <string name="snooze_confirm_cancel">Відмінити відкладений будильник</string>
+    <string name="snooze_confirm_cancel">Скасувати відкладений будильник</string>
 	<string name="volume_button_setting_title">Функції кнопок</string>
 	<string name="volume_button_dialog_title">Функція кнопок</string>
 	<string name="volume_button_setting_summary">Назначити функцію кнопок під час дзвону будильника</string>
@@ -103,7 +103,7 @@
     <string name="stopwatch_lap_empty_text">Жодного кроку</string>
 	<string name="timer_got_it">Закрити</string>
 	<string name="timer_start_alarm">Час скінчився</string>
-	<string name="dialog_confirm_abort">Відмінити зміни?</string>
+	<string name="dialog_confirm_abort">Скасувати зміни?</string>
     <string name="confirm_abort">Скинути</string> 
 	<string name="remind_ringtone">Мелодія</string>
 	<string name="keep_screen_on">Залишити екран увімкненим</string>

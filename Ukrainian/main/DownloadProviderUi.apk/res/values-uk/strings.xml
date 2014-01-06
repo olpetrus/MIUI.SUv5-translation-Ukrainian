@@ -28,7 +28,7 @@
     <string name="remove_download">Прибрати</string>
     <string name="delete_download">Видалити</string>
     <string name="keep_queued_download">Продовжити</string>
-    <string name="cancel_running_download">Відмінити</string>
+    <string name="cancel_running_download">Скасувати</string>
     <string name="retry_download">Повторити</string>
     <string name="deselect_all">Зняти виділення</string>
     <string name="select_all">Вибрати все</string>

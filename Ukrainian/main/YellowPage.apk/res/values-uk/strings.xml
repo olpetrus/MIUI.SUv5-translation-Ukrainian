@@ -71,9 +71,9 @@
     <string name="turn_on_smart_antispam_title">Визначення номерів</string>
     <string name="turn_on_smart_antispam_summary_on">Використовувати онлайн базу даних.</string>
     <string name="turn_on_smart_antispam_summary_off">Використовувати локальну базу даних.</string>
-    <string name="agree">Подтвердить</string>
-    <string name="user_notice_identify_summary_format">Визначення невідомих номерів працює за допомогою онлайн сервісу. \nПеречитайте перед використанням: %1$s и %2$s</string>
-    <string name="user_notice_yp_detail_summary_format">Частина інформації буде завантажена за допомогою онлайн сервісу. \nПеречитайте: %1$s та %2$s, натисніть \"Підтвердити\", щоб прийняти ліцензійну угоду.</string>
+    <string name="agree">Підтвердити</string>
+    <string name="user_notice_identify_summary_format">Визначення невідомих номерів працює за допомогою онлайн сервісу по Wi-Fi. \nПеречитайте: %1$s та %2$s, натисніть \"Підтвердити\", щоб прийняти ліцензійну угоду.</string>
+    <string name="user_notice_yp_detail_summary_format">Частина інформації буде завантажена за допомогою онлайн сервісу по Wi-Fi. \nПеречитайте: %1$s та %2$s, натисніть \"Підтвердити\", щоб прийняти ліцензійну угоду.</string>
     <string name="title_about_yellow_page">Про програму</string>
 	<string name="payment_back">Назад</string>
     <string name="payment_failed_common_problems">Помилка платежу</string>

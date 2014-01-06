@@ -11,7 +11,7 @@
         <item>3D куб</item>
     </string-array>
     <string-array name="wallpaper_scroll_entries">
-        <item>Від теми</item>
+        <item>За замовчуванням теми</item>
         <item>Центр</item>
         <item>Вліво</item>
         <item>Вправо</item>
