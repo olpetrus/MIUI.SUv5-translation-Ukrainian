@@ -199,7 +199,7 @@
 	<string name="micloud_intro_03_part_01">Безпека в користуванні</string>
 	<string name="micloud_intro_03_part_02">Керування даними на \"i.xiaomi.com\".</string>
 	<string name="micloud_dspt">MiCloud керування даними в будь-який час!</string>
-	<string name="label_balance">Баланс:</string>
+	<string name="label_balance">"Баланс: "</string>
 	<string name="button_call">Виклик</string>
 	<string name="balance_payment">%1$s MiCredit</string>
     <string name="balance_giftcard_payment">%1$s MiCredit (подарункова карта на %2$s MiCredit)</string>
