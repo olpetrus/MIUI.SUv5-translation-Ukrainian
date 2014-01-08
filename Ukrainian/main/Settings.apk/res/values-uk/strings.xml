@@ -3426,7 +3426,7 @@ Android File Transfer
     <string name="title_data_flow_yes">Монітор трафіку увімкнено</string>
     <string name="button_text_fix">Виправлення</string>
     <string name="button_text_view">Перегляд</string>
-    <string name="button_text_security">Безпека</string>
+    <string name="button_text_security">ОК</string>
     <string name="item_virus">Вірус</string>
     <string name="item_usb_debug">USB налагодження</string>
     <string name="item_virus_lib">Автооновлення бази вірусів</string>
@@ -3743,7 +3743,7 @@ Android File Transfer
 	<string name="optimize_tips_ad_title">Реклама:</string>
     <string name="optimize_tips_ad_content">Зображення, текстові файли та інші дані, що пов\'язані з рекламою, що поширюються з сторонніми додатками.</string>
     <string name="optimize_tips_apk_title">Apk:</string>
-    <string name="optimize_tips_apk_content">Файли, призначеіе тільки для встановлення додатків.</string>
+    <string name="optimize_tips_apk_content">Файли, призначеніе тільки для встановлення додатків.</string>
     <string name="optimize_tips_cache_title">Кеш:</string>
     <string name="optimize_tips_cache_content">Тимчасові файли, що створюються в процесі роботи певними додатками.</string>
     <string name="optimize_tips_residual_title">Сміття:</string>
@@ -3756,4 +3756,28 @@ Android File Transfer
     <string name="deep_clean_tips_large_file_content">Файли, розміром більше 10 Мб, які ви, можливо, забажаєте видалити.</string>
 	<string name="perm_root_manage_empty">Встановлені додатки не мають ROOT прав</string>
     <string name="perm_app_manage_empty">Немає додатків, що відслідковуються</string>
+	<string name="empty_folder_title">Порожні теки (%d)</string>
+	<string name="list_sub_view_item_view">Перегляд</string>
+    <string name="list_sub_view_item_clean">Чистка</string>
+    <string name="list_sub_view_item_install">Встановлення</string>
+    <string name="list_sub_view_item_lock">Блок.</string>
+    <string name="list_sub_view_item_unlock">Розблок.</string>
+	<string name="power_save_on_time_goout_title">Режим по закінченні періоду</string>
+    <string name="power_save_choose_recovery_mode">Режим</string>
+    <string name="power_new_choose_mode">Вибір режиму</string>
+    <string name="power_save_low_battery_option_recovery_title">Режим при заряджанні</string>
+    <string name="power_save_on_time_option_recovery_title">Режим по закінченні періоду</string>
+    <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">Видалення неможливе. \ nТелефон використовує цей режим під час заряджання. Необхідно змінити налаштування економії заряду перед видаленням цього режиму.</string>
+    <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Видалення неможливе. \ nТелефон використовує цей режим по закінченні періоду економії батареї за розкладом. Необхідно змінити налаштування економії заряду перед видаленням цього режиму.</string>
+    <string name="power_mode_chooser_button_text">Застосувати</string>
+	<string name="menu_item_about_summary">Версія: %s</string>
+    <string name="menu_item_shortcut">Створити ярлик</string>
+    <string name="menu_item_shortcut_uninstall">Видалити ярлик</string>
+    <string name="menu_item_shortcut_title">Ярлики</string>
+    <string name="menu_item_shortcut_summary">Додавання ярликів для швидкого доступу до функцій безпеки.</string>
+    <string name="menu_item_settings_title">Настройки</string>
+    <string name="activity_title_create_shortcut">Ярлики</string>
+    <string name="activity_title_settings">Настройки</string>
+    <string name="toast_shortcut_install">Ярлик додано</string>
+    <string name="toast_shortcut_uninstall">Ярлик видалено</string>
 </resources>

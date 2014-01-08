@@ -149,4 +149,14 @@
     <string name="order_empty_hint">Немає замовлень</string>
     <string name="order_merchant_title">Мої замовлення</string>
     <string name="order_id">ID замовлення: %s</string>
+	<string name="balance_inquiry_send_sms_summmary">Перевірити баланс</string>
+	<string name="general_yellow_page_title">Загальні</string>
+    <string name="general_recent_title">Останні</string>
+    <string name="general_favorite_title">Обране</string>
+    <string name="general_no_yellow_page">Список порожній</string>
+    <string name="general_menu_favorite">Обране</string>
+    <string name="general_menu_unfavorite">Видалити з обраного</string>
+    <string name="general_menu_delete_recent">Видалити останні</string>
+    <string name="general_cancel_favorite_ok">Видалено з обраного</string>
+    <string name="general_delete_recent_ok">Останні видалено</string>
 </resources>

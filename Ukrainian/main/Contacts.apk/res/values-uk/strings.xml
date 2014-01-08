@@ -1172,4 +1172,15 @@
     <string name="yellowpage_navigation_search_result_service_error">Сервіс недоступний</string>
     <string name="yellowpage_navigation_search_result_unknown_error">Невідома помилка</string>
 	<string name="yellowpage_navigation_menu_order">Моє замовлення</string>
+	<string name="resource_import_failed">Помилка імпортування</string>
+	<string name="resource_ringtone_playing_error">Помилка відтворення</string>
+	<string name="resource_download_trial">Пробна версія</string>
+    <string name="resource_apply_trial">Застосувати</string>
+    <string name="resource_on_trial">Застосування пробної версії: %1$s</string>
+    <string name="resource_trial_time">(пробний час: %1$d хв.)</string>
+    <string name="resource_trial_end_title">Пробний час сплив</string>
+    <string name="resource_trial_end_message">Пробний період %1$s закінчився. Якщо вам сподобалося, ви можете придбати повну версію.</string>
+    <string name="resource_trial_end_restore">Скасувати</string>
+    <string name="resource_trial_end_purchase">Придбати</string>
+	<string name="group_name">Групи</string>
 </resources>

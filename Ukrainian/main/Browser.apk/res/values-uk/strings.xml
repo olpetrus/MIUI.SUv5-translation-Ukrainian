@@ -11,7 +11,7 @@
 	<string name="tab_snapshots">Збережені сторінки</string>
 	<string name="added_to_bookmarks">Додано в закладки</string>
 	<string name="alert_tips">Цей сайт може представляти загрозу для безпеки</string>
-	<string name="removed_from_bookmarks">Видалено із закладок</string>
+	<string name="removed_from_bookmarks">Видалено з закладок</string>
 	<string name="sign_in_to" formatted="false">Увійти в \"%s2\"</string>
 	<string name="username">Ім\'я</string>
 	<string name="password">Пароль</string>
@@ -611,14 +611,17 @@
 	<string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Повідомлення про Wi-Fi</string>
     <string name="network_show_wifi_setting_tip_dialog_setting_title">При використанні мобільного інтернету ви будете отримувати повідомлення про доступні мережi Wi-Fi</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Доступна мережа Wi-Fi</string>
-    <string name="network_show_wifi_setting_tip_dialog_description">Подключиться?</string>
+    <string name="network_show_wifi_setting_tip_dialog_description">Під\'єднатися?</string>
     <string name="network_show_wifi_setting_tip_dialog_notshow">Запам\'ятати вибір</string>
 	<string name="send_to_popular">В Популярні</string>
 	<string name="add_quicklink_to_popular">Додати в популярні</string>
 	<string name="quicklink_saved_before">Посилання вже додано в популярні</string>
-	<string name="pref_content_block_float_popups">Блокувати плаваючі вікна</string>
+	<string name="pref_content_block_float_popups">Блокувати спливаючі вікна</string>
     <string name="miui_search_notification_title">Пошук у браузері</string>
     <string name="miui_search_notification_message">Натисніть, щоб відкрити.</string>
     <string name="miui_quicksearch_enable_pref_title">Швидкий пошук</string>
     <string name="miui_quicksearch_enable_pref_summary">Включити швидкий пошук у панелі повідомлень.</string>
+	<string name="network_alert_message">Мережа Wi-Fi недоступна, використовувати мобільний інтернет?</string>
+    <string name="yes">Гаразд</string>
+    <string name="no">Скасувати</string>
 </resources>

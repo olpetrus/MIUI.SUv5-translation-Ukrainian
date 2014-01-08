@@ -326,7 +326,7 @@
     <string name="payment_fail">Помилка сплати</string>
     <string name="pay_service_guide_listen">Якість потоку</string>
     <string name="pay_service_guide_dowload">Якість завантаження</string>
-    <string name="vip_recommend_title">Отримати музику гарної якості</string>
+    <string name="vip_recommend_title">Сервіс Baidu Music</string>
     <string name="vip_recommend_main_title">Необмежена якість якісної музики (320 кбіт/c)</string>
     <string name="vip_recommend_sub_title">Всього 5 юанів в місяць</string>
     <string name="vip_recommend_summary">Завантажуйте або слухайте онлайн ваших улюблених виконавців в гарній якості через сервіс Baidu Music.</string>
@@ -340,7 +340,7 @@
 	<string name="vip_recommend_rebuy">Придбати (5 MiCredits за 30 днів)</string>
 	<string name="music_quality">Якість музики</string>
 	<string name="higher_quality_music">Висока якість музики</string>
-	<string name="menu_higher_quality_music">Висока якість музики (щомісячний доступ)</string>
+	<string name="menu_higher_quality_music">Сервіс Baidu Music</string>
 	<string name="higher_quality_music_summary">Прослухати і завантажити музику вищої якості</string>
 	<string name="expired">Термін дії закінчився</string>
 	<string name="enabled">Включено</string>
