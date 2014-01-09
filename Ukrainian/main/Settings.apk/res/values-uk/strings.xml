@@ -3780,4 +3780,5 @@ Android File Transfer
     <string name="activity_title_settings">Настройки</string>
     <string name="toast_shortcut_install">Ярлик додано</string>
     <string name="toast_shortcut_uninstall">Ярлик видалено</string>
+    <string name="perm_support_hints">Підтримка: LBE</string>
 </resources>
