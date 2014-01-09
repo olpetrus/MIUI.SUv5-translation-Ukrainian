@@ -143,7 +143,6 @@
     <string name="carrier_settings_button">Налаштування оператора</string>
     <string name="sync_traffic_no_cmd_title">Немає шаблону SMS</string>
     <string name="sync_traffic_no_cmd_detail">"Вкажіть ваші дані в формі по адресі: http://www.miui.com/forum-172-1.html. Дякуємо."</string>
-    <string name="sync_traffic_no_cmd_detail_custom_config">"Ви можете: 1.Параметри >> Ввести трафік, або на головній сторінці Ввести трафік; 2.Вкажіть ваші дані в формі за адресою: http://www.miui.com/forum-172-1.html. Дякуємо."</string>
     <string name="version_label">Версія:</string>
     <string name="sms_template_updated_label">"Оновлено: "</string>
     <string name="unknown">невідомо</string>
@@ -180,7 +179,7 @@
     <string name="custom_adjust_receiver">Номер отримувача</string>
     <string name="custom_adjust_sender_hint">Повідомлення повинно містити запит інформації про тарифний план</string>
     <string name="custom_adjust_command_hit">Повідомлення</string>
-    <string name="custom_adjust_receiver_hint">Номер телефону, з якого оператор зв'язку надсилає користувачу повідомлення з інформацією про тарифний план.</string>
+    <string name="custom_adjust_receiver_hint">Номер телефону, з якого оператор зв\'язку надсилає користувачу повідомлення з інформацією про тарифний план.</string>
     <string name="custom_adjust_recevier_same_with_sender">Номери отримувача та відправника однакові.</string>
     <string name="custom_adjust_is_empty">%s: пусто</string>
 </resources>
