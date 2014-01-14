@@ -266,11 +266,11 @@
     <string-array name="wifi_sleep_policy_entries_smart">
         <item>Завжди</item>
         <item>Тільки при під\'єднанні</item>
-        <item>Ніколи (Збільшує використання моб.інтернету)</item>
+        <item>Ніколи (Збільшує витрати трафіка)</item>
         <item>Розумний режим</item>
     </string-array>
     <string-array name="entries_smart_rotation">
-        <item>Розумний автоповорот(поворот екрану по очам)</item>
+        <item>Розумний автоповорот(Поворот екрану по очам)</item>
         <item>Автоповорот</item>
         <item>Немає</item>
     </string-array>
