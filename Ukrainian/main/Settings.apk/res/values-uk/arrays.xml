@@ -125,7 +125,7 @@
     <string-array name="wifi_sleep_policy_entries">
         <item>Завжди</item>
         <item>Тільки при живленні від мережі</item>
-        <item>Ніколи (збільшує витрати трафіку)</item>
+        <item>Ніколи (Збільшує витрати трафіку)</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Завжди</item>
