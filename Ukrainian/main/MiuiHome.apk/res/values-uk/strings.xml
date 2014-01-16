@@ -41,7 +41,7 @@
 	<string name="cant_remove_system_app">Неможливо видалити системний додаток</string>
 	<string name="cant_remove_retained_app">Неможливо видалити додаток.</string>
 	<string name="uninstall_dialog_title_format">Видалити \"%s\"</string>
-	<string name="uninstall_dialog_message">Видалення зачистить всі дані додатку.</string>
+	<string name="uninstall_dialog_message">Видалення зачистить всі дані додатку</string>
 	<string name="uninstall">Видалити</string>
 	<string name="starting_preset_app">Запуск…</string>
 	<string name="install">Встановити</string>
