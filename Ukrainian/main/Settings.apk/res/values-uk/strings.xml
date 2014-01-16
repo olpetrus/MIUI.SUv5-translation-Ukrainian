@@ -627,8 +627,8 @@
     <string name="wifi_disabled_network_failure">Уникати поганого під\'єднання</string>
     <string name="wifi_disabled_password_failure">Помилка аутентифікації</string>
     <string name="wifi_not_in_range">Недоступна</string>
-    <string name="wifi_wps_available_first_item">Доступна захищена мережа</string>
-    <string name="wifi_wps_available_second_item">" (доступна захищена мережа)"</string>
+    <string name="wifi_wps_available_first_item">Доступний WPS</string>
+    <string name="wifi_wps_available_second_item">" (Доступний WPS)"</string>
     <string name="wifi_secured_first_item">Захист %1$s</string>
     <string name="wifi_secured_second_item">, захист %1$s</string>
     <string name="wifi_security_none">Ні</string>
