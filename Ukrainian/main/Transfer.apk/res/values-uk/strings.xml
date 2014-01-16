@@ -18,7 +18,7 @@
     <string name="goback">Назад</string>
     <string name="share">Поділитися</string>
     <string name="first_in_tip">Використання Трансферу</string>
-    <string name="welcome_tip1">Обмінюйтеся файлами швидко та без затрат на трафік.</string>
+    <string name="welcome_tip1">Обмінюйтеся файлами швидко та без затрат на трафік</string>
     <string name="welcome_tip2">Швидкий обмін фото, музикою, контактами та іншими файлами!</string>
     <string name="voice_assist_match">Швидке автосполучення</string>
     <string name="voice_match">Швидке сполучення…</string>
@@ -88,7 +88,7 @@
     <string name="history_send">Історія надсилань</string>
     <string name="history_all">Вся історія</string>
     <string name="history">Історія</string>
-    <string name="no_content">Порожньо.</string>
+    <string name="no_content">Порожньо</string>
     <string name="editmode_menu_share">Надіслати</string>
     <string name="editmode_menu_delete">Видалити</string>
     <string name="operation_send">Надіслати</string>
