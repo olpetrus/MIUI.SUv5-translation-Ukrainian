@@ -537,8 +537,8 @@
     <string name="wifi_disabled_help">Підключення до мережі не встановлено через поганий сигнал. Щоб вимкнути цю установку, відкрийте \"Установки\" > \"Екран Wi-Fi\" > пункти розділу \"Розширене меню\"</string>
     <string name="wifi_disabled_password_failure">Сталася помилка ідентифікації</string>
     <string name="wifi_not_in_range">Поза зоною досяжності</string>
-    <string name="wifi_wps_available_first_item">Доступна захищена мережа</string>
-    <string name="wifi_wps_available_second_item">Доступна захищена мережа</string>
+    <string name="wifi_wps_available_first_item">Доступний WPS</string>
+    <string name="wifi_wps_available_second_item">(Доступний WPS)</string>
     <string name="wifi_secured_first_item">Захищено ключем %s</string>
     <string name="wifi_secured_second_item">, захищено: %1$s</string>
     <string name="wifi_secured">Захищені</string>
