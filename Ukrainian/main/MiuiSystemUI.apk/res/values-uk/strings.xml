@@ -177,7 +177,7 @@
     <string name="user_guide_for_call">Для повернення в інтерфейс телефону потягніть униз статусний рядок і натисніть на сповіщення про виклик</string>
     <string name="return_to_incall_screen">Вернутися до виклику</string>
     <string name="call_status_dialing">Викликається</string>
-    <string name="status_bar_toggle_ac">Контроль доступу</string>
+    <string name="status_bar_toggle_ac">Доступ</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_brightness">Яскравість</string>
     <string name="status_bar_toggle_data">Дані</string>
