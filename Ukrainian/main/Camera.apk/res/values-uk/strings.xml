@@ -979,4 +979,6 @@
     <string name="gallery_disable">Галерею вимкнено</string>
     <string name="HDR_Normal">Звичайний</string>
     <string name="HDR_Strong">Інтенсивний</string>
+    <string name="wifi_connect_not_found">Немає доступних мереж Wi-Fi</string>
+    <string name="wifi_connect_current_connetion">Мережа Wi-Fi підключена</string>
 </resources>
