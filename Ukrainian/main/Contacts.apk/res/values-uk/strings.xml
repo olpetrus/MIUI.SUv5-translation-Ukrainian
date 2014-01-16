@@ -980,8 +980,8 @@
     <string name="resource_list_title">Останні обрані</string>
     <string name="resource_get_auth_checking">Перевірка авторизації…</string>
     <string name="resource_get_auth_retrieving">Повтор авторизації…</string>
-	<string name="resource_import_successful">Завантаження завершено.</string>
-    <string name="resource_get_auth_missing">Теми завантажені з сторонніх джерел не підтримуються.</string>
+	<string name="resource_import_successful">Завантаження завершено</string>
+    <string name="resource_get_auth_missing">Теми завантажені з сторонніх джерел не підтримуються</string>
     <string name="resource_get_auth_exceed_max_limit_title">Досягнуто межі авторизацій</string>
     <string name="resource_get_auth_exceed_max_limit_tips">У вас вже є 10 пристроїв, авторизованих на цьому обліковому записі</string>
     <string name="resource_server_out_of_service">Сервер недоступний, спробуйте пізніше.</string>
