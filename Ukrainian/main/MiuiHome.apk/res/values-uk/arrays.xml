@@ -2,7 +2,7 @@
 <resources>
     <string-array name="transformation_entries">
         <item>Класичний</item>
-        <item>Класичний (Без ефектів)</item>
+        <item>Класичний (без ефектів)</item>
         <item>Згасання</item>
         <item>Перекочування</item>
         <item>Сторінки</item>
