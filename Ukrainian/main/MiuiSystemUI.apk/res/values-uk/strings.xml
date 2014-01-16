@@ -344,4 +344,6 @@
     <string name="filter_item_preview_image">Попередній перегляд</string>
 	<string name="filter_item_description">Ви можете задати користувацькі налаштування відображення сповіщень для кожного додатку.</string>
 	<string name="usb_share_net_info">Використовувати інтернет комп\'ютера</string>
+     <string name="torch_opened">Ліхтарик запущено</string>
+     <string name="torch_closed">Ліхтарик закрито</string>
 </resources>
