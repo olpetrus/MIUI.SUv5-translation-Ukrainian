@@ -3,13 +3,13 @@
 	<string name="app_name">Теми</string>
 	<string name="theme_import_activity_label">Оновлення тем</string>
 	<string name="theme_changing_dialog_title">Застосування теми…</string>
-	<string name="theme_changed_message">Застосовано.</string>
-	<string name="theme_changed_failed_message">Неможливо застосувати.</string>
+	<string name="theme_changed_message">Застосовано</string>
+	<string name="theme_changed_failed_message">Неможливо застосувати</string>
 	<string name="backup_preference_title">Бекап теми</string>
 	<string name="backup_theme_dialog_ok">Бекап</string>
 	<string name="backup_theme_dialog_message">Створити бекап поточної теми?</string>
 	<string name="backup_theme_progress_message">Резервне копіювання теми…</string>
-	<string name="backup_theme_success_message">Резервне копіювання теми завершено.</string>
+	<string name="backup_theme_success_message">Резервне копіювання теми завершено</string>
 	<string name="backup_theme_name">Мої бекапи</string>
 	<string name="theme_description_title_default">По замовчанню</string>
 	<string name="theme_description_title_customized">Звичайний</string>
@@ -18,7 +18,7 @@
 	<string name="theme_component_title_framework">Стилі</string>
 	<string name="theme_component_title_mms">Повідом.</string>
 	<string name="theme_component_title_wallpaper">Шпалери</string>
-	<string name="theme_current_using_has_update">Є нове оновлення для поточної теми.</string>
+	<string name="theme_current_using_has_update">Є нове оновлення для поточної теми</string>
 	<string name="theme_immediately_apply_tip">Застосувати оновлення теми?</string>
 	<string name="theme_component_title_lockwallpaper">Екран блокування</string>
 	<string name="theme_component_title_miwallpaper">Завантажені</string>
@@ -40,7 +40,7 @@
 	<string name="theme_component_title_others">Інше</string>
 	<string name="theme_component_title_all">Теми</string>
 	<string name="apply_theme_no_select_message">Виберіть компоненти</string>
-	<string name="apply_lockscreen_paper_tips">Екран не підтримує різні шпалери.</string>
+	<string name="apply_lockscreen_paper_tips">Екран не підтримує різні шпалери</string>
 	<string name="theme_import_from_sdcard">Імпорт з SD карти</string>
 	<string name="theme_select_others">Інші</string>
 	<string name="third_party_pickers_activity_title">Встановити %1$s</string>
@@ -72,9 +72,9 @@
 	<string name="wallpaper_set_as_lockscreen">Застосувати як екран блокування</string>
 	<string name="wallpaper_crop">Обрізати</string>
 	<string name="wallpaper_loading_text">Завантаження…</string>
-	<string name="wallpaper_decoded_error">Помилка завантаження.</string>
+	<string name="wallpaper_decoded_error">Помилка завантаження</string>
 	<string name="close">Закрити</string>
-	<string name="download_success">Завантаження завершено.</string>
+	<string name="download_success">Завантаження завершено</string>
     <string name="basic_info">Головна Інформація</string>
     <string name="account_info">Мій акаунт</string>
     <string name="payment_info">Центр MiCredits</string>
@@ -91,7 +91,7 @@
 	<string name="theme_import_oper_stop">Стоп</string>
 	<string name="theme_import_oper_stop_request_content">Зупинити оновлення тем?</string>
 	<string name="theme_import_oper_start">Оновити все</string>
-	<string name="theme_import_oper_complete">Оновлення завершено.</string>
+	<string name="theme_import_oper_complete">Оновлення завершено</string>
 	<string name="theme_import_item_not_upgraded">Не оновлено</string>
 	<string name="theme_import_item_waiting">Очікування…</string>
 	<string name="theme_import_item_importing">Оновлення…</string>
@@ -186,8 +186,8 @@
 	<string name="resource_list_title">Останні обрані</string>
 	<string name="resource_get_auth_checking">Авторизація…</string>
 	<string name="resource_get_auth_retrieving">Відновлення авторизації…</string>
-	<string name="resource_import_successful">Завантаження завершено.</string>
-	<string name="resource_get_auth_missing">Не можна використовувати теми, що завантажені з сторонніх джерел.</string>
+	<string name="resource_import_successful">Завантаження завершено</string>
+	<string name="resource_get_auth_missing">Не можна використовувати теми, що завантажені з сторонніх джерел</string>
 	<string name="resource_get_auth_exceed_max_limit_title">Досягнуто межу авторизацій</string>
 	<string name="resource_get_auth_exceed_max_limit_tips">У вас вже є 10 пристроїв, авторизованих на цьому обліковому записі.</string>
 	<string name="resource_server_out_of_service">Сервер недосяжний, повторіть пізніше.</string>
