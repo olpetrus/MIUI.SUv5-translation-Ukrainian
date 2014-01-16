@@ -56,4 +56,6 @@
     <string name="menu_item_enable_audio_enhance">Увімкнути підсилювач звуку</string>
     <string name="menu_item_disable_audio_enhance">Вимкнути підсилювач звуку</string>
     <string name="toast_message_set_misound">Увімкнути MiSound</string>
+    <string name="menu_item_enable_3d_mode">Увімкнути 3D</string>
+    <string name="menu_item_disable_3d_mode">Вимкнути 3D</string>
 </resources>
