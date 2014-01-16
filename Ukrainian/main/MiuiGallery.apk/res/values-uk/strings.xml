@@ -192,7 +192,7 @@
     <string name="alert_message_open_sync">Спочатку Ви повинні запустити синхронізацію.</string>
     <string name="open">Увімкнути</string>
     <string name="alert_message_initial_cloud">Світлини та знімки екрану будуть автоматично завантажуватися в хмарне сховище тільки при увімкненому Wi-Fi.</string>
-    <string name="cloud_gallery_no_pictures">Немає зображень.</string>
+    <string name="cloud_gallery_no_pictures">Немає зображень</string>
     <string name="no_network_connected">Відсутнє під\'єднання до мережі.</string>
     <string name="initial_cloud_text">Керування та перегляд зображень в будь-який час та в будь-якому місці.</string>
 	<string name="initializing_cloud">Започаткування…</string>
@@ -214,11 +214,11 @@
     <string name="click_to_enter_camera">Альбом камери порожній. Для того, щоб зробити знімки натисніть на екран</string>
     <string name="camera_view_none_message">Використовуйте Камеру для створення зображення та відео.</string>
 	<string name="can_modified">Дозволити отримувачу додавати малюнки</string>
-    <string name="none_picture">Немає зображень.</string>
-    <string name="cancel_hint">Операція скасована.</string>
-	<string name="fail_hint">Операція не вдалася.</string>
-    <string name="cannot_send_message">Не вдається надіслати повідомлення.</string>
-	<string name="set_screensaver_path_message_if_only_charging">Знімок з цього альбому будуть показуватися в якості заставки під час зарядки.</string>
+    <string name="none_picture">Немає зображень</string>
+    <string name="cancel_hint">Операція скасована</string>
+	<string name="fail_hint">Операція не вдалася</string>
+    <string name="cannot_send_message">Не вдається надіслати повідомлення</string>
+	<string name="set_screensaver_path_message_if_only_charging">Знімок з цього альбому будуть показуватися в якості заставки під час зарядки</string>
 	<string name="has_invalid_recipient">Неприпустимих одержувачів: &lt;%1$s></string>
     <string name="cannot_send_message_reason">Ваше повідомлення не має допустимих отримувачів.</string>
     <string name="show_hidden_albums">Приховані альбоми</string>
@@ -267,7 +267,7 @@
     <string name="bigscreen_slide_exit">Вихід з слайдшоу</string>
 	<string name="bigscreen_slide_fail_cause_loading">Спробуйте ще раз, щоб почати слайдшоу після завантаження зображення.</string>
     <string name="defalt_local_mobile">Мобільний</string>
-	<string name="there_is_no_image">Немає зображень.</string>
+	<string name="there_is_no_image">Немає зображень</string>
 	<string name="cloudfolder_name_reserved">Ім\'я теки захищено.</string>
     <string name="cloudfolder_contain_invalidate_char">Ім\'я теки не повинно містити \"%s\"</string>
     <string name="cloudfolder_cannot_start_with">Ім\'я теки не може починатися з \"%s\"</string>
@@ -323,7 +323,7 @@
     <string name="screensaver_path_not_set">нічого не обрано</string>
     <string name="set_screensaver_path_title">Слайдшоу на заставці</string>
     <string name="set_screensaver_path_message">Знімки в цьому альбомі будуть показані на заставці.</string>
-    <string name="screensaver_no_data">Немає зображень.</string>
+    <string name="screensaver_no_data">Немає зображень</string>
     <string name="slideshow_time_select_title">Оберіть час слайдшоу</string>
     <string name="slideshow_time_title">Час слайдшоу</string>
     <string name="rename_failed">Не вдалося перейменувати.</string>
