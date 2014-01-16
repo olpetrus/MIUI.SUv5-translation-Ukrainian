@@ -1183,4 +1183,7 @@
     <string name="resource_trial_end_restore">Скасувати</string>
     <string name="resource_trial_end_purchase">Придбати</string>
 	<string name="group_name">Групи</string>
+    <string name="toast_finish_delete_selected_call_log">Видалення завершено</string>
+    <string name="callrecordview_menu_batch_delete">Пакетне видалення</string>
+    <string name="delete_call_log_selected_title">Видалити обрані виклики?</string>
 </resources>
