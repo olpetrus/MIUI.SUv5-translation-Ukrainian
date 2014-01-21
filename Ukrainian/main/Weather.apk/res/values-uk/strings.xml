@@ -89,6 +89,10 @@
     <string name="button_allow">Згоден</string>
     <string name="button_not_allow">Не згоден</string>
     <string name="location_allow_err">Не вдалось відкрити визначення розташування</string>
+    <string name="format_date_wmd">d MMMM EEE</string>
+    <string name="format_date_md">d MMMM kk:mm</string>
+    <string name="format_date_week">EEE</string>
+    <string name="format_date_trend_md">d MMMM</string>
     <string name="act_weather_aqi_title">Індекс чистоти повітря</string>
     <string name="act_weather_main_aqi_index">Чистота повітря: %s</string>
     <string name="act_weather_aqi_share">Поділитися</string>
