@@ -17,66 +17,66 @@
     <string-array name="weather_image">
         <item>Ясно</item>
         <item>Хмарно</item>
-        <item>Hazy</item>
-        <item>Foggy</item>
-        <item>Severe rain storms</item>
-        <item>Rain storm</item>
-        <item>Heavy rainfall</item>
-        <item>Thunderstorm</item>
-        <item>Showers</item>
-        <item>Heavy rainfall</item>
+        <item>Туман</item>
+        <item>Туман</item>
+        <item>Дощова буря</item>
+        <item>Дощовий шторм</item>
+        <item>Злива</item>
+        <item>Гроза</item>
+        <item>Град</item>
+        <item>Сильна злива</item>
         <item>Дождь</item>
-        <item>Drizzle</item>
-        <item>Sleet</item>
-        <item>Snow storm</item>
-        <item>Patches of snow fall</item>
-        <item>Heavy snow fall</item>
-        <item>Snow fall</item>
-        <item>Light snow fall</item>
-        <item>Strong sand storm</item>
-        <item>Sand storm</item>
-        <item>Light sand storms</item>
-        <item>Sand storm</item>
-        <item>Hail</item>
-        <item>Dust</item>
+        <item>Дощ</item>
+        <item>Мокрий сніг</item>
+        <item>Сніжний шторм</item>
+        <item>Легкий сніг</item>
+        <item>Сильний снігопад</item>
+        <item>Сніг</item>
+        <item>Невеликий сніг</item>
+        <item>Сильна піщана буря</item>
+        <item>Піщана буря</item>
+        <item>Легка піщана буря</item>
+        <item>Піщана буря</item>
+        <item>Град</item>
+        <item>Імла</item>
         <item>Haze</item>
     </string-array>
     <string-array name="weather_details_key">
         <item>Недоступно</item>
-        <item>Suitable</item>
-        <item>Good</item>
-        <item>Avoid if possible</item>
-        <item>Not recommended</item>
-        <item>Ideal</item>
-        <item>Moderate</item>
-        <item>Weak</item>
-        <item>Medium</item>
-        <item>Strong</item>
-        <item>Very strong</item>
-        <item>Cool</item>
-        <item>Comfortable</item>
-        <item>Very hot</item>
-        <item>Hot</item>
-        <item>Warm</item>
-        <item>Cool</item>
-        <item>Cooler</item>
-        <item>Cold</item>
-        <item>Freezing</item>
-        <item>High</item>
-        <item>Middle</item>
-        <item>Low</item>
-        <item>Clear skies</item>
-        <item>Cloudy</item>
-        <item>Rain</item>
-        <item>Sand storm</item>
-        <item>Snow</item>
-        <item>Relatively suitable conditions</item>
-        <item>Suitable conditions</item>
-        <item>Cloudy</item>
-        <item>Less than ideal</item>
-        <item>Ideal conditions</item>
-        <item>Poor conditions</item>
-        <item>Average conditions</item>
+        <item>Сприятлива</item>
+        <item>Хорошо</item>
+        <item>Уникайте по можливості</item>
+        <item>Нерекомендується</item>
+        <item>Ідеальна</item>
+        <item>Помірна</item>
+        <item>Слаба</item>
+        <item>Середня</item>
+        <item>Сильна</item>
+        <item>Дуже сильна</item>
+        <item>Крута</item>
+        <item>Комфортна</item>
+        <item>Дуже спекотна</item>
+        <item>Спекотна</item>
+        <item>Тепла</item>
+        <item>Крута</item>
+        <item>Відмінна</item>
+        <item>Холодна</item>
+        <item>Морозна</item>
+        <item>Висока</item>
+        <item>Середня</item>
+        <item>Низька</item>
+        <item>Ясна</item>
+        <item>Хмарна</item>
+        <item>Дощова</item>
+        <item>Піщана буря</item>
+        <item>Сніжна</item>
+        <item>Відносно сприятлева</item>
+        <item>Сприятлива</item>
+        <item>Хмарна</item>
+        <item>Майже ідеальна</item>
+        <item>Ідеальна</item>
+        <item>Погана</item>
+        <item>Середня</item>
     </string-array>
     <string-array name="weather_image_tips">
         <item></item>
@@ -106,7 +106,7 @@
     <string-array name="weather_sms_content">
         <item>Не забудьте нанести сонцезахисний крем.</item>
         <item>Сьогодні буде хмарно.</item>
-        <item>The weather will take a turn for the worse. Try to stay indoors.</item>
+        <item>Погода може погіршитися. Залишайтесь вдома.</item>
         <item>Їдьте з обережністю :)</item>
         <item>Сильний дощ, не забудьте взяти парасольку.</item>
         <item>Сильний дощ, не забудьте взяти парасольку.</item>
@@ -154,7 +154,7 @@
         <item>Укутайтеся!</item>
         <item>Йде похолодання…</item>
         <item>Укутайтеся!</item>
-        <item>Wear ear muffs if you have them! :)</item>
+        <item>Одягайте змиові навушники, якщо вони у вас є! :)</item>
         <item>Підемо на пробіжку!</item>
         <item>Підемо на пробіжку, на вулиці сонячно! :)</item>
         <item>Відмінний день, щоб висушити одяг!</item>
@@ -202,9 +202,9 @@
         <item>1</item>
         <item>Відмінний день для ранкової зарядки</item>
         <item>2</item>
-        <item>Bring additional layers!</item>
+        <item>Одягніться тепліше!</item>
         <item>3</item>
-        <item>Weather is not ideal; bring additional layers!</item>
+        <item>Погода не ідеальна. Одягніться тепліше!</item>
         <item>4</item>
         <item>Вправляйтесь у приміщені!</item>
     </string-array>
@@ -248,7 +248,7 @@
         <item>29</item>
         <item>Сушить одяг в любий час.</item>
         <item>30</item>
-        <item>Cloudy but with the hot temperatures, your clothes will still dry.</item>
+        <item>Хмарно, але завдяки високій температурі повітря, ваш одяг все равно залишиться сухим.</item>
         <item>1</item>
         <item>Погода підходить для сушіння одягу.</item>
         <item>3</item>

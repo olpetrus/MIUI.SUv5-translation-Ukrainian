@@ -159,4 +159,11 @@
     <string name="general_menu_delete_recent">Видалити останні</string>
     <string name="general_cancel_favorite_ok">Видалено з обраного</string>
     <string name="general_delete_recent_ok">Останні видалено</string>
+    <string name="locating_fail">Помилка визначення розташування, перевірте параметри служби.</string>
++	<string name="recharge_my_phone_number">Мій номер</string>
++    <string name="recharge_unknown_number">Невідомий</string>
++	<string name="balance_inquiry_send_sms_fail_hint">Помилка відправлення SNS. Перевірте стан SIM-карки.</string>
++	<string name="nearby_yellow_page_title">Поблизу</string>
++    <string name="nearby_no_yellow_page">Нема результатів</string>
+
 </resources>

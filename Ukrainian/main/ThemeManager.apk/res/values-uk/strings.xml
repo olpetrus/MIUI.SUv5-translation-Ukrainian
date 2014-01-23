@@ -13,8 +13,8 @@
 	<string name="backup_theme_name">Мої бекапи</string>
 	<string name="theme_description_title_default">По замовчанню</string>
 	<string name="theme_description_title_customized">Звичайний</string>
-	<string name="component_category_finest_title">ОСНОВНЕ</string>
-	<string name="component_category_more_title">ІНШЕ</string>
+	<string name="component_category_finest_title">Основне</string>
+	<string name="component_category_more_title">Інше</string>
 	<string name="theme_component_title_framework">Стилі</string>
 	<string name="theme_component_title_mms">Повідом.</string>
 	<string name="theme_component_title_wallpaper">Шпалери</string>
@@ -132,7 +132,7 @@
 	<string name="resource_comment_account_need_activitied">Активуйте обліковий запис Xiaomi.</string>
 	<string name="resource_comment_rate">Оцінка:</string>
 	<string name="resource_comment_entry_tips">Показати коментарі</string>
-	<string name="fail_to_add_account">Помилка додавання облікового запису.</string>
+	<string name="fail_to_add_account">Помилка додавання облікового запису</string>
 	<string name="menu_refresh">Оновити</string>
 	<string name="mi_wallpaper_title">Шпалери</string>
 	<string name="mi_wallpaper_loading">Завантаження шпалер…</string>
@@ -170,7 +170,7 @@
 	<string name="online_search_hint">Пошук онлайн ресурсів.</string>
 	<string name="loading">Завантаження…</string>
 	<string name="download_failed">Збій завантаження.</string>
-	<string name="download_preview_failed">Помилка завантаження перегляду.</string>
+	<string name="download_preview_failed">Помилка завантаження перегляду</string>
 	<string name="resource_delete_confirm">Видалити ресурси?</string>
 	<string name="resource_delta_update_failed">Помилка оновлення: повторне завантаження теми…</string>
 	<string name="resource_delta_update_successful">Оновлення вдале</string>
@@ -182,7 +182,7 @@
 	<string name="resource_system_title">Системні ресурси</string>
 	<string name="resource_downloaded_title">Завантажені ресурси</string>
 	<string name="resource_see_more">Ще</string>
-	<string name="resource_no_result">Немає результатів.</string>
+	<string name="resource_no_result">Немає результатів</string>
 	<string name="resource_list_title">Останні обрані</string>
 	<string name="resource_get_auth_checking">Авторизація…</string>
 	<string name="resource_get_auth_retrieving">Відновлення авторизації…</string>
@@ -215,7 +215,7 @@
     <string name="resource_pack_confirm">Ви вже придбали компонентів теми: %1$d, буде вигідніше придбати повний комплект, ніж отримувати по одному компоненту.</string>
     <string name="resource_pack_warning">Ви вже придбали компонентів теми: %1$d, буде вигідніше придбати інші компоненти по одному, ніж повний комплект.</string>
     <string name="resource_delta_update_total">%1$d оновлення збережено %2$s</string>
-    <string name="resource_detail_window_title">%1$s інфо</string>
+    <string name="resource_detail_window_title">%1$s деталі</string>
     <string name="resource_detail_update_log_title">Оновлення</string>
     <string name="resource_detail_comment_title">Коментарі</string>
     <string name="resource_detail_recommend_desiner_other_themes">Інші теми від автора %1$s</string>

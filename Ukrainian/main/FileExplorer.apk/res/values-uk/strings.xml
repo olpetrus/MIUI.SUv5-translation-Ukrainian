@@ -256,7 +256,7 @@
     <string name="storage_internal">Внутрішня пам\'ять</string>
     <string name="storage_sd_card">SD карта</string>
     <string name="storage_usb">USB накопичувач</string>    
-    <string name="bind_account">Синхронізувати існуючий обліковий запис</string>
+    <string name="bind_account">Синхр.існуючий обліковий запис</string>
     <string name="bind_account_summary">Синхронізувати обліковий запис Kuaipan з обліковим записом Xiaomi.</string>
     <string name="binded_accout_title">Облікові записи синхронізовано</string>
     <string name="binded_accout_description">Обліковий запис Xiaomi синхронізований з обліковим записом KuaiPan. Для входу в KuaiPan Ви можете використовувати обліковий запис Xiaomi.</string>
@@ -324,4 +324,5 @@
     <string name="folder_exist">Тека вже існує.</string> 
 	<string name="unmount_inform_text">Вимкнути USB накопичувач?</string>
 	<string name="dlg_error_unmount_text">Неможливо вимкнути USB накопичувач.</string>
+	<string name="category_mirouter">Mi-Роутер</string>
 </resources>

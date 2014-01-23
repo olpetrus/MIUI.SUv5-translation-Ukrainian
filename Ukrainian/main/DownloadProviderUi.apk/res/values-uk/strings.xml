@@ -77,4 +77,8 @@
     <string name="all_downloads">Всі завантаження</string>
     <string name="app_downloads">Завантаження: %s</string>
 	<string name="xunlei_brand">Підтримка: Xunlei</string>
+    <string name="xunlei_switch">Движок завантаження Xunlei</string>
+    <string name="turn_off_xunlei_title">Вимкнути движкок завантаження Xunlei?</string>
+    <string name="turn_off_xunlei_message">Після відключення можлива більш низька швидкість завантаження файлів.</string>
+
 </resources>

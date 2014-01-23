@@ -2309,7 +2309,7 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="nearby_wifi">Доступні мережі</string>
     <string name="unlock_set_enter_system">Доступ до системи напряму</string>
     <string name="unlock_set_enter_system_summary">При ввімкненні системний екран блокування буде проігноровано</string>
-    <string name="forget_wifi_message">Прибирає мережу з автопід\'єднання, потрібне повторно ввести пароль для під\'єднання</string>
+    <string name="forget_wifi_message">Видалення мережі з автопідключення. Для повторного підключення необхідно ввести пароль.</string>
     <string name="button_disconnect_network">Вимкнено від мережі</string>
     <string name="no_nearby_wifi">Не знайдено доступних мереж</string>
     <string name="manually_add_network">Додати мережу</string>
