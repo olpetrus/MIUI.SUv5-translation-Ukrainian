@@ -53,10 +53,10 @@
         <item>Дуже швидко</item>
     </string-array>
     <string-array name="change_security_lock_picker">
-		<item>Фейс-контроль</item>
+		<item>Фейсконтроль</item>
 		<item>Графічний ключ</item>
-		<item>Цифровий пароль</item>
-		<item>Змішаний пароль</item>
+	    <item>PIN</item>
+ +      <item>Пароль</item>
     </string-array>
     <string-array name="tts_pitch_entries">
         <item>Дуже низький</item>

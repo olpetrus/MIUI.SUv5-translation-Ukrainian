@@ -126,7 +126,7 @@
     <string name="HIPS_SecurityPrompt_Title">%1$s намагається %2$s</string>
     <string name="HIPS_SecurityPrompt_Remember">Запам\'ятати вибір</string>
     <string name="HIPS_SecurityPrompt_Accept">Гаразд (%d)</string>
-    <string name="HIPS_SecurityPrompt_Reject">Відміна (%d)</string>
+    <string name="HIPS_SecurityPrompt_Reject">Скасувати (%d)</string>
     <string name="HIPS_SecurityPrompt_AcceptRoot">Дозволити</string>
     <string name="HIPS_SecurityPrompt_Next">Далі</string>
     <string name="HIPS_SecurityPrompt_ROOT_Caption">Важливе попередження</string>

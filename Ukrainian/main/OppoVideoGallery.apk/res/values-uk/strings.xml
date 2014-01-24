@@ -48,7 +48,7 @@
     <string name="pref_dolby_state_summery">Dolby Mobile</string>
     <string name="pref_dirac_state_summary">Dirac</string>
     <string name="rename">Перейменувати</string>
-    <string name="mark_mode">Відміна</string>
+    <string name="mark_mode">Скасувати</string>
     <string name="delete_all">Видалити усі</string>
     <string name="sort_order">Сортувати за</string>
     <string name="refresh_media_database">Оновити</string>
@@ -110,7 +110,7 @@
     <string name="stop_dlna_msg">Зупинити підключення через DLNA?</string>
     <string name="rename_dialog_title">Перейменувати</string>
     <string name="rename_dialog_btn_ok">OK</string>
-    <string name="rename_dialog_btn_cancel">Відміна</string>
+    <string name="rename_dialog_btn_cancel">Скасувати</string>
     <string name="oppo_menu_select_all">Вибрати усі</string>
     <string name="oppo_menu_cancel_all">Скасувати усі</string>
     <string name="start_service">Увімкнути сервіс</string>

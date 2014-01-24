@@ -370,14 +370,14 @@
     <string name="delete_bookmark">Видалити з обраного</string>
     <string name="view_bookmark">Показати оригінальне повідомлення</string>
     <string name="bookmark_confirm_delete_message">Прибрати з обраного дане повідомлення?</string>
-    <string name="bookmark_empty">Немає вибраних повідомлень.</string>
+    <string name="bookmark_empty">Немає вибраних повідомлень</string>
     <string name="phrase_list_title">Шаблони</string>
     <string name="new_phrase">Новий шаблон</string>
     <string name="edit_phrase">Редагувати шаблон</string>
     <string name="new_phrase_hint">Введіть текст</string>
     <string name="full_phrase">Максимум 50 символів</string>
     <string name="delete_phrase">Видалити шаблон</string>
-    <string name="phrase_confirm_delete_message">Обраний шаблон буде видалене.</string>
+    <string name="phrase_confirm_delete_message">Обраний шаблон буде видалене</string>
     <string name="phrase_from">От %1s</string>
     <string name="phrase_empty">Немає шаблонів.</string>
     <string name="pref_title_notification_body_enabled">Попередній перегляд</string>

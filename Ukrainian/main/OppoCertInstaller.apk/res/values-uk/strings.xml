@@ -33,7 +33,7 @@
     <string name="wifi_wapi_cert_install">Встановити сертифікати безпеки WAPI</string>
     <string name="wifi_wapi_cert_install_button">Встановити</string>
     <string name="wifi_wapi_cert_uninstall_button">Знищити</string>
-    <string name="wifi_wapi_cert_cancel_button">Відміна</string>
+    <string name="wifi_wapi_cert_cancel_button">Скасувати</string>
     <string name="wifi_wapi_cert_uninstall">Знищити сертифікати безпеки WAPI</string>
     <string name="wifi_wapi_cert_create_subdir">Новий каталог</string>
     <string name="wifi_wapi_cert_delet_subdir">Вибрати сертифікат який підходить</string>

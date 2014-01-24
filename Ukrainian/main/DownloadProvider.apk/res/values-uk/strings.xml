@@ -27,7 +27,7 @@
     <string name="wifi_recommended_title">Нагадування про витрату трафіка</string>
     <string name="wifi_recommended_body" formatted="false">Завантаження файла крізь стільникову мережу: %s(%s) Завантаження файлу може привести до зростання витрат на трафік</string>
     <string name="button_queue_for_wifi">У чергу</string>
-    <string name="button_cancel_download">Відміна</string>
+    <string name="button_cancel_download">Скасувати</string>
     <string name="button_start_now">Почати зараз</string>
     <string name="download_percent">%d%%</string>
     <string name="dialog_insufficient_space_on_external">Не вистачає пам\'яті на зовнішньому пристрої</string>

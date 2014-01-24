@@ -31,7 +31,7 @@
     <string name="DATE">Отримання даних</string>
     <string name="OK">Так</string>
     <string name="MENU_OPTION_INSTALL">Встановити</string>
-    <string name="MENU_OPTION_CANCEL">Відміна</string>
+    <string name="MENU_OPTION_CANCEL">Скасувати</string>
     <string name="MENU_OPTION_DELETE">Видалити</string>
     <string name="PINCODE">PIN</string>
     <string name="PINCODE_FAIL">Хибний PIN</string>
@@ -58,7 +58,7 @@
     <string name="DSCANCEL">Налаштування не збережено. Ви не будете мати можливості синхронізувати контакти та календар подій</string>
     <string name="DEFAULTCANCEL">Налаштування не збережено</string>
     <string name="delete_action">Видалити</string>
-    <string name="cancel_action">Відміна</string>
+    <string name="cancel_action">Скасувати</string>
     <string name="CONFIGURATION_MESSAGE">Конфігураційні повідомлення</string>
     <string name="CONFIGURATION_MESSAGE_LIST">Перелік конфігураційних повідомлень</string>
     <string name="DELETE_MESSAGE_CONFIRM">Ця тема буде видалена</string>

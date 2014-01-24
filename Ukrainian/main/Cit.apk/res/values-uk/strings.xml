@@ -44,7 +44,7 @@
     <string name="cit_display_continue">Доторкніться до екрану</string>
     <string name="cit_exit_test_summary">Всі тести будуть скинуті, продовжити?</string>
     <string name="cit_exit_test_title">Вихід</string>
-    <string name="cit_fail">Відміна</string>
+    <string name="cit_fail">Скасувати</string>
     <string name="cit_fm_audio_path">Звуковий тракт</string>
     <string name="cit_fm_audio_path_headset">Навушники</string>
     <string name="cit_fm_audio_path_speaker">Динамік</string>

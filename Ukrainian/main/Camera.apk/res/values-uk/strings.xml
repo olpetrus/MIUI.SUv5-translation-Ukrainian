@@ -17,7 +17,7 @@
     <string name="access_phone_fail_no_product">Немає доступу до USB накопичувача</string>
     <string name="access_sd_fail_no_product">Немає доступу до SD карти</string>
     <string name="confirm_restore_title">Скидання налаштувань</string>
-    <string name="confirm_restore_message">Відновити налаштування по замовчанню?</string>
+    <string name="confirm_restore_message">Відновити налаштування за замовчуванням?</string>
     <string name="confirm_change_mode_title">Перемкнути режим?</string>
     <string name="confirm_change_to_expert_mode_message">Перемкнутися в професійний режим.</string>
     <string name="confirm_change_to_simple_mode_message">Перемкнутися в звичайний режим.</string>
@@ -212,10 +212,10 @@
     <string name="pref_camera_multilevel_entry_higher">Вище</string>
     <string name="pref_camera_multilevel_entry_highest">Вищий</string>
     <string name="pref_camera_sharpness_entry_low">Низька</string>
-    <string name="pref_camera_sharpness_entry_middle">Середня (По замовчанню)</string>
+    <string name="pref_camera_sharpness_entry_middle">Середня (за замовчуванням)</string>
     <string name="pref_camera_sharpness_entry_high">Висока</string>
     <string name="pref_camera_contrast_entry_low">Низький</string>
-    <string name="pref_camera_contrast_entry_middle">Середній (По замовчанню)</string>
+    <string name="pref_camera_contrast_entry_middle">Середній (за замовчуванням)</string>
     <string name="pref_camera_contrast_entry_high">Високий</string>
     <string name="pref_camera_saturation_entry_low">Низький</string>
     <string name="pref_camera_saturation_entry_middle">Середня</string>
@@ -232,7 +232,7 @@
     <string name="pref_camera_contrast_entry_level2">Рівень 2</string>
     <string name="pref_camera_contrast_entry_level3">Рівень 3</string>
     <string name="pref_camera_contrast_entry_level4">Рівень 4</string>
-    <string name="pref_camera_contrast_entry_level5">Рівень 5(По замовчанню)</string>
+    <string name="pref_camera_contrast_entry_level5">Рівень 5(за замовчуванням)</string>
     <string name="pref_camera_contrast_entry_level6">Рівень 6</string>
     <string name="pref_camera_contrast_entry_level7">Рівень 7</string>
     <string name="pref_camera_contrast_entry_level8">Рівень 8</string>
@@ -249,8 +249,8 @@
     <string name="pref_camera_saturation_entry_level8">Рівень 8</string>
     <string name="pref_camera_saturation_entry_level9">Рівень 9</string>
     <string name="pref_camera_saturation_entry_level10">Рівень 10</string>
-    <string name="pref_camera_default_suffix">" (По замовчанню)"</string>
-	<string name="pref_camera_multilevel_entry_middle">Центр (По замовчанню)</string>
+    <string name="pref_camera_default_suffix">" (За замовчуванням)"</string>
+	<string name="pref_camera_multilevel_entry_middle">Центр (за замовчуваннямю)</string>
     <string name="pref_camera_sharpness_title">Чіткість</string>
     <string name="pref_camera_contrast_title">Контраст</string>
     <string name="pref_camera_saturation_title">Насиченість</string>

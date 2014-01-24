@@ -31,10 +31,10 @@
     <string name="toast_pending_log_collection">Збереження логів…</string>
     <string name="toast_feedback_submitted">Ваш звіт успішно зареєстрований.</string>
     <string name="toast_feedback_pending_wlan">Ваш звіт буде відправлений при підключенні Wi-fi</string>
-    <string name="discard_draft_dialog_title">Відміна проекту</string>
+    <string name="discard_draft_dialog_title">Скасування проекту</string>
     <string name="discard_draft_dialog_content">Звіт був виправлений, натисніть ок для відміни проекту.</string>
     <string name="discard_draft_dialog_button_discard">ОК</string>
-    <string name="discard_draft_dialog_button_cancel">Відміна</string>
+    <string name="discard_draft_dialog_button_cancel">Скасувати</string>
     <string name="network_unavailable_dialog_title">Мережа недоступна</string>
     <string name="network_unavailable_dialog_content">Ваш звіт буде відправлений при підключенні до мережі</string>
     <string name="network_unavailable_dialog_button_ok">ОК</string>

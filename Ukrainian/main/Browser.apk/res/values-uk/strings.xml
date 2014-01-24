@@ -17,7 +17,7 @@
 	<string name="password">Пароль</string>
 	<string name="action">Вхід</string>
 	<string name="bookmarks_search">Браузер</string>
-	<string name="cancel">Відміна</string>
+	<string name="cancel">Скасувати</string>
 	<string name="ok">ОК</string>
 	<string name="title_bar_loading">Завантаження…</string>
 	<string name="page_info">Інформація про сторінку</string>
@@ -41,7 +41,7 @@
 	<string name="back">Назад</string>
 	<string name="forward">Вперед</string>
 	<string name="save">ОК</string>
-	<string name="do_not_save">Відміна</string>
+	<string name="do_not_save">Скасувати</string>
 	<string name="location">Адреса</string>
 	<string name="account">Аккаунт</string>
 	<string name="containing_folder">Додати в</string>
@@ -495,7 +495,7 @@
 	<string name="menu_disable_night_mode">Вiдключити нічний режим</string>
 	<string name="tab_opened_background">Вкладку відкрито у фонi</string>
 	<string name="tab_closed">Вкладку закрито</string>
-	<string name="search_cancel">Відміна</string>
+	<string name="search_cancel">Скасувати</string>
 	<string name="search_shipin">Вiдео</string>
 	<string name="search_tupian">Зображення</string>
 	<string name="send_to_desktop">Ярлик</string>

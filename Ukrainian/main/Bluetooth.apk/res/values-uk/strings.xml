@@ -102,7 +102,7 @@
 	<string name="bpp_main">Роздрук по Bluetooth</string>
 	<string name="bpp_printing_button_text">Друк</string>
 	<string name="bpp_setting_text">Налаштування</string>
-	<string name="bpp_cancel">Відміна</string>
+	<string name="bpp_cancel">Скасувати</string>
 	<string name="bpp_session_key_dialog_title">Введіть ключ сесії для %1$s</string>
 	<string name="bpp_session_key_dialog_header">Потрібно ключ сесії Bluetooth</string>
 	<string name="bpp_authentication_timeout_message">Таймаут введення ключа до пристрою \"%1$s\" вичерпано</string>
@@ -111,8 +111,8 @@
 	<string name="status_bpp_door_open">Друк не вдався</string>
 	<string name="status_bpp_media_low">Друк скасовано: помилка потоку</string>
 	<string name="status_bpp_media_empty">Помилка друку: немає доступу до медіафайлу</string>
-	<string name="status_bpp_output_area_almost_full">Відміна друку: черга друку дуже велика</string>
-	<string name="status_bpp_output_area_full">Відміна друку: черга друку дуже велика</string>
+	<string name="status_bpp_output_area_almost_full">Скасування друку: черга друку дуже велика</string>
+	<string name="status_bpp_output_area_full">Скасування друку: черга друку дуже велика</string>
 	<string name="status_bpp_marker_supply_low">Помилка друку: низький рівень заряду</string>
 	<string name="status_bpp_marker_supply_empty">Помилка друку: відсутній рівень заряду</string>
 	<string name="status_bpp_marker_failure">Помилка друку: помилка Маркета</string>

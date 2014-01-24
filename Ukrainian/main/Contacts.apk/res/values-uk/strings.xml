@@ -298,7 +298,7 @@
     <string name="sms_disambig_title">Оберіть номер</string>
     <string name="make_primary">Запам\'ятати вибір</string>
     <string name="quickcontact_missing_app">Немає додатків для виконання цієї дії</string>
-    <string name="missing_name">Ім\'я не вказано</string>
+    <string name="missing_name">Групи</string>
     <string name="menu_accounts">Облікові записи</string>
     <string name="menu_clear_frequents">Очистити часто вживані</string>
     <string name="menu_contacts_filter">Фільтр контактів</string>
@@ -496,8 +496,8 @@
     <string name="delete_group_dialog_message">Видалити групу \"%1$s\"? Контакти цієї групи видалені не будуть.</string>
     <string name="toast_join_with_empty_contact">Введіть ім\'я контакту перед тим, як об\'єднувати його з другим</string>
     <string name="copy_text">Копіювати в буфер обміну</string>
-    <string name="set_default">Установить по замовчанню</string>
-    <string name="clear_default">Видалити налаштування по замовчанню</string>
+    <string name="set_default">Установить за замовчуванням</string>
+    <string name="clear_default">Видалити налаштування за замовчуванням</string>
     <string name="toast_text_copied">Текст скопійований</string>
     <string name="cancel_confirmation_dialog_title">Скасувати зміни</string>
     <string name="cancel_confirmation_dialog_message">Скасувати зміни?</string>
@@ -566,7 +566,7 @@
     <string name="primary_indicator">Основний</string>
     <string name="contactDetailCalllog">Історія викликів</string>
     <string name="ringLabelsGroup">Мелодія</string>
-    <string name="default_ringtone">Мелодія по замовчанню</string>
+    <string name="default_ringtone">Мелодія за замовчуванням</string>
     <string name="callNoAnswerTimeFormat">Виклик: %s гудків</string>
     <string name="menu_send_to_desktop">Надіслати на домашній екран</string>
     <string name="send_contact_shortcut_todesktop_success">Додано на стільницю.</string>
@@ -773,7 +773,7 @@
     <string name="preference_phone_more_title">Налаштування викликів</string>
     <string name="preference_dial_pad_touch_tone_switch">Звук клавіш</string>
     <string name="preference_tone_title">Звук</string>
-    <string name="preference_dial_pad_touch_tone_default">По замовчанню</string>
+    <string name="preference_dial_pad_touch_tone_default">За замовчуванням</string>
     <string name="preference_dial_pad_touch_tone_piano">Піаніно</string>
     <string name="preference_dial_pad_touch_tone_human">Голос</string>
     <string name="ic_menu_done">Готово</string>
@@ -936,7 +936,7 @@
     <string name="sdcard_status_changed_dialog_title">Змінено статус SD карти</string>
     <string name="sdcard_status_changed_dialog_message">Додаток буде вимкнено.\nВиконайте цей додаток знову, щоб оновити ресурси.</string>
     <string name="resource_mute">Нічого</string>
-    <string name="resource_default">Мелодія по замовчанню</string>
+    <string name="resource_default">Мелодія за замовчуванням</string>
     <string name="resource_ringtone_default">Мелодії</string>
     <string name="resource_notification_default">Сповіщення</string>
     <string name="resource_alarm_default">Будильник</string>

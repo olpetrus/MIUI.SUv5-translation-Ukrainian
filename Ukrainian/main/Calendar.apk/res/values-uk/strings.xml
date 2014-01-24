@@ -58,7 +58,7 @@
     <string name="privacy_label">Конфіденційність</string>
     <string name="reminders_label">Додати нагадування</string>
     <string name="no_syncable_calendars">Нема календарів</string>
-    <string name="no_calendars_found">Додати подію можна лише в видимий календар, пов\'язаний с обліковкою Google. Натисніть \"Додати обліковку\" або, якщо обліковку вже додано, дочекайтеся закінчення синхронізації і повторіть спробу. Або натисніть \"Відміна\" й створіть видимим хоча б один календар.</string>
+    <string name="no_calendars_found">Додати подію можна лише в видимий календар, пов\'язаний с обліковкою Google. Натисніть \"Додати обліковку\" або, якщо обліковку вже додано, дочекайтеся закінчення синхронізації і повторіть спробу. Або натисніть \"Скасувати\" й створіть видимим хоча б один календар.</string>
     <string name="create_an_account_desc">Підключіть Календар до обліковки Google,щоб: \n\n• Завжди мати під рукою оновлені дані на будь-якому пристрої.\n• Синхронізуйте всі події – ви ніколи не загубите їх.</string>
     <string name="add_account">Додати обліковку</string>
     <string name="view_event_calendar_label">Календар:</string>
@@ -91,7 +91,7 @@
     <string name="edit_label">Змінити</string>
     <string name="delete_label">Видалити</string>
     <string name="save_label">Готово</string>
-    <string name="discard_label">Відміна</string>
+    <string name="discard_label">Скасувати</string>
     <string name="snooze_all_label">Відкласти все</string>
     <string name="dismiss_all_label">Видалити все</string>
     <string name="snooze_label">Відкласти</string>
