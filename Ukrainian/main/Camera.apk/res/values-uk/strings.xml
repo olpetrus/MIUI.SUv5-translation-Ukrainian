@@ -561,7 +561,7 @@
     <string name="times">Час</string>
     <string name="width">Ширина</string>
     <string name="albums">Альбоми</string>
-    <string name="select_all">Вибрати все</string>
+    <string name="select_all">Вибрати всі</string>
     <string name="set_label_all_albums">Всі альбоми</string>
     <string name="send_multiple_files_hint_format">Надсилання декількох файлів (%s)</string>
     <string name="simple_mode_button_text_hdr">Вимкнути HDR режим</string>
@@ -962,7 +962,7 @@
     <string name="on_device_help_focus">Натисніть, щоб налагодити фокус камери</string>
     <string name="on_device_help_camcorder">Перейти в режим відеокамери</string>
     <string name="on_device_help_self">Перемкнутися в режим автопортрета</string>
-    <string name="on_device_help_editable">Натисніть та утримуйте ярлик, який потрібно пересунути. Потім пересуньте його в потрібне місце</string>
+    <string name="on_device_help_editable">Натисніть та утримуйте ярлик, який потрібно перемістити. Потім пересуньте його в потрібне місце</string>
     <string name="on_device_help_voicecommand">Ви можете робити знімки з допомогою голосових команд, таких як \"Зйомка\", \"Знімок\", \"Посмішка\" або \"Сир\"</string>
     <string name="Title_VideoSpeed">Швидкість</string>
     <string name="SPEED_OFF">Звичайне</string>

@@ -46,7 +46,7 @@
 	<string name="starting_preset_app">Запуск…</string>
 	<string name="install">Встановити</string>
 	<string name="cant_remove_folder">Неможливо видалити теку.</string>
-	<string name="failed_to_drop">Не вдалося пересунути.</string>
+	<string name="failed_to_drop">Не вдалося перемістити.</string>
 	<string name="failed_to_drop_widget_nospace">На цьому головному вікні немає вільного місця</string>
 	<string name="failed_to_drop_widget_invalid">Недопустимий віджет.</string>
 	<string name="failed_to_delete_temporary">Не вдалося видалити.</string>

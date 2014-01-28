@@ -441,8 +441,8 @@
     <string name="upgrade_out_of_memory_retry">Повторить спробу оновлення</string>
     <string name="search_results_searching">Пошук…</string>
     <string name="menu_display_selected">Показати обрані</string>
-    <string name="menu_display_all">Показати все</string>
-    <string name="menu_select_all">Вибрати все</string>
+    <string name="menu_display_all">Показати всі</string>
+    <string name="menu_select_all">Вибрати всі</string>
     <string name="menu_select_none">Зняти вибір</string>
     <string name="no_contacts_selected">Контакти не вибрано.</string>
     <string name="add_field">Додати поле</string>
@@ -647,7 +647,7 @@
     <string name="auto_set_nickname">Авто</string>
     <string name="restore_nickname">Відновлення</string>
     <string name="custom_nickname_hint">Введіть псевдо</string>
-    <string name="select_all">Вибрати все</string>
+    <string name="select_all">Вибрати всі</string>
     <string name="deselect_all">Зняти вибір</string>
     <string name="select_none">Нічого не обрано</string>
     <string name="toast_finish_delete_call_log">Журнал викликів видалено</string>
@@ -1005,7 +1005,7 @@
 	<string name="simContacts_airplaneMode">Вимкніть режим літака для імпорту контактів з SIM карти</string>
 	<string name="simContacts_empty">Немає контактів на SIM карті</string>
 	<string name="sim_contact_dropdown_menu_deselect_all_miui">Зняти вибір</string>
-	<string name="sim_contact_dropdown_menu_select_all_miui">Вибрати все</string>
+	<string name="sim_contact_dropdown_menu_select_all_miui">Вибрати всі</string>
 	<string name="toast_copy_done">Готово</string>
 	<string name="delete_selected_sim_entry_miui">Видалити обрані контакти</string>
 	<string name="delete_sim_entries_finish">Контакти з SIM карти видалені</string>

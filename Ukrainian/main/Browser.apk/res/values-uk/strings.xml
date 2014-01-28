@@ -328,7 +328,7 @@
 	<string name="geolocation_settings_page_dialog_message">Закрити цьому сайту доступ до даних про ваше місцезнаходження?</string>
 	<string name="geolocation_settings_page_dialog_ok_button">ОК</string>
 	<string name="geolocation_settings_page_dialog_cancel_button">Cкасування</string>
-	<string name="website_settings_clear_all">Очистити все</string>
+	<string name="website_settings_clear_all">Очистити всі</string>
 	<string name="website_settings_clear_all_dialog_message">Очистити всі дані веб-сайту і дозвiли?</string>
 	<string name="website_settings_clear_all_dialog_ok_button">ОК</string>
 	<string name="website_settings_clear_all_dialog_cancel_button">Cкасування</string>

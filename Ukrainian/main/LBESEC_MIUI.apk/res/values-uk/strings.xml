@@ -110,9 +110,9 @@
     <string name="HIPS_Perm_PhoneID_ICCID">отримати серійний номер SIM карти</string>
     <string name="HIPS_Perm_PhoneID_Number">отримати номер телефону</string>
     <string name="HIPS_Perm_PhoneID_IMSI">отримати номер IMSI</string>
-    <string name="HIPS_Perm_AllowAll">Дозволити все</string>
-    <string name="HIPS_Perm_PromptAll">З запитом все</string>
-    <string name="HIPS_Perm_RejectAll">Заборонити все</string>
+    <string name="HIPS_Perm_AllowAll">Дозволити всі</string>
+    <string name="HIPS_Perm_PromptAll">З запитом всі</string>
+    <string name="HIPS_Perm_RejectAll">Заборонити всі</string>
     <string name="HIPS_Perm_ROOT_Title">отримати ROOT</string>
     <string name="HIPS_Perm_ListenCallState">контроль статусу виклику</string>
     <string name="HIPS_Perm_GetCallState">отримати поточний статус виклику</string>
@@ -168,7 +168,7 @@
     <string name="Dashboard_Su_Enable_Content">Увімкнення цього дозволить додаткам запитувати ROOT доступ.
 Увага: Додатки з ROOT доступом можуть призвести до нестабільності системи, навіть до втрати приватної інформації, програмним або апаратним пошкодженням. Будь ласка, будьте обережні. Увімкнути?</string>
     <string name="Dashboard_Log_Clear_Title">Очищення журналів</string>
-    <string name="Dashboard_Log_Clear_Content">Все журнали будуть видалені. Увімкнути?</string>
+    <string name="Dashboard_Log_Clear_Content">Всі журнали будуть видалені. Увімкнути?</string>
     <string name="Privacy_Perm_Count">Дозволених: %1$d Заборонених: %2$d</string>
     <string name="Privacy_AppPerm_Count">%1$d дозволів</string>
     <string name="Privacy_AppPerm_Count_Trust">%1$d дозволів - &lt;font color=#478800>Довірених&lt;/font></string>

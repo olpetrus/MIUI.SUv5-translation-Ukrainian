@@ -563,7 +563,7 @@
     <string name="wifi_value_content_string" />
     <string name="wifi_savebtn">NVRAM Зберегти в файл</string>
     <string name="wifi_burnbtn">Запис з файлу</string>
-    <string name="wifi_readallbtn">Прочитати все</string>
+    <string name="wifi_readallbtn">Прочитати всі</string>
     <string name="wifi_clearbtn">Очистить</string>
     <string name="wifi_misc_text">Вимірювання температури датчика:</string>
     <string name="wifi_misc_gobtn">Почати</string>
@@ -897,7 +897,7 @@
     <string name="desense_freqhopping_0x">0x</string>
     <string name="desense_freqhopping_enable">Увімкнути</string>
     <string name="desense_freqhopping_disable">Вимкнути</string>
-    <string name="desense_freqhopping_readall">Прочитати все</string>
+    <string name="desense_freqhopping_readall">Прочитати всі</string>
     <string name="desense_freqhopping_hint_dds">DDS</string>
     <string name="desense_freqhopping_hint_freq">Delta Частота</string>
     <string name="desense_freqhopping_hint_time">Delta Час</string>
@@ -1207,7 +1207,7 @@
     <string name="hqa_nfc_2648">26.48kbps</string>
     <string name="hqa_nfc_subcarrier">Несуча</string>
     <string name="hqa_nfc_dual_subcarrier">Подвійна несуча</string>
-    <string name="hqa_nfc_select_all">Вибрати все</string>
+    <string name="hqa_nfc_select_all">Вибрати всі</string>
     <string name="hqa_nfc_clear_all">Очистить вибір</string>
     <string name="hqa_nfc_start">Почати</string>
     <string name="hqa_nfc_stop">Закінчити</string>

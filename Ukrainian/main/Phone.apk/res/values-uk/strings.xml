@@ -499,7 +499,7 @@
 	<string name="onscreenManageConferenceText">Керування конференцією</string>
 	<string name="onscreenAudioText">Аудіо</string>
 	<string name="importSimEntry">Імпорт</string>
-	<string name="importAllSimEntries">Імпортувати все</string>
+	<string name="importAllSimEntries">Імпортувати всі</string>
 	<string name="importingSimContacts">Імпорт контактів з SIM карти</string>
 	<string name="importToFDNfromContacts">Імпортувати з контактів</string>
 	<string name="hac_mode_title">Слухові апарати</string>
@@ -645,8 +645,8 @@
 	<string name="default_preference_summary">&lt;Не настроєно></string>
 	<string name="display_name_summary">&lt;Збігається з іменем користувача></string>
 	<string name="optional_summary">&lt;Не обов\'язково></string>
-	<string name="advanced_settings_show">▷ Натисніть, щоб показати все</string>
-	<string name="advanced_settings_hide">▽ Натисніть, щоб приховати все</string>
+	<string name="advanced_settings_show">▷ Натисніть, щоб показати всі</string>
+	<string name="advanced_settings_hide">▽ Натисніть, щоб приховати всі</string>
 	<string name="empty_alert">\"%s\" не може бути порожньою</string>
 	<string name="not_a_valid_port">Номер порту повинен бути від 1000 до 65534</string>
 	<string name="no_internet_available_title">Відсутня під\'єднання Інтернету</string>
@@ -968,7 +968,7 @@
 	<string name="manage_fdn_list_miui">Фіксований набір: список</string>
 	<string name="manage_fdn_list_sum_miui">Керування списком номерів</string>
 	<string name="menu_select_title">Обрано: %d</string>
-	<string name="menu_select_all">Вибрати все</string>
+	<string name="menu_select_all">Вибрати всі</string>
 	<string name="menu_deselect_all">Зняти вибір</string>
 	<string name="mismatch_pin2_miui">Введені PIN2 не збігаються</string>
 	<string name="mismatch_pin_miui">Введені PIN не збігаються</string>
@@ -1037,7 +1037,7 @@
 	<string name="set_smsc_address_timeout_miui">Таймаут під\'єднання</string>
 	<string name="set_smsc_address_title_miui">Номер SMS центра</string>
 	<string name="sim_contact_dropdown_menu_deselect_all_miui">Зняти виділення</string>
-	<string name="sim_contact_dropdown_menu_select_all_miui">Виділити все</string>
+	<string name="sim_contact_dropdown_menu_select_all_miui">Виділити всі</string>
 	<string name="sim_contact_name_miui">Ім\'я</string>
 	<string name="sim_contact_number_miui">Номер</string>
 	<string name="sim_lock_off_miui">Необхідно ввести PIN</string>
@@ -1168,7 +1168,7 @@
 	<string name="antispam_notification_title">Розумне визначення номерів</string>
     <string name="antispam_provider">Визначено %s</string>
     <string name="which_call_to_activate">Який виклик активувати?</string>
-    <string name="onscreenHangupAll">Завершить все</string>
+    <string name="onscreenHangupAll">Завершить всі</string>
     <string name="onscreenHangupHolding">Завершить проведенням</string>
     <string name="onscreenHangupActiveAndAnswerWaiting">Завершення активне, очікування відповіді</string>
     <string name="onscreenECT">Обмін</string>
@@ -1382,7 +1382,7 @@
     <string name="call_reject_list_add">Додати</string>
     <string name="add_call_reject_number">Додати номер</string>
     <string name="select_from">Вибрати з</string>
-    <string name="select_all">Вибрати все</string>
+    <string name="select_all">Вибрати всі</string>
     <string name="select_clear">Очистити виділення</string>
     <string name="select_trash">Сміття</string>
     <string name="selected_item_count">Обрано: %d</string>
@@ -1394,7 +1394,7 @@
     <string name="lable_all_out_except">Вихідні міжнародні виклики, за винятком НМСОП</string>
     <string name="lable_all_incoming">Всі вхідні виклики</string>
     <string name="lable_incoming_calls_except">Вхідні виклики в роумінгу</string>
-    <string name="deactivate_all">Скасувати все</string>
+    <string name="deactivate_all">Скасувати всі</string>
     <string name="change_password">Змінити пароль</string>
     <string name="call_barring_sum">Заборона викликів</string>
     <string name="lable_disable">Вимкнено</string>

@@ -90,7 +90,7 @@
 	<string name="theme_import_stoping">Зупинка…</string>
 	<string name="theme_import_oper_stop">Стоп</string>
 	<string name="theme_import_oper_stop_request_content">Зупинити оновлення тем?</string>
-	<string name="theme_import_oper_start">Оновити все</string>
+	<string name="theme_import_oper_start">Оновити всі</string>
 	<string name="theme_import_oper_complete">Оновлення завершено</string>
 	<string name="theme_import_item_not_upgraded">Не оновлено</string>
 	<string name="theme_import_item_waiting">Очікування…</string>
@@ -107,7 +107,7 @@
 	<string name="theme_import_data">Ініціалізація…</string>
 	<string name="theme_batch_has_update_text">Оновлення тем: %1$d</string>
 	<string name="theme_batch_updating_text">Оновлено тем: %1$d</string>
-	<string name="theme_batch_update_all">Оновити все</string>
+	<string name="theme_batch_update_all">Оновити всі</string>
 	<string name="theme_batch_update_dlg_title">Оновити</string>
 	<string name="theme_batch_update_dlg_content">Оновити зараз?</string>
     <string name="theme_batch_update_dlg_content_single">Оновити зараз?</string>

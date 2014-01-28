@@ -2260,7 +2260,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="audio_preference_title">Слух</string>
     <string name="mono_audio_title">Монозвук</string>
     <string name="mono_audio_summary">Переключати аудіо з режиму стерео на моно у разі використання одного навушника</string>
-    <string name="sync_all_label">Синхр. все</string>
+    <string name="sync_all_label">Синхр. всі</string>
     <string name="sync_now_label">Синхр. зараз</string>
     <string name="cancel_sync_label">Скас. синхр.</string>
     <string name="account_label_for_social_hub">%s для Social Hub</string>

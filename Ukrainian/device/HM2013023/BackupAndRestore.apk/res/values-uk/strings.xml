@@ -4,7 +4,7 @@
     <string name="backup">Бекап</string>
     <string name="restore">Відновлення</string>
     <string name="backuptosd">Бекап на SD-карту</string>
-    <string name="selectall">Вибрати все</string>
+    <string name="selectall">Вибрати всі</string>
     <string name="unselectall">Зняти вибір</string>
     <string name="contact_module">Контакти</string>
     <string name="message_module">Повідомлення</string>
@@ -56,7 +56,7 @@
     <string name="updating">Оновлення…</string>
     <string name="create_folder_fail">Помилка створення теки</string>
     <string name="import_data">Імпортувати</string>
-    <string name="replace_data">Пересунути</string>
+    <string name="replace_data">Перемістити</string>
     <string name="import_info">Всі нові дані будуть імпортовані в телефон</string>
     <string name="replace_info">Всі дані вашого телефону будуть переписані новими</string>
     <string name="no_data">Немає даних</string>

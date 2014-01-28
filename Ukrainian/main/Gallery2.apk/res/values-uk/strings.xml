@@ -373,8 +373,8 @@
 	<string name="share_as_photo">Поділитися фото</string>
 	<string name="deleted">Видалено</string>
 	<string name="undo">НАЗАД</string>
-	<string name="select_all">Обрати все</string>
-	<string name="deselect_all">Скасувати все</string>
+	<string name="select_all">Обрати всі</string>
+	<string name="deselect_all">Скасувати всі</string>
 	<string name="slideshow">Слайдшоу</string>
 	<string name="details">Властивості</string>
 	<string name="details_title">%1$d з %2$d:</string>

@@ -36,7 +36,7 @@
     <string name="settings_action">Налаштування</string>
     <string name="mailbox_settings_action">Параметри синхронізації</string>
     <string name="mark_as_unread_action">Відзначити як непрочитане</string>
-    <string name="move_action">Пересунути</string>
+    <string name="move_action">Перемістити</string>
     <string name="newer_action">Нові</string>
     <string name="older_action">Старі</string>
     <string name="plus_cc_label">Додати копію</string>
@@ -45,12 +45,12 @@
     <string name="close_action">Закрити</string>
     <string name="message_list_send_pending_messages_action">Надіслати всі</string>
     <string name="choose_attachment_dialog_title">Вибрати вкладення</string>
-    <string name="move_to_folder_dialog_title">Пересунути в теку</string>
+    <string name="move_to_folder_dialog_title">Перемістити  в теку</string>
     <string name="status_loading_messages">Завантаження повідомлень…</string>
     <string name="status_network_error">Помилка під\'єднання.</string>
     <string name="error_loading_message_body">Не вдалося завантажити повідомлення. Можливо, воно дуже велике.</string>
-    <string name="cannot_move_protocol_not_supported_toast">Пересування не підтримується в облікових записах з POP3.</string>
-    <string name="cannot_move_multiple_accounts_toast">Не вдалося пересунути повідомлення, так як вони знаходяться в різних облікових записах.</string>
+    <string name="cannot_move_protocol_not_supported_toast">Переміщення підтримується в облікових записах з POP3.</string>
+    <string name="cannot_move_multiple_accounts_toast">Не вдалося перемістити повідомлення, так як вони знаходяться в різних облікових записах.</string>
     <string name="cannot_move_special_mailboxes_toast">Не можна переміщувати повідомлення з тек Чернетки, Вихідні та Надіслані.</string>
     <string name="notification_to_account">Кому: %1$s</string>
     <string name="notification_multiple_new_messages_fmt">Нових повідомлень: %1$d</string>
@@ -439,8 +439,8 @@
     <string name="copy_email">Скопіювати e-mail адресу</string>
     <string name="copy_number">Скопіювати номер телефону</string>
     <string name="done">Повернутися</string>
-    <string name="alert_title_selected">Вибрати все</string>
-    <string name="alert_selected_all_message">" містить повідомлень: %d. Вибрати все?"</string>
+    <string name="alert_title_selected">Вибрати всі</string>
+    <string name="alert_selected_all_message">" містить повідомлень: %d. Вибрати всі?"</string>
     <string name="account_setup_index_title">Інструкція по налаштуванню</string>
     <string name="account_setup_index_label">Додайте обліковий запис</string>
     <string name="account_setup_index_other_mails">Інші поштові сервіси</string>

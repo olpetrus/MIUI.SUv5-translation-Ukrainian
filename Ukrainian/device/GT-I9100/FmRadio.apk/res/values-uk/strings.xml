@@ -80,7 +80,7 @@
     <string name="alrm_1_hr_past">Автоматичне вимкнення FM-радіо. Минула 1 година</string>
     <string name="alrm_2_hrs_past">Автоматичне вимкнення FM-радіо. Минуло %d годин</string>
     <string name="scan_channels">Пошук радіостанцій</string>
-    <string name="selectall">Вибрати все</string>
+    <string name="selectall">Вибрати всі</string>
     <string name="no_channel_selected">Оберіть хоча б один елемент</string>
     <string name="toast_airplane_mode">Неможливо використовувати FM-радіо, якщо включено автономний режим</string>
     <string name="dialog_tts_confirm">Встановити голосові дані, необхідні для синтезу мови</string>

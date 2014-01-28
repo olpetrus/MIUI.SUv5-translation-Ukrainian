@@ -204,7 +204,7 @@
     <string name="location_gps_summary">Встановлення GPS та A-GPS функцій, для прискорення визначення розташування</string>
     <string name="uninstall_select">Видалити обрані?</string>
     <string name="stop_select_app">Зупинити обрані?</string>
-    <string name="stop_all_app">Зупинити все</string>
+    <string name="stop_all_app">Зупинити всі</string>
     <string name="runningapp_stop_dlg_title">Зупинити службу?</string>
     <string name="runningapp_stop_dlg_text">Вимкнення цієї системної служби може вплинути на функціональність телефону. Щоб відновити роботу пристрою потрібно перезавантаження.</string>
     <string name="tether_title">Персональна точка доступу</string>
@@ -593,7 +593,7 @@
     <string name="unlock_set_unlock_password_summary">Високий рівень захисту</string>
     <string name="unlock_set_unlock_disabled_summary">Заборонено адміністратором, політикою шифрування або сховищем облікових даних</string>
     <string name="unlock_set_unlock_mode_off">Ні</string>
-    <string name="unlock_set_unlock_mode_none">Пересунути значок блокування</string>
+    <string name="unlock_set_unlock_mode_none">Перемістити значок блокування</string>
     <string name="unlock_set_unlock_mode_biometric_weak">Фейсконтроль</string>
     <string name="unlock_set_unlock_mode_pattern">Графічний ключ</string>
     <string name="unlock_set_unlock_mode_pin">PIN</string>
@@ -1214,7 +1214,7 @@
     <string name="erase_external_storage_description">Видалити з USB накопичувача всі дані, в том числі музику та світлини</string>
     <string name="master_clear_button_text">Скидання налаштувань телефону</string>
     <string name="master_clear_final_desc">Видалити всю приватну інформацію та завантажені додатки без можливості відновлення?</string>
-    <string name="master_clear_final_button_text">Видалити все</string>
+    <string name="master_clear_final_button_text">Видалити всі</string>
     <string name="master_clear_gesture_prompt">Накреслити графічний ключ</string>
     <string name="master_clear_gesture_explanation">Для підтвердження скидання налаштувань необхідно накреслити графічний ключ.</string>
     <string name="master_clear_failed">Скидання не виконано, оскільки служба System Clear недоступна.</string>
@@ -1225,7 +1225,7 @@
     <string name="internal_media_format_final_desc">Видалити всі дані з внутрішнього накопичувача? Цю дію неможливо скасувати! Телефон буде перезавантажений після видалення всіх даних!</string>
     <string name="media_format_title">Очистити USB накопичувач</string>
     <string name="media_format_summary">Видалення всіх даних з USB накопичувача</string>
-    <string name="media_format_desc">Очистити USB накопичувач? Ви загубите <b>все</b> дані на ньому.</string>
+    <string name="media_format_desc">Очистити USB накопичувач? Ви загубите <b>всі</b> дані на ньому.</string>
     <string name="media_format_button_text">Очистити USB накопичувач</string>
     <string name="media_format_final_desc">Видалити з USB накопичувача всі файли без можливості відновлення?</string>
     <string name="media_format_final_button_text">Видалити все</string>
@@ -1389,7 +1389,7 @@
     <string name="manage_space_text">Керування місцем</string>
     <string name="filter">Фільтр</string>
     <string name="filter_dlg_title">Параметри фільтру</string>
-    <string name="filter_apps_all">Все</string>
+    <string name="filter_apps_all">Всі</string>
     <string name="filter_apps_third_party">Сторонні</string>
     <string name="filter_apps_running">Що працюють</string>
     <string name="filter_apps_onsdcard">USB накопичувач</string>
@@ -1421,10 +1421,10 @@
     <string name="invalid_size_value">Не вдалося вирахувати розмір пакету</string>
     <string name="empty_list_msg">Немає сторонніх додатків.</string>
     <string name="version_text">Версія %1$s</string>
-    <string name="move_app">Пересунути</string>
-    <string name="move_app_to_internal">Пересунути на телефон</string>
-    <string name="move_app_to_sdcard">Пересунути на USB накопичувач</string>
-    <string name="moving">Пересування</string>
+    <string name="move_app">Перемістити</string>
+    <string name="move_app_to_internal">Перемістити на телефон</string>
+    <string name="move_app_to_sdcard">Перемістити на USB накопичувач</string>
+    <string name="moving">Переміщення</string>
     <string name="insufficient_storage">Недостатньо місця.</string>
     <string name="does_not_exist">Додаток не встановлено.</string>
     <string name="app_forward_locked">Додаток захищено від копіювання.</string>
@@ -1432,7 +1432,7 @@
     <string name="system_package">Системні оновлення не можна  на зовнішньому носії.</string>
     <string name="force_stop_dlg_title">Зупинити примусово?</string>
     <string name="force_stop_dlg_text">Примусове закриття додатку може вплинути на його функціональність.</string>
-    <string name="move_app_failed_dlg_text">Не вдалося пересунути додаток. %1$s</string>
+    <string name="move_app_failed_dlg_text">Не вдалося перемістити додаток. %1$s</string>
     <string name="app_install_location_title">Місце встановлення</string>
     <string name="app_install_location_summary">Змінити теку для встановлення додатків</string>
     <string name="app_disable_dlg_title">Вимкнути вбудований додаток?</string>
@@ -1918,7 +1918,7 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="misc_files">Різне</string>
     <string name="misc_files_selected_count" formatted="false">обрано %1$d з %2$d</string>
     <string name="misc_files_selected_count_bytes" formatted="false">%1$s з %2$s</string>
-    <string name="select_all">Вибрати все</string>
+    <string name="select_all">Вибрати всі</string>
     <string name="hdcp_checking_title">Перевірка HDCP</string>
     <string name="hdcp_checking_dialog_title">Порядок перевірки HDCP</string>
     <string name="debug_ui_category">Користувацький інтерфейс</string>
@@ -2328,9 +2328,9 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="perm_hips_phoneid_iccid">Отримання SIM Card SN</string>
     <string name="perm_hips_phoneid_number">Отримання ваш телефонний номер</string>
     <string name="perm_hips_phoneid_imsi">Отримання IMSI</string>
-    <string name="perm_hips_allow_all">Дозволити все</string>
+    <string name="perm_hips_allow_all">Дозволити всі</string>
     <string name="perm_hips_prompt_all">Всі по запиту</string>
-    <string name="perm_hips_reject_all">Заборонити все</string>
+    <string name="perm_hips_reject_all">Заборонити всі</string>
     <string name="perm_hips_root_title">Отримання прав ROOT</string>
     <string name="perm_hips_listen_call_state">Слідкування за станом телефону</string>
     <string name="perm_hips_get_call_state">Отримання поточного стану виклику</string>
@@ -3188,7 +3188,7 @@ Android File Transfer
     <string name="selected_item_count">Обрано: %d</string>
     <string name="gemini_sim_tether_unselect_all">Зняти вибір</string>
     <string name="gemini_sim_tether_nocontact_confirm">Гаразд</string>
-    <string name="gemini_sim_tether_select_all">Вибрати все</string>
+    <string name="gemini_sim_tether_select_all">Вибрати всі</string>
     <string name="gemini_sim_tether_select_ok">Зберегти</string>
     <string name="gemini_sim_tether_select_cancel">Скасувати</string>
     <string name="gemini_sim_tether_revert_title">Увага</string>
@@ -3207,7 +3207,7 @@ Android File Transfer
     <string name="launch_main_label">Запуск додатків</string>
     <string name="launch_main">Запустите додаток по основному виду діяльності</string>
     <string name="launch_activitie">Запуск</string>
-    <string name="move_app_to_where">Пересунути в %s</string>
+    <string name="move_app_to_where">Перемістити в %s</string>
     <string name="wifi_no_cert_for_wapi">Не вдалося знайти сертифікат для даного під\'єднання AP</string>
     <string name="sim_slot">Слот SIM</string>
     <string name="eap_sim_slot_0">Слот SIM1</string>
@@ -3691,7 +3691,7 @@ Android File Transfer
     <string name="optimizing">Оптимізація…</string>
 	<string name="virus_scanner_module">Tencent</string>
 	<string name="virus_scan_app_stop">Зупинити</string>
-    <string name="virus_scan_app_solve">Перевірити все</string>
+    <string name="virus_scan_app_solve">Перевірити всі</string>
 	<string name="firewall_settings_tab_title">Правила</string>
     <string name="black_white_list_tab_title">Фільтри</string>
     <string name="call_log_tab_title">Журнал викликів</string>

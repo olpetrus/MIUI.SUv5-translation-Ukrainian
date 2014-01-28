@@ -281,7 +281,7 @@
     <string name="scene_type_lowlight">слабка освітленість</string>
     <string name="scene_type_manual">Ручна настройка</string>
     <string name="scene_description_auto">Автоматичне розпізнавання та налаштування дозволяють домогтися найкращих результатів для більшості сцен.</string>
-    <string name="scene_description_panorama">Використовуйте режим Панорами якщо ви хочете відобразити все на одному знімку.</string>
+    <string name="scene_description_panorama">Використовуйте режим Панорами якщо ви хочете відобразити всі на одному знімку.</string>
     <string name="scene_description_hdr">Використовуйте функцію захоплення об\'єкта в налаштуваннях яскравості, це дозволить зробити контрастні фото."</string>
     <string name="scene_description_burst">Використовуйте Серійну зйомку, це дозволить відобразити всі кращі моменти."</string>
     <string name="scene_description_night">Використовуйте режим Вночі, це дозволить зробити яскраві знімки навіть в умовах поганої освітленості.</string>

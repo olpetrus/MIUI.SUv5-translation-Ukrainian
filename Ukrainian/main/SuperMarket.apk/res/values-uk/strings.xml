@@ -17,7 +17,7 @@
     <string name="menu_preferences">Налаштування</string>
     <string name="menu_login">Вхід</string>
     <string name="menu_account">Мій обліковий запис</string>
-    <string name="menu_install_all">Встановити все</string>
+    <string name="menu_install_all">Встановити всі</string>
     <string name="menu_download_manager">Завантаження</string>
     <string name="menu_refresh">Оновити</string>
     <string name="menu_clear_search_history">Очистити історію пошуку</string>
@@ -125,7 +125,7 @@
     <string name="category_header">Всі %1$s</string>
     <string name="publish_info">%3$s дата %1$s.%2$s</string>
     <string name="permissions_title">%1$s дані дозволено</string>
-    <string name="permissions_expand_title">Все дозволено</string>
+    <string name="permissions_expand_title">Всі дозволено</string>
     <string name="version_name">Версія %1$s</string>
     <string name="search_other_market">Подібні</string>
     <string name="result_notice">Результати надані Baidu App Center</string>
@@ -133,7 +133,7 @@
     <string name="show_all_local_app">Показати всі встановлені</string>
     <string name="show_all_local_app_with_count">Показати всі встановлені (%1$d)</string>
     <string name="enable_updata_local_app">Доступно оновлень: %1$s</string>
-    <string name="update_all">Оновити все</string>
+    <string name="update_all">Оновити всі</string>
     <string name="search_local_app_text_hint">Пошук (Встановлено %1$d додатків)</string>
     <string name="menu_update">Оновити</string>
     <string name="menu_ignore">Ігнорувати</string>
@@ -220,7 +220,7 @@
     <string name="install_google_base_title">Встановити Google Service Framework</string>
     <string name="install_google_base_message">\"%1$s\" для роботи запитує Google Service Framework</string>
     <string name="install_google_base_button">Встановити зараз</string>
-	<string name="upgrade_all_title">Оновити все</string>
+	<string name="upgrade_all_title">Оновити всі</string>
     <string name="upgrade_all_description">Оновити %1$s та %2$s?</string>
     <string name="status_downloading">Завантажено: %1$s%%</string>
     <string name="header_processing">Чергу завантажень</string>
@@ -295,7 +295,7 @@
     <string name="login_retry">Спробувати ще раз</string>
     <string name="failed_to_send_activate_email">Збій при надсиланні активаційного письма.</string>
     <string name="access_denied">Доступ заборонено</string>
-    <string name="first_recommend_download">Встановити все</string>
+    <string name="first_recommend_download">Встановити всі</string>
     <string name="first_recommend_enter">Увійти в маркет</string>
 	<string name="menu_clear_update_history">Очистити історію оновлень</string>
 	<string name="pref_category_title_notification">Сповіщення</string>
@@ -363,7 +363,7 @@
 	<string name="pref_category_title_slient_install">Сховати повідомлення при установці</string>
     <string name="pref_category_title_auto_update">Автопоновлення програм</string>
     <string name="pref_category_title_delta_update">Інкрементне оновлення</string>
-    <string name="pref_category_title_update_all">Оновити все</string>
+    <string name="pref_category_title_update_all">Оновити всі</string>
     <string name="pref_title_about">Про програму</string>
     <string name="pref_title_feature_intro">Особливості</string>
     <string name="pref_title_web_market">Web маркет</string>

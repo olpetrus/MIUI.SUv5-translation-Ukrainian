@@ -4,7 +4,7 @@
     <string name="confirm">Підтвердити</string>
     <string name="cancel">Скасувати</string>
     <string name="save">Зберегти</string>
-    <string name="select_all">Вибрати все</string>
+    <string name="select_all">Вибрати всі</string>
     <string name="deselect_all">Зняти вибір</string>
     <string name="network_error">Відсутнє під\'єднання до мережі. Перевірте налаштування та спробуйте ще раз.</string>
     <string name="server_failed">Не вдалося під\'єднатися до серверу. Спробуйте пізніше.</string>
@@ -203,9 +203,9 @@
     <string name="album_edit">Альбом</string>
     <string name="empty_edit_hint">Інформація про пісню не досяжна</string>
     <string name="modify_tracks_id3_background">Редагувати ID3 теги обраної пісні в фоні</string>
-    <string name="shuffle_all">Перемішати все</string>
-    <string name="play_all">Відтворити все</string>
-    <string name="click_to_shuffle">Натисніть, щоб перемішати все</string>
+    <string name="shuffle_all">Перемішати всі</string>
+    <string name="play_all">Відтворити всі</string>
+    <string name="click_to_shuffle">Натисніть, щоб перемішати всі</string>
     <string name="service_start_error_title">Проблема відтворення</string>
     <string name="service_start_error_msg">Вибачте, пісня не може бути відтворена.</string>
     <string name="service_start_error_button">Так</string>

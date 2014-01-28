@@ -225,7 +225,7 @@
     </string-array>
     <string-array name="auto_calib_iso">
         <item>Нічого не обрано</item>
-        <item>Вибрати все</item>
+        <item>Вибрати всі</item>
         <item>Авто</item>
         <item>ISO100</item>
         <item>ISO150</item>

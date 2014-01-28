@@ -53,7 +53,7 @@
     <string name="INSTALL_NOT_SUPPORT">Непідтримуваний тип</string>
     <string name="NEXT">Далі</string>
     <string name="INSTALL_NEW_ACCOUNT">Установку не завершено. Натисніть \"Далі\" для установки</string>
-    <string name="SELECT_ALL">Вибрати все</string>
+    <string name="SELECT_ALL">Вибрати всі</string>
     <string name="INSTALLED">Встановлені</string>
     <string name="DSCANCEL">Налаштування не збережено. Ви не будете мати можливості синхронізувати контакти та календар подій</string>
     <string name="DEFAULTCANCEL">Налаштування не збережено</string>

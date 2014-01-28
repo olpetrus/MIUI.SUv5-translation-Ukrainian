@@ -28,7 +28,7 @@
      <string name="cancel">Скасувати</string>
      <string name="cancel_favorite">З обраного</string>
      <string name="cancel_hide">Показати</string>
-     <string name="cancel_select_all">Зняти все</string>
+     <string name="cancel_select_all">Зняти всі</string>
      <string name="cancel_waitfornewset">Відписатися</string>
      <string name="cant_connecting">Не вдається під\'єднатися до серверу</string>
      <string name="channel_more">Ще</string>
@@ -106,7 +106,7 @@
      <string name="live_loading_to_be_play">Завантаження…</string>
      <string name="live_pending_symbol"><CDATA>Буферизація…</CDATA></string>
      <string name="live_pending_to_be_play">Завантаження…</string>
-     <string name="live_tabs_all">Все</string>
+     <string name="live_tabs_all">всі</string>
      <string name="live_tabs_choice">Популярне</string>
      <string name="live_tabs_hot">Топ</string>
      <string name="live_title">Live</string>
@@ -182,7 +182,7 @@
      <string name="show_hidemedia">Показувати приховані файли</string>
      <string name="souhu">Souhu</string>
      <string name="special_subject">Спеціальні</string>
-     <string name="subchannel_all">Все</string>
+     <string name="subchannel_all">Всі</string>
      <string name="success_add_myfavorite">Додано в обране</string>
      <string name="success_cancel_myfavorite">Вилучено з обраного</string>
      <string name="success_cancel_waitfornewset">Скасовано слідкування за показами.</string>

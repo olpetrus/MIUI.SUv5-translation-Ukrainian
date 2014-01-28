@@ -145,7 +145,7 @@
     <string name="navigation_search_positioning_failed">Оберіть місто</string>
     <string name="navigation_search_no_city_list">Немає результатів</string>
     <string name="navigation_search_hot_cities">Популярні</string>
-    <string name="navigation_search_all_cities">Все міста</string>
+    <string name="navigation_search_all_cities">Всі міста</string>
     <string name="order_empty_hint">Немає замовлень</string>
     <string name="order_merchant_title">Мої замовлення</string>
     <string name="order_id">ID замовлення: %s</string>

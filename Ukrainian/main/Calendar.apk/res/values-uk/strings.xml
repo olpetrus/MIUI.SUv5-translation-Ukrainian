@@ -52,7 +52,7 @@
     <string name="edit_event_from_label">З</string>
     <string name="edit_event_all_day_label">Цілий день</string>
     <string name="edit_event_calendar_label">Календар</string>
-    <string name="edit_event_show_all">Показати все</string>
+    <string name="edit_event_show_all">Показати всі</string>
     <string name="description_label">Опис</string>
     <string name="presence_label">Мій статус</string>
     <string name="privacy_label">Конфіденційність</string>
@@ -92,8 +92,8 @@
     <string name="delete_label">Видалити</string>
     <string name="save_label">Готово</string>
     <string name="discard_label">Скасувати</string>
-    <string name="snooze_all_label">Відкласти все</string>
-    <string name="dismiss_all_label">Видалити все</string>
+    <string name="snooze_all_label">Відкласти всі</string>
+    <string name="dismiss_all_label">Видалити всі</string>
     <string name="snooze_label">Відкласти</string>
     <string name="does_not_repeat">Одноразова подія</string>
     <string name="daily">Щоденно</string>

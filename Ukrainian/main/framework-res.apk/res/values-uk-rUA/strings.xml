@@ -680,7 +680,7 @@
     <string name="no_permissions">Не потрібно дозволів</string>
     <string name="perms_description_app">Надано %1$s</string>
     <string name="perms_hide">Приховати</string>
-    <string name="perms_show_all">Показати все</string>
+    <string name="perms_show_all">Показати всі</string>
     <string name="perms_new_perm_prefix">"НОВЕ: "</string>
     <string name="usb_storage_activity_title">Запам\'ятовуючий пристрій USB</string>
     <string name="usb_storage_title">USB накопичувач під\'єднано</string>

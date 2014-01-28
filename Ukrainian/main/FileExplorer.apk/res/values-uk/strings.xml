@@ -22,7 +22,7 @@
     <string name="operation_info">Властивості</string>
     <string name="operation_cancel">Скасувати</string>
     <string name="operation_refresh">Оновити</string>
-    <string name="operation_selectall">Вибрати все</string>
+    <string name="operation_selectall">Вибрати всі</string>
     <string name="operation_cancel_selectall">Прибрати виділення</string>
     <string name="operation_show_sys">Показати приховані</string>
     <string name="operation_hide_sys">Не показувати приховані</string>
@@ -33,7 +33,7 @@
     <string name="tab_category">Категорії</string>
     <string name="tab_phone">Телефон</string>
     <string name="sd_folder">SD карта</string>
-    <string name="category_all">Все</string>
+    <string name="category_all">Всі</string>
     <string name="category_music">Музика</string>
     <string name="category_video">Відео</string>
     <string name="category_picture">Зображення</string>
@@ -245,8 +245,8 @@
     <string name="download_successful">Завантаження завершено</string>
     <string name="operation_pause">Пауза</string>
     <string name="operation_resume">Запуск</string>
-    <string name="operation_pause_all">Припинити все</string>
-    <string name="operation_resume_all">Виконати все</string>
+    <string name="operation_pause_all">Припинити всі</string>
+    <string name="operation_resume_all">Виконати всі</string>
     <string name="operating">Обробка…</string>
     <string name="trans_task">Передача по мережі</string>
     <string name="trans_task_delete_confirm_message">Вибрано завдань: %1$d. Видалити?</string>

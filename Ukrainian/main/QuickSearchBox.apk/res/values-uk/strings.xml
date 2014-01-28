@@ -5,7 +5,7 @@
     <string name="remove_from_history">Видалити з історії пошуку?</string>
     <string name="remove_from_history_failed">Не вдалося видалити об\'єкт з історії пошуку</string>
     <string name="corpus_selection_heading">Пошук</string>
-    <string name="corpus_label_global">Все</string>
+    <string name="corpus_label_global">Всі</string>
     <string name="corpus_label_web">Інтернет</string>
     <string name="corpus_description_web">Інтернет та закладки</string>
     <string name="corpus_label_apps">Додатки</string>
