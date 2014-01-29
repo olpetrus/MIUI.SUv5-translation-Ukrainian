@@ -212,7 +212,7 @@
     <string name="cant_delete_cloud_album">Помилка видалення: %s системний альбом або створений іншим користувачем.</string>
     <string name="cannot_delete_sharer_photo">Неможливо видалити елементів: %s. Файл завантажений іншим користувачем.</string>
     <string name="click_to_enter_camera">Альбом камери порожній. Для того, щоб зробити знімки натисніть на екран</string>
-    <string name="camera_view_none_message">Використовуйте Камеру для створення зображення та відео.</string>
+    <string name="camera_view_none_message">Використовуйте Камеру для створення зображення та відео</string>
 	<string name="can_modified">Дозволити отримувачу додавати малюнки</string>
     <string name="none_picture">Немає зображень</string>
     <string name="cancel_hint">Операція скасована</string>

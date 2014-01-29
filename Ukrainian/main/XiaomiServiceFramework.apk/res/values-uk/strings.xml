@@ -14,7 +14,7 @@
     <string name="bad_authentication">Невірний логін чи пароль.</string>
     <string name="int_phone_user_notice">Якщо ви знаходитесь за межами країни реєстрації, вказуйте номер в міжнародному форматі (наприклад +380xxxxxxxxx)</string>
     <string name="micloud_welcome_skip_login"><u>Пропустити цей крок</u></string>
-    <string name="micloud_account_name">Обліковий запис Xiaomi</string>
+    <string name="micloud_account_name">Xiaomi</string>
     <string name="micloud_use_existing">Існуючий</string>
     <string name="micloud_reg_new">Новий</string>
     <string name="micloud_error_empty_username">Введіть логін</string>

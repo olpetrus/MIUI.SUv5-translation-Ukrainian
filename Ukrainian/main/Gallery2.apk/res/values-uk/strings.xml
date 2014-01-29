@@ -182,7 +182,7 @@
 	<string name="no_storage">Вставте SD карту перед використанням камери.</string>
 	<string name="preparing_sd">Підготовка внутрішнього накопичувача…</string>
 	<string name="access_sd_fail">Немає доступу до USB накопичувача</string>
-	<string name="review_cancel">СКАСУВАТИ</string>
+	<string name="review_cancel">Скасувати</string>
 	<string name="review_ok">ГОТОВО</string>
 	<string name="time_lapse_title">Режим сповільненої зйомки</string>
 	<string name="pref_camera_id_title">Оберіть камеру</string>

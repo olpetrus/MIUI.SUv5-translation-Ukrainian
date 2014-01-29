@@ -54,7 +54,7 @@
     <string name="screenshot_saved_title">Знімок екрану збережено</string>
     <string name="screenshot_saved_text">Натисніть щоб переглянути знімок екрану.</string>
     <string name="screenshot_failed_title">Неможливо створити знімок екрану</string>
-    <string name="screenshot_failed_text">Неможливо зберегти знімок екрану. Накопичувач вже використовується.</string>
+    <string name="screenshot_failed_text">Неможливо зберегти знімок екрану. Можливо накопичувач вже використовується або недостатно пам\'яті.</string>
     <string name="usb_preference_title">Налаштування передачі файлів по USB</string>
     <string name="use_mtp_button_title">Під\'єднувати як медіапрогравач (MTP)</string>
     <string name="use_ptp_button_title">Під\'єднувати як камеру (PTP)</string>
@@ -346,4 +346,6 @@
 	<string name="usb_share_net_info">Використовувати інтернет комп\'ютера</string>
      <string name="torch_opened">Ліхтарик запущено</string>
      <string name="torch_closed">Ліхтарик закрито</string>
+	 <string name="oldman_airplane_mode_text">Режим польоту</string>
+      <string name="oldman_incall_text">incall</string>
 </resources>

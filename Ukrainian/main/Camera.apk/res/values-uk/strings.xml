@@ -515,9 +515,9 @@
     <string name="folder_imported">Імпортовано</string>
     <string name="folder_screenshot">Знімки екрану</string>
     <string name="deleted">Видалено</string>
-    <string name="undo">НАЗАД</string>
+    <string name="undo">Назад</string>
     <string name="ok">Гаразд</string>
-    <string name="cancel">СКАСУВАТИ</string>
+    <string name="cancel">Скасувати</string>
     <string name="set_as">Встановити як</string>
     <string name="no_thumbnail">Немає ескізів</string>
     <string name="loading">Завантаження…</string>

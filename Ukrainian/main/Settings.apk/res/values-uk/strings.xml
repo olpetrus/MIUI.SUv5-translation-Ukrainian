@@ -1125,7 +1125,7 @@
     <string name="install_text">Встановити</string>
     <string name="disable_text">Вимкнути</string>
     <string name="enable_text">Увімкнути</string>
-    <string name="clear_user_data_text">Стерти дані</string>
+    <string name="clear_user_data_text">Очистити дані</string>
     <string name="app_factory_reset">Видалити оновлення</string>
     <string name="auto_launch_enable_text">Цей додаток по замовчанню використовується для певних дій.</string>
     <string name="always_allow_bind_appwidgets_text">Ви дозволили цьому додатку створювати віджети та отримувати доступ до даних.</string>
@@ -1171,8 +1171,8 @@
     <string name="clear_data_failed">Не вдалося видалити дані додатки.</string>
     <string name="app_factory_reset_dlg_title">Видалити оновлення?</string>
     <string name="app_factory_reset_dlg_text">Всі оновлення для цього додатку будуть видалені.</string>
-    <string name="clear_failed_dlg_title">Видалити дані</string>
-    <string name="clear_failed_dlg_text">Не вдалося видалити дані.</string>
+    <string name="clear_failed_dlg_title">Очистити дані</string>
+    <string name="clear_failed_dlg_text">Не вдалося видалити дані</string>
     <string name="security_settings_desc">У цього додатку є доступ до наступної інформації на пристрої:</string>
     <string name="security_settings_desc_multi">Для збільшення швидкодії та зменшення споживання пам\'яті, деякі з дозволів доступні %1$s, так як він запущений одним процесом з %2$s:</string>
     <string name="join_two_items">%1$s та %2$s</string>

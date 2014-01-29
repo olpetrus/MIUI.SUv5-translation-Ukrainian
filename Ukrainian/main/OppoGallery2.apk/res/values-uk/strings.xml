@@ -23,9 +23,9 @@
     <string name="access_sd_fail">Нема доступу до SD карти.</string>
     <string name="confirm_restore_message">Відновити налаштування камери по замовчанню?</string>
     <string name="review_play">Відтворити</string>
-    <string name="review_cancel">СКАСУВАТИ</string>
-    <string name="review_ok">ГАРАЗД</string>
-    <string name="review_retake">ІНШИЙ ЗНІМОК</string>
+    <string name="review_cancel">Скасувати</string>
+    <string name="review_ok">Гаразд/string>
+    <string name="review_retake">Інший знімок</string>
     <string name="camera_gallery_photos_text">Галерея</string>
     <string name="time_lapse_title">Режим сповільненої зйомки</string>
     <string name="pref_camera_id_title">Вибір камери</string>
