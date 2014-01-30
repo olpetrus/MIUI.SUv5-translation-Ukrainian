@@ -80,9 +80,9 @@
     <string name="comment_publish">Підтвердити</string>
     <string name="comment_date">%1$02d.%2$02d</string>
     <string name="comment_description">%1$s%2$1s</string>
-    <string name="comment_count">Всього коментарів: %1$s</string>
+    <string name="comment_count">Коментарів: %1$s</string>
     <string name="comment_average_score">Середня оцінка</string>
-    <string name="comment_score_count">Користувачів: %1$s</string>
+    <string name="comment_score_count">Оцінок: %1$s</string>
     <string name="comment_name_default">Користувач %1$s</string>
     <string name="no_average_score">Немає середньої оцінки</string>
     <string name="all_comments">Всі</string>

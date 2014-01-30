@@ -610,7 +610,7 @@
     <string name="callrecordview_menu_delete_one">Видалити з журналу викликів</string>
     <string name="callrecordview_menu_add_call_note">Додати нотатки виклику</string>
     <string name="callrecordview_menu_edit_call_note">Редагувати нотатки виклику</string>
-    <string name="delete_call_log_title">Оберіть журнал викликів для видалення</string>
+    <string name="delete_call_log_title">Видалити з журналу викликів?</string>
     <string name="menu_dialpad_text">Клавіатура</string>
     <string name="dialer_empty_text_no_search_result">Не знайдено контактів</string>
     <string name="dialer_empty_text_loading">Завантаження…</string>
@@ -650,7 +650,7 @@
     <string name="select_all">Вибрати всі</string>
     <string name="deselect_all">Зняти вибір</string>
     <string name="select_none">Нічого не обрано</string>
-    <string name="toast_finish_delete_call_log">Журнал викликів видалено</string>
+    <string name="toast_finish_delete_call_log">Виклик видалено</string>
     <string name="confirm_delete_contact_all_call_logs">Видалити журнал викликів?</string>
     <string name="confirm_delete_selected_all_call_logs">Видалити журнал викликів?</string>
     <string name="confirm_delete_selected_call_log">Видалити вибране з журналу?</string>

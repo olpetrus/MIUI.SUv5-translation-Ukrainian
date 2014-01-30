@@ -303,7 +303,7 @@
     <string name="policylab_limitPassword">Встановлення правил паролів</string>
     <string name="policydesc_limitPassword">Регулювання довжини та змісту паролю для розблокування екрану</string>
     <string name="policylab_watchLogin">Відслідковувати спроби зняття блокування екрану</string>
-    <string name="policydesc_watchLogin">Відслідковувати кількість невірно введених паролів для зняття блокування екрану та блокувати телефон або знищити всі дані на ньому, якщо було введено дуже багато невірних паролів.</string>
+    <string name="policydesc_watchLogin">Відслідковувати кількість невірно введених паролів для зняття блокування екрану та блокувати телефон або знищити всі дані на ньому, якщо було введено дуже багато невірних паролів</string>
     <string name="policylab_resetPassword">Зміна паролю розблокування екрану</string>
     <string name="policydesc_resetPassword">Зміна паролю розблокування екрану</string>
     <string name="policylab_forceLock">Екран блокування</string>
@@ -311,9 +311,9 @@
     <string name="policylab_wipeData">Видалення всіх даних</string>
     <string name="policydesc_wipeData">Видалення всіх даних телефону без попередження для відновлення заводських налаштувань</string>
     <string name="policylab_setGlobalProxy">Встановлення глобального проксі пристрої</string>
-    <string name="policydesc_setGlobalProxy">Встановлення глобального проксі пристрої, якщо політика мережі увімкнено. Тільки адміністратор встановлює ефективний глобальний проксі.</string>
+    <string name="policydesc_setGlobalProxy">Встановлення глобального проксі пристрої, якщо політика мережі увімкнено. Тільки адміністратор встановлює ефективний глобальний проксі</string>
     <string name="policylab_expirePassword">Встановлення тривалості дії паролю для розблокування екрану</string>
-    <string name="policydesc_expirePassword">Контролює, як часто пароль для розблокування екрану повинен змінюватися</string>
+    <string name="policydesc_expirePassword">Контроль частоти зміни паролю для разблокування</string>
     <string name="policylab_encryptedStorage">Встановлення шифрування</string>
     <string name="policydesc_encryptedStorage">Шифрування даних додатки</string>
     <string name="policylab_disableCamera">Вимкнути камери</string>
