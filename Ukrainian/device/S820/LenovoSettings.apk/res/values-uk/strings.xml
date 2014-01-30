@@ -1951,7 +1951,7 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="disable_overlays_summary">Завжди використовувати GPU для відмальовування екрану</string>
     <string name="enable_traces_title">Увімкнути трасування</string>
     <string name="enable_traces_dialog_title">Вибрати трасування</string>
-    <string name="enable_traces_summary_none">Немає увімкненого трасування</string>
+    <string name="enable_traces_summary_none">Трасування не увімкнено</string>
     <string name="enable_traces_summary_num">%1$d увімкнених трасувань</string>
     <string name="enable_traces_summary_all">Всі трасування активовані</string>
     <string name="enable_opengl_traces_title">Увімкнути OpenGL трасування</string>
