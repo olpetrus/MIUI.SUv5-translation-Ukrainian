@@ -23,4 +23,14 @@
         <item quantity="other">Створення альбомів доступно в оффлайн режимі.</item>
         <item quantity="one">Створення альбомів доступно в оффлайн режимі.</item>
     </plurals>
+    <plurals name="infobar_num_video">
+        <item quantity="other">%1$d відео</item>
+        <item quantity="zero">%1$d відео</item>
+        <item quantity="one">%1$d відео</item>
+    </plurals>
+    <plurals name="infobar_num_image">
+       <item quantity="other">%1$d фото</item>
+       <item quantity="zero">%1$d фото</item>
+       <item quantity="one">%1$d фото</item>
+    </plurals>
 </resources>

@@ -76,7 +76,7 @@
 	<string name="pref_enable_drawing_cache_summary">Вимкнення звільняє пам\'ять. Призводить до певного сповільнення</string>
 	<string name="pref_icon_shadow_title">Тіні значків</string>
 	<string name="pref_icon_shadow_summary">Тіні значків робочого столу</string>
-	<string name="pref_screen_transformation_type_title">Ефекти переходу</string>
+	<string name="pref_screen_transformation_type_title">Ефект переходу</string>
 	<string name="transformation_type_classic">Класичний</string>
 	<string name="transformation_type_classic_no_overshoot">Класичний (Без прокручування)</string>
 	<string name="transformation_type_crossfade">Згасання</string>
