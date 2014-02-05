@@ -2868,7 +2868,7 @@ Android File Transfer
     <string name="safe_relative">Пов\'язані з безпекою</string>
     <string name="privacy_relative">Пов\'язані з конфіденційністю</string>
     <string name="other_relative">Інші дозволи</string>
-    <string name="permission_manage_title">%s дані дозволи</string>
+    <string name="permission_manage_title">Дозволи %1$s </string>
     <string name="filter_apps_cached">Кеш</string>
     <string name="screen">Екран</string>
     <string name="system">Система</string>

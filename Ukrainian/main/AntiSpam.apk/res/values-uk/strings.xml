@@ -239,7 +239,7 @@
 	<string name="st_mute_all">Не сповіщати про виклики та повідомлення</string>
 	<string name="st_mute_block">Не сповіщати про виклики та блокувати повідомлення</string>
 	<string name="st_mute_title">Не сповіщати</string>
-	<string name="st_settings_name">Налаштування</string>
+	<string name="st_settings_name">Налаштування чорного списку</string>
     <string name="st_block_setting_group">Настройка чорного списку</string>
     <string name="st_block_setting_title">Виклики та повідомлення</string>
 	<string name="st_sms_group">Повідомлення</string>
@@ -247,7 +247,7 @@
 	<string name="tab_block_log">Заблоковані</string>
 	<string name="tab_call">Виклики</string>
 	<string name="tab_sms">Повідомлення</string>
-	<string name="tab_title">Налаштування</string>
+	<string name="tab_title">Налаштування чорного списку</string>
 	<string name="toast_keyword_blank">Необхідно ввести ключове слово :)</string>
 	<string name="toast_keyword_exist">Ключове слово збережено</string>
 	<string name="toast_keyword_invalid">Некоректне ключове слово</string>

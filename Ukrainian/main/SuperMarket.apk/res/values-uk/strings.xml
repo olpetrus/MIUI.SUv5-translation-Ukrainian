@@ -124,7 +124,7 @@
     <string name="rank_app_name">%1$s. %2$s</string>
     <string name="category_header">Всі %1$s</string>
     <string name="publish_info">%3$s дата %1$s.%2$s</string>
-    <string name="permissions_title">%1$s дані дозволено</string>
+    <string name="permissions_title">Дозволи %1$s</string>
     <string name="permissions_expand_title">Всі дозволено</string>
     <string name="version_name">Версія %1$s</string>
     <string name="search_other_market">Подібні</string>

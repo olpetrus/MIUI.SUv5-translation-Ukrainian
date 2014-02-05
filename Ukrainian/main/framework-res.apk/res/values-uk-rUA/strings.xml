@@ -532,7 +532,7 @@
     <string name="searchview_description_search">Пошук</string>
     <string name="searchview_description_query">Що шукаємо?</string>
     <string name="searchview_description_clear">Видалити запит</string>
-    <string name="searchview_description_submit">Надіслати запит</string>
+    <string name="searchview_description_submit">Надіслання запиту</string>
     <string name="searchview_description_voice">Голосовий пошук</string>
     <string name="enable_explore_by_touch_warning_title">Увімкнути навігацію дотиком?</string>
     <string name="enable_explore_by_touch_warning_message">%1$s намагається увімкнути навігацію дотиком. Якщо її увімкнути, ви зможете бачити опис того, що знаходиться під вашим пальцем.</string>

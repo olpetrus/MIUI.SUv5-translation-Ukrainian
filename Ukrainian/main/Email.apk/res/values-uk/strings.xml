@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="permission_read_attachment_label">Відкривати вкладення</string>
-    <string name="permission_read_attachment_desc">Дозволити додатку відкривати вкладення в пошті.</string>
+    <string name="permission_read_attachment_desc">Дозволити додатку відкривати вкладення в електронній пошті.</string>
     <string name="permission_access_provider_label">Доступ до даних сервісу ел. пошти</string>
     <string name="permission_access_provider_desc">Додаток отримає доступ до бази даних додатку електронної пошти, що містить отримані та надіслані листи, імена користувачів та паролі.</string>
     <string name="app_name">Пошта</string>
