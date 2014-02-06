@@ -158,7 +158,7 @@
     <string name="status_bar_recent_memory_info">%1$s / %2$s</string>
     <string name="usb_mode_notification">USB накопичувач</string>
     <string name="usb_mode_dont_ask">Запам\'ятати вибір</string>
-    <string name="usb_mode_mount_storage_title">Відкрити зараз USB накопичувач?</string>
+    <string name="usb_mode_mount_storage_title">Підключити USB накопичувач?</string>
     <string name="mount_storage">Так</string>
     <string name="dismount_storage">Ні</string>
     <string name="usb_notification">Під\'єднання по USB</string>

@@ -15,8 +15,8 @@
     <string name="other_service_user_experience">Програма покращення якості</string>
     <string name="other_service_user_experience_summary0">"При використанні нашого продукту ми сподіваємося, що ви допоможете забезпечити зворотній зв\'язок. Ваші відгуки будуте надіслано відповідно до "</string>
     <string name="other_service_user_experience_summary1">Політики конфіденційності</string>
-    <string name="sim_card_detection_dialog_message">Виявлення SIM карти. Зачекайте.</string>
-    <string name="sim_card_detection_label">SIM карту знайдено</string>
+    <string name="sim_card_detection_dialog_message">Виявлення SIM карти.</string>
+    <string name="sim_card_detection_label">SIM карта</string>
     <string name="sim_card_detection_info">Ми не можемо налагодити обліковий запис Xiaomi без SIM карти. Вам необхідна SIM карта для використання сервісів, як, наприклад, синхронізація контактів, пошук телефону та т.і.</string>
     <string name="sim_card_detection_status_absent">SIM карту не визначено!</string>
     <string name="setup_complete_label">Дякуємо</string>
@@ -25,8 +25,8 @@
     <string name="setup_complete_summary">Настройку завершено! Насолоджуйтесь MIUI!</string>
     <string name="traffic_protection_label">Регулювання трафіку</string>
     <string name="traffic_protection_summary">Регулювання трафіку нагадає Вам коли закінчиться трафік на вашому тарифному плані, щоб уникнути перевищення витрат.</string>
-    <string name="traffic_protection_unknown"><u>Я не знаю… Введу пізніше.</u></string>
-    <string name="traffic_protection_text_hint">Будь ласка, введіть межу трафіку.</string>
+    <string name="traffic_protection_unknown"><u>Ввести пізніше</u></string>
+    <string name="traffic_protection_text_hint">Введіть ліміт трафіку</string>
     <string name="data_usage_summary">Якщо ви ще не вибрали тарифний план, рекомендується вимкнути передачу даних. В іншому випадку оператор може знімати платню.</string>
     <string name="use_data">Передачу даних увімкнено</string>
     <string name="input_method_category">Виберіть спосіб введення за замовчуванням</string>

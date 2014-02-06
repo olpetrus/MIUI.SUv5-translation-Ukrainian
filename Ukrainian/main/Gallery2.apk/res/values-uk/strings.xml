@@ -513,7 +513,7 @@
      <string name="addtofavorite">У обране</string>
      <string name="deletefromfavorite">Скасувати обране</string>
      <string name="nosearchresult">Немає результату</string>
-     <string name="servertimeout">Таймаут з'єднання</string>
+     <string name="servertimeout">Таймаут з\'єднання</string>
      <string name="videolist">Список відео</string>
      <string name="menu_delete">Видалити</string>
      <string name="servernoreturncontent">Сервер не відповідає</string>
@@ -559,7 +559,7 @@
      <string name="recording">Обладнання використовується</string>
      <string name="hdmi_cannot_used_camera"> Будь ласка, вийдіть із режиму HDMI</string>
      <string name="can_not_save_record">Занадто мало часу</string>
-     <string name="record_spaceislow">Недостатньо пам'яті. Вилучите деякі файли</string>
+     <string name="record_spaceislow">Недостатньо пам\'яті. Вилучите деякі файли</string>
      <string name="load_picture_processing">Завантаження фото</string>
      <string name="no">Немає</string>
      <string name="no_limit">Необмежене</string>
@@ -609,7 +609,7 @@
      <string name="remote_buffering">Буферизація</string>
      <string name="device_removed">Обладнання \"%s\" було відключено</string>
      <string name="bitrate">Битрейд</string>
-     <string name="loading_timeout">Таймаут з'єднання</string>
+     <string name="loading_timeout">Таймаут з\'єднання</string>
      <string name="video_low_battery">Низький заряд батареї, неможливо відтворити відео</string>
      <string name="video_silent_mode_toast">Динамік не працює в беззвучному режимі</string>
      <string name="folder_video">Відео</string>
@@ -638,7 +638,7 @@
      <string name="move_to">Перемістити в</string>
      <string name="details_titlename">Назва</string>
      <string name="details_sizename">Розмір</string>
-     <string name="unacceptable_char">Ім'я файлу не може містити наступні символи |\\/:*?\"&lt;></string>
+     <string name="unacceptable_char">Ім\'я файлу не може містити наступні символи |\\/:*?\"&lt;></string>
      <string name="unempty_size">Розмір не може бути порожнім</string>
      <string name="unempty_title">Назва не може бути порожнім</string>
      <string name="unacceptable_maxsize">Розмір зміненого зображення не може перевищувати %s</string>
@@ -648,7 +648,7 @@
      <string name="delete_original">Вилучити оригінальний файл</string>
      <string name="remove_directory">Вилучити директорію?</string>
      <string name="new_folder">Нова папка</string>
-     <string name="folder_exists">Ім'я файлу вже існує</string>
+     <string name="folder_exists">Ім\'я файлу вже існує</string>
      <string name="err_create_fold">Помилка створення папки</string>
      <string name="favorite">Вибране</string>
      <string name="marked">Відзначене</string>
@@ -657,7 +657,7 @@
      <string name="external_storage_unavailable"> Usb-Накопичувач недоступний</string>
      <string name="battery_too_low">Низький заряд батареї, продовжити відтворення?</string>
      <string name="set_wallpaper_failed">Помилка установки</string>
-     <string name="photo_sdcard_str">Карта пам'яті</string>
+     <string name="photo_sdcard_str">Карта пам\'яті</string>
      <string name="share_num_limit">Кількість переданих файлів обмежене %s</string>
      <string name="menu_share_title">Передати</string>
      <string name="menu_share_more_title">Передати й правити</string>

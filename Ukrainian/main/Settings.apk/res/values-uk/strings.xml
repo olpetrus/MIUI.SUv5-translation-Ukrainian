@@ -8,10 +8,10 @@
     <string name="device_info_default">Невідомо</string>
     <string name="show_dev_on">Тепер ви розробник!</string>
     <string name="show_dev_already">Не треба, ви вже розробник.</string>
-    <string name="header_category_wireless_networks">БЕЗДРОТОВІ МЕРЕЖІ</string>
-    <string name="header_category_device">ПРИСТРІЙ</string>
-    <string name="header_category_personal">ПЕРСОНАЛІЗАЦІЯ</string>
-    <string name="header_category_system">СИСТЕМА</string>
+    <string name="header_category_wireless_networks">Бездротові мережі</string>
+    <string name="header_category_device">Пристрій</string>
+    <string name="header_category_personal">Персоналізація</string>
+    <string name="header_category_system">Система</string>
     <string name="turn_on_radio">Увімкнути радіо</string>
     <string name="turn_off_radio">Вимкнути радіо</string>
 	<string name="turn_off_security_lock">Вимкнути блокування</string>
@@ -41,7 +41,7 @@
     <string name="radioInfo_unknown">невідомо</string>
     <string name="radioInfo_display_packets">pkts</string>
     <string name="radioInfo_display_bytes">байт</string>
-    <string name="radioInfo_display_dbm">dBm</string>
+    <string name="radioInfo_display_dbm">дБм</string>
     <string name="radioInfo_display_asu">asu</string>
     <string name="sdcard_unmount">Вилучити USB накопичувач</string>
     <string name="sdcard_format">Очистити USB накопичувач</string>
@@ -549,10 +549,10 @@
 	<string name="wifi_share_other_network">Інші мережі</string>
 	<string name="wifi_share_qrcode_finish">Гаразд</string>
     <string name="oldman_mode_entry_title">Розширений режим</string>
-    <string name="oldman_mode_entry_name">Налаштування розширеного режиму</string>
+    <string name="oldman_mode_entry_name">Розширений режим</string>
     <string name="oldman_mode_settings_caption">Налаштування розширеного режиму</string>
     <string name="oldman_mode_enabled_name">Увімкнути розширений режим</string>
-    <string name="oldman_mode_summary">Увімкнення/вимкнення розширеного режиму, призведе до перезавантаження!</string>
+    <string name="oldman_mode_summary">Увімкнення/вимкнення розширеного режиму, призведе до перезавантаження.</string>
     <string name="oldman_mode_confirm_title">Увімкнути розширений режим</string>
     <string name="oldman_mode_confirm_will_oldman_mode_text">Увімкнути розширений режим?</string>
     <string name="oldman_mode_confirm_will_normal_mode_text">Вимкнути розширений режим?</string>
@@ -1369,8 +1369,8 @@
 
 Примітка: Потрійне натискання для збільшення працює всюди окрім клавіатури та навігації."</string>
     <string name="accessibility_global_gesture_preference_title">Доступний ярлик</string>
-    <string name="accessibility_global_gesture_preference_summary_on">Увмк.</string>
-    <string name="accessibility_global_gesture_preference_summary_off">Вимк.</string>
+    <string name="accessibility_global_gesture_preference_summary_on">Увмк</string>
+    <string name="accessibility_global_gesture_preference_summary_off">Вимк</string>
     <string name="accessibility_global_gesture_preference_description">"Коли цю функцію ввімкнено, ви можете швидко увімкнути функції для людей з обмеженими можливостями в два етапи:
 
 Step 1: Натисніть та утримуйте кнопку живлення, поки не почуєте звук або відчуєте вібрацію.
@@ -1382,7 +1382,7 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="accessibility_toggle_screen_magnification_preference_title">Збільшення зображення</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Автооновлення збільшення екрану</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Оновлення екрану на збільшення при переході в додаток</string>
-    <string name="accessibility_power_button_ends_call_prerefence_title">Кнопка живлення завершує виклик</string>
+    <string name="accessibility_power_button_ends_call_prerefence_title">Кнопка живлення заверш. виклик</string>
     <string name="accessibility_toggle_speak_password_preference_title">Озвучувати пароль</string>
     <string name="accessibility_long_press_timeout_preference_title">Затримка натиску та утримування</string>
     <string name="accessibility_toggle_script_injection_preference_title">Підвищення доступності веб-сайтів</string>
@@ -2691,7 +2691,7 @@ Android File Transfer
     <string name="phone_call_noise_suppression">Придушення шумів при розмові</string>
 	<string name="sync_wifi_only">Тільки по Wi-Fi</string>
     <string name="line_breaking_title">Оптимізація тексту</string>
-    <string name="line_breaking_summary">оптимізувати порушення пунктів абзацу</string>
+    <string name="line_breaking_summary">Оптимізувати порушення пунктів абзацу</string>
     <string name="nfc_se_route_title">Безпечні позиції елементу</string>
     <string name="se_route_ese">Вбудований безпечний елемент</string>
     <string name="se_route_uicc">Безпечний елемент на SIM-картці</string>
@@ -2905,7 +2905,7 @@ Android File Transfer
     <string name="gemini_roaming_settings_title">Роумінг</string>
     <string name="gemini_data_roaming_title">Дані в роумінгу</string>
     <string name="gemini_data_roaming_summary">Використання передачі даних в роумінгу</string>
-    <string name="gemini_roaming_reminder_title">Показувати нагадування про роумінг</string>
+    <string name="gemini_roaming_reminder_title">Повідомлення про роумінг</string>
     <string name="gemini_roaming_reminder_summary">Показувати пропозиції, базовані на використанні SIM карти</string>
     <string name="gemini_contacts_sim_title">Контакти SIM</string>
     <string name="gemini_contacts_sim_summary">Прив\'язка контактів до конкретної SIM карти</string>

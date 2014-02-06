@@ -254,10 +254,10 @@
     <string name="device_info_default">Невідомо</string>
     <string name="show_dev_on">Тепер ви розробник!</string>
     <string name="show_dev_already">Не треба, ви вже розробник.</string>
-    <string name="header_category_wireless_networks">БЕЗДРОТОВІ МЕРЕЖІ</string>
-    <string name="header_category_device">ПРИСТРІЙ</string>
-    <string name="header_category_personal">ПЕРСОНАЛІЗАЦІЯ</string>
-    <string name="header_category_system">СИСТЕМА</string>
+    <string name="header_category_wireless_networks">Бездротові мережі</string>
+    <string name="header_category_device">Пристрій</string>
+    <string name="header_category_personal">Персоналізація</string>
+    <string name="header_category_system">Система</string>
     <string name="turn_on_radio">Увімкнути радіо</string>
     <string name="turn_off_radio">Вимкнути радіо</string>
 	<string name="turn_off_security_lock">Вимкнути блокування</string>
@@ -287,7 +287,7 @@
     <string name="radioInfo_unknown">невідомо</string>
     <string name="radioInfo_display_packets">pkts</string>
     <string name="radioInfo_display_bytes">байт</string>
-    <string name="radioInfo_display_dbm">dBm</string>
+    <string name="radioInfo_display_dbm">дБм</string>
     <string name="radioInfo_display_asu">asu</string>
     <string name="sdcard_unmount">Вилучити USB накопичувач</string>
     <string name="sdcard_format">Очистити USB накопичувач</string>
@@ -1605,20 +1605,20 @@
 
 Примітка: Потрійне натискання для збільшення працює всюди окрім клавіатури та навігації."</string>
     <string name="accessibility_global_gesture_preference_title">Доступний ярлик</string>
-    <string name="accessibility_global_gesture_preference_summary_on">Увмк.</string>
-    <string name="accessibility_global_gesture_preference_summary_off">Вимк.</string>
+    <string name="accessibility_global_gesture_preference_summary_on">Увмк</string>
+    <string name="accessibility_global_gesture_preference_summary_off">Вимк</string>
     <string name="accessibility_global_gesture_preference_description">"Коли цю функцію ввімкнено, ви можете швидко увімкнути функції для людей з обмеженими можливостями в два етапи:
 
-Step 1: Натисніть та утримуйте кнопку живлення, поки не почуєте звук або відчуєте вібрацію.
+Крок 1: Натисніть та утримуйте кнопку живлення, поки не почуєте звук або відчуєте вібрацію.
 
-Step 2: Натисніть та утримуйте двома пальцями, поки не почуєте звук підтвердження.
+Крок 2: Натисніть та утримуйте двома пальцями, поки не почуєте звук підтвердження.
 
-Якщо пристрій має декілька користувачів, використовуючи цей ярлик на екрані блокування, дозволяє тимчасовий доступ, поки пристрій не буде розблоковано."</string>
+Якщо пристрій має декілька користувачів, кнопка на екрані блокування дозволить отримати тимчасовий доступ."</string>
     <string name="accessibility_toggle_large_text_preference_title">Великий текст</string>
     <string name="accessibility_toggle_screen_magnification_preference_title">Збільшення зображення</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Автооновлення збільшення екрану</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Оновлення екрану на збільшення при переході в додаток</string>
-    <string name="accessibility_power_button_ends_call_prerefence_title">Кнопка живлення завершує виклик</string>
+    <string name="accessibility_power_button_ends_call_prerefence_title">Кнопка живлення заверш. виклик</string>
     <string name="accessibility_toggle_speak_password_preference_title">Озвучувати пароль</string>
     <string name="accessibility_long_press_timeout_preference_title">Затримка натиску та утримування</string>
     <string name="accessibility_toggle_script_injection_preference_title">Підвищення доступності веб-сайтів</string>
@@ -1991,7 +1991,7 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="data_usage_empty">В цей період не було трафіку від додатків.</string>
     <string name="data_usage_label_foreground">Активний режим</string>
     <string name="data_usage_label_background">Фоновий режим</string>
-    <string name="data_usage_disclaimer">"Виміряно телефоном. Облік трафіку Вашого оператору зв\'язку може відрізняти."</string>
+    <string name="data_usage_disclaimer">Виміряно телефоном. Облік трафіку Вашого оператору зв\'язку може відрізняти.</string>
     <string name="data_usage_disable_mobile">Вимкнути мобільну передачу даних?</string>
     <string name="data_usage_disable_mobile_limit">Встановити межу</string>
     <string name="data_usage_disable_4g_limit">Межа на 4G трафік</string>
@@ -2920,7 +2920,7 @@ Android File Transfer
     <string name="phone_call_noise_suppression">Придушення шумів при розмові</string>
 	<string name="sync_wifi_only">Тільки по Wi-Fi</string>
     <string name="line_breaking_title">Оптимізація тексту</string>
-    <string name="line_breaking_summary">оптимізувати порушення пунктів абзацу</string>
+    <string name="line_breaking_summary">Оптимізувати порушення пунктів абзацу</string>
     <string name="nfc_se_route_title">Безпечні позиції елементу</string>
     <string name="current_use_uicc_se">Використання безпечних елементів на SIM карті</string>
     <string name="current_use_ese">Використовувати вбудовані захищені елементи</string>
@@ -3066,7 +3066,7 @@ Android File Transfer
     <string name="outdoor_settings_title">На вулиці</string>
     <string name="apn_predefine_change_dialog_notice">Зберегти? Змінення APNs по замовчанню може викликати проблеми з під\'єднанням!</string>
     <string name="dialog_apn_disabled">APN вимкнено!</string>
-    <string name="dialog_apn_disabled_msg">Вимкніть режим літака для зміни настройок APN.</string>
+    <string name="dialog_apn_disabled_msg">Вимкніть режим В літаку для зміни настройок APN.</string>
     <string name="sound_category_calls_title">Вхідні виклики</string>
     <string name="voice_call_title">Рінгтон голосового виклику</string>
     <string name="voice_call_summary">Задайте стандартний рінгтон для вхідних голосових викликів</string>
@@ -3132,7 +3132,7 @@ Android File Transfer
     <string name="gemini_roaming_settings_title">Роумінг</string>
     <string name="gemini_data_roaming_title">Дані в роумінгу</string>
     <string name="gemini_data_roaming_summary">Використання передачі даних в роумінгу</string>
-    <string name="gemini_roaming_reminder_title">Показувати нагадування про роумінг</string>
+    <string name="gemini_roaming_reminder_title">Повідомлення про роумінг</string>
     <string name="gemini_roaming_reminder_summary">Показувати пропозиції, базовані на використанні SIM карти</string>
     <string name="gemini_contacts_sim_title">Контакти SIM</string>
     <string name="gemini_contacts_sim_summary">Прив\'язка контактів до конкретної SIM карти</string>
@@ -3151,8 +3151,8 @@ Android File Transfer
     <string name="gemini_sim_mode_progress_activating_message">Активація</string>
     <string name="gemini_sim_mode_progress_deactivating_message">Деактивація</string>
     <string name="gemini_sim_mode_change_failed_message">Операцію перервано, помилка мережі.</string>
-    <string name="gemini_sim_mode_enter_airplanemode_confirm_title">Режим літака</string>
-    <string name="gemini_sim_mode_enter_airplanemode_confirm_message">Телефон увійде в режим літака. Всі бездротові з\'єднання будуть вимкнені. Продовжити?</string>
+    <string name="gemini_sim_mode_enter_airplanemode_confirm_title">Режим В літаку</string>
+    <string name="gemini_sim_mode_enter_airplanemode_confirm_message">Телефон увійде в режим В літаку. Всі бездротові з\'єднання будуть вимкнені. Продовжити?</string>
     <string name="gemini_3g_indic">3G</string>
     <string name="gemini_sim_info_editor_name">Змінити назву SIM карти</string>
     <string name="gemini_sim_info_editor_name_dup_title">Помилка збереження</string>
@@ -3212,7 +3212,7 @@ Android File Transfer
     <string name="sim_slot">Слот SIM</string>
     <string name="eap_sim_slot_0">Слот SIM1</string>
     <string name="eap_sim_slot_1">Слот SIM2</string>
-    <string name="eap_sim_aka_airplanemode">Вимкніть режим літака для використання EAP-SIM/AKA</string>
+    <string name="eap_sim_aka_airplanemode">Вимкніть режим В літаку для використання EAP-SIM/AKA</string>
     <string name="eap_sim_aka_no_sim_error">Необхідно вставити SIM карту для використання EAP-SIM/AKA</string>
     <string name="eap_sim_aka_no_sim_slot_selected">Необхідно обрати слот для використання EAP-SIM/AKA</string>
     <string name="wifi_security_wapi_psk">WAPI PSK</string>
@@ -3545,7 +3545,7 @@ Android File Transfer
     <string name="power_mode_synchronization">Синхронізація</string>
     <string name="power_mode_touch_with_vibration">Вібрація при натисканні</string>
     <string name="power_mode_touch_with_ring">Звук при натисканні</string>
-    <string name="power_mode_airplane_mode">Режим літака</string>
+    <string name="power_mode_airplane_mode">Режим В літаку</string>
     <string name="power_mode_switch_on">Увмк</string>
     <string name="power_mode_switch_off">Вимк</string>
     <string name="power_dialog_cpu_state_title">Використання ЦП</string>

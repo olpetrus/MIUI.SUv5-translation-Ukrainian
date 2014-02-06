@@ -41,9 +41,9 @@
     <string name="no">Ні</string>
     <string name="create">Створити</string>
     <string name="device_info_default">Невідомо</string>
-    <string name="header_category_wireless_networks">Мережа та безпроводовий зв\'язок</string>
+    <string name="header_category_wireless_networks">Бездротові мережі</string>
     <string name="header_category_device">Пристрій</string>
-    <string name="header_category_personal">Особисте</string>
+    <string name="header_category_personal">Персоналізація</string>
     <string name="header_category_system">Система</string>
     <string name="radioInfo_service_in">Працює</string>
     <string name="radioInfo_service_out">Поза зоною</string>

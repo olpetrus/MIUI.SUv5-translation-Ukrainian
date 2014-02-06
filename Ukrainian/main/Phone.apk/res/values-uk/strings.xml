@@ -1505,7 +1505,7 @@
     <string name="no_service_msg_title_gemini">Немає мережі для \"%s\"</string>
     <string name="no_service_msg_title">Немає мережі</string>
     <string name="data_conn_under_roaming_hint">Включите роумінг даних в Настройках -> Бездротові мережі -> Мобільні мережі -> Дані в роумінгу</string>
-    <string name="gemini_data_connection">З\'єднання для передачі даних</string>
+    <string name="gemini_data_connection">Передача даних</string>
     <string name="plmn_list_setting_title">Бажані мережі</string>
     <string name="network_id">ID Мережі</string>
     <string name="dialog_network_priority_title">Пріоритет</string>
