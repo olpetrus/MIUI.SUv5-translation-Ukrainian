@@ -366,9 +366,9 @@
 	<string name="fdn_failed">Активація послуги \"Дитячий контроль\" не вдалася.</string>
 	<string name="simContacts_emptyLoading">Зчитування з SIM карти…</string>
 	<string name="exportContacts">Експорт контактів на SIM карту…</string>
-	<string name="simContacts_empty">На SIM карті немає контактів.</string>
+	<string name="simContacts_empty">Немає контактів на SIM картці</string>
 	<string name="simContacts_title">Керування контактами SIM</string>
-	<string name="simContacts_airplaneMode">Щоб імпортувати контакти з SIM карти, від\'єднайте режим \"В літаку\".</string>
+	<string name="simContacts_airplaneMode">Відключить режим \"В літаку\" для імпорту контактів з SІM карти.</string>
 	<string name="enable_pin">Увімкнути/вимкнути запит PIN SIM карти</string>
 	<string name="change_pin">Змінити PIN SIM карти</string>
 	<string name="enter_pin_text">PIN SIM карти:</string>
@@ -945,7 +945,7 @@
 	<string name="handon_ringer_title_miui">Не вібрувати</string>
 	<string name="hangup_sms_miui">Відхилити з SMS</string>
 	<string name="ignore_miui">Ігнорувати</string>
-	<string name="importing_sim_contacts_miui">Імпортування контактів SIM…</string>
+	<string name="importing_sim_contacts_miui">Імпорт контактів з SIM карти…</string>
 	<string name="import_selected_sim_entries_miui">Імпорт обраних контактів</string>
 	<string name="import_all_sim_entries_miui">Імпорт всіх контактів</string>
 	<string name="import_sim_entries_finish">Імпорт контактів SIM завершено</string>
@@ -1185,7 +1185,7 @@
     <string name="sim_toolkit">Інструменти SIM</string>
     <string name="activity_not_found">Додаток не встановлено на вашому пристрої.</string>
     <string name="no_sim_card_inserted">Вставте SIM карту для запуску додатку.</string>
-    <string name="airplane_mode_on">Неможливо запустити додатки, коли активний режим літака.</string>
+    <string name="airplane_mode_on">Неможливо запустити додатки, коли активний режим В літаку.</string>
     <string name="lable_sim_not_ready">Додаток не готово або не підтримується</string>
     <string name="gemini_3g_indic">3G</string>
     <string name="callFailed_dsac_vt_incompatible_destination">Відео-виклик не може бути встановлено. Відео-виклик не підтримується пристроєм на який ви телефонуєте, здійснити голосовий виклик?</string>

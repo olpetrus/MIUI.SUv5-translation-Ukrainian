@@ -16,7 +16,7 @@
     <string name="no_network_connection">Відсутнє під\'єднання до мережі</string>
     <string name="network_err_flight_mode_on">Неможливо під\'єднатися до мобільної мережі в автономному режимі. Під\єднайтесь до мережі Wi-Fi або від\'єднайте автономний режим та повторіть спробу</string>
     <string name="network_err_flight_mode_on_without_Wifi">Неможливо під\'єднатися до мобільної мережі в автономному режимі. Вимкніть автономний режим та повторіть спробу</string>
-    <string name="disable_flight_mode">Вимкнути режим польоту</string>
+    <string name="disable_flight_mode">Вимкнути режим \"В літаку\"</string>
     <string name="network_err_mobile_data_off">Мобільні дані вимкнено. Під\єднайтесь до мережі Wi-Fi або знову увімкніть мобільні дані та повторіть спробу</string>
     <string name="network_err_mobile_data_off_without_Wifi">Мобільні дані вимкнено. Увімкніть їх та повторіть спробу</string>
     <string name="network_err_data_roaming_off">Передачу даних в роумінгу вимкнено. Під\єднайтесь до мережі Wi-Fi або знову увімкніть передачу даних в роумінгу та повторіть спробу</string>

@@ -64,5 +64,5 @@
     <string name="lable_busy_on_bip">Додаток зайнятий по командам BIP, спробуйте пізніше.</string>
     <string name="main_menu_not_initialized">Головне меню не ініціалізовано</string>
     <string name="lable_busy_on_call">Телефон зайнятий викликом, спочатку треба закінчити розмову</string>
-    <string name="lable_on_flight_mode">Цей додаток не може використовуватися в режимі літака</string>
+    <string name="lable_on_flight_mode">Цей додаток не може використовуватися в режимі В літаку</string>
 </resources>

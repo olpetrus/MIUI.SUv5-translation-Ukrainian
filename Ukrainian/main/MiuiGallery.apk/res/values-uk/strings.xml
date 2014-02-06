@@ -174,7 +174,7 @@
     <string name="remove_hidden_album">Показувати альбом</string>
     <string name="photos">Знімок</string>
     <string name="tab_lockscreen_text">Екран блокування</string>
-    <string name="tab_wallpaper_text">Стільниця</string>
+    <string name="tab_wallpaper_text">Домашній екран</string>
     <string name="tab_all_text">Всі</string>
     <string name="cloud_gallery_space_full">Альбом в хмарах переповнений. Видаліть непотрібні зображення.</string>
 	<string name="share_album_space_full">Цей альбом заповнений. Видаліть непотрібні зображення.</string>

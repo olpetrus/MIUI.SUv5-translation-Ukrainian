@@ -29,11 +29,11 @@
 	<string name="menu_font_size">Розмір шрифту</string>
 	<string name="menu_folder_change_name">Перейменувати</string>
 	<string name="folder_exist">Папка вже існує, введіть інше ім\'я</string>
-	<string name="menu_send_to_desktop">На робочий стіл</string>
+	<string name="menu_send_to_desktop">На Домашній екран</string>
 	<string name="menu_title_select_folder">Виберіть папку</string>
 	<string name="menu_move_parent_folder">Основна папка</string>
 	<string name="menu_rename_folder">Перейменувати</string>
-	<string name="info_note_enter_desktop">Нотатка додана на робочий стіл</string>
+	<string name="info_note_enter_desktop">Нотатка додана на Домашній екран</string>
 	<string name="alert_title_delete">Видалення вибраних нотатки</string>
 	<string name="alert_message_delete_notes">Видалити вибрані нотатки (%1$s шт.)?</string>
 	<string name="alert_message_delete_folders">Видалити вибрані папки (%1$s шт.)?</string>
@@ -49,7 +49,7 @@
 	<string name="error_sdcard_export">Експорт не вдався, перевірте SD-картку</string>
 	<string name="error_note_not_exist">Нотатка відсутня</string>
 	<string name="error_note_empty_for_clock">Нотатка порожня. Неможливо встановити нагадування</string>
-	<string name="error_note_empty_for_send_to_desktop">Нотатка порожня. Неможливо відправити на робочий стіл</string>
+	<string name="error_note_empty_for_send_to_desktop">Нотатка порожня. Неможливо відправити на Домашній екран</string>
 	<string name="error_widget_exist_for_send_to_desktop">Нотатка вже існує на робочому столі</string>
 	<string name="success_sdcard_export">Експорт завершено</string>
 	<string name="failed_sdcard_export">Експорт перерваний</string>

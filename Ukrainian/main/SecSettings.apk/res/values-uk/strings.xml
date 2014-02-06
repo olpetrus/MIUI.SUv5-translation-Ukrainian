@@ -1872,7 +1872,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>"
 "<font size="12">обмеження</font></string>
     <string name="data_usage_uninstalled_apps">Видалені програми</string>
-    <string name="data_usage_received_sent">Отримано: %1$s, надіслано: %2$s</string>
+    <string name="data_usage_received_sent" formatted="false">Отримано: %1$s, надіслано: %2$s</string>
     <string name="data_usage_total_during_range">%2$s: використано приблизно %1$s</string>
     <string name="data_usage_total_during_range_mobile">%2$s: використано приблизно %1$s (виміряно пристроєм). Оператор зв\'язку може стягувати різну плату за використання даних</string>
     <string name="data_usage_metered_title">Мобільні точки доступу</string>
@@ -2919,7 +2919,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="home_settings_header">Змінити екран оформлення</string>
     <string name="home_settings_message">%s will be applied to your home screen</string>
     <string name="home_settings_customer_mode">docomo palette UI</string>
-    <string name="home_settings_customer_mode_summary">Make your phone simpler and more intuitive to use with the docomo home screen</string>
+    <string name="home_settings_customer_mode_summary">Зробіть свій телефон більш простим і інтуітивно зрозумілим використовуючи робочий чтіл DoCoMo</string>
     <string name="home_settings_basic_mode_summary">Enjoy new experiences with the latest Galaxy features</string>
     <string name="home_settings_easy_mode_summary">Make your first experience of a smartphone easier with easy widgets</string>
     <string name="home_settings_setup_title">Home selection</string>

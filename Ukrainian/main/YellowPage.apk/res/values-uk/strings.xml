@@ -22,8 +22,8 @@
     <string name="accessibility_calllog_detail">Журнал</string>
     <string name="pref_key_sim_manage">Керування SIM</string>
     <string name="select_groups">Вибір груп</string>
-    <string name="sim_capacity">Розмір SIM</string>
-    <string name="sim_capacity_content" formatted="false">Всього: %d | Використано: %d</string>
+    <string name="sim_capacity">Ємність SIM карти</string>
+    <string name="sim_capacity_content" formatted="false">Всього доступно: %d | Зайнято: %d</string>
     <string name="sim_contact_existing">Цей контакт на SIM вже існує</string>
     <string name="sim_contact_number_missing">Контакт не знайдено</string>
     <string name="sim_error_anr_full">Сховище номерів заповнено</string>
@@ -107,7 +107,7 @@
     <string name="sms_send_failed">Не вдалося надіслати повідомлення.</string>
     <string name="sms_sending">Надсилання…</string>
     <string name="login_ok">Вхід</string>
-    <string name="login_before_recharging">Необхідно авторизуватися перед поповненням.</string>
+    <string name="login_before_recharging">Спочатку треба авторизуватися.</string>
     <string name="unable_send_sms">Не вдається надіслати повідомлення.</string>
     <string name="sms_disabled_in_privacy_mode">Неможливо надіслати повідомлення в режимі гостя.</string>
     <string name="express_inquiry">Відслідковування</string>

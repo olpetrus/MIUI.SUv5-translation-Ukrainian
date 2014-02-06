@@ -621,7 +621,7 @@
      <string name="rotate_image">Поворот</string>
      <string name="edit_image">Виправлення</string>
      <string name="crop_image">Кадрувати</string>
-     <string name="set_wallpaper_home">Робітник стіл</string>
+     <string name="set_wallpaper_home">Домашній екран</string>
      <string name="set_wallpaper_lock">Екран блокування</string>
      <string name="set_wallpaper_both">Обидва екрани</string>
      <string name="custom">Персоналізация</string>

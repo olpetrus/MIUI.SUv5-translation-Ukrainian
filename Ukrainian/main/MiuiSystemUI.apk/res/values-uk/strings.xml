@@ -346,6 +346,6 @@
 	<string name="usb_share_net_info">Використовувати інтернет комп\'ютера</string>
      <string name="torch_opened">Ліхтарик запущено</string>
      <string name="torch_closed">Ліхтарик закрито</string>
-	 <string name="oldman_airplane_mode_text">Режим польоту</string>
+	 <string name="oldman_airplane_mode_text">В літаку</string>
       <string name="oldman_incall_text">incall</string>
 </resources>

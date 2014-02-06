@@ -1755,7 +1755,7 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="data_usage_empty">В цей період не було трафіку від додатків.</string>
     <string name="data_usage_label_foreground">Активний режим</string>
     <string name="data_usage_label_background">Фоновий режим</string>
-    <string name="data_usage_disclaimer">"Виміряно телефоном. Облік трафіку Вашого оператору зв\'язку може відрізняти."</string>
+    <string name="data_usage_disclaimer">Виміряно телефоном. Облік трафіку Вашого оператору зв\'язку може відрізняти.</string>
     <string name="data_usage_disable_mobile">Вимкнути мобільну передачу даних?</string>
     <string name="data_usage_disable_mobile_limit">Встановити межу</string>
     <string name="data_usage_disable_4g_limit">Межа на 4G трафік</string>
@@ -2839,7 +2839,7 @@ Android File Transfer
     <string name="outdoor_settings_title">На вулиці</string>
     <string name="apn_predefine_change_dialog_notice">Зберегти? Змінення APNs по замовчанню може викликати проблеми з під\'єднанням!</string>
     <string name="dialog_apn_disabled">APN вимкнено!</string>
-    <string name="dialog_apn_disabled_msg">Вимкніть режим літака для зміни настройок APN.</string>
+    <string name="dialog_apn_disabled_msg">Вимкніть режим В літаку для зміни настройок APN.</string>
     <string name="sound_category_calls_title">Вхідні виклики</string>
     <string name="voice_call_title">Рінгтон голосового виклику</string>
     <string name="voice_call_summary">Задайте стандартний рінгтон для вхідних голосових викликів</string>
@@ -2924,8 +2924,8 @@ Android File Transfer
     <string name="gemini_sim_mode_progress_activating_message">Активація</string>
     <string name="gemini_sim_mode_progress_deactivating_message">Деактивація</string>
     <string name="gemini_sim_mode_change_failed_message">Операцію перервано, помилка мережі.</string>
-    <string name="gemini_sim_mode_enter_airplanemode_confirm_title">Режим літака</string>
-    <string name="gemini_sim_mode_enter_airplanemode_confirm_message">Телефон увійде в режим літака. Всі бездротові з\'єднання будуть вимкнені. Продовжити?</string>
+    <string name="gemini_sim_mode_enter_airplanemode_confirm_title">Режим В літаку</string>
+    <string name="gemini_sim_mode_enter_airplanemode_confirm_message">Телефон увійде в режим В літаку. Всі бездротові з\'єднання будуть вимкнені. Продовжити?</string>
     <string name="gemini_3g_indic">3G</string>
     <string name="gemini_sim_info_editor_name">Змінити назву SIM карти</string>
     <string name="gemini_sim_info_editor_name_dup_title">Помилка збереження</string>
@@ -2985,7 +2985,7 @@ Android File Transfer
     <string name="sim_slot">Слот SIM</string>
     <string name="eap_sim_slot_0">Слот SIM1</string>
     <string name="eap_sim_slot_1">Слот SIM2</string>
-    <string name="eap_sim_aka_airplanemode">Вимкніть режим літака для використання EAP-SIM/AKA</string>
+    <string name="eap_sim_aka_airplanemode">Вимкніть режим В літаку для використання EAP-SIM/AKA</string>
     <string name="eap_sim_aka_no_sim_error">Необхідно вставити SIM карту для використання EAP-SIM/AKA</string>
     <string name="eap_sim_aka_no_sim_slot_selected">Необхідно обрати слот для використання EAP-SIM/AKA</string>
     <string name="wifi_security_wapi_psk">WAPI PSK</string>
@@ -3319,7 +3319,7 @@ Android File Transfer
     <string name="power_mode_synchronization">Синхронізація</string>
     <string name="power_mode_touch_with_vibration">Вібрація при натисканні</string>
     <string name="power_mode_touch_with_ring">Звук при натисканні</string>
-    <string name="power_mode_airplane_mode">Режим літака</string>
+    <string name="power_mode_airplane_mode">Режим В літаку</string>
     <string name="power_mode_switch_on">Увмк</string>
     <string name="power_mode_switch_off">Вимк</string>
     <string name="power_dialog_cpu_state_title">Використання ЦП</string>
