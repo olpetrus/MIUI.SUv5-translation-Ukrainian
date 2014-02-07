@@ -2208,7 +2208,7 @@
     <string name="dndm_mute_all">Вимкнути звук дзвоників та повідомлень</string>
     <string name="dndm_special_call_setting_group">Винятки</string>
     <string name="dndm_vip_call_setting_title">Налаштування винятків</string>
-    <string name="dndm_vip_call_summary_none">Натисніть для налаштування</string>
+    <string name="dndm_vip_call_summary_none">Натисніть, для налаштування</string>
     <string name="dndm_vip_call_summary_custom">Винятків: %d</string>
     <string name="dndm_vip_call_summary_contact">Всі контакти</string>
     <string name="dndm_vip_call_button_title">Дозволити виклики для винятків</string>
@@ -2841,7 +2841,7 @@ Android File Transfer
     <string name="device_name">Ім\'я пристрою</string>
 	<string name="device_name_input_error">Не вдалося зберегти ім\'я пристрою.</string>
 	<string name="dirac_mode_general">Загальні</string>
-	<string name="open_wifi_connect_summary">Натисніть для налаштування</string>
+	<string name="open_wifi_connect_summary">Натисніть, для налаштування</string>
 	<string name="open_wifi_connect_title">Під\'єднання до мережі %1$s</string>
     <string name="device_edit_title">Перейменувати пристрій</string>
     <string name="device_name_input_hint">Введіть ім\'я пристрою</string>
@@ -3102,12 +3102,12 @@ Android File Transfer
     <string name="tv_system_title">TV система</string>
     <string name="hdmi_toggler">HDMI</string>
     <string name="hdmi_settings">Налаштування HDMI</string>
-    <string name="hdmi_settings_summary">Натисніть для налаштування HDMI</string>
+    <string name="hdmi_settings_summary">Натисніть, для налаштування HDMI</string>
     <string name="hdmi_audio_toggler">Аудіо</string>
     <string name="hdmi_video_toggler">Відео</string>
     <string name="hdmi_video_resolution">Дозвіл відео</string>
     <string name="hdmi_notification_title">HDMI кабель під\'єднано</string>
-    <string name="hdmi_notification_content">Натисніть для налаштування HDMI</string>
+    <string name="hdmi_notification_content">Натисніть, для налаштування HDMI</string>
     <string name="display_settings_scences_title">Сцени</string>
     <string name="mtk_thememanager_title">Тема</string>
     <string name="default_name">Стандартна</string>

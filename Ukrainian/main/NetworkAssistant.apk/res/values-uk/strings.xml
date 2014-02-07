@@ -166,7 +166,7 @@
     <string name="adjust_no_network_update_data_fail">Помилка оновлення. Будь ласка перевірте параметри під\'єднання до інтернету.</string>
     <string name="app_has_deleted">%s видалено</string>
     <string name="running_apps_activity_title">Запущені додатки</string>
-    <string name="network_control_service_notification_text">Натисніть для налаштування доступу</string>
+    <string name="network_control_service_notification_text">Натисніть, для налаштування доступу</string>
 	<string name="network_control_service_notification_title_single">%1$s: заборона мережі %2$s</string>
 	<string name="network_control_service_notification_title_mutiple">%1$d: заборона мережі %2$s</string>
 	<string name="network_control_service_notification_title_nettype_wifi">Wi-Fi</string>

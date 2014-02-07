@@ -625,7 +625,6 @@
     <string name="sim_no_contact">На SIM карті немає контактів</string>
     <string name="sim_indexed_contact_not_exist">Позиція %1$d на SIM карті не допустима: повинно бути між %2$d та %3$d.</string>
     <string name="sim_contact_search_error">Відбулася помилка</string>
-    <string name="empty_divider_title"></string>
     <string name="contacts_unavailable_add_xiaomi_account">Синхронізація контактів Xiaomi</string>
     <string name="noContactHelpTextAccountsInfo">Синхронізація Xiaomi, Google та обмін контактами</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Відновлення даних за допомогою облікового запису Xiaomi</string>
@@ -1016,7 +1015,7 @@
 	<string name="confirm_delete_sim_entry_miui">Видалити контакти з SIM карти (%d од.)?</string>
 	<string name="activity_not_found_uri">Додатку для відкриття файлів даного формату не знайдено</string>
     <string name="sim_capacity">Місткість SIM карти</string>
-    <string name="sim_capacity_content" formatted="false">Всього доступно: %d. | Зайнято: %d</string>
+    <string name="sim_capacity_content" formatted="false">Доступно: %d. | Зайнято: %d</string>
     <string name="has_double_phone_number">Не вдається зберегти той же тип номера двічі, перевірте правильність введених даних.</string>
     <string name="phone_book_busy">Телефонна книга наразі зайнята, спробуйте пізніше.</string>
     <string name="sim_invalid">Неможливо зберегти контакт, SIM карта недійсна.</string>
@@ -1099,7 +1098,7 @@
     <string name="ringtone_volume_mute">Звук вимкнено</string>
     <string name="pref_key_sim_manage">Керування SIM</string>
     <string name="accessibility_calllog_detail">Журнал</string>
-    <string name="select_groups">Вибрати груп</string>
+    <string name="select_groups">Вибрати групи</string>
     <string name="sim_contact_existing">Контакт на SIM карті вже існує.</string>
     <string name="sim_contact_number_missing">Номер контакту на SIM карті відсутній.</string>
     <string name="sim_error_generic_failure">Помилка.</string>
@@ -1187,4 +1186,6 @@
     <string name="callrecordview_menu_batch_delete">Пакетне видалення</string>
     <string name="delete_call_log_selected_title">Видалити обрані виклики?</string>
 	<string name="yellowpage_navigation_send_to_desktop_succeeded">Додано на Ломашній екран</string>
+    <string name="empty_divider_title">Ви можете</string>
+    <string name="hint_distance">тримати дистанцію</string>
 </resources>

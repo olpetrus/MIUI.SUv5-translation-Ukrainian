@@ -1972,7 +1972,7 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="dndm_mute_all">Вимкнути звук дзвоників та повідомлень</string>
     <string name="dndm_special_call_setting_group">Винятки</string>
     <string name="dndm_vip_call_setting_title">Налаштування винятків</string>
-    <string name="dndm_vip_call_summary_none">Натисніть для налаштування</string>
+    <string name="dndm_vip_call_summary_none">Натисніть, для налаштування</string>
     <string name="dndm_vip_call_summary_custom">Винятків: %d</string>
     <string name="dndm_vip_call_summary_contact">Всі контакти</string>
     <string name="dndm_vip_call_button_title">Дозволити виклики для винятків</string>
@@ -2607,7 +2607,7 @@ Android File Transfer
     <string name="device_name">Ім\'я пристрою</string>
 	<string name="device_name_input_error">Не вдалося зберегти ім\'я пристрою.</string>
 	<string name="dirac_mode_general">Загальні</string>
-	<string name="open_wifi_connect_summary">Натисніть для налаштування</string>
+	<string name="open_wifi_connect_summary">Натисніть, для налаштування</string>
     <string name="restrict_background_data_title">Заборона фонових даних</string>
     <string name="restrict_background_data_dialog_summary">Додатки не зможуть отримувати дані в фоновому режимі. \nЗаборонити передачу даних у фоні?</string>
     <string name="restrict_background_data_notification_summary">Додатки не зможуть під\'єднуватися до мережі, якщо встановлено заборону на передачу даних в фоновому режимі.</string>
@@ -2722,8 +2722,8 @@ Android File Transfer
     <string name="agps_str_notify">Сповіщення</string>
     <string name="EM_NotifyDialog_title">EM сповіщення</string>
     <string name="agps_OK">Гаразд</string>
-    <string name="agps_str_allow">ДОЗВОЛИТИ</string>
-    <string name="agps_str_deny">ЗАБОРОНИТИ</string>
+    <string name="agps_str_allow">Дозволити</string>
+    <string name="agps_str_deny">Заборонити</string>
     <string name="agps_str_error">Помилка</string>
     <string name="AGPS_DEFAULT_STRING">A-GPS Рядок по замовчанню</string>
     <string name="AGPS_CAUSE_NETWORK_CREATE_FAIL">Збій створення мережі</string>
@@ -2875,19 +2875,19 @@ Android File Transfer
     <string name="tv_system_title">TV система</string>
     <string name="hdmi_toggler">HDMI</string>
     <string name="hdmi_settings">Налаштування HDMI</string>
-    <string name="hdmi_settings_summary">Натисніть для налаштування HDMI</string>
+    <string name="hdmi_settings_summary">Натисніть, для налаштування HDMI</string>
     <string name="hdmi_audio_toggler">Аудіо</string>
     <string name="hdmi_video_toggler">Відео</string>
     <string name="hdmi_video_resolution">Дозвіл відео</string>
     <string name="hdmi_notification_title">HDMI кабель під\'єднано</string>
-    <string name="hdmi_notification_content">Натисніть для налаштування HDMI</string>
+    <string name="hdmi_notification_content">Натисніть, для налаштування HDMI</string>
     <string name="display_settings_scences_title">Сцени</string>
     <string name="mtk_thememanager_title">Тема</string>
     <string name="default_name">Стандартна</string>
     <string name="custom_theme_name">Нова [%1$s]</string>
     <string name="loading">Завантаження…</string>
     <string name="sim_enter_pin_hints">(4-8 цифр)</string>
-    <string name="sim_remain">(Залишок:%d)</string>
+    <string name="sim_remain">(Залишилось:%d)</string>
     <string name="gps_time_sync_attention_gps_on">"Отримання коректних даних GPS займе близько 1 хвилини. Окрім цього, GPS може показувати хибний час через слабкий сигнал.
 
 Використовувати синхронізацію часу через GPS?"</string>
@@ -3142,7 +3142,6 @@ Android File Transfer
     <string name="current_suffix">(Поточний)</string>
     <string name="lockscreen_style_set">Вибрати екран блокування</string>
     <string name="lockscreen_style_default_desc">Швидкий доступ до додатків на екрані блокування</string>
-    <string name="evdo_signal_strength_info">Evdo</string>
     <string name="security_not_set">Захист вимкнено</string>
     <string name="lockdown_vpn_already_connected">Завжди на VPN вже увімкнено для під\'єднання.</string>
     <string name="wifi_ap_no_connected">Немає під\'єднаних користувачів</string>
@@ -3709,8 +3708,8 @@ Android File Transfer
 	<string name="virus_scanner_stop_title">Зупинити</string>
     <string name="virus_scan_risk_button_name">Загроза</string>
     <string name="virus_scan_package_label_unknown">невідомо</string>
-    <string name="virus_scan_not_found_virus">вірус не знайдено</string>
-    <string name="virus_scan_not_found_risk">загрозу не знайдено</string>
+    <string name="virus_scan_not_found_virus">вірусів не знайдено</string>
+    <string name="virus_scan_not_found_risk">загроз не знайдено</string>
     <string name="virus_scan_last_scan_today">"Останнє сканування: сьогодні "</string>
     <string name="virus_scan_last_scan_yesterday">"Останнє сканування: вчора "</string>
     <string name="virus_scan_last_scan_date">Остання перевірка: %d днів тому.</string>

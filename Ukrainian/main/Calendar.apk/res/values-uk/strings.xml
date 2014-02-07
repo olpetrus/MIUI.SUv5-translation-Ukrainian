@@ -219,4 +219,7 @@
     <string name="month_medium_october">Жовтень</string>
     <string name="month_medium_november">Листопад</string>
     <string name="month_medium_december">Грудень</string>
+	<string name="copy_email">Копіювати адресу ел. пошти</string>
+    <string name="copy_number">Копіювати номер телефону</string>
+    <string name="done">Готово</string>
 </resources>

@@ -53,7 +53,7 @@
     <string name="HIPS_Perm_CallState_Hint">Додаткам дозволено отримувати інформацію про стан телефону: %1$s</string>
     <string name="HIPS_Perm_CallMonitor">Контроль викликів</string>
     <string name="HIPS_Perm_CallMonitor_Desc">Можливість відслідковувати вхідні та вихідні виклики, контролювати гучність і т.і. </string>
-    <string name="HIPS_Perm_CallMonitor_Hint">%1$s додаткам дозволено відслідковувати вхідні та вихідні виклики, контролювати гучність виклику: %1$s</string>
+    <string name="HIPS_Perm_CallMonitor_Hint">%1$s додаткам дозволено відслідковувати вхідні та вихідні виклики, контролювати гучність виклику.</string>
     <string name="HIPS_Perm_Location">Розташування</string>
     <string name="HIPS_Perm_Location_Desc">Можливість визначити розташування телефону, використовуючи мережу або GPS</string>
     <string name="HIPS_Perm_Location_Hint">Додаткам дозволено визначати розташування телефону: %1$s</string>
@@ -114,7 +114,7 @@
     <string name="HIPS_Perm_PromptAll">З запитом всі</string>
     <string name="HIPS_Perm_RejectAll">Заборонити всі</string>
     <string name="HIPS_Perm_ROOT_Title">отримати ROOT</string>
-    <string name="HIPS_Perm_ListenCallState">контроль статусу виклику</string>
+    <string name="HIPS_Perm_ListenCallState">отримати контроль статусу виклику</string>
     <string name="HIPS_Perm_GetCallState">отримати поточний статус виклику</string>
     <string name="HIPS_Perm_EndCall">завершити поточний виклик</string>
     <string name="HIPS_Perm_AnswerCall">відповісти на вхідний виклик</string>

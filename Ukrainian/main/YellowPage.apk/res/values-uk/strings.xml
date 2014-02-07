@@ -23,7 +23,7 @@
     <string name="pref_key_sim_manage">Керування SIM</string>
     <string name="select_groups">Вибір груп</string>
     <string name="sim_capacity">Ємність SIM карти</string>
-    <string name="sim_capacity_content" formatted="false">Всього доступно: %d | Зайнято: %d</string>
+    <string name="sim_capacity_content" formatted="false">Доступно: %d | Зайнято: %d</string>
     <string name="sim_contact_existing">Цей контакт на SIM вже існує</string>
     <string name="sim_contact_number_missing">Контакт не знайдено</string>
     <string name="sim_error_anr_full">Сховище номерів заповнено</string>
@@ -165,4 +165,11 @@
 	<string name="balance_inquiry_send_sms_fail_hint">Помилка відправлення SNS. Перевірте стан SIM-карки.</string>
 	<string name="nearby_yellow_page_title">Поблизу</string>
     <string name="nearby_no_yellow_page">Нема результатів</string>
+	<string name="mark_title_null_hint">Введення не може бути порожнім</string>
+    <string name="recharge_history_empty">Немає історії</string>
+    <string name="login_before_use">Перед використанням необхідно ввійти</string>
+    <string name="express_inquiry_internal_failure">"Відбулася помилка. Перевірте трек номер."</string>
+    <string name="express_inquiry_history">Історія</string>
+    <string name="express_inquiry_delivered">Доставлене</string>
+    <string name="express_inquiry_no_history">Немає історії</string>
 </resources>

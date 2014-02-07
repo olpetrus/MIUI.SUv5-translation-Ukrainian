@@ -1559,4 +1559,12 @@
     <string name="call_ring_stepup_summary">Поступово збільшувати гучність рінгтону для вхідних викликів</string>
     <string name="card_itself_for_voice">Карта</string>
     <string name="suspect_info">Будьте обережні: завжди необхідно перевіряти особистість контакту по телефону або відео перед тим, як відповідати на питання, пов\'язані з Вашими фінансами.</string>
-</resources>
+<string name="sim_slot_alert_title">Ради по слотах SIM карти</string>
+     <string name="sim_slot_alert_message">Вставте %s SIM карту в перший слот і насолоджуйтеся високошвидкісний 3G мережею</string>
+     <string name="sim_slot_alert_shutdown">Виключити</string>
+     <string name="sim_slot_alert_cancel">Продовжити використання</string>
+     <string name="oldman_answer_call_button_text">відповісти</string>
+     <string name="oldman_reject_call_button_text">відхилити</string>
+     <string name="oldman_end_call_button_text">відбій</string>
+     <string name="oldman_dialpad_button_text">клавіатура</string>
+     <s</resources>
