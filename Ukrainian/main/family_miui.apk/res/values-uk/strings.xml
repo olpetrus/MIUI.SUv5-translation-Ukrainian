@@ -637,7 +637,7 @@
      <string name="password_max_len">Макс.довга пароля %1$s символів!</string>
      <string name="login_successful">Успішний вхід!</string>
      <string name="password_len_limit">Довга пароля %1$s-%2$s символів!</string>
-     <string name="username_len_limit">"Довга ім\'я польз. % 1$s-%2$s символів!"</string>
+     <string name="username_len_limit" formatted="false">Довга ім\'я польз. % 1$s-%2$s символів!</string>
      <string name="passwords_are_different">Паролі відрізняються!</string>
      <string name="register_successful">Успішна реєстрація!</string>
      <string name="initializing_recording_device">Ініціалізація записуючого обладнання</string>
