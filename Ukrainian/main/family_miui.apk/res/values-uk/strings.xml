@@ -40,7 +40,7 @@
      <string name="find">Знайти</string>
      <string name="join">Вступити</string>
      <string name="join_apply">Запит на вступ</string>
-     <string name="input_name">Уведіть ваше ім\’я</string>
+     <string name="input_name">Уведіть ваше ім\'я</string>
      <string name="ok">ОК</string>
      <string name="cancel">Скасування</string>
      <string name="save">Зберегти</string>
@@ -52,12 +52,12 @@
      <string name="kick_out">Kick out</string>
      <string name="dismiss_group">Dismiss the group</string>
      <string name="exit_group">Вийти із групи</string>
-     <string name="x_name">Ім\’я</string>
+     <string name="x_name">Ім\'я</string>
      <string name="member">Учасник</string>
      <string name="create_date">Дата створення</string>
      <string name="group_manage">Керування групою</string>
      <string name="my_info">Мої дані</string>
-     <string name="name">Ім\’я</string>
+     <string name="name">Ім\'я</string>
      <string name="mobile">Телефон</string>
      <string name="head_photo">Аватар</string>
      <string name="my_group">Моя чат група</string>
@@ -71,14 +71,14 @@
      <string name="insert_to_home_screen_failed">Неможливо додати на екран</string>
      <string name="remove_from_home_screen_succeed">Вилучене з екрана</string>
      <string name="remove_from_home_screen_failed">Неможливо вилучити з екрана</string>
-     <string name="edit_contact_name_hint">Уведіть ім\’я</string>
+     <string name="edit_contact_name_hint">Уведіть ім\'я</string>
      <string name="edit_contact_number_hint">Уведіть номер</string>
-     <string name="contact_name">Ім\’я:</string>
+     <string name="contact_name">Ім\'я:</string>
      <string name="contact_number">Номер:</string>
      <string name="contact_phone">Аватар:</string>
      <string name="edit_contact">Змінити контакт</string>
      <string name="add_contact">Додати контакт</string>
-     <string name="contat_name_is_empty">Ім\’я контакту</string>
+     <string name="contat_name_is_empty">Ім\'я контакту</string>
      <string name="contat_number_is_empty">Номер телефону</string>
      <string name="insert_contact_succeed">Контакт доданий</string>
      <string name="insert_contact_failed">Неможливо додати контакт</string>
@@ -175,7 +175,7 @@
      <string name="exit_group_successful">Успішно покинули групу</string>
      <string name="edit_group_info">Змінити інформацію групи</string>
      <string name="edit_my_info">Змінити мою інформацію</string>
-     <string name="please_input_name">Уведіть ім\’я</string>
+     <string name="please_input_name">Уведіть ім\'я</string>
      <string name="no_more">No more</string>
      <string name="load_failed">Помилка завантаження</string>
      <string name="downloading">Завантаження…</string>
@@ -184,7 +184,7 @@
      <string name="qun_notification_title">Сімейний чат</string>
      <string name="qun_notification_text">Нове повідомлення!</string>
      <string name="qun_invited_notification_text_fmt">Ви запрошені в групу \"%1$s\"</string>
-     <string name="find_contact_hint">Уведіть ім\’я або номер</string>
+     <string name="find_contact_hint">Уведіть ім\'я або номер</string>
      <string name="keyboard">Клавіатура</string>
      <string name="found_new_version">Знайдена нова версія</string>
      <string name="record_max_duration">Перевищена макс. тривалість!</string>
@@ -199,7 +199,7 @@
      <string name="audio_player_err_unknown">Помилка!</string>
      <string name="audio_player_err_play">Помилка відтворення!</string>
      <string name="audio_player_err_file">Помилка файлу!</string>
-     <string name="suggest_title"> Зворотний зв\’язок</string>
+     <string name="suggest_title"> Зворотний зв\'язок</string>
      <string name="suggest_hint">ваші пропозиції?</string>
      <string name="suggest_tip">Введіть пропозиції</string>
      <string name="commit_successful">Успішне підтвердження</string>
@@ -233,7 +233,7 @@
      <string name="read_sms_hint">Після одержання повідомлення, вони будуть відкриватися шляхом струшування телефону. Включити дану функцію?</string>
      <string name="close_read_sms_hint">Відключити цю функцію?</string>
      <string name="read_income_call">Читання імені, що дзвонить</string>
-     <string name="read_income_call_hint"> При вхідному дзвінку ім\’я буде читатися автоматично. Включити дану функцію?</string>
+     <string name="read_income_call_hint"> При вхідному дзвінку ім\'я буде читатися автоматично. Включити дану функцію?</string>
      <string name="close_read_income_call_hint">Виключити функцію читання імені, що дзвонить?</string>
      <string name="install_tts_hint"> Необхідно встановити голосовий помічник</string>
      <string name="install">Установити</string>
@@ -243,13 +243,13 @@
      <string name="rock_read_sms">Струснути для прочитання SMS</string>
      <string name="auto_read_sms">Читати SMS автоматично</string>
      <string name="close_read_sms">Відключити функцію читання SMS голосом</string>
-     <string name="username">Ім\’я користувача</string>
+     <string name="username">Ім\'я користувача</string>
      <string name="password">Пароль</string>
      <string name="repeat_password">Повтор пароля</string>
      <string name="please_input_password">Введіть пароль!</string>
      <string name="please_repeat_password">Повторіть пароль!</string>
      <string name="login">Вхід</string>
-     <string name="please_input_user_name">Введіть ім\’я користувача</string>
+     <string name="please_input_user_name">Введіть ім\'я користувача</string>
      <string name="at_least_six">(6~10 б)</string>
      <string name="t9_press_hint">Підказки при наборі</string>
      <string name="t9_press_vibrate">Вібро при наборі</string>
@@ -329,8 +329,8 @@
      <string name="remote_parent_version_incompatible_hint">"%1$s використовує застарілу версію. Неможливо одержати доступ до вилученого керування."</string>
      <string name="remote_parent_child_app_mode_hint">%1$s перебуває в режимі для дітей. Неможливо одержати доступ до вилученого керування.</string>
      <string name="remote_parent_failed">"Не вдалося одержати інформація про користувача.
- 1.Ви можете попросити співрозмовника забезпечити стабільне інтернет з\’єднання.
- 2.Стабільне з\’єднання забезпечується в тому випадку, коли на обох телефонах використовується Wi-Fi"</string>
+ 1.Ви можете попросити співрозмовника забезпечити стабільне інтернет з\'єднання.
+ 2.Стабільне з\'єднання забезпечується в тому випадку, коли на обох телефонах використовується Wi-Fi"</string>
      <string name="rc_remote_info">"Телефон: %1$s"</string>
      <string name="rc_save">Зберегти</string>
      <string name="rc_cancel">Вихід</string>
@@ -375,7 +375,7 @@
      <string name="bovo_parent_hint">"Лаунчер BOVO SENIOR
   Відвідаєте офіційний сайт BOVO для завантаження:
   Address: www.bovophone.com"</string>
-     <string name="jeejen_support">"Підтримка: Jeejen\’s Times"</string>
+     <string name="jeejen_support">"Підтримка: Jeejen\'s Times"</string>
      <string name="edit_head">Аватар</string>
      <string name="rc_get_contact_failed">Не вдалося одержати дані контактів</string>
      <string name="rc_get_qun_failed">Не вдалося одержати дані контактів</string>
@@ -467,7 +467,7 @@
      <string name="clearing_all_sms_record">Очищення всієї історії SMS…</string>
      <string name="clearing_cache">Очищення кеша…</string>
      <string name="clearing_sms_record">Очищення історії SMS…</string>
-     <string name="connect_interrupt">З\’єднання перерване</string>
+     <string name="connect_interrupt">З\'єднання перерване</string>
      <string name="remote_help_end"> Дистанційний доступ відключений</string>
      <string name="opposite_side_interrupt"> Дистанційний доступ відключений в іншого учасника</string>
      <string name="opposite_side_refuse">Учасник відхилив запит</string>
@@ -508,7 +508,7 @@
      <string name="tuesday">Вівторок</string>
      <string name="wensday">Середовище</string>
      <string name="thursday">Четвер</string>
-     <string name="friday">П\’ятниця</string>
+     <string name="friday">П\'ятниця</string>
      <string name="saturday">Субота</string>
      <string name="festival_1_1">Новий Рік</string>
      <string name="festival_2_14">День Святого Валентина</string>
@@ -550,14 +550,14 @@
      <string name="mms">MMS</string>
      <string name="missed_call">Пропущений виклик</string>
      <string name="name_max_len">Уведіть не більш %1$s символів імені!</string>
-     <string name="name_x_cannot_empty">Ім\’я не може бути порожнім</string>
+     <string name="name_x_cannot_empty">Ім\'я не може бути порожнім</string>
      <string name="need_voice_engine">Неможливо використовувати цю функцію. Інша сторона повинна встановити голосовий движок</string>
      <string name="new_sms_coming">Отримане нове SMS</string>
      <string name="no_select_edit_item">Елементи для редагування не обрані</string>
      <string name="no_subject_2">Немає теми</string>
-     <string name="not_connect">Немає з\’єднання</string>
+     <string name="not_connect">Немає з\'єднання</string>
      <string name="please_input_group_number">Уведіть номер групи</string>
-     <string name="please_input_your_name">Уведіть ваше ім\’я</string>
+     <string name="please_input_your_name">Уведіть ваше ім\'я</string>
      <string name="please_open_voice_engine">Не вдалося прочитати. Включите голосовий помічник і спробуйте ще раз</string>
      <string name="deleting_linkman">Видалення контакту…</string>
      <string name="delete_linkman_succ">Контакт вилучений</string>
@@ -572,7 +572,7 @@
      <string name="incoming_call_format">Вхідний: %1$s</string>
      <string name="missed_call_format">Пропущений: %1$s</string>
      <string name="refused_call">Виклик відхилений</string>
-     <string name="remote_connect_failed">Вилучене з\’єднання перерване, повторите ще раз</string>
+     <string name="remote_connect_failed">Вилучене з\'єднання перерване, повторите ще раз</string>
      <string name="remote_help_donot_support_mms">Вилучений помічник не підтримує читання MMS</string>
      <string name="remote_help_end_2">Вилучене керування завершене</string>
      <string name="remote_help_interrupt">Вилучене керування перерване</string>
@@ -589,7 +589,7 @@
      <string name="upgrade_failed">Помилка відновлення</string>
      <string name="video_file">Відео файл не підтримується</string>
      <string name="view_sys_msg">Показати системне повідомлення</string>
-     <string name="voice_function_need_net"> Для функцій голосового помічника необхідно активне інтернет з\’єднання</string>
+     <string name="voice_function_need_net"> Для функцій голосового помічника необхідно активне інтернет з\'єднання</string>
      <string name="whether_update_to_new_version">Обновитися до нової версії?</string>
      <string name="verifying">Верифікація…</string>
      <string name="mms_notification_title">Повідомлення</string>
@@ -633,11 +633,11 @@
      <string name="thank_friend">Спасибі</string>
      <string name="friend_names">today Elder Brother Zuro, cnliugq Du Hongjing, Iam Fat Lin, Fieforever zero_create ctyu and Cheng Sheng</string>
      <string name="exceed_max_len">Уведіть не більш %1$s символів!</string>
-     <string name="username_max_len">Макс.довга ім\’я польз. % 1$s символів!</string>
+     <string name="username_max_len">Макс.довга ім\'я польз. % 1$s символів!</string>
      <string name="password_max_len">Макс.довга пароля %1$s символів!</string>
      <string name="login_successful">Успішний вхід!</string>
      <string name="password_len_limit">Довга пароля %1$s-%2$s символів!</string>
-     <string name="username_len_limit">Довга ім\’я польз. % 1$s-%2$s символів!</string>
+     <string name="username_len_limit">"Довга ім\'я польз. % 1$s-%2$s символів!"</string>
      <string name="passwords_are_different">Паролі відрізняються!</string>
      <string name="register_successful">Успішна реєстрація!</string>
      <string name="initializing_recording_device">Ініціалізація записуючого обладнання</string>
