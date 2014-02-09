@@ -45,8 +45,8 @@
     <string name="category_favorite">Вибране</string>
     <string name="category_bluetooth">Bluetooth</string>
     <string name="category_log">Лог</string>
-    <string name="operation_rename_message">Ім\'я теки</string>
-    <string name="operation_create_folder_message">Ім\'я теки</string>
+    <string name="operation_rename_message">Введіть назву</string>
+    <string name="operation_create_folder_message">Введіть назву</string>
     <string name="operation_delete_confirm_message">Видалити</string>
     <string name="operation_delete_confirm_message_folder">Видалення теки знищить всі дані в теці.\n</string>
     <string name="delete_folder">Видалити?</string>
@@ -57,11 +57,11 @@
     <string name="new_folder_name">Нова тека</string>
     <string name="sd_card_size">SD карта: %1$s</string>
     <string name="sd_card_available">Доступно: %1$s</string>
-    <string name="file_info_location">Зайнято: </string>
-    <string name="file_info_size">Розмір: </string>
-    <string name="file_info_modified">Час: </string>
-    <string name="file_info_canread">Право читати: </string>
-    <string name="file_info_canwrite">Право писати: </string>
+    <string name="file_info_location">Розміщено:</string>
+    <string name="file_info_size">Розмір:</string>
+    <string name="file_info_modified">Час:</string>
+    <string name="file_info_canread">Часто використовуємий: </string>
+    <string name="file_info_canwrite">Записаний:</string>
     <string name="file_info_ishidden">Прихований: </string>
     <string name="yes">Так</string>
     <string name="no">Ні</string>
@@ -72,7 +72,7 @@
     <string name="error_info_cant_send_folder">Цей тип файлу не підтримується.</string>
     <string name="fail_to_create_folder">Неможливо створити теку: недостатньо місця або тека вже існує.</string>
 	<string name="fail_to_create_folder_unknown">Неможливо створити теку.</string>
-    <string name="fail_to_rename">Тека з таким ім\'ям вже існує.</string>
+    <string name="fail_to_rename">Тека/файл з таким ім\'ям вже існує.</string>
     <string name="error_filename_too_long">Ім\'я файлу дуже довге.</string>
     <string name="enable_sd_card">Під\'єднайте SD карту або вимкніть USB режим.</string>
     <string name="start_server">Старт</string>

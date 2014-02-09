@@ -222,4 +222,6 @@
 	<string name="copy_email">Копіювати адресу ел. пошти</string>
     <string name="copy_number">Копіювати номер телефону</string>
     <string name="done">Готово</string>
+    <string name="today_no_events">Сьогодні немає заходів</string>
+    <string name="more_string">Ще %1$s…</string>
 </resources>
