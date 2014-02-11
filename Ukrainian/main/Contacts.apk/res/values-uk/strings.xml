@@ -1188,4 +1188,8 @@
 	<string name="yellowpage_navigation_send_to_desktop_succeeded">Додано на Ломашній екран</string>
     <string name="empty_divider_title">Ви можете</string>
     <string name="hint_distance">тримати дистанцію</string>
+	<string name="yellowpage_navigation_network_location_not_enabled_title">Використовувати місцезнаходження</string>
+    <string name="yellowpage_navigation_network_location_not_enabled_summary">Послуги будуть відображатися згідно вашому місцезнаходженню, в якому місті ви знаходитесь. Ввімкнення цієї функції може покращити якість сервісів.</string>
+    <string name="yellowpage_navigation_network_location_enable">Ввімкнути</string>
+    <string name="yellowpage_navigation_network_location_enable_later">Пізніше</string>
 </resources>

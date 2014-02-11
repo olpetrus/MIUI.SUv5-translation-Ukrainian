@@ -23,7 +23,7 @@
     <string name="cert_not_saved">Сертифікат не встановлено.</string>
     <string name="no_cert_to_saved">Відсутній сертифікат для встановлення.</string>
     <string name="invalid_cert">Сертифікат не дійсний.</string>
-    <string name="cert_is_added">%sвстановлено.</string>
+    <string name="cert_is_added">%s встановлено</string>
     <string name="cert_too_large_error">Встановлення не виконано, тому що сертифікат за дуже великий.</string>
     <string name="cert_missing_error">Встановлення не виконано, тому що не вдалося знайти файл сертифікату.</string>
     <string name="cert_read_error">Встановлення не виконано, тому що не вдалося відкрити файл сертифікату.</string>

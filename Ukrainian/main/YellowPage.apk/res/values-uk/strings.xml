@@ -172,4 +172,5 @@
     <string name="express_inquiry_history">Історія</string>
     <string name="express_inquiry_delivered">Доставлене</string>
     <string name="express_inquiry_no_history">Немає історії</string>
+	<string name="call">Виклик</string>
 </resources>
