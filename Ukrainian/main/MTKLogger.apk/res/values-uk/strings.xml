@@ -9,7 +9,7 @@
     <string name="notification_on_summary_suffixes">включені</string>
     <string name="notification_off_summary_suffix">виключене</string>
     <string name="notification_off_summary_suffixes">виключені</string>
-    <string name="notification_nearly_out_of_storage">Пам'ять логів закінчується</string>
+    <string name="notification_nearly_out_of_storage">Пам\'ять логів закінчується</string>
     <string name="notification_out_of_storage_summary">Натисніть для одержання докладної інформації</string>
     <string name="network_log_name">Звіти мережі</string>
     <string name="mobile_log_name">Звіти телефону</string>
@@ -25,11 +25,11 @@
     <string name="log_start">Записане: %s</string>
     <string name="log_stop">Зупинене: %s</string>
     <string name="log_unselected">Виключене: %s</string>
-    <string name="phone_storage">Пам'ять телефону</string>
+    <string name="phone_storage">Пам\'ять телефону</string>
     <string name="sd_card">SD карта</string>
     <string name="log_path_not_exist">Патч %s не існує!</string>
-    <string name="low_storage_warning_dialog_title">Мало пам'яті!</string>
-    <string name="low_storage_warning_dialog_msg">Вільно менше пам'яті чому %d Мб, звільніть місце, а якщо ні, то процес скоро буде перерваний!</string>
+    <string name="low_storage_warning_dialog_title">Мало пам\'яті!</string>
+    <string name="low_storage_warning_dialog_msg">Вільно менше пам\'яті чому %d Мб, звільніть місце, а якщо ні, то процес скоро буде перерваний!</string>
     <string name="waiting_dialog_title_start_log">Початок записи</string>
     <string name="waiting_dialog_message_start_log">Початок записи…</string>
     <string name="waiting_dialog_title_stop_log">Зупинка запису</string>
@@ -81,8 +81,8 @@
     <string name="clear_dlg_title">Очистити</string>
     <string name="message_deletelog">Очистити обрані звіти?</string>
     <string name="error_deamon_unable">Nativeunable</string>
-    <string name="error_storage_not_ready">Пам'ять недоступна</string>
-    <string name="error_storage_full">Пам'ять заповнена</string>
+    <string name="error_storage_not_ready">Пам\'ять недоступна</string>
+    <string name="error_storage_full">Пам\'ять заповнена</string>
     <string name="error_send_cmd_fail">Помилка</string>
     <string name="error_deamon_die">Помилка процесу</string>
     <string name="error_unsupport_log">Непідтримувані формат звіту</string>
@@ -97,7 +97,7 @@
     <string name="taglog_title_no_space">Недостатньо місця!</string>
     <string name="taglog_msg_no_space">"%s Мб і більше місця повинне бути вільно для створення звіту.
  Очистити інші звіти або скасувати створення?"</string>
-    <string name="taglog_msg_input">"Звіт тегів буде стискати поточні журнали, щоб зберегти місце зберігання.Ввседите ім'я тэга:"</string>
+    <string name="taglog_msg_input">"Звіт тегів буде стискати поточні журнали, щоб зберегти місце зберігання.Ввседите ім\'я тэга:"</string>
     <string name="taglog_msg_logtool_stopped">Запис зупинений! Прагли б ви запустити запис звітів?</string>
     <string name="taglog_msg_zip_log_fail">Помилка стиску!</string>
     <string name="taglog_msg_no_sdcard">SD карта недоступна!</string>
@@ -107,7 +107,7 @@
     <string name="taglog_busy">Журнал використовується й не може обробити інші виключення!</string>
     <string name="taglog_compress_done">Стиск звітів завершений!</string>
     <string name="taglog_exit">Стиск звітів скасований!</string>
-    <string name="memorydump_done">"Дамп пам'яті готовий!
+    <string name="memorydump_done">"Дамп пам\'яті готовий!
 Натисніть Ок для перезапуску модему.
 Файл дампа:"</string>
     <string name="dump_warning">Увага</string>
@@ -137,8 +137,8 @@
     <string name="enable_modemlog">Включити журнал модему</string>
     <string name="networklog_settings">Настроювання журналу мережі</string>
     <string name="enable_networklog">Включити журнал мережі</string>
-    <string name="error_wait_sd_timeout">Таймаут очікування пам'яті</string>
-    <string name="info_wait_sd_ready">Підготовка пам'яті…</string>
+    <string name="error_wait_sd_timeout">Таймаут очікування пам\'яті</string>
+    <string name="info_wait_sd_ready">Підготовка пам\'яті…</string>
     <string name="send_filter_fail_title">Попередження журналу модему</string>
     <string name="send_filter_fail_msg">Не знайдений catcher_filter.bin, помістите його в /sdcard/mtklog/config</string>
     <string name="preference_dal_setting">Настроювання DAL</string>
@@ -151,13 +151,13 @@
 Відправити цю помилку на сервер Mediatek?"</string>
     <string name="log2server_btn_report">ОК</string>
     <string name="log2server_btn_cancel">Скасування</string>
-    <string name="feedback"> Зворотний зв'язок</string>
+    <string name="feedback"> Зворотний зв\'язок</string>
     <string name="feedback_hint"> Будь ласка, опишіть помилку</string>
     <string name="submitter">Відправник</string>
     <string name="submitter_tip"> Будь ласка, уведіть відправника</string>
-    <string name="submitter_hint">ID або ім'я</string>
+    <string name="submitter_hint">ID або ім\'я</string>
     <string name="error_tip">Помилка відправлення звіту!</string>
-    <string name="process_name">Ім'я процесу</string>
+    <string name="process_name">Ім\'я процесу</string>
     <string name="build_version">Версія складання</string>
     <string name="exception_class">Клас помилки</string>
     <string name="exception_level">Рівень помилки</string>
@@ -173,7 +173,7 @@
     <string name="dialog_send_tip">Мережа Wi-Fi підключена. Відправити журнал (розмір: %s) на сервер Mediatek?</string>
     <string name="btn_later">Пізніше</string>
     <string name="btn_giveup">Скасування</string>
-    <string name="network_gprs_tip">Поточне з'єднання не Wi-Fi. Може взиматися додаткова плата за мобільний інтернет. Продовжити?</string>
+    <string name="network_gprs_tip">Поточне з\'єднання не Wi-Fi. Може взиматися додаткова плата за мобільний інтернет. Продовжити?</string>
     <string name="logs">Додаткові журнали</string>
     <string name="mobile_log">Журнал телефону</string>
     <string name="modem_log">Журнал модему</string>
