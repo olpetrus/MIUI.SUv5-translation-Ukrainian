@@ -490,5 +490,4 @@
 	<string name="item_not_sync">Цей файл не був синхронізований з хмарним сервісом і не може бути завантажений</string>
     <string name="add_to_cloud_image_limit_exceeded_message">Перевишено межу зображень</string>
 	<string name="error_share_with_creator">Ви вже учасник цього альбому</string>
-    <string name="folder_holder_file">необхідно видалити цей файл пізніше</string>
 </resources>
