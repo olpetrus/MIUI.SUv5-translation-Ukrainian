@@ -3807,4 +3807,6 @@ Android File Transfer
     <string name="notification_title_firewall_blocked">Заблоковане</string>
     <string name="title_show_notification_yes">Відображення повідомлень увімкнено</string>
     <string name="title_show_notification_no">Відображення повідомлень вимкнено</string>
+    <string name="system_storage">Внутрішня пам\'ять</string>
+    <string name="dirac_control">Опптимізувати якість аудіо</string>
 </resources>

@@ -59,6 +59,10 @@
     <string name="radioInfo_unknown">Невідомо</string>
     <string name="sdcard_unmount">Відключити карту пам\'яті</string>
     <string name="sdcard_format">Форматувати карту пам\'яті</string>
+	<string name="clear_font_title">Підвищення чіткості</string>
+    <string name="clear_font_summary">Підвищення чіткості тексту</string>
+    <string name="increase_legibility_popup">Підвишееея чіткості буде ввімкнено. Це дозволить підвищити чіткість тексту</string>
+    <string name="increase_legibility_popup_title">Увімкнути підвищення чіткості</string>
     <string name="small_font">Маленький</string>
     <string name="medium_font">Cередня</string>
     <string name="large_font">Великий</string>
@@ -1973,6 +1977,8 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="vibration_intensity">Інтенсивність вібрації</string>
     <string name="display_saving">Автоналаштув. тону екрана</string>
     <string name="display_saving_mode_summary">Заощадження заряду за допомогою налаштування тону екрана відповідно до аналізу зображень</string>
+	<string name="auto_adjust_touch_title">High touch sensitivity</string>
+    <string name="auto_adjust_touch_summary">"Increase the screen's sensitivity so you can touch it while wearing gloves"</string>
     <string name="software_update_settings_list_item_title">Оновлення програмного забезпечення</string>
     <string name="samsung_update">Оновити</string>
     <string name="update_summary">Перевірити оновлення</string>

@@ -121,10 +121,10 @@
     <string name="simcard_test_sim2_ok">SIM2:вставлено</string>
     <string name="simcard_test_sim2_fail">SIM2:не вставлено</string>
     <string name="buletooth_test_open">Увімкніть Bluetooth</string>
-    <string name="buletooth_test_opening">Увімкнення Bluetooth......</string>
+    <string name="buletooth_test_opening">Увімкнення Bluetooth……</string>
     <string name="buletooth_test_opened">Bluetooth увімкнено</string>
     <string name="buletooth_test_close">Bluetooth вимкнено</string>
-    <string name="buletooth_test_closing">Вимкнення Bluetooth......</string>
+    <string name="buletooth_test_closing">Вимкнення Bluetooth……</string>
     <string name="buletooth_test_closed">Bluetooth вимкнено</string>
     <string name="DigitalClock">Цифровий годинник</string>
     <string name="test_start_now">Старт</string>
@@ -157,11 +157,11 @@
     <string name="unknown">невідомо</string>
     <string name="flashlight">Спалах</string>
     <string name="flashlight_testting">Тест спалаху</string>
-    <string name="flashlight_testting_2">Спалах працює...</string>
+    <string name="flashlight_testting_2">Спалах працює……</string>
     <string name="flashlight_not_exist">Спалах не існує, ніяких тестів</string>
     <string name="buletooth_test_startsearch">Почати пошук</string>
     <string name="buletooth_test_stopsearch">Зупинити пошук</string>
-    <string name="buletooth_test_searching">Пошук......</string>
+    <string name="buletooth_test_searching">Пошук……</string>
     <string name="buletooth_test_searchfinish">Пошук завершено</string>
     <string name="buletooth_test_devicelist">Пошук пристроїв: всього</string>
     <string name="buletooth_test_devicelist_end">Кінець</string>
