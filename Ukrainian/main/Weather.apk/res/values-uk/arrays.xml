@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <array name="send_item">
+    <string-array name="send_item">
         <item>SMS</item>
         <item>E-mail</item>
-    </array>
-    <array name="act_weather_main_listview_key">
+    </string-array>
+    <string-array name="act_weather_main_listview_key">
         <item>Швидкість вітру:</item>
         <item>UV індекс:</item>
         <item>Індекс одягу:</item>
@@ -13,7 +13,7 @@
         <item>Індекс вологості:</item>
         <item>Індекс ранкових вправ:</item>
         <item>Індекс дозвілля:</item>
-     </array>
+     </string-array>
     <string-array name="weather_image">
         <item>Ясно</item>
         <item>Хмарно</item>
