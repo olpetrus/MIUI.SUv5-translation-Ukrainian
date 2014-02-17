@@ -154,7 +154,7 @@
 	<string name="default_name">По замовчанню</string>
 	<string name="resource_select">Вибрати</string>
 	<string name="status_bar_toggle_ac">Доступ</string>
-	<string name="status_bar_toggle_bluetooth">Bluetooth</string>
+	<string name="status_bar_toggle_bluetooth">BT</string>
 	<string name="status_bar_toggle_brightness">Яскравість</string>
 	<string name="status_bar_toggle_auto_brightness">Автояскравість</string>
 	<string name="status_bar_toggle_data">Дані</string>

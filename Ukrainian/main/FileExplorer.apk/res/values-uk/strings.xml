@@ -83,7 +83,7 @@
     <string name="wifi_state">Статус Wi-Fi</string>
     <string name="instruction_pre">Натисніть \"Старт\" для запуску FTP сервера</string>
     <string name="instruction">Введіть наступну адресу в FTP клієнті:</string>
-    <string name="no_wifi">Wi-Fi вимкнено.</string>
+    <string name="no_wifi">Нет Wi-Fi підключень</string>
     <string name="no_wifi_hint">Перевірте налаштування під\'єднання.</string>
     <string name="search_title">Пошук</string>
     <string name="search_hint">Пошук</string>

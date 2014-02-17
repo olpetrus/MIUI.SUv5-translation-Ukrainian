@@ -389,7 +389,7 @@
 	<string name="volume_icon_description_media">Медіа</string>
 	<string name="volume_icon_description_notification">Сповіщення</string>
 	<string name="volume_icon_description_ringer">Мелодія</string>
-	<string name="wake_alarm_message">Наступний дзвоник будильника в %s</string>
+	<string name="wake_alarm_message">Наст. дзвоник будильника: %s</string>
 	<string name="white_dews">Білі роси</string>
 	<string name="winter_begins">Зима</string>
 	<string name="winter_solstice">Зимове сонцестояння</string>
