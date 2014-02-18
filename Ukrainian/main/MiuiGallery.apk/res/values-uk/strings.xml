@@ -52,7 +52,7 @@
     <string name="app_name">Галерея</string>
     <string name="loading">Завантаження…</string>
     <string name="loading_thumbnail">Завантаження ескізів…</string>
-    <string name="no_thumbnail">Немає ескізу.</string>
+    <string name="no_thumbnail">Немає ескізу</string>
     <string name="crop_save_text">Зберегти</string>
     <string name="multiface_crop_help">Натисніть на обличчя, щоб почати.</string>
     <string name="saving_image">Збереження зображення…</string>
