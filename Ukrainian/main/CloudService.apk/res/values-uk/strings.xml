@@ -11,5 +11,6 @@
     <string name="find_device">Знайти пристрій</string>
     <string name="find_device_stop_noise">Натисніть \"ОК\" для вимикання звуку</string>
     <string name="sync_item_calllog_title">Синхронізація журналу викликів</string>
-    <string name="sync_item_calllog_summary">Увімкніть, для синхронізації журналу викликів</string>
+    <string name="sync_item_calllog_summary">Увімкніть для синхронізації журналу викликів</string>
+	<string name="pref_title_sync_my_profile_title">Синхронізація профилю</string>
 </resources>

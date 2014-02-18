@@ -475,5 +475,5 @@
 	<string name="micloud_full_influence_dspt">Всі фото, відео, замітки і дані програм будуть синхронізовані з MiCloud. \n\nТакім чином, якщо ви втратите або зламаєте телефон, ваші дані залишаться в безпеці. \n\nКоли пам\'ять в MiCloud заповнена, ваші старі дані не зникнуть, проте, нові дані не зможуть синхронізуватися з MiCloud. \n\nЩоб це виправити, необхідно буде видалити непотрібні дані з MiCloud.</string>
 	<string name="enable_sync_dspt">Синхронізація відключена</string>
 	<string name="enable_sync">Включити</string>
-
+    <string name="logout_failed">Помилка виходу</string>
 </resources>
