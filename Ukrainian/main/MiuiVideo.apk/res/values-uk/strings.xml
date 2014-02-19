@@ -236,4 +236,12 @@
 	 <string name="alert_ignore">Більше не показувати</string>
 	 <string name="offline_no_source">Джерело кешування недоступне</string>
 	 <string name="offline_select_better_source">Переключено на доступне джерело кешування</string>
+     <string name="app_recommendation">Рекомендації</string>
+     <string name="to_play_airekan">У ролях</string>
+     <string name="quarter_bell_alert_message">Після бронювання ви отримаєте нагадування перед початком сеансу</string>
+     <string name="quarter_bell_alert_message_cancel">Після скасування бронювання ви не отримаєте нагадування перед початком сеансу</string>
+     <string name="quarter_bell_alert_title">Нагадування</string>
+     <string name="quarter_bell_alert_button_cancel">Скасування</string>
+     <string name="quarter_bell_alert_button_makeappointment">Бронювання</string>
+     <string name="quarter_bell_alert_button_cancelappointment">Вилучити бронювання</string>
 </resources>
