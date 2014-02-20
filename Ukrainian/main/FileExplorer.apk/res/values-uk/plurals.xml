@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="directory_item_count">
-        <item quantity="other">Елементів: %d</item>
-        <item quantity="one">Елементів: 1</item>
+        <item quantity="other">файлів: %d</item>
+        <item quantity="one">файлів: 1</item>
     </plurals>
+	<plurals name="delete_files_confirm">
+ 		<item quantity="other">Вилучити файли (%1$d)</item>
+ 		<item quantity="one">Вилучити файли (1)</item>
+ 	</plurals>
+ 	<plurals name="delete_folders_confirm">
+ 		<item quantity="other">" і папки (%1$d)?"</item>
+ 		<item quantity="one">" і папки (1)?"</item>
+ 	</plurals>
+ 	<plurals name="ui_bar_txt_download_progress">
+ 		<item quantity="other">Залишилося скачати файлів:%1$d</item>
+ 		<item quantity="one">Залишилося скачати файлів: 1</item>
+ 	</plurals>
+ 	<plurals name="ui_bar_txt_upload_progress">
+ 		<item quantity="other">Залишилося завантажити файлів: %1$d</item>
+ 		<item quantity="one">Залишилося завантажити файлів: 1</item>
+ 	</plurals>
 </resources>

@@ -3759,8 +3759,8 @@ Android File Transfer
 	<string name="list_sub_view_item_view">Перегляд</string>
     <string name="list_sub_view_item_clean">Чистка</string>
     <string name="list_sub_view_item_install">Встановлення</string>
-    <string name="list_sub_view_item_lock">Блок.</string>
-    <string name="list_sub_view_item_unlock">Розблок.</string>
+    <string name="list_sub_view_item_lock">Завжди очищати "</string>
+    <string name="list_sub_view_item_unlock">Завжди очищати "</string>
 	<string name="power_save_on_time_goout_title">Режим по закінченні періоду</string>
     <string name="power_save_choose_recovery_mode">Режим</string>
     <string name="power_new_choose_mode">Вибір режиму</string>
