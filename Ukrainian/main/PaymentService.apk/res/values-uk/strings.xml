@@ -285,7 +285,7 @@
 	<string name="error_cert_date_summary">Помилка даних сертифіката. Перевірте локальні дані та повторіть спробу</string>
  	<string name="error_cert_date_title">Помилка сертифіката</string>
  	<string name="msg_order_hint_1_1">Після натискання кнопки купити, обладнання</string>
- 	<string name="msg_order_hint_1_2">автоматично зв'яжеться з постачальником послуг</string>
+ 	<string name="msg_order_hint_1_2">автоматично зв\'яжеться з постачальником послуг</string>
  	<string name="msg_progress_hint_2_1">Постачальник послуг успішно відповів</string>
  	<string name="msg_progress_hint_2_2">Скоро надійде текстове підтвердження</string>
  	<string name="scan_prompt_retry">Тримаєте карту так, щоб не було відблисків, потім повторіть спробу</string>
