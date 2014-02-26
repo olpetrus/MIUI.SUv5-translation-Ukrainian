@@ -3180,7 +3180,7 @@ Android File Transfer
     <string name="button_text_a_key_optimize">Оптимізувати</string>
     <string name="button_text_done">Готово</string>
     <string name="button_text_cancel">Скасувати</string>
-    <string name="deep_cleaning">Додатково</string>
+    <string name="deep_cleaning">Файли</string>
     <string name="rubbish_cleaning">Очищення системи</string>
     <string name="storage_size_title">Пам\'ять</string>
     <string name="storage_size_content">Використано: %1$s | Доступно: %2$s</string>

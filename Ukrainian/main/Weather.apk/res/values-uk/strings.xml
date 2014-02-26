@@ -99,8 +99,8 @@
     <string name="aqi_quality_index_pure">відмінно</string>
     <string name="act_weather_main_aqi_title">Чистота повітря</string>
     <string name="aqi_quality_index_good">добре</string>
-    <string name="aqi_quality_index_moderate">модерувати</string>
-    <string name="aqi_quality_index_light_pollution">світлове забруднення</string>
+    <string name="aqi_quality_index_moderate">помірний</string>
+    <string name="aqi_quality_index_light_pollution">легке забруднення</string>
     <string name="aqi_quality_index_unhealthy">шкідливо</string>
     <string name="aqi_quality_index_dangerous">небезпечно</string>
     <string name="aqi_quality_index_hazardous">забруднено</string>
