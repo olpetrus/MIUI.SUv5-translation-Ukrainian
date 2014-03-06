@@ -83,7 +83,7 @@
     <string name="tip_weather">Сповіщення погоди MIUI</string>
     <string name="tip_weather_info_title_1">%1$s очікувана різниця в температурі %2$d градусів</string>
     <string name="tip_weather_info_content_1">Виходячи на вулицю, одягайте відповідний одяг.</string>
-    <string name="tip_weather_info_title_2">%1$s температура сьогодні приблизно %2$s</string>
+    <string name="tip_weather_info_title_2">%1$s: %2$s</string>
     <string name="alert_provider_title">Сповіщення про розташування</string>
     <string name="alert_provider_message">Необхідно дозволити визначення розташування за мобільною мережею</string>
     <string name="button_allow">Згоден</string>
@@ -121,4 +121,6 @@
     <string name="share_button_text">Поділитися</string>
     <string name="share_choice_titile">Поділитися</string>
 	<string name="weather_unit_middle">" | "</string>
+	<string name="network_unavailable">Помилка підключення. Мережа недоступна.</string>
+ 	<string name="weather_data_unreachable">Неможливо отримати данні про погоду. Будь ласка, спробуйте пізніше.</string>
 </resources>

@@ -21,7 +21,7 @@
 	<string name="anti_private_summary">Відхиляти та блокувати виклики без номеру</string>
 	<string name="fw_keyword_filter">Ключове слово</string>
 	<string name="fw_keyword_filter_summary">Фільтрація повідомлень за обраними словами</string>
-	<string name="fw_set_keyword">Настройка ключових слів</string>
+	<string name="fw_set_keyword">Налаштування ключових слів</string>
 	<string name="fw_notification_settings">Налагодження сповіщень</string>
 	<string name="show_firewall_notification">Сповіщення про блокування</string>
 	<string name="show_notification">Показувати сповіщення</string>
@@ -201,7 +201,7 @@
 	<string name="qm_open">Тихий режим</string>
 	<string name="qm_other_settings">Додатково</string>
 	<string name="qm_other_settings_group">Інші</string>
-	<string name="qm_other_settings_info">Настройка вхідних викликів та повідомлень під час тихого режиму</string>
+	<string name="qm_other_settings_info">Налаштування вхідних викликів та повідомлень під час тихого режиму</string>
 	<string name="qm_repeated_call_setting_title">Неодноразові виклики</string>
 	<string name="qm_repeated_call_summary_3min">Другий виклик від того же номера на протязі трьох хвилин не буде відхилено</string>
 	<string name="qm_repeated_call_summary_none">Ігнорувати неодноразові виклики</string>
@@ -240,7 +240,7 @@
 	<string name="st_mute_block">Не сповіщати про виклики та блокувати повідомлення</string>
 	<string name="st_mute_title">Не сповіщати</string>
 	<string name="st_settings_name">Налаштування чорного списку</string>
-    <string name="st_block_setting_group">Настройка чорного списку</string>
+    <string name="st_block_setting_group">Налаштування чорного списку</string>
     <string name="st_block_setting_title">Виклики та повідомлення</string>
 	<string name="st_sms_group">Повідомлення</string>
 	<string name="tab_blacklist">Чорний список</string>

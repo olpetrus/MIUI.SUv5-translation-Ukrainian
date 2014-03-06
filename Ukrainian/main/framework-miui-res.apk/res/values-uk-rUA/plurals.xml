@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+   <plurals name="in_half_hour">
+        <item quantity="other">Півгодини тому</item>
+    </plurals>
     <plurals name="a_hour_ago">
         <item quantity="other">Годину тому</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="other">Через півгодини</item>
+        <item quantity="other">Півгодини назад</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
         <item quantity="other">Негайно</item>
@@ -21,10 +24,7 @@
     <plurals name="abbrev_in_a_hour">
         <item quantity="other">Годину тому</item>
     </plurals>
-    <plurals name="in_a_hour">
-        <item quantity="other">Годину тому</item>
-    </plurals>
-    <plurals name="in_half_hour">
+        <plurals name="in_half_hour">
         <item quantity="other">Півгодини тому</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
@@ -38,11 +38,11 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d хв.тому</item>
-        <item quantity="one">1 хв.тому</item>
+        <item quantity="one">%d хв.тому</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d хв.тому</item>
-        <item quantity="one">1 хв.тому</item>
+        <item quantity="one">%d хв.тому</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">через %d хв.</item>
@@ -50,7 +50,7 @@
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">через %d хв.</item>
-        <item quantity="one">через 1 хв.</item>
+        <item quantity="one">через %d хв.</item>
     </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">Вибрано: %1$d</item>

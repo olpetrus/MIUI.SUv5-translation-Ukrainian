@@ -269,13 +269,13 @@
     <string name="project_device_mobile">Стільниковий телефон</string>
     <string name="mi_effect">MiSound</string>
     <string name="headphone_settings">Налаштування навушників</string>
-    <string name="mi_effect_title">Використовувати MiSound підсилювач</string>
-    <string name="mi_effect_summary">Завжди використовувати MiSound підсилювач при прослуховуванні через навушники</string>
+    <string name="mi_effect_title">Використовувати підсилювач \"MiSound\" </string>
+    <string name="mi_effect_summary">Завжди використовувати підсилювач \"MiSound\" при прослуховуванні через навушники</string>
     <string name="dirac_mode_off">Dirac выкл.</string>
     <string name="dirac_mode_in_ear">Вкладиші Xiaomi</string>
     <string name="dirac_mode_earbuds">Навушники Xiaomi</string>
     <string name="dirac_mode_piston_100">Пістони Xiaomi</string>
-    <string name="dirac_mode_general">Звичайні</string>
+    <string name="dirac_mode_general">Звичайні навушники</string>
     <string name="eq_flat">Легка</string>
     <string name="eq_rock">Рок</string>
     <string name="eq_jazz">Джаз</string>

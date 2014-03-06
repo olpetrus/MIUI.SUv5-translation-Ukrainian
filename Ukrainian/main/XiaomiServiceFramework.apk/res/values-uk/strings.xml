@@ -101,7 +101,7 @@
     <string name="check_phone_error_title">Помилка включення синхронізації</string>
     <string name="check_phone_io_error">Помилка мережі.</string>
     <string name="other_settings">Інші налаштування</string>
-    <string name="find_device">Знайти пристрій</string>
+    <string name="find_device">Пошук пристрою</string>
     <string name="find_device_check_phone_error_title">Помилка вмикання пошуку пристрою</string>
     <string name="find_device_enabling">Вмикання…</string>
     <string name="find_device_disabling">Вимикання…</string>

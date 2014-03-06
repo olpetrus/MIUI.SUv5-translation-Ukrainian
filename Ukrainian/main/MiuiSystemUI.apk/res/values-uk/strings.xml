@@ -205,8 +205,8 @@
     <string name="screen_button_notification_text">Натискання \"Додому\"+\"Вимкнути\" для активації</string>
     <string name="status_bar_style_settings">Налаштування сповіщень</string>
     <string name="settings_toggle_layout_style">Стиль перемикачів</string>
-    <string name="settings_toggle_layout_style_compact">Компакт</string>
-    <string name="settings_toggle_layout_style_single_page">Сторінка</string>
+    <string name="settings_toggle_layout_style_compact">Строка</string>
+    <string name="settings_toggle_layout_style_single_page">Сітка</string>
     <string name="settings_toggle_layout_style_applying">Змінюю стиль перемикачів…</string>
     <string name="settings_toggle">Перемикачі</string>
     <string name="settings_toggle_position">Розміщення перемикачів</string>
@@ -216,7 +216,7 @@
     <string name="settings_toggle_collapse_after_clicked">Згорнути після натискання</string>
     <string name="settings_notification_icon">Сповіщення в Панелі Статусу</string>
     <string name="settings_screenshot_notification_disabled">Не сповіщати про знімки екрану</string>
-    <string name="settings_show_network_speed">Швидкість з\'єднання</string>
+    <string name="settings_show_network_speed">Швидкість мережі</string>
     <string name="settings_expanded_view">Панель сповіщень</string>
     <string name="settings_expandable_under_keyguard">На екрані блокування</string>
     <string name="settings_expandable_under_keyguard_summary">Працює, якщо для розблокування не встановлено пароль</string>

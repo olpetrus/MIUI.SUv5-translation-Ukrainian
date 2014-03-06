@@ -278,4 +278,6 @@
     <string name="station_name">Назва станції</string>
     <string name="toast_delete_station_fail">Помилка видалення станції!</string>
     <string name="toast_edit_save_station_fail">Помилка збереження станції!</string>
+	<string name="toast_fm_error_startfailed">Помилка запису. Можливо, запис запущений в іншій програмі.</string>
+    <string name="toast_fm_recorder_access_error">Неможливо записувати радіо в режимі гостя</string>
 </resources>

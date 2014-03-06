@@ -691,7 +691,7 @@
 	<string name="voicemail_notification_vibrate_when_title">Вібросигнал</string>
 	<string name="voicemail_notification_vibarte_when_dialog_title">Вібросигнал</string>
 	<string name="voicemail_notification_ringtone_title">Мелодія</string>
-    <string name="default_notification_description">Мелодія по замовчанню (%1$s)</string>
+    <string name="default_notification_description">Рингтон за замовчанням (%1$s)</string>
 	<string name="ringtone_title">Мелодія телефону</string>
 	<string name="vibrate_on_ring_title">Вібро під час виклику</string>
 	<string name="dtmf_tone_enable_title">Звук натиску на екран</string>
@@ -1567,4 +1567,5 @@
     <string name="oldman_reject_call_button_text">відхилити</string>
     <string name="oldman_end_call_button_text">відбій</string>
     <string name="oldman_dialpad_button_text">клавіатура</string>
+	<string name="call_record_error_access">Неможливо записувати виклики в режимі гостя</string>
 </resources>

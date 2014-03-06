@@ -649,7 +649,7 @@
     <string name="pref_camera_exposuretime_entry_250">1/250 с.</string>
     <string name="pref_camera_exposuretime_entry_1000">1/1000 с.</string>
     <string name="pref_camera_exposuretime_entry_5000">1/5000 с.</string>
-    <string name="face_analyze_info">%1$s %2$s г.</string>
+    <string name="face_analyze_info">Вік: %2$s | Стать: %1$s</string>
     <string name="face_analyze_info_male">Чоловічий</string>
     <string name="face_analyze_info_female">Жіночий</string>
     <string name="face_beauty_intelligent_title">Авторегулювання обличчя</string>
@@ -659,7 +659,7 @@
     <string name="face_beauty_intelligent_level_1">Низька</string>
     <string name="face_beauty_intelligent_level_2">Середня</string>
     <string name="face_beauty_intelligent_level_3">Высока</string>
-    <string name="pref_camera_show_gender_age_title">Звіт Facial Regornization</string>
+    <string name="pref_camera_show_gender_age_title">Розпізнавання облич</string>
     <string name="pref_camera_show_gender_age_entry_off">Вимк</string>
     <string name="pref_camera_show_gender_age_entry_on">Показувати вік та стать</string>
     <string name="pref_camera_show_gender_age_entry_alias">Показувати віковий діапазон</string>
@@ -987,4 +987,14 @@
     <string name="HDR_Strong">Інтенсивний</string>
     <string name="wifi_connect_not_found">Немає доступних мереж Wi-Fi</string>
     <string name="wifi_connect_current_connetion">Мережа Wi-Fi підключена</string>
+	<string name="pref_camera_picturesize_entry_3264x1836">Широкоформатний 16:9</string>
+    <string name="pref_camera_picturesize_entry_4160x2336">Широкоформатний  16:9</string>
+ 	<string name="pref_camera_picturesize_entry_2880x2160">Стандартний 4:3</string>
+    <string name="pref_camera_picturesize_entry_2880x1616">Широкоформатний 16:9</string>
+  	<string name="pref_camera_picturesize_professional_entry_4160x2336">10 Mп (4160x2336)</string>
+    <string name="pref_camera_picturesize_professional_entry_3264x2448">8 Mп (3264x2448)</string>
+ 	<string name="pref_camera_picturesize_professional_entry_2880x2160">6 Мп (2880x2160)</string>
+    <string name="pref_camera_picturesize_professional_entry_2880x1616">5 Мп (2880x1616)</string>
+ 	<string name="pref_camera_preview_entry_off">Вимкн.</string>
+ 	<string name="pref_camera_ae_bracket_hdr_value_off">Вимкн.</string>
 </resources>

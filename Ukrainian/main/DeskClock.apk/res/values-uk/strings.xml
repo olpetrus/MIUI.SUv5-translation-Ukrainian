@@ -47,7 +47,7 @@
 	<string name="revert">Відміна</string>
 	<string name="delete">Видалити</string>
 	<string name="alarm_volume_title">Гучність будильника</string>
-	<string name="alarm_volume_summary">Настройка гучності будильника та таймера</string>
+	<string name="alarm_volume_summary">Налаштування гучності будильника та таймера</string>
 	<string name="silent_alarm_summary">Без звуку</string>
 	<string name="alarm_notify_text">Відкласти/вимкнути будильник</string>
 	<string name="alarm_notify_snooze_label">%s відкладено</string>
@@ -77,7 +77,7 @@
 	<string name="worldclock_title">Світовий час</string>
 	<string name="stopwatch_title">Секундомір</string>
 	<string name="timer_title">Таймер</string>
-	<string name="menu_add_worldclock">Новий часовий пояс</string>
+	<string name="menu_add_worldclock">Додати</string>
 	<string name="menu_worldclock_edit">Редагувати світовий час</string>
 	<string name="menu_alarmclock_edit">Редагувати будильник</string>
 	<string name="menu_delete">Видалити</string>
@@ -125,7 +125,7 @@
     <string name="shutdown_alarm_disable_summary">Не вмикати телефон, якщо вимкнено</string>
 	<string name="workday_alarm_clock">По робочим дням</string>
 	<string name="weekend_alarm_clock">По вихідним</string>
-    <string name="system_time_setting">Настройка</string>
+    <string name="system_time_setting">Налаштування</string>
     <string name="lap_num">коло</string>
     <string name="hour_unit">Г</string>
     <string name="minute_unit">Х</string>
@@ -140,9 +140,9 @@
     <string name="holiday_data_update_succeed">Перевірка завершених оновлень</string>
     <string name="holiday_data_already_newest">Інформація про робочі дні актуальна</string>
     <string name="holiday_data_no_network">Нема мережі, спробуйте пізніше</string>
-    <string name="default_alarm_alert">Встановіть мелодію по замовчанню</string>
-    <string name="default_alarm_screen">Встановіть свою мелодію по замовчанню</string>
-    <string name="default_alarm_title">Мелодія по замовчанню</string>
+    <string name="default_alarm_alert">Встановіть рингтон за замовчанням</string>
+    <string name="default_alarm_screen">Встановіть свій рингтон за замовчанням</string>
+    <string name="default_alarm_title">Рингтон за замовчанням</string>
     <string name="alarm_alert">Встановіть мелодію</string>
     <string name="alarm_screen">Стиль та мелодія</string>
 	<string name="resource_app_name">Ресурси браузера</string>

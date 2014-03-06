@@ -625,8 +625,8 @@
     <string name="volume_icon_description_incall">Гучність мелодії виклику</string>
     <string name="volume_icon_description_media">Гучність мультимедіа</string>
     <string name="volume_icon_description_notification">Гучність сповіщень</string>
-    <string name="ringtone_default">Мелодія по замовчанню</string>
-    <string name="ringtone_default_with_actual">По замовчанню (%1$s)</string>
+    <string name="ringtone_default">Рингтон за замовчанням</string>
+    <string name="ringtone_default_with_actual">За замовчанням (%1$s)</string>
     <string name="ringtone_silent">Без звуку</string>
     <string name="ringtone_picker_title">Мелодії</string>
     <string name="ringtone_unknown">Невідома мелодія</string>

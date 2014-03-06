@@ -123,14 +123,14 @@
         <item>Відмінний</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
-        <item>Завжди</item>
-        <item>Тільки при живленні від мережі</item>
-        <item>Ніколи (Збільшує витрати трафіку)</item>
+        <item>Увімкнено</item>
+        <item>Включено при заряджені</item>
+        <item>Вимкнено</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
-        <item>Завжди</item>
-        <item>Тільки при живленні від мережі</item>
-        <item>Ніколи</item>
+        <item>Увімкнено</item>
+        <item>Включено при заряджені</item>
+        <item>Вимкнено</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Авто</item>
@@ -289,6 +289,11 @@
         <item>Середній</item>
         <item>Слабкий</item>
     </string-array>
+		<string-array name="media_feedback_level_entries">
+         <item>Сильний</item>
+         <item>Середній</item>
+         <item>Слабкий</item>
+     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Графічний</item>
         <item>Проценти</item>
@@ -564,6 +569,78 @@
         <item>Музика</item>
         <item>Пошта</item>
     </string-array>
+	<string-array name="app_ops_categories">
+         <item> Місце розташування</item>
+         <item>Особистість</item>
+         <item>Обмін повідомленнями</item>
+         <item>Обладнання</item>
+     </string-array>
+     <string-array name="app_ops_summaries">
+         <item>неточне визначення місця розташування</item>
+         <item>точне визначення місця розташування</item>
+         <item>GPS</item>
+         <item>вібрація</item>
+         <item>читання контактів</item>
+         <item>зміна контактів</item>
+         <item>читання журналу викликів</item>
+         <item>зміна журналу викликів</item>
+         <item>читання календаря</item>
+         <item>зміна календаря</item>
+         <item>сканування wi-fi</item>
+         <item>повідомлення</item>
+         <item>пошук мережі</item>
+         <item>виклик</item>
+         <item>читання повідомлень</item>
+         <item>зміна повідомлень</item>
+         <item>одержання повідомлень</item>
+         <item>одержання екстрених повідомлень</item>
+         <item>одержання MMS</item>
+         <item>одержання WAP push</item>
+         <item>відправлення повідомлень</item>
+         <item>читання ICC SMS</item>
+         <item>зміна ICC SMS</item>
+         <item>зміна настроювань</item>
+         <item>малюнок зверху</item>
+         <item>доступ до повідомлень</item>
+         <item>камера</item>
+         <item>запис аудіо</item>
+         <item>відтворення аудіо</item>
+         <item>читання буфера обміну</item>
+         <item>зміна буфера обміну</item>
+     </string-array>
+     <string-array name="app_ops_labels">
+         <item> Місце розташування</item>
+         <item> Місце розташування</item>
+         <item> Місце розташування</item>
+         <item>Вібрація</item>
+         <item>Читання контактів</item>
+         <item>Зміна контактів</item>
+         <item>Читання журналу викликів</item>
+         <item>Зміна журналу викликів</item>
+         <item>Читання календаря</item>
+         <item>Зміна календаря</item>
+         <item> Місце розташування</item>
+         <item>Повідомлення</item>
+         <item> Місце розташування</item>
+         <item>Виклик</item>
+         <item>Одержання SMS/MMS</item>
+         <item>Відправлення SMS/MMS</item>
+         <item>Одержання SMS/MMS</item>
+         <item>Одержання SMS/MMS</item>
+         <item>Одержання SMS/MMS</item>
+         <item>Одержання SMS/MMS</item>
+         <item>Відправлення SMS/MMS</item>
+         <item>Одержання SMS/MMS</item>
+         <item>Відправлення SMS/MMS</item>
+         <item>Зміна настроювань</item>
+         <item>Малюнок зверху</item>
+         <item>Повідомлення</item>
+         <item>Камера</item>
+         <item>Запис аудіо</item>
+         <item>Відтворення аудіо</item>
+         <item>Читання буфера</item>
+         <item>Зміна буфера</item>
+     </string-array>
 	    <string-array name="enable_opengl_traces_entries">
          <item>Нічого</item>
          <item>Logcat</item>
@@ -576,5 +653,15 @@
          <item>1280x720 tvdpi</item>
          <item>1920x1080 xhdpi</item>
          <item>1280x720 tvdpi і 1920x1080 xhdpi</item>
+     </string-array>
+	 	<string-array name="miracast_policies">
+         <item>Невелика затримка</item>
+         <item> За замовчуванням</item>
+         <item>Краща якість</item>
+     </string-array>
+ 	<string-array name="show_non_rect_clip_entries">
+         <item>Відключене</item>
+         <item>Подсвічувати  фон синім кольором</item>
+         <item>Протестовані команди відображаються червоним кольором</item>
      </string-array>
 </resources>

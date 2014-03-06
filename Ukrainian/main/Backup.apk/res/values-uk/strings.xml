@@ -186,7 +186,7 @@
 	<string name="select_backup_item">Оберіть бекапи</string>
 	<string name="restore_data">Відновити дані</string>
 	<string name="backup_data">Бекап даних</string>
-    <string name="cloud_app_backup_title">Бекап в хмари</string>
+    <string name="cloud_app_backup_title">Хмарний бекап</string>
     <string name="cloud_app_just_show_in_current_device">Тільки додатки на цьому пристрої</string>
     <string name="cloud_app_mine">Загруженные додатки</string>
     <string name="cloud_app_backup_summary">Автобекап додатків та користувацьких даних, коли телефон заряджається та під\'єднано до Wi-Fi</string>

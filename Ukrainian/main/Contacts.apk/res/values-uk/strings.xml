@@ -471,7 +471,7 @@
     <string name="list_filter_customize">Налагодити</string>
     <string name="list_filter_phones">Всі контакти з номерами телефонів</string>
     <string name="list_filter_single">Контакт</string>
-    <string name="custom_list_filter">Настройка відображення</string>
+    <string name="custom_list_filter">Налаштування відображення</string>
     <string name="contact_list_loading">Завантаження…</string>
     <string name="activity_title_settings">Налаштування</string>
     <string name="activity_title_contacts_filter">Фільтр контактів</string>
@@ -566,7 +566,7 @@
     <string name="primary_indicator">Основний</string>
     <string name="contactDetailCalllog">Історія викликів</string>
     <string name="ringLabelsGroup">Мелодія</string>
-    <string name="default_ringtone">Мелодія за замовчуванням</string>
+    <string name="default_ringtone">Рингтон за замовчуванням</string>
     <string name="callNoAnswerTimeFormat">Виклик: %s гудків</string>
     <string name="menu_send_to_desktop">Надіслати на домашній екран</string>
     <string name="send_contact_shortcut_todesktop_success">Додано на Домашній екран.</string>
@@ -699,8 +699,8 @@
     <string name="frequency_weekly">Кожний тиждень</string>
     <string name="frequency_none">Ніколи</string>
     <string name="dirty_contacts_notification_title">Синхронізувати контакти?</string>
-    <string name="dirty_contacts_notification_description">Зміни, які не були синхронізовані з обліковим записом Xiaomi: %d</string>
-    <string name="dirty_contacts_notification_message">(Ви можете змінити нагадування в настройках контакту)</string>
+    <string name="dirty_contacts_notification_description">Зміни, не синхронізовані з аккаунтом Xiaomi: %d</string>
+    <string name="dirty_contacts_notification_message">" (Ви можете змінити нагадування в налаштуваннях)"</string>
     <string name="remind_btn_sync_now">Синхронізувати</string>
     <string name="remind_btn_ignore">Ігнорувати</string>
     <string name="display_only_phones">Тільки контакти з номерами</string>
@@ -935,7 +935,7 @@
     <string name="sdcard_status_changed_dialog_title">Змінено статус SD карти</string>
     <string name="sdcard_status_changed_dialog_message">Додаток буде вимкнено.\nВиконайте цей додаток знову, щоб оновити ресурси.</string>
     <string name="resource_mute">Нічого</string>
-    <string name="resource_default">Мелодія за замовчуванням</string>
+    <string name="resource_default">Рингтон за замовчуванням</string>
     <string name="resource_ringtone_default">Мелодії</string>
     <string name="resource_notification_default">Сповіщення</string>
     <string name="resource_alarm_default">Будильник</string>
