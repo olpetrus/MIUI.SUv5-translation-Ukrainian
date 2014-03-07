@@ -177,8 +177,8 @@
 	<string name="sina_share_pendding">Відправлення…</string>
     <string name="sina_share_success">Відправлене</string>
     <string name="sina_share_fail">Помилка відправлення</string>
-    <string name="sina_token_expired_warning">Минув термін дії аккаунта Weibo, прив'яжіть аккаунт заново.</string>
-    <string name="sina_token_invalid_warning">Невірний аккаунт Weibo, прив'яжіть аккаунт заново.</string>
+    <string name="sina_token_expired_warning">Минув термін дії аккаунта Weibo, прив\'яжіть аккаунт заново.</string>
+    <string name="sina_token_invalid_warning">Невірний аккаунт Weibo, прив\'яжіть аккаунт заново.</string>
  	<string name="notify_connect_every_time">Запитувати доступ мережі щораз</string>
     <string name="do_not_remind_me">Не нагадувати</string>
  	<string name="recharge_phone_number_empty">Номер не може бути порожнім</string>

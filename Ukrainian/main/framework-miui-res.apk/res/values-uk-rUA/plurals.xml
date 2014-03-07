@@ -24,9 +24,6 @@
     <plurals name="abbrev_in_a_hour">
         <item quantity="other">Годину тому</item>
     </plurals>
-        <plurals name="in_half_hour">
-        <item quantity="other">Півгодини тому</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Тільки що</item>
     </plurals>

@@ -3880,7 +3880,7 @@ Android File Transfer
     <string name="mobile_unknown_sim_operator">Невідомий оператор</string>
     <string name="mobile_no_provisioning_url">%1$s має невідомий сайт</string>
     <string name="mobile_insert_sim_card">Вставте Sim-Карту й перезавантажите обладнання</string>
-    <string name="mobile_connect_to_internet">Підключите інтернет з'єднання</string>
+    <string name="mobile_connect_to_internet">Підключите інтернет з\'єднання</string>
  	<string name="filter_apps_disabled">Відключене</string>
  	<string name="app_ops_settings">Додаток ops</string>
  	<string name="app_ops_running">Запуск</string>
@@ -3889,7 +3889,7 @@ Android File Transfer
     <string name="user_dict_settings_add_shortcut_hint">Додатковий ярлик</string>
  	<string name="development_settings_not_available">Режим \" Для розроблювачів\" не доступний для даного користувача</string>
  	<string name="clear_adb_keys">Заборонити доступ Usb-Налагодження</string>
- 	<string name="adb_keys_warning_message">Заборонити доступ для Usb-Налагодження на всіх комп'ютерах, на яких ви входили в аккаунт?</string>
+ 	<string name="adb_keys_warning_message">Заборонити доступ для Usb-Налагодження на всіх комп\'ютерах, на яких ви входили в аккаунт?</string>
  	<string name="enable_service_title">Включити %1$s?</string>
     <string name="capabilities_list_title">%1$s буде:</string>
     <string name="capability_title_receiveaccessibilityevents">Обробляти дії</string>
@@ -3958,8 +3958,8 @@ Android File Transfer
     <string name="miracast_setup_cancel">Скасування</string>
     <string name="miracast_wifi_off">Щоб використовувати Miracast, включите Wi-Fi</string>
     <string name="miracast_no_sinks_found">Немає доступних бездротових дисплеїв</string>
-    <string name="miracast_nickname">Уведіть нове ім'я:</string>
-    <string name="miracast_connection_failed_generic">Помилка з'єднання</string>
+    <string name="miracast_nickname">Уведіть нове ім\'я:</string>
+    <string name="miracast_connection_failed_generic">Помилка з\'єднання</string>
     <string name="miracast_sink_connected">Підключене</string>
     <string name="miracast_sink_not_available">Недоступно</string>
     <string name="miracast_sink_connecting">Підключення…</string>
@@ -3970,7 +3970,7 @@ Android File Transfer
     <string name="miracast_cancelconnect_dialog">Скасування підключення</string>
     <string name="miracast_error_cancelconnect">Підключення зайняте</string>
     <string name="miracast_search_for_displays">Пошук бездротових дисплеїв…</string>
-    <string name="miracast_PC2THOR_streaming_on">Miracast недоступний, тому що комп'ютер уже віщає сигнал на це обладнання</string>
+    <string name="miracast_PC2THOR_streaming_on">Miracast недоступний, тому що комп\'ютер уже віщає сигнал на це обладнання</string>
     <string name="miracast_disable_dhcp">Відключити HDCP</string>
     <string name="miracast_enable_dhcp">Включити HDCP</string>
  	<string name="perm_privacy_app_count_trust_summary">Додатка з довірою</string>
