@@ -225,7 +225,6 @@
 	 <string name="download_file_fail">Помилка доступу до локальних файлів</string>
 	 <string name="download_finish">Кешування завершено</string>
 	 <string name="offline_alert_title">Повідомлення кешування</string>
-	 <string name="offline_no_wifi">Мережа Wi-Fi недоступна. Для кешування необхідно активне інтернет з\'єднання.</string>
 	 <string name="alert_ignore">Більше не показувати</string>
 	 <string name="offline_no_source">Джерело кешування недоступне</string>
      <string name="app_recommendation">Рекомендації</string>
