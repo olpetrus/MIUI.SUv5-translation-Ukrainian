@@ -3216,14 +3216,14 @@ Android File Transfer
     <string name="optimize_large_file_list_empty_content">Великі файли не знайдено.</string>
     <string name="deep_clean_tips_cache">iconДеякі додатки використовують кеш для завантаження ресурсів (наприклад, пісень, музики, зображень). Будьте уважними при видаленні цих файлів.</string>
     <string name="deep_clean_tips_residual">iconСміття додатків - це файли, що лишилися, завантажені за допомогою додатків, які були видалені. Будьте уважними при видаленні цих файлів.</string>
-    <string name="deep_clean_tips_large_file">iconПри видаленні буде показано великі файли, розміром більше 10 Мб, які, можливо, ви вирішите видалити.</string>
+    <string name="deep_clean_tips_large_file">iconПри видаленні буде показано великі файли, розміром більше 10 Мб.</string>
     <string name="toast_qucik_scan_list_empty">Очищення не потрібне!</string>
     <string name="quick_scan_list_loading_hits">Сканування…</string>
     <string name="app_uninstall_residual">Очистити сміття додатків?</string>
     <string name="residual_cancel">Скасувати</string>
     <string name="residual_clean">Гаразд</string>
     <string name="residual_tips_hints">Сміття додатків знайдено: %s</string>
-    <string name="clean_confirm_title">Видалити ці файли?</string>
+    <string name="clean_confirm_title">Видалити обраны файли?</string>
     <string name="button_text_delete">Видалити</string>
     <string name="opt_clean_garbage">Очищено %d Мб</string>
     <string name="opt_killed_process">Зупинено процесів: %d</string>
@@ -3252,7 +3252,7 @@ Android File Transfer
     <string name="opt_item_app_perm">Дозволи</string>
     <string name="opt_waiting">Очікування…</string>
     <string name="power_center_title">Батарея</string>
-    <string name="power_center_consume_rank">Використання батареї</string>
+    <string name="power_center_consume_rank">Використання</string>
     <string name="power_center_custom_title">Економія батареї</string>
     <string name="power_center_custom_summary_default">Параметри оптимізації, економія батареї.</string>
     <string name="power_center_low_battery_title">Автоперемикання</string>
@@ -3752,7 +3752,7 @@ Android File Transfer
     <string name="deep_clean_tips_residual_title">Сміття:</string>
     <string name="deep_clean_tips_residual_content">Файли, що лишилися, завантажені за допомогою додатків, які були видалені. Будьте уважними при чистці цих файлів.</string>
     <string name="deep_clean_tips_large_file_title">Великі файли:</string>
-    <string name="deep_clean_tips_large_file_content">Файли, розміром більше 10 Мб, які ви, можливо, забажаєте видалити.</string>
+    <string name="deep_clean_tips_large_file_content">Файли, розміром більше 10 Мб.</string>
 	<string name="perm_root_manage_empty">Встановлені додатки не мають ROOT прав</string>
     <string name="perm_app_manage_empty">Немає додатків, що відслідковуються</string>
 	<string name="empty_folder_title">Порожні теки (%d)</string>

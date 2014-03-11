@@ -33,7 +33,7 @@
     <string name="menu_editContact">Змінити</string>
     <string name="menu_deleteContact">Видалити</string>
     <string name="menu_copy">Копіювати</string>
-    <string name="menu_create_contact_shortcut">На Домашній екран</string>
+    <string name="menu_create_contact_shortcut">На домашній екран</string>
     <string name="menu_call">Зателефонувати</string>
     <string name="menu_sendSMS">Надіслати SMS/MMS</string>
     <string name="menu_splitAggregate">Розділити</string>
@@ -67,7 +67,7 @@
     <string name="ghostData_company">Компанія</string>
     <string name="ghostData_title">Посада</string>
     <string name="invalidContactMessage">Контакт не існує</string>
-    <string name="createContactShortcutSuccessful">Віджет контакту додано на Домашній екран</string>
+    <string name="createContactShortcutSuccessful">Віджет контакту додано на домашній екран</string>
     <string name="pickerNewContactHeader">Створити новий контакт</string>
     <string name="pickerNewContactText">Створити новий контакт</string>
     <string name="phoneLabelsGroup">Телефон</string>
@@ -650,7 +650,7 @@
     <string name="deselect_all">Зняти вибір</string>
     <string name="select_none">Нічого не обрано</string>
     <string name="toast_finish_delete_call_log">Виклик видалено</string>
-    <string name="confirm_delete_contact_all_call_logs">Видалити журнал викликів?</string>
+    <string name="confirm_delete_contact_all_call_logs">Видалити всі виклики контакта?</string>
     <string name="confirm_delete_selected_all_call_logs">Видалити журнал викликів?</string>
     <string name="confirm_delete_selected_call_log">Видалити вибране з журналу?</string>
     <string name="calllog_menu_blacklist">Заблокувати</string>
@@ -699,8 +699,8 @@
     <string name="frequency_weekly">Кожний тиждень</string>
     <string name="frequency_none">Ніколи</string>
     <string name="dirty_contacts_notification_title">Синхронізувати контакти?</string>
-    <string name="dirty_contacts_notification_description">Зміни, не синхронізовані з аккаунтом Xiaomi: %d</string>
-    <string name="dirty_contacts_notification_message">" (Ви можете змінити нагадування в налаштуваннях)"</string>
+    <string name="dirty_contacts_notification_description">Контактів, не синхронізованих з аккаунтом Xiaomi: %d</string>
+    <string name="dirty_contacts_notification_message">"n(ви можете змінити нагадування в налаштуваннях)"</string>
     <string name="remind_btn_sync_now">Синхронізувати</string>
     <string name="remind_btn_ignore">Ігнорувати</string>
     <string name="display_only_phones">Тільки контакти з номерами</string>
@@ -1185,7 +1185,7 @@
     <string name="toast_finish_delete_selected_call_log">Видалення завершено</string>
     <string name="callrecordview_menu_batch_delete">Пакетне видалення</string>
     <string name="delete_call_log_selected_title">Видалити обрані виклики?</string>
-	<string name="yellowpage_navigation_send_to_desktop_succeeded">Додано на Ломашній екран</string>
+	<string name="yellowpage_navigation_send_to_desktop_succeeded">Додано на домашній екран</string>
     <string name="empty_divider_title">Ви можете</string>
     <string name="hint_distance">тримати дистанцію</string>
 	<string name="yellowpage_navigation_network_location_not_enabled_title">Використовувати місцезнаходження</string>

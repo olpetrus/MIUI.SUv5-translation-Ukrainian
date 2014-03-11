@@ -404,7 +404,7 @@
 	<string name="multi_select_title">Обрано пунктів: %1$s</string>
 	<string name="delete_multi_bookmarks_alert_title">Видалити вибрані закладки (%1$s шт.)?</string>
 	<string name="add_bookmark">Додати закладку</string>
-	<string name="send_bookmark_to_home_screen">Надіслати на Домашній Екран</string>
+	<string name="send_bookmark_to_home_screen">Надіслати на домашній екран</string>
 	<string name="bookmark_title">Iм\'я</string>
 	<string name="bookmark_url">Адреса</string>
 	<string name="bookmark_add_to">Додати в</string>
@@ -412,7 +412,7 @@
 	<string name="folder_name">Iм\'я папки</string>
 	<string name="same_folder_name_warning">Папка з таким ім\'ям вже існує</string>
 	<string name="same_bookmarks_warning">Закладка з таким ім\'ям вже існує</string>
-	<string name="have_sent_bookmark_to_home_screen">Відправлено ​​на Домашній екран</string>
+	<string name="have_sent_bookmark_to_home_screen">Відправлено ​​на домашній екран</string>
 	<string name="folder_name_too_long">Iм\'я папки занадто довге</string>
 	<string name="bookmark_this_page_to_readmodelist">Додати сторінку до списоку читання</string>
 	<string name="readmodelist_bookmarks_to_show">Список читання</string>
@@ -595,11 +595,11 @@
     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">" Остання вкладка "</string>
 	<string name="already_in_top_level">Ця закладка вже нагорі</string>
 	<string name="webapp_app_name">Веб-маркет додатків</string>
-	<string name="webapp_dialog_title">Додати додатки на Домашній екран</string>
-	<string name="webapp_add_to_desktop">На Домашній екран</string>
+	<string name="webapp_dialog_title">Додати додатки на домашній екран</string>
+	<string name="webapp_add_to_desktop">На домашній екран</string>
 	<string name="webapp_web_goback">Назад</string>
 	<string name="webapp_web_forward">Уперед</string>
-	<string name="webapp_bottom_bar_addtodesk">На Домашній екран</string>
+	<string name="webapp_bottom_bar_addtodesk">На домашній екран</string>
 	<string name="webapp_bottom_bar_hidebar">Приховати нижній бар</string>
 	<string name="webapp_bottom_bar_showbar">Показати нижній бар</string>
 	<string name="webapp_bottom_bar_openbrowser">Відкрити з браузера</string>

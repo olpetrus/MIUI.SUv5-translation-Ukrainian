@@ -349,5 +349,6 @@
 	<string name="vip_expired">Термін дії доступу до музики високої якості минув</string>
 	<string name="vip_rebuy">Придбати</string>
 	<string name="data_usage_warning">Мобільний трафік</string>
-	<string name="data_usage_warning_summary">ППри прослуховуванні музики високої якості через мобільний інтернет можливе надмірне споживання трафіка.</string>
+	<string name="data_usage_warning_summary">При прослуховуванні музики високої якості через мобільний інтернет можливе надмірне споживання трафіка.</string>
+	<string name="source_from">Джерело: %1$s</string>
 </resources>
