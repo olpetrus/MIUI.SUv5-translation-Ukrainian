@@ -1,4 +1,4 @@
-﻿﻿<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
    <string name="cit_ac_charger_in">AC кабель підключений</string>
    <string name="cit_ac_charger_out">Відключіть  AC кабель</string>
@@ -17,7 +17,7 @@
    <string name="cit_batterylight_blue">Cиній</string>
    <string name="cit_batterylight_green">Зелений</string>
    <string name="cit_batterylight_red">Червоний</string>
-   <string name="cit_batterylight_rgb"> Led-Індикатор</string>
+   <string name="cit_batterylight_rgb">LED-Індикатор</string>
    <string name="cit_blue_tooth_address_check_summary">Bluetooth адреса обладнання</string>
    <string name="cit_blue_tooth_address_check_title">Bluetooth адреса</string>
    <string name="cit_blue_tooth_scan_check_summary">Пошук Bluetooth пристроїв</string>
@@ -35,9 +35,9 @@
    <string name="cit_charger_plugin_check_title">Підключення зарядного пристрою</string>
    <string name="cit_charger_plugout_check_summary">Перевірка відключення зарядного пристрою</string>
    <string name="cit_charger_plugout_check_title">Відключення зарядного пристрою</string>
-   <string name="cit_charger_waiting_in"> Будь ласка, підключите зарядний пристрій</string>
-   <string name="cit_charger_waiting_out"> Будь ласка відключіть зарядний пристрій</string>
-   <string name="cit_display_check_summary">Тест буде змінювати колір екрана. Якщо ви прагнете використовувати свої зображення, покладете їх у корінь Sd-Карти з розширенням *.bmp</string>
+   <string name="cit_charger_waiting_in">Будь ласка, підключите зарядний пристрій</string>
+   <string name="cit_charger_waiting_out">Будь ласка відключіть зарядний пристрій</string>
+   <string name="cit_display_check_summary">Тест буде змінювати колір екрана. Якщо ви прагнете використовувати свої зображення, покладете їх у корінь SD карти з розширенням *.bmp</string>
    <string name="cit_display_check_title">Екран</string>
    <string name="cit_display_continue">Торкніться екрана</string>
    <string name="cit_exit_test_summary">Усі тести будуть скинуті, продовжити?</string>
@@ -73,7 +73,7 @@
    <string name="cit_headset_button_stop">Стоп</string>
    <string name="cit_headset_button_unknown">Невідомо</string>
    <string name="cit_headset_loopback_check_summary">Підключіть гарнітуру й говоріть в мікрофон. Якщо мікрофон працює, то ви почуєте свій голос в навушниках.</string>
-   <string name="cit_headset_loopback_check_title"> Зворотний зв\'язок гарнітури</string>
+   <string name="cit_headset_loopback_check_title">Зворотний зв\'язок гарнітури</string>
    <string name="cit_headset_plug_detect_summary">Перед перевіркою переконаєтеся, що гарнітура підключена</string>
    <string name="cit_headset_plug_detect_title">Гарнітура</string>
    <string name="cit_headset_plug_finish">Гарнітура підключена</string>
@@ -87,7 +87,7 @@
    <string name="cit_kayboard_volume_up">Клавіша: VOLUME_UP</string>
    <string name="cit_keyboard_back">Клавіша: BACK</string>
    <string name="cit_keyboard_camera">Клавіша: CAMERA</string>
-   <string name="cit_keyboard_current"> У цей час: %s</string>
+   <string name="cit_keyboard_current">У цей час: %s</string>
    <string name="cit_keyboard_focus">Клавіша: FOCUS</string>
    <string name="cit_keyboard_menu">Клавіша: MENU</string>
    <string name="cit_keyboard_test_summary">Перевірка натискань клавіш. \n(Примітка: клавіша HOME згорне інженерне меню)</string>
@@ -112,8 +112,8 @@
    <string name="cit_notificationlight_off">Увімкнути</string>
    <string name="cit_notificationlight_on">Вимкнути</string>
    <string name="cit_pass">ОК</string>
-   <string name="cit_play_sd_mp3_summary">Перевірка звуку. Покладіть файл із іменем music.mp3 у корінь Sd-Карти</string>
-   <string name="cit_play_sd_mp3_title">Відтворення MP3 з Sd-Карти</string>
+   <string name="cit_play_sd_mp3_summary">Перевірка звуку. Покладіть файл із іменем music.mp3 у корінь SD карти</string>
+   <string name="cit_play_sd_mp3_title">Відтворення MP3 з SD карти</string>
    <string name="cit_playing_sd_mp3">Відтворення Music.mp3…</string>
    <string name="cit_pointer_location_title">Сенсор</string>
    <string name="cit_power_check_summary">Заряд батареї</string>
@@ -124,32 +124,32 @@
    <string name="cit_reset_check_title">Скидання</string>
    <string name="cit_reset_test">Скидання</string>
    <string name="cit_sd_fail">Відбулася помилка, можливий збій операції</string>
-   <string name="cit_sd_mount">Підключити Sd-Карту</string>
-   <string name="cit_sd_mount_sucess"> Sd-Карта готова до використання</string>
-   <string name="cit_sd_mp3_not_existed">Music.mp3 у кореневому каталозі Sd-Карти відсутній</string>
-   <string name="cit_sd_plugged_in"> Sd-Карта підключена</string>
-   <string name="cit_sd_plugged_out"> Sd-Карта відключена</string>
-   <string name="cit_sd_plugin_check_summary">Перевірка Sd-Карти</string>
-   <string name="cit_sd_plugin_check_title"> Sd-Карта</string>
-   <string name="cit_sd_plugout_check_summary">Перевірка відключення Sd-Карти</string>
-   <string name="cit_sd_plugout_check_title">Відключення Sd-Карти</string>
-   <string name="cit_sd_unmount">Відключити Sd-Карту</string>
-   <string name="cit_sd_unmount_sucess"> Sd-Карта відключена</string>
-   <string name="cit_sim_check_summary">Статус Sim-Карти</string>
-   <string name="cit_sim_check_title"> Sim-Карта</string>
+   <string name="cit_sd_mount">Підключити SD карту</string>
+   <string name="cit_sd_mount_sucess">SD карта готова до використання</string>
+   <string name="cit_sd_mp3_not_existed">Music.mp3 у кореневому каталозі SD карти відсутній</string>
+   <string name="cit_sd_plugged_in">SD карта підключена</string>
+   <string name="cit_sd_plugged_out">SD карта відключена</string>
+   <string name="cit_sd_plugin_check_summary">Перевірка SD карти</string>
+   <string name="cit_sd_plugin_check_title">SD карта</string>
+   <string name="cit_sd_plugout_check_summary">Перевірка відключення SD карти</string>
+   <string name="cit_sd_plugout_check_title">Відключення SD карти</string>
+   <string name="cit_sd_unmount">Відключити SD карту</string>
+   <string name="cit_sd_unmount_sucess">SD карта відключена</string>
+   <string name="cit_sim_check_summary">Статус SIM карти</string>
+   <string name="cit_sim_check_title">SIM карта</string>
    <string name="cit_sim_error_unknown">Невідомо</string>
    <string name="cit_sim_network_operator">Оператор стільникової мережі:</string>
    <string name="cit_sim_network_operator_name">Ім\'я оператора мережі:</string>
    <string name="cit_sim_network_type">Тип мережі:</string>
-   <string name="cit_sim_serial_number">Номер Sim-Карти:</string>
+   <string name="cit_sim_serial_number">Номер SIM карти:</string>
    <string name="cit_sim_sim_country">Країна:</string>
    <string name="cit_sim_sim_operator">Код постачальника SIM:</string>
    <string name="cit_sim_sim_operator_name">Ім\'я постачальника SIM:</string>
-   <string name="cit_sim_state_absent">Немає Sim-Карти</string>
+   <string name="cit_sim_state_absent">Немає SIM карти</string>
    <string name="cit_sim_state_network_locked">PIN</string>
-   <string name="cit_sim_state_pin_required"> Потрібно Pin-Код</string>
-   <string name="cit_sim_state_puk_required"> Потрібно Puk-Код</string>
-   <string name="cit_sim_state_ready"> Sim-Карта готова до використання</string>
+   <string name="cit_sim_state_pin_required">Потрібно Pin-Код</string>
+   <string name="cit_sim_state_puk_required">Потрібно Puk-Код</string>
+   <string name="cit_sim_state_ready">SIM карта готова до використання</string>
    <string name="cit_sim_state_unkown">Невідомий стан</string>
    <string name="cit_start_calibration">Початок калібрування</string>
    <string name="cit_stop_calibration">Кінець калібрування</string>
@@ -217,15 +217,15 @@
    <string name="cit_gyroscope_sensor_check_title">Датчик гіроскопа</string>
    <string name="cit_gyroscope_sensor_check_summary">Датчик гіроскопа. Нижче показані значення: x y z</string>
    <string name="cit_pressure_sensor_check_summary">Нижче відображаються значення атмосферного тиску</string>
-   <string name="cit_camera_sdcard_error"> Sd-Карта заповнена, фото не може бути збережене</string>
+   <string name="cit_camera_sdcard_error">SD карта заповнена, фото не може бути збережене</string>
    <string name="cit_usb_OTG_in">USB-OTG обладнання підключене</string>
-   <string name="cit_OTG_waiting_in"> Будь ласка, підключіть USB-OTG обладнання</string>
-   <string name="cit_OTG_waiting_out"> Будь ласка, відключіть USB-OTG обладнання</string>
+   <string name="cit_OTG_waiting_in">Будь ласка, підключіть USB-OTG обладнання</string>
+   <string name="cit_OTG_waiting_out">Будь ласка, відключіть USB-OTG обладнання</string>
    <string name="cit_usb_OTG_out">USB-OTG обладнання відключене</string>
    <string name="cit_otg_not_supported">Ця модель телефону не підтримує тестування OTG</string>
    <string name="cit_calibration_pass">Калібрування виконане успішно</string>
    <string name="cit_calibration_fail">Не вдалося відкалібрувати</string>
-   <string name="cit_tool_log_no_sdcard">Помилка операції. Будь ласка, вставте Sd-карту</string>
+   <string name="cit_tool_log_no_sdcard">Помилка операції. Будь ласка, вставте SD карту</string>
    <string name="cit_audio_lb_backmic_to_speaker_title">Перевірка заднього мікрофона</string>
    <string name="cit_audio_lb_mainmic_to_earpiece_title">Перевірка основного мікрофона</string>
    <string name="cit_audio_lb_phonecall_title">Імітація виклику</string>
@@ -265,6 +265,6 @@
    <string name="cit_audio_lb_summary_topmic_to_speaker">"Перевірка верхнього мікрофона на зворотний зв\'язок.
  
  Говоріть у верхній мікрофон і ви повинні почути свій голос із динаміка."</string>
-   <string name="cit_main_camera_sdcard_error"> Sd-Карта заповнена</string>
+   <string name="cit_main_camera_sdcard_error">SD карта заповнена</string>
 
 </resources>
