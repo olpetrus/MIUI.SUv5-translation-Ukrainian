@@ -664,4 +664,9 @@
          <item>Подсвічувати  фон синім кольором</item>
          <item>Протестовані команди відображаються червоним кольором</item>
      </string-array>
+	 	<string-array name="network_speed_slow_summary" >
+ 		<item>Повільна швидкість через великі навантаження</item>
+    	<item>Повільна швидкість через слабкий сигнал</item>
+ 		<item>Пересування…</item>
+	</string-array>
 </resources>

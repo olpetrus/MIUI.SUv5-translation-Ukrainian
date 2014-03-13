@@ -289,4 +289,9 @@
  	<string name="msg_progress_hint_2_1">Постачальник послуг успішно відповів</string>
  	<string name="msg_progress_hint_2_2">Скоро надійде текстове підтвердження</string>
  	<string name="scan_prompt_retry">Тримаєте карту так, щоб не було відблисків, потім повторіть спробу</string>
+	<string name="prepaid_grid_carrier_hint">Оберіть оператора</string>
+    <string name="prepaid_grid_denomination_hint">Вибір суми</string>
+    <string name="giftcard_expire_notification_prime_title">Строк дії вашої подарункової картки закінчився</string>
+    <string name="giftcard_expire_notification_sub_title">Строк дії подарункової картки MiCredits: %1$s</string>
+    <string name="btn_agree">ОК</string>
 </resources>

@@ -744,7 +744,7 @@
     <string name="vibrate_in_silent_title">В режимі \"Без звуку\"</string>
     <string name="vibrate_on_ring_title">Вібрація та звук</string>
     <string name="notification_sound_title">Сповіщення</string>
-    <string name="notification_pulse_title">Індикатор подій</string>
+    <string name="notification_pulse_title">Пульсуюча індикація</string>
     <string name="incoming_call_volume_title">Мелодія</string>
     <string name="notification_volume_title">Сповіщення</string>
     <string name="checkbox_notification_same_as_incoming_call">Використовувати гучність вхідних викликів для сповіщень</string>
@@ -3977,4 +3977,20 @@ Android File Transfer
  	<string name="menu_item_force_stop">Зупинити</string>
     <string name="menu_item_uninstall">Вилучити</string>
     <string name="menu_item_app_details">Інформація</string>
+	<string name="free_wifi_summary">Безкоштовний Wi-Fi, надається від %1$s</string>
+    <string name="free_wifi_connect_title">Доступна мережа Wi-Fi</string>
+    <string name="free_wifi_connect_summary">Безкоштовний Wi-Fi надається від %1$s. Натисніть для підключення</string>
+    <string name="free_wifi_connect_dialog_title">Доступний безкоштовний Wi-Fi</string>
+    <string name="free_wifi_connect_dialog_summary">Безкоштовний Wi-Fi %1$s надається від %2$s.</string>
+    <string name="free_wifi_wiwide_provider">Wiwide</string>
+    <string name="free_wifi_connect">Підключити</string>
+    <string name="free_wifi_connecting">Підключення...</string>
+    <string name="free_wifi_connected">Безкоштовний Wi-Fi підключений</string>
+    <string name="free_wifi_connect_fail">Не вдається підключитися до Wi-Fi</string>
+    <string name="free_wifi_connect_fail2">Не вдалося виконати вхід</string>
+    <string name="free_wifi_login_again">Повтор</string>
+    <string name="free_wifi_connected_count">Підключених користувачів: %1$s</string>
+    <string name="free_wifi_speed_title">Повільне з\'єднання?</string>
+    <string name="free_wifi_connected_time">Час у мережі: %1$s</string>
+    <string name="free_wifi_confirm">Підтвердити</string>
 </resources>

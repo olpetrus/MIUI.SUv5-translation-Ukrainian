@@ -297,4 +297,5 @@
     <string name="vp_standard_definition">SD</string>
     <string name="vp_high_definition">HD</string>
     <string name="vp_super_definition">Fullhd</string>
+	<string name="visit_postfix">| нещодавні</string>
 </resources>

@@ -376,7 +376,7 @@
 	<string name="user_agreement4">Політику конфіденційності</string>
 	<string name="user_agreement5">, натиснувши \"Гаразд\", Ви погоджуєтесь, що будете дотримуватися вищеописаного. У випадку незгоди натисніть \"Скасувати\" для виходу.</string>
 	<string name="v5_deselect_all">Зняти вибір</string>
-	<string name="v5_edit_mode_title_empty">Вибрати</string>
+	<string name="v5_edit_mode_title_empty">Обрано: 0</string>
 	<string name="v5_icon_menu_bar_more_item_label">Ще</string>
 	<string name="v5_select_all">Вибрати всі</string>
     <string name="v5_time_picker_label_hour">Г</string>
