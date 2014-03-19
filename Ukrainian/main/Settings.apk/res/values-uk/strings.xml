@@ -744,7 +744,7 @@
     <string name="vibrate_in_silent_title">В режимі \"Без звуку\"</string>
     <string name="vibrate_on_ring_title">Вібрація та звук</string>
     <string name="notification_sound_title">Сповіщення</string>
-    <string name="notification_pulse_title">Пульсуюча індикація</string>
+    <string name="notification_pulse_title">Індикація</string>
     <string name="incoming_call_volume_title">Мелодія</string>
     <string name="notification_volume_title">Сповіщення</string>
     <string name="checkbox_notification_same_as_incoming_call">Використовувати гучність вхідних викликів для сповіщень</string>
