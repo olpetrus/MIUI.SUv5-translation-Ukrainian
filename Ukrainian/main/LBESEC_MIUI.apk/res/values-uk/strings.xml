@@ -86,7 +86,7 @@
     <string name="HIPS_Perm_ROOT">ROOT</string>
     <string name="HIPS_Perm_ROOT_Desc">Можливість запитувати ROOT</string>
     <string name="HIPS_Perm_ROOT_Desc_Stable">Заблоковано в стабільній версії MIUI</string>
-    <string name="HIPS_Perm_ROOT_Hint">Додаткам дозволено отримувати ROOT: %1$s</string>
+    <string name="HIPS_Perm_ROOT_Hint">Немає додатків</string>
     <string name="HIPS_Perm_SendSMS_Recipient">Отримувач:</string>
     <string name="HIPS_Perm_SendSMS_Content">Зміст:</string>
     <string name="HIPS_Perm_SendSMS_SMSC">Центр обслуговування SMS:</string>

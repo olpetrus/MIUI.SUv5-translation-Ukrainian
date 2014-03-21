@@ -866,7 +866,7 @@
     <string name="status_wifi_mac_address">MAC-адреса Wi-Fi</string>
     <string name="status_bt_address">Адреса Bluetooth</string>
     <string name="status_serial_number">Серійний номер</string>
-    <string name="status_unavailable">Недоступно</string>
+    <string name="status_unavailable">Недоступний</string>
     <string name="status_up_time">Час з моменту вмикання</string>
     <string name="status_awake_time">Час роботи</string>
     <string name="internal_memory">Внутрішній накопичувач</string>

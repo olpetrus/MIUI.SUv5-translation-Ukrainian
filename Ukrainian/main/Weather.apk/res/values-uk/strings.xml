@@ -85,9 +85,9 @@
     <string name="tip_weather_info_content_1">Виходячи на вулицю, одягайте відповідний одяг.</string>
     <string name="tip_weather_info_title_2">%1$s: %2$s</string>
     <string name="alert_provider_title">Сповіщення про розташування</string>
-    <string name="alert_provider_message">Необхідно дозволити визначення розташування за мобільною мережею</string>
-    <string name="button_allow">Згоден</string>
-    <string name="button_not_allow">Не згоден</string>
+    <string name="alert_provider_message">Дозволити визначення місцезнаходження по мобільній мережі?</string>
+    <string name="button_allow">ОК</string>
+    <string name="button_not_allow">Відміна</string>
     <string name="location_allow_err">Неможливо визначити розташування</string>
     <string name="format_date_wmd">d MMMM EEE</string>
     <string name="format_date_md">d MMMM kk:mm</string>

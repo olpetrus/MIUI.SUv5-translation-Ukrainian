@@ -488,8 +488,8 @@
     <string name="social_widget_label">Контакт</string>
     <string name="social_widget_loading">Завантаження…</string>
     <string name="contacts_unavailable_create_contact">Створити новий контакт</string>
-    <string name="contacts_unavailable_add_account">Увійдіть в обліковий запис</string>
-    <string name="contacts_unavailable_import_contacts">Імпорт контактів з файлу</string>
+    <string name="contacts_unavailable_add_account">Війти в обліковий запис</string>
+    <string name="contacts_unavailable_import_contacts">Імпортувати контакти з файлу</string>
     <string name="create_group_dialog_title">Створити нову групу</string>
     <string name="create_group_item_label">Створити нову групу</string>
     <string name="delete_group_dialog_title">Видалити групу</string>
@@ -704,7 +704,7 @@
     <string name="remind_btn_sync_now">Синхронізувати</string>
     <string name="remind_btn_ignore">Ігнорувати</string>
     <string name="display_only_phones">Тільки контакти з номерами</string>
-    <string name="display_sim_contacts">Показувати контакти SIM</string>
+    <string name="display_sim_contacts">Показати контакти на SIM карті</string>
     <string name="preference_remove_duplicate">Об\'єднати дублікати</string>
     <string name="scan_duplicate">Пошук однакових даних, зачекайте</string>
     <string name="scan_merge">Пошук однакових контактів…</string>
@@ -868,7 +868,7 @@
     <string name="smart_group_frequency_4">Більше 6 місяців</string> 
     <string name="contact_detail_calllog_call_record_tips">Запис виклику</string>
     <string name="contact_detail_calllog_call_note_tips">Нотатки виклику</string>
-    <string name="import_from_other_phone">Імпорт з іншого телефону</string>
+    <string name="import_from_other_phone">Імпортувати з іншого телефону</string>
     <string name="device_brand_title">Оберіть марку телефону</string>
     <string name="device_version_title">Оберіть модель телефону</string>
     <string name="device_list_title">Оберіть телефон</string>
