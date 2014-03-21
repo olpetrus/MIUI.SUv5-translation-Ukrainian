@@ -296,6 +296,9 @@
     <string name="vp_next_ci">Наступний епізод</string>
     <string name="vp_standard_definition">SD</string>
     <string name="vp_high_definition">HD</string>
-    <string name="vp_super_definition">Fullhd</string>
+    <string name="vp_super_definition">FullHD</string>
 	<string name="visit_postfix">| нещодавні</string>
+	<string name="receive_ad_notify">Push-повідомлення</string>
+ 	<string name="receive_ad_notify_summary">Показувати найновіші та популярне відео під час запуску.</string>
+ 	<string name="success_add_waitfornewset">Готово</string>
 </resources>

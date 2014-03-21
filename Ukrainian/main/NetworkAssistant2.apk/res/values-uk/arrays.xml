@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <resources>
+     <string-array name="traffic_uints">
+         <item>б</item>
+         <item>Кб</item>
+         <item>Мб</item>
+         <item>Гб</item>
+     </string-array>
+     <string-array name="date_of_traffic">
+         <item>"Вчора"</item>
+         <item>"Сьогодні "</item>
+         <item>"За місяць "</item>
+     </string-array>
+     <string-array name="date_of_app_all">
+         <item>Вчора (2G/3G)</item>
+         <item>Сьогодні (2G/3G)</item>
+         <item>За місяць (2G/3G)</item>
+         <item>Вчора (Wi-Fi)</item>
+         <item>Сьогодні (Wi-Fi)</item>
+         <item>За місяць (Wi-Fi)</item>
+     </string-array>
+     <string-array name="date_of_app">
+         <item>Вчора (2G/3G)</item>
+         <item>Сьогодні (2G/3G)</item>
+         <item>За місяць (2G/3G)</item>
+     </string-array>
+     <string-array name="network_speed_update_internals">
+         <item>3 сек</item>
+         <item>4 сек</item>
+         <item>5 сек</item>
+         <item>6 сек</item>
+         <item>7 сек</item>
+         <item>8 сек</item>
+         <item>9 сек</item>
+     </string-array>
+     <string-array name="traffic_sort_type">
+         <item>По трафіку 2G/3G</item>
+         <item> По трафіку Wi-Fi</item>
+         <item> По загальному трафіку</item>
+     </string-array>
+     <string-array name="traffic_setting_sms_template">
+         <item>Автоматично одержати шаблон повідомлення</item>
+         <item>Задати шаблон повідомлення вручну</item>
+     </string-array>
+ </resources>

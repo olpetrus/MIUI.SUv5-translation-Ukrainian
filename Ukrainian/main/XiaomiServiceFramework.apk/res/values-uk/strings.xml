@@ -476,4 +476,5 @@
 	<string name="enable_sync_dspt">Синхронізація відключена</string>
 	<string name="enable_sync">Включити</string>
     <string name="logout_failed">Помилка виходу</string>
+	<string name="micloud_upgrade_space">Додати місця</string>
 </resources>
