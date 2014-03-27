@@ -173,4 +173,5 @@
      <string name="traffic_correction_failed">Не вдається одержати інформацію про трафік</string>
 	 <string name="network_assistant_upgraded_title">Межа трафіку не встановлена</string>
      <string name="network_assistant_upgraded_body">Натисніть для налаштування</string>
+	 <string name="pref_new_installed_preconfig_title">Налаштування для нових додатків</string>
  </resources>
