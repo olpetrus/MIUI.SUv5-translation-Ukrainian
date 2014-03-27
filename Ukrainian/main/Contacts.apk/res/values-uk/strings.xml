@@ -1192,4 +1192,7 @@
     <string name="yellowpage_navigation_network_location_not_enabled_summary">Послуги будуть відображатися згідно вашому місцезнаходженню, в якому місті ви знаходитесь. Ввімкнення цієї функції може покращити якість сервісів.</string>
     <string name="yellowpage_navigation_network_location_enable">Ввімкнути</string>
     <string name="yellowpage_navigation_network_location_enable_later">Пізніше</string>
+	<string name="eventTypeCustom">Користувацький</string>
+ 	<string name="pref_key_sim_manage2">Керування SIM2</string>
+ 	<string name="account_sim2">SIM карта %d</string>
 </resources>

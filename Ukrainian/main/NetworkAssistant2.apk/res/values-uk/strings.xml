@@ -171,4 +171,6 @@
      <string name="traffic_correction_start_correction_failed">Помилка запиту. Перевірте настроювання оператора</string>
      <string name="traffic_correction_success">Трафік оновлений</string>
      <string name="traffic_correction_failed">Не вдається одержати інформацію про трафік</string>
+	 <string name="network_assistant_upgraded_title">Межа трафіку не встановлена</string>
+     <string name="network_assistant_upgraded_body">Натисніть для налаштування</string>
  </resources>

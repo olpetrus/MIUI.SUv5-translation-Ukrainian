@@ -1117,7 +1117,7 @@
     <string name="force_stop">Зупинити</string>
     <string name="total_size_label">Всього</string>
     <string name="application_size_label">Додаток</string>
-    <string name="external_code_size_label">Додаток на накопичувачі</string>
+    <string name="external_code_size_label">Кеш на накопичувачі</string>
     <string name="data_size_label">Дані</string>
     <string name="external_data_size_label">Дані на накопичувачі</string>
     <string name="uninstall_text">Видалити</string>
@@ -4057,4 +4057,15 @@ Android File Transfer
     <string name="pref_category_title_module_settings">Загальні</string>
  	<string name="empty_folder_title_hints">Порожні папки</string>
  	<string name="pref_summary_garbage_cleanup_check_size">Показувати повідомлення, коли кількість сміття досягає певного розміру</string>
+	<string name="pref_title_expand_cache_group">Розкривати категорії кеша</string>
+    <string name="pref_summary_expand_cache_group">Категорії кеша будуть розкриватися за умовчанням</string>
+ 	<string name="garbage_white_list_empty_content">Немає файлів</string>
+    <string name="toast_garbage_cleanup_success">Очищення завершене</string>
+ 	<string name="Settings_title_garbage_cleanup">Налаштування очищення</string>
+    <string name="Settings_title_network_assistants">Налаштування трафіка</string>
+    <string name="Settings_title_anti_spam">Налаштування чорного списку</string>
+    <string name="Settings_title_power_center">Налаштування енергозбереження</string>
+    <string name="Settings_title_anti_virus">Налаштування антивірусу</string>
+ 	<string name="dialog_title_load_cleanup_engine_error">Помилка очищення</string>
+    <string name="dialog_msg_load_cleanup_engine_error">Движок очищення був ушкоджений. Повторіть спробу</string>
 </resources>

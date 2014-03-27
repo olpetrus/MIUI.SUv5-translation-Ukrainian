@@ -40,4 +40,8 @@
         <item quantity="other">Пароль повинен містити нелітерали (не менше %d)</item>
         <item quantity="one">Пароль повинен містити хоча б 1 нелітерал.</item>
     </plurals>
+	<plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">Додатків: %d \nДоступ до читання сповіщень.</item>
+        <item quantity="one">Додатків: %d \nДоступ до читання сповіщень.</item>
+    </plurals>
 </resources>
