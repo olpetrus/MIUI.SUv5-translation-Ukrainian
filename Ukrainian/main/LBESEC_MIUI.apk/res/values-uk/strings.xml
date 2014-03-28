@@ -151,7 +151,7 @@
  	<string name="HIPS_Perm_Wifinetwork_Desc">Доступ в Інтернет по Wi-Fi</string>
  	<string name="HIPS_Perm_Wifinetwork_Hint">Доступ в інтернет по мережі Wi-Fi.</string>
  	<string name="HIPS_Securityprompt_Accept">Дозвол. (% d)</string>
- 	<string name="HIPS_Securityprompt_Acceptroot">ОК</string>
+ 	<string name="HIPS_Securityprompt_AcceptROOT">ОК</string>
  	<string name="HIPS_Securityprompt_Caption">Попередження</string>
  	<string name="HIPS_Securityprompt_Next">Далі</string>
  	<string name="HIPS_Securityprompt_ROOT_Caption">Увага!</string>
