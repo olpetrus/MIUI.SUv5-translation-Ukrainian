@@ -3498,9 +3498,9 @@ Android File Transfer
     <string name="power_chooser_check_box_summary">Вибір режиму економії батареї для тривалої роботи телефону</string>
     <string name="power_chooser_smart_title">Режим по замовчанню</string>
     <string name="power_chooser_smart_summary">Зберегти поточні параметри. Очищення процесів в режимі блокування.</string>
-    <string name="power_chooser_standby_title">Режим марафон</string>
+    <string name="power_chooser_standby_title">Режим \"Марафон"\</string>
     <string name="power_chooser_standby_summary">Вимикання інтернет сервісів</string>
-    <string name="power_chooser_sleep_title">Режим сну</string>
+    <string name="power_chooser_sleep_title">Режим \"Сон"\</string>
     <string name="power_chooser_sleep_summary">Вимикання всіх функцій (телефон, повідомлення, інтернет) за винятком будильника</string>
     <string name="power_chooser_mine_title">Свій режим</string>
     <string name="power_chooser_mine_summary">Збереження параметрів системи по замовчанню</string>

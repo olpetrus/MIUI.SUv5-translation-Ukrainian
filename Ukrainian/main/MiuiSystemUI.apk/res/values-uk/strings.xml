@@ -52,7 +52,7 @@
     <string name="screenshot_saving_title">Збереження знімку екрану…</string>
     <string name="screenshot_saving_text">Збереження знімку екрану</string>
     <string name="screenshot_saved_title">Знімок екрану збережено</string>
-    <string name="screenshot_saved_text">Натисніть щоб переглянути знімок екрану.</string>
+    <string name="screenshot_saved_text">Перегляд скнишоту</string>
     <string name="screenshot_failed_title">Неможливо створити знімок екрану</string>
     <string name="screenshot_failed_text">Неможливо зберегти знімок екрану. Можливо накопичувач вже використовується або недостатно пам\'яті.</string>
     <string name="usb_preference_title">Налаштування передачі файлів по USB</string>

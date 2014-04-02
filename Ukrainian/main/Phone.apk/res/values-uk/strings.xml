@@ -828,7 +828,7 @@
 	<string name="call_record_setting_miui">Налаштування записів</string>
 	<string name="call_recording_notification_summary_miui">Показувати сповіщення в панелі статусу під час запису</string>
 	<string name="call_recording_notification_title_miui">Сповіщення запису</string>
-	<string name="call_recording_prompt_miui">Відкрити запис виклику</string>
+	<string name="call_recording_prompt_miui">Буде запис виклику</string>
 	<string name="call_record_button_label">Запис %s</string>
 	<string name="call_record_unknown_error">Помилка запису</string>
 	<string name="call_record_notification_message_low_space_miui">Запис зупинено: недостатньо пам\'яті</string>

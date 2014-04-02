@@ -136,7 +136,7 @@
 	<string name="turn_on_smart_antispam_title">Обмеження невідомих номерів</string>
 	<string name="turn_on_smart_antispam_summary_on">Тільки по Wi-Fi та 3G</string>
 	<string name="turn_on_smart_antispam_summary_off">Тільки з локальною базою</string>
-	<string name="bl_block_info" formatted="false">Заблоковано: %d, дані: %d</string>
+	<string name="bl_block_info" formatted="false">Заблоковано викликів: %d | Повідомлень: %d</string>
 	<string name="bl_no_blacklist">Немає заблокованих номерів.</string>
 	<string name="bl_no_block_call">Заблоковані виклики будуть зберігатися в цьому журналі</string>
 	<string name="bl_no_block_sms">Заблоковані повідомлення будуть зберігатися в цьому журналі</string>
