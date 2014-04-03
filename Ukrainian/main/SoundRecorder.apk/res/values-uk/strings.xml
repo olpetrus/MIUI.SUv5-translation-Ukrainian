@@ -131,4 +131,5 @@
     <string name="button_start_now">Продовжити</string>
     <string name="notification_title_all_paused">Завантаження призупинено</string>
     <string name="notification_message_all_paused">Можливі надмірні витрати трафіку</string>
+	<string name="toast_file_is_downloading">Файл завантажується, зачекайте</string>
 </resources>

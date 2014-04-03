@@ -344,10 +344,10 @@
     <string name="filter_item_preview_image">Попередній перегляд</string>
 	<string name="filter_item_description">Ви можете задати користувацькі налаштування відображення сповіщень для кожного додатку.</string>
 	<string name="usb_share_net_info">Використовувати інтернет комп\'ютера</string>
-     <string name="torch_opened">Ліхтарик запущено</string>
-     <string name="torch_closed">Ліхтарик закрито</string>
-	 <string name="oldman_airplane_mode_text">В літаку</string>
-        <string name="status_bar_and_notification_bar">Панель повідомлень і статусбар</string>
+    <string name="torch_opened">Ліхтарик запущено</string>
+    <string name="torch_closed">Ліхтарик закрито</string>
+	<string name="oldman_airplane_mode_text">В літаку</string>
+    <string name="status_bar_and_notification_bar">Панель повідомлень і статусбар</string>
     <string name="settings_show_screenshot_notification">Повідомлення про скриншот</string>
     <string name="settings_show_carrier">Назва оператора</string>
     <string name="settings_custom_carrier">Змінити назву оператора</string>
@@ -355,4 +355,6 @@
     <string name="settings_show_carrier_summary">Тільки на екрані блокування</string>
     <string name="settings_basic_settings">Основні налаштування</string>
     <string name="settings_advanced">Додаткові налаштування</string>
+	<string name="accessibility_search_light">Пошук</string>
+    <string name="accessibility_camera_button">Камера</string>
 </resources>

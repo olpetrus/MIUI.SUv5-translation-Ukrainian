@@ -33,4 +33,11 @@
     <string name="dialog_insufficient_space_on_external">Не вистачає пам\'яті на зовнішньому пристрої</string>
     <string name="dialog_insufficient_space_on_cache">Не вистачає місця у внутрішній пам\'яті</string>
     <string name="auto_restart_under_wifi">Wi-Fi автоматично завантажить даний файл</string>
+	<string name="download_remaining">Залишилось: %s</string>
+    <string name="download_no_application_title">Не вдається відкрити файл</string>
+    <string name="root_downloads">Завантаження</string>
+    <string name="download_queued">В черзі</string>
+    <string name="download_running">В процесі</string>
+    <string name="download_error">Не завершено</string>
+    <string name="download_running_percent">В процесі, %d%%</string>
 </resources>

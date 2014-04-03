@@ -23,5 +23,10 @@
         <item quantity="other">Зображень: %1$d</item>
         <item quantity="zero">Зображень: %1$d</item>
         <item quantity="one">Зображень: %1$d</item>
-      </plurals>
+     </plurals>
+     <plurals name="number_of_items">
+        <item quantity="other">Елементів: %1$d</item>
+        <item quantity="zero">Елементів: %1$d</item>
+        <item quantity="one">Елементів: %1$d</item>
+     </plurals>
 </resources>

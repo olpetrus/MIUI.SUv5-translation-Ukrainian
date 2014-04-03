@@ -25,4 +25,9 @@
     <string name="send_sms">Надіслати повідомлення</string>
     <string name="edit_contact">Додати до контакту</string>
     <string name="call_log_provider_label">Журнал викликів</string>
+	<string name="group_name_contacts">Контакти</string>
+    <string name="group_name_friends">Друзі</string>
+    <string name="group_name_family">Сім\'я</string>
+    <string name="group_name_coworkers">Колеги</string>
+    <string name="unknown">Невідомий номер</string>
 </resources>

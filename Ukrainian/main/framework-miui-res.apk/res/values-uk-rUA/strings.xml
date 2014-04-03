@@ -13,8 +13,8 @@
 	<string name="autumn_equinox">Точка осіннього рівнодення</string>
 	<string name="callNoAnswerTimeFormat">Гудки %s раз</string>
 	<string name="caller_info_name_delimiter">або</string>
-	<string name="check_phone_error_title">Помилка запуску служби синхронізації</string>
-	<string name="check_phone_io_error">Мережева помилка.</string>
+	<string name="check_phone_error_title">Служба синхнонізації не запущена</string>
+	<string name="check_phone_io_error">Мережева помилка</string>
 	<string name="childrens_day">День дітей</string>
 	<string name="chinese_youth_day">День молоді</string>
 	<string name="christmas_day">Різдво</string>
@@ -316,7 +316,7 @@
 	<string name="national_father_day">Китайський день батька</string>
 	<string name="never">Ніколи</string>
 	<string name="new_years_day">Новий Рік</string>
-	<string name="no_sim">=SIM карту не знайдено</string>
+	<string name="no_sim">SIM карту не знайдено</string>
 	<string name="partys_day">День гулянок</string>
 	<string name="payphone">Телефонний автомат</string>
 	<string name="peace_day">Міжнародний день миру</string>
@@ -345,7 +345,7 @@
 	<string name="sd_not_available_saved_to_internal_storage">Збереження у внутрішню пам\'ять</string>
 	<string name="sd_not_available_use_internal_storage">SD карта недосяжна: збережено у внутрішню пам\'ять</string>
 	<string name="select">Вибрати</string>
-	<string name="select_all">Видалити всі</string>
+	<string name="select_all">Обрати всі</string>
 	<string name="send_sms_for_sync_notice">Для активації треба відправити SMS, продовжити?</string>
 	<string name="send_sms_for_sync_title">Сервіс активації не запущено</string>
 	<string name="sim_changed_reactivate_notice">Поточна SIM не активована. Для активації потрібно надіслати SMS, продовжити?</string>
