@@ -2356,7 +2356,7 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="wifi_wapi_as_certificate">AS сертифікат</string>
     <string name="wifi_wapi_user_certificate">Користувацький сертифікат</string>
     <string name="silent_mode_title">Без звуку</string>
-    <string name="media_feedback_enable_title">Вібрація з ударом</string>
+    <string name="media_feedback_enable_title">Вібрація в такт</string>
     <string name="wifi_wapi_certification_dont_exist">Введено хибний пароль. Спробуйте ще раз</string>
     <string name="please_type_passphrase">Пароль мережі</string>
     <string name="wifi_certificate">Сертифікат</string>
