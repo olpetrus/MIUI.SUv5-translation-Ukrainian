@@ -11,7 +11,7 @@
     <string name="password">Пароль</string>
 	<string name="captcha">Код на малюнку</string>
     <string name="vcode">Перевірочний код</string>
-    <string name="bad_authentication">Невірний логін чи пароль.</string>
+    <string name="bad_authentication">Невірний логін чи пароль</string>
     <string name="int_phone_user_notice">Якщо ви знаходитесь за межами країни реєстрації, вказуйте номер в міжнародному форматі (наприклад +380xxxxxxxxx)</string>
     <string name="micloud_welcome_skip_login"><u>Пропустити цей крок</u></string>
     <string name="micloud_account_name">Xiaomi</string>
@@ -19,9 +19,9 @@
     <string name="micloud_reg_new">Новий</string>
     <string name="micloud_error_empty_username">Введіть логін</string>
     <string name="micloud_error_empty_pwd">Введіть пароль</string>
-    <string name="micloud_error_illegal_pwd">Невірний пароль/</string>
-	<string name="micloud_error_empty_captcha_code">Введіть код з малюнку/</string>
-    <string name="micloud_error_empty_vcode">Введіть перевірочний код/	</string>
+    <string name="micloud_error_illegal_pwd">Невірний пароль</string>
+	<string name="micloud_error_empty_captcha_code">Введіть код з малюнку</string>
+    <string name="micloud_error_empty_vcode">Введіть перевірочний код</string>
     <string name="micloud_email">Адреса e-mail</string>
     <string name="reg_type_phone">Реєстрація по телефону (Рекомендується)</string>
     <string name="reg_type_email">Реєстрація по e-mail</string>

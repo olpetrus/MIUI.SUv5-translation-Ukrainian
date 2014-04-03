@@ -215,4 +215,13 @@
     <string name="express_address_name">Ім\'я</string>
     <string name="express_address_region">Регіон</string>
     <string name="express_address_deleted">Адреса вилучена</string>
+	<string name="download_failed">Помилка завантаження</string>
+    <string name="download_failed_storage">Помилка завантаження. Перевірте стан зовнішньої пам\'яті</string>
+    <string name="download_failed_network">Помилка завантаження. Перевірте параметри мережі</string>
+    <string name="download_failed_gone">Помилка завантаження. Файл не існує</string>
+    <string name="download_failed_server">Помилка завантаження. Спробуйте пізніше.</string>
+    <string name="download_failed_cannot_resume">Помилка завантаження. Спробуйте пізніше.</string>
+    <string name="download_failed_file_exists">Файл уже існує</string>
+    <string name="download_failed_space">Помилка завантаження. Недостатньо вільного місця</string>
+    <string name="download_failed_blocked">Помилка завантаження. Неможливо підключитися до мережі.</string>
 </resources>

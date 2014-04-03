@@ -34,7 +34,11 @@
     </string-array>
     <string-array name="voicemail_notification_vibrate_when_entries">
         <item>Завжди</item>
-        <item>В беззвучному режимі</item>
+        <item>У  режимі \"Без звуку\"</item>
         <item>Ніколи</item>
     </string-array>
+	<string-array name="ims_call_types">
+       	<item>Голос</item>
+ 		<item>Відео</item>
+ 	</string-array>
 </resources>

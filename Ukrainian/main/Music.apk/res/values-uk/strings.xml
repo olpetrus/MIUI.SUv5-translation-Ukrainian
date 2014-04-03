@@ -351,4 +351,5 @@
 	<string name="data_usage_warning">Мобільний трафік</string>
 	<string name="data_usage_warning_summary">При прослуховуванні музики високої якості через мобільний інтернет можливе надмірне споживання трафіка.</string>
 	<string name="source_from">Джерело: %1$s</string>
+	<string name="no_music_to_play">Музика відсутня</string>
 </resources>
