@@ -87,4 +87,5 @@
     <string name="virus_scan_is_virus">Це застосування містить вірус, рекомендується його видалити!</string>
     <string name="virus_scan_is_risk">Я розумію небезпеку, продовжити установку.</string>
     <string name="virus_scan_clear">Видалити</string>
+	<string name="virus_scan_caller_unknown">Невідомо</string>
 </resources>

@@ -18,7 +18,7 @@
 	<string name="theme_component_title_framework">Стилі</string>
 	<string name="theme_component_title_mms">Повідом.</string>
 	<string name="theme_component_title_wallpaper">Шпалери</string>
-	<string name="theme_current_using_has_update">Є нове оновлення для поточної теми</string>
+	<string name="theme_current_using_has_update">Є оновлення для поточної теми</string>
 	<string name="theme_immediately_apply_tip">Застосувати оновлення теми?</string>
 	<string name="theme_component_title_lockwallpaper">Екран блокування</string>
 	<string name="theme_component_title_miwallpaper">Завантажені</string>

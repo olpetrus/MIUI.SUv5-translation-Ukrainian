@@ -32,7 +32,7 @@
 	<string name="minute">1 хв.</string>
 	<string name="minutes">%s хв.</string>
 	<string name="every_day">Кожен день</string>
-    <string name="legal_workday">Трудові будні</string>
+    <string name="legal_workday">Робочі дні</string>
 	<string name="never">Ніколи</string>
 	<string name="day_concat">", "</string>
 	<string name="clock_instructions">Виберіть годинник</string>

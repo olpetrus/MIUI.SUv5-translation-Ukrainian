@@ -381,4 +381,12 @@
     <string name="signature_inconsistent_message">Ця програма має підпис в маркеті,що відрізняється, продовжити оновлення?</string>
     <string name="notif_title_auto_update_on">Автопоновлення додатків включено</string>
     <string name="notif_summary_auto_update_on">Mi-Маркет оновить ваші програми автоматично</string>
+	<string name="pref_title_delete_package">Автовидалення Apk</string>
+ 	<string name="pref_summary_delete_package">Видаляти встановлені файли Apk після встановлення.</string>
+ 	<string name="bad_comment_reason_dialog_title">Виберіть причину</string>
+ 	<string name="bad_comment_reason_dialog_button_text">Пропустити</string>
+ 	<string name="holding">Утримання…</string>
+ 	<string name="tab_download_history">Історія</string>
+ 	<string name="no_download_history">Немає завантажених додатків</string>
+ 	<string name="download_history_login_hint">Війдіть в аккаунт Xiaomi для перегляду історії встановлених додатків.</string>
 </resources>
