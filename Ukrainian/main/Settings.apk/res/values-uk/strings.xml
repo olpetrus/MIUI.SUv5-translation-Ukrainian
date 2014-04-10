@@ -744,7 +744,7 @@
     <string name="vibrate_in_silent_title">В режимі \"Без звуку\"</string>
     <string name="vibrate_on_ring_title">Вібрація та звук</string>
     <string name="notification_sound_title">Сповіщення</string>
-    <string name="notification_pulse_title">Індикація</string>
+    <string name="notification_pulse_title">Індикація подій</string>
     <string name="incoming_call_volume_title">Мелодія</string>
     <string name="notification_volume_title">Сповіщення</string>
     <string name="checkbox_notification_same_as_incoming_call">Використовувати гучність вхідних викликів для сповіщень</string>
@@ -4042,7 +4042,7 @@ Android File Transfer
     <string name="notification_button_text_of_low_memory">Очищення</string>
     <string name="notification_title_of_low_memory">Пам\'ять заповнена на %s</string>
     <string name="notification_summary_of_low_memory">Натисніть для очищення</string>
- 	<string name="power_20s_enter_mode">%1$ds перемкнутися в режим %2$s</string>
+ 	<string name="power_20s_enter_mode">%1$dз до режиму %2$s</string>
     <string name="power_notify_lowbattery">Заряд менш %1$d%%</string>
     <string name="power_recovery_mode">Відновлений режим %1$s</string>
     <string name="power_subtitle_lowbattery">Енергозбереження при розрядженійбатареї</string>

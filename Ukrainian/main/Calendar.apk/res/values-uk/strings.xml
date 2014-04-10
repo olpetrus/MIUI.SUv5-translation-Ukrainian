@@ -227,5 +227,6 @@
 	<string name="pref_title_no_remind">Не нагадувати</string>
     <string name="pref_title_notification_remind">Тільки в рядку стану</string>
     <string name="pref_title_alert_remind">Спливаюче повідомлення</string>
+	<string name="pref_title_alarm_remind">Звуковий сигнал</string>
  	<string name="action_bar_today">З</string>
  </resources>
