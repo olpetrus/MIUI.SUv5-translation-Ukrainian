@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="conversation_style">bubble</string>
-    <string name="prefDefault_ringtone_repeat">1</string>
     <string name="pref_summary_manage_sim_messages">Керування повідомленнями, що зберігаються на SIM карті</string>
     <string name="pref_title_manage_sim_messages">Повідомлення на SIM карті</string>
     <string name="confirm_delete_all_SIM_messages">Видалити всі повідомлення з SIM карти?</string>
     <string name="confirm_delete_SIM_message">Видалити повідомлення з SIM карти?</string>
-	<string name="confirm_restore_all_title">Відновити повідомлення цієї контакту?</string>
+	<string name="confirm_restore_all_title">Відновити повідомлення цього контакту?</string>
     <string name="sim_manage_messages_title">Текстові повідомлення на SIM карті</string>
-	<string name="restore_all_button_msg">Відновити повідомлення цієї контакту</string>
+	<string name="restore_all_button_msg">Відновити повідомлення цього контакту</string>
     <string name="sim_empty">На SIM карті немає повідомлень.</string>
     <string name="sim_full_title">SIM карту заповнено</string>
     <string name="save_to_sim">Зберегти на SIM карту</string>
@@ -562,6 +560,7 @@
 	<string name="pref_key_mx_feedback">Підтвердити звіт</string>
 	<string name="pref_summary_mx_feedback">"Допоможіть зробити MIUI кращим!
 Надсилайте звіти про помилки напряму в MIUI."</string>
-	<string name="feedback_description_hint">Введіть текст звіту (Обов\'язково)</string>
-	<string name="feedback_submit">Підтвердити</string>
+	<string name="feedback_description_hint">Введіть звіт</string>
+	<string name="feedback_submit">Відправити</string>
+	<string name="confirm_send_mms">Один з контактів отримувачів містить адресу електронної пошти. Це повідомлення буде відправлено як MMS, за яке може стягуватися додаткова плата оператором.</string>
 </resources>
