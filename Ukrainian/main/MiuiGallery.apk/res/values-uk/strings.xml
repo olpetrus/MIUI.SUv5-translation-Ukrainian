@@ -486,10 +486,22 @@
     <string name="image_download_item_title">Завантажити зображення (%s)</string>
     <string name="move">Перемістити</string>
 	<string name="internal_sd_card_hm">Пам\'ять телефона</string>
-	<string name="external_usb_device_hm">USB-накопичувач</string>
+	<string name="external_usb_device_hm">USB накопичувач</string>
 	<string name="item_not_sync">Цей файл не був синхронізований з хмарним сервісом і не може бути завантажений</string>
     <string name="add_to_cloud_image_limit_exceeded_message">Перевишено межу зображень</string>
 	<string name="error_share_with_creator">Ви вже учасник цього альбому</string>
 	<string name="folder_holder_file">Необхідно видалити цей файл пізніше</string>
 	<string name="yellow_page">Сервіси</string>
+	<string name="confirm_delete_home_merge_item">Вилучити зображення (%s шт.) локально і з хмари?</string>
+    <string name="deselect_all">Зняти всі</string>
+    <string name="device_model">Обладнання</string>
+    <string name="taken_time">Час</string>
+    <string name="modified_time">Дата зміни</string>
+    <string name="photo_size">Розмір</string>
+    <string name="fail_to_download_n_items">Не вдалося завантажити %s</string>
+    <string name="home_page_tab_photo">Фото</string>
+    <string name="home_page_tab_cloud">Хмара</string>
+    <string name="home_page_tab_local">Локально</string>
+    <string name="photo_page_detail_show_in_the_map">Показувати місце розташування на карті</string>
+    <string name="start_slide_show">Запуск слайдшоу</string>
 </resources>

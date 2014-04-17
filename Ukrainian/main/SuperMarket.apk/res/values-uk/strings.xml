@@ -389,4 +389,22 @@
  	<string name="tab_download_history">Історія</string>
  	<string name="no_download_history">Немає завантажених додатків</string>
  	<string name="download_history_login_hint">Війдіть в аккаунт Xiaomi для перегляду історії встановлених додатків.</string>
+	<string name="guess_tag">Пропозиції</string>
+     <string name="search_tag">Пошук</string>
+     <string name="searchview_hint">Пошук пропозицій</string>
+     <string name="ad_indicator">Реклама</string>
+     <string name="recommendation_app">Рекомендації</string>
+     <string name="show_more">Ще</string>
+     <string name="cate_game">Ігри</string>
+     <string name="cate_app">Додатки</string>
+     <string name="pref_title_show_report_data">Показати звіт</string>
+     <string name="pref_title_use_pad">Use Pad</string>
+     <string name="comment_count_hint">Натисніть, для оцінки:</string>
+     <string name="send">відправити</string>
+     <string name="delete">вилучити</string>
+     <string name="button_search_pad">Планшет</string>
+     <string name="button_search_all">Унівесальна</string>
+     <string name="search_recommend_ignore">Ігнорувати</string>
+     <string name="search_recommend_ignored_text">Не рекомендуємо</string>
+     <string name="activate_now">Activate_now</string>
 </resources>

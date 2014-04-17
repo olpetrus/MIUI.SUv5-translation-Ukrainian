@@ -168,4 +168,5 @@
 	<string name="fourgrid_notificaiont">Показувати в статусбарі</string>
 	<string name="fourgrid_no_notificaiont">Не показувати в статусбарі</string>
 	<string name="updater_finish_download">Завантаження прошивки закінчено</string>
+	<string name="toast_update_failed_hints">Помилка оновлення. Завантажте повну прошивку.</string>
 </resources>

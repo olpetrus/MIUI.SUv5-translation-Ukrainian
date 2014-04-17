@@ -704,8 +704,8 @@
     <string name="usb_cd_installer_notification_title">Під\'єднано як встановлювач</string>
     <string name="usb_accessory_notification_title">USB пристрій під\'єднано</string>
     <string name="usb_notification_message">Натисніть, для налаштування</string>
-    <string name="extmedia_format_title">Форматувати SD-карту?</string>
-    <string name="extmedia_format_message">Всі дані на SD-карті, будуть видалені.</string>
+    <string name="extmedia_format_title">Форматувати SD карту?</string>
+    <string name="extmedia_format_message">Всі дані на SD карті, будуть видалені.</string>
     <string name="extmedia_format_button_format">Формат</string>
     <string name="adb_active_notification_title">Налагодження по USB дозволено</string>
     <string name="adb_active_notification_message">Натисніть, щоб вимкнути налагодження USB.</string>
@@ -1154,7 +1154,7 @@
     <string name="permlab_reorderTasks">Зміна пріоритету додатків</string>
     <string name="permlab_retrieve_window_content">Доступ до екрану</string>
     <string name="permlab_runSetActivityWatcher">Запуск додатків</string>
-    <string name="permlab_sdcardWrite">Запис на SD-карту</string>
+    <string name="permlab_sdcardWrite">Запис на SD карту</string>
     <string name="permlab_sendSms">Надсилання SMS</string>
     <string name="permlab_sendSmsNoConfirmation">Надсилання SMS без сповіщень</string>
     <string name="permlab_setAlarm">Налаштування будильника</string>
@@ -1303,7 +1303,7 @@
     <string name="permdesc_reorderTasks">Дозволяє додатку перемикати режим виконання процесу з активного на фоновий. Шкідливі додатки можуть встановити для себе активний режим без сповіщення.</string>
     <string name="permdesc_retrieve_window_content">Дозволяє додатку отримувати доступ до змісту активного вікна. Шкідливе ПЗ може витягти всі дані вікна та проаналізувати весь його текст, окрім паролів</string>
     <string name="permdesc_runSetActivityWatcher">Дозволяє додатку керувати способом запуску процесів.</string>
-    <string name="permdesc_sdcardWrite">Дозволяє додатку записувати та змінювати дані на SD-карті.</string>
+    <string name="permdesc_sdcardWrite">Дозволяє додатку записувати та змінювати дані на SD карті.</string>
     <string name="permdesc_sendSms">Дозволяє додатку надсилати SMS-повідомлення.</string>
     <string name="permdesc_sendSmsNoConfirmation">Дозволяє додатку надсилати SMS-повідомлення без сповіщень.</string>
     <string name="permdesc_setAlarm">Дозволяє додатку настроювати сигнал будильника.</string>
@@ -1352,7 +1352,7 @@
     <string name="permgroupdesc_network">Дозволяє додатку отримувати доступ до різних мережевих функцій</string>
     <string name="permgroupdesc_personalInfo">Прямий доступ до контактів та подій календаря, збережених в пам\'яті телефону</string>
     <string name="permgroupdesc_phoneCalls">Відслідковувати, записувати та оброблювати телефонні виклики</string>
-    <string name="permgroupdesc_storage">Доступ до SD-карти</string>
+    <string name="permgroupdesc_storage">Доступ до SD карти</string>
     <string name="permgroupdesc_systemTools">Доступ нижнього рівня та керування системою</string>
     <string name="permgrouplab_accounts">Облікові записи</string>
     <string name="permgrouplab_costMoney">Платні послуги</string>
@@ -1380,11 +1380,11 @@
     <string name="permlab_writeSms">Зміна повідомлень</string>
     <string name="permlab_writeSocialStream">Додавання записів в блог</string>
     <string name="permlab_writeSyncSettings">Налаштування синхронізації</string>
-	<string name="permlab_sdcardRead">Читання SD-карти</string>
+	<string name="permlab_sdcardRead">Читання SD карти</string>
 	<string name="permlab_route_media_output">Пристрій виводу</string>
 	<string name="permlab_setScreenCompatibility">Сумісність екрану</string>
 	<string name="permdesc_setKeyboardLayout">Дозволяє системному додатку змінювати розкладку клавіатури.</string>
-    <string name="permdesc_sdcardRead">Дозволяє додатку читати інформацію на SD-карті.</string>
+    <string name="permdesc_sdcardRead">Дозволяє додатку читати інформацію на SD карті.</string>
 	<string name="permdesc_readCallLog">Дозволяє додатку читати журнал викликів, включаючи дані про вхідні та вихідні виклики.</string>
     <string name="permdesc_setScreenCompatibility">Дозволяє додатку контролювати режим сумісності інших додатків.</string>
 	<string name="permdesc_writeCallLog">Дозволяє додатку змінювати журнал викликів, включаючи дані про вхідних та вихідних викликів.</string>

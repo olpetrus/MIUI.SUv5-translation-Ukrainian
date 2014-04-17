@@ -3,7 +3,7 @@
     <string name="app_name">Бекап</string>
     <string name="backup">Бекап</string>
     <string name="restore">Відновлення</string>
-    <string name="backuptosd">Бекап на SD-карту</string>
+    <string name="backuptosd">Бекап на SD карту</string>
     <string name="selectall">Вибрати всі</string>
     <string name="unselectall">Зняти вибір</string>
     <string name="contact_module">Контакти</string>
@@ -30,8 +30,8 @@
     <string name="restore_confirm_notice">Відновити дані?</string>
     <string name="backup_confirm_overwrite_notice">Тека вже існує, перезаписати?</string>
     <string name="contitue">Продовжити</string>
-    <string name="sdcard_removed">SD-карту вилучено!</string>
-    <string name="sdcard_is_full">SD-карта заповнена!</string>
+    <string name="sdcard_removed">SD карту вилучено!</string>
+    <string name="sdcard_is_full">SD карта заповнена!</string>
     <string name="backup_result">Результат бекапу:</string>
     <string name="restore_result">Результат відновлення:</string>
     <string name="result_success">Готово</string>

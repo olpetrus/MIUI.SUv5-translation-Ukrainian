@@ -1,5 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+<string-array name="preferences_skip_reminders_labels">
+         <item>Якщо знизився</item>
+         <item>Якщо відмовився або не відповів</item>
+     </string-array>
+     <string-array name="repeat_by_nth_sun">
+         <item> кожну першу неділю</item>
+         <item> кожну другу неділю</item>
+         <item> кожну третю неділю</item>
+         <item> кожну четверту неділю</item>
+         <item> кожну останню неділю</item>
+     </string-array>
+     <string-array name="repeat_by_nth_mon">
+         <item> кожний перший понедельник</item>
+         <item> кожний другий понедельник</item>
+         <item> кожний третій понедельник</item>
+         <item> кожний четвертий понедельник</item>
+         <item> кожний останній понедельник</item>
+     </string-array>
+     <string-array name="repeat_by_nth_tues">
+         <item> кожний перший вівторок</item>
+         <item> кожний другий вівторок</item>
+         <item> кожний третій вівторок</item>
+         <item> кожний четвертий вівторок</item>
+         <item> кожний останній вівторок</item>
+     </string-array>
+     <string-array name="repeat_by_nth_wed">
+         <item>кожну першу середу</item>
+         <item>кожну другу середу</item>
+         <item>кожну третю середу</item>
+         <item>кожну четверту середу</item>
+         <item>кожну останню середу</item>
+     </string-array>
+     <string-array name="repeat_by_nth_thurs">
+         <item>кожний перший четвер</item>
+         <item>кожний другий четвер</item>
+         <item>кожний третій четвер</item>
+         <item>кожний четвертий четвер</item>
+         <item>кожний останній четвер</item>
+     </string-array>
+     <string-array name="repeat_by_nth_fri">
+         <item>кожну першу п\'ятницю</item>
+         <item>кожну другу п\'ятницю</item>
+         <item>кожну третю п\'ятницю</item>
+         <item>кожну четверту п\'ятницю</item>
+         <item>кожну останню п\'ятницю</item>
+     </string-array>
+     <string-array name="repeat_by_nth_sat">
+         <item> кожну першу суботу</item>
+         <item> кожну другу суботу</item>
+         <item> кожну третю суботу</item>
+         <item> кожну четверту суботу</item>
+         <item> кожну останню суботу</item>
+     </string-array>
+     <string-array name="timezone_rename_labels">
+         <item>Australian Central - NT</item>
+         <item>Australian Central - SA</item>
+         <item>Australian Eastern - QLD</item>
+         <item>Australian Eastern - NSW</item>
+         <item>Mountain Standard - Dawson Creek</item>
+         <item>Central Standard - Saskatchewan</item>
+         <item>Eastern Standard - Atikokan</item>
+         <item>Atlantic Standard - Quebec</item>
+         <item>Hawaii-Aleutian - Hawaii</item>
+         <item>Hawaii-Aleutian - Alaska</item>
+         <item>Pacific Standard - Metlakatla</item>
+         <item>Mountain Standard - Arizona</item>
+         <item>Pacific - Baja California</item>
+         <item>Mountain - Chihuahua</item>
+         <item>Central - Tamaulipas</item>
+         <item>Mountain - Sonora</item>
+         <item>East Africa Time</item>
+         <item>Atlantic Standard Time</item>
+         <item>Atlantic Standard Time</item>
+         <item>Eastern European Time</item>
+         <item>Kaliningrad Time</item>
+         <item>Amazon - Rondônia</item>
+         <item>Brasilia - Pará</item>
+     </string-array>
+     <string-array name="backup_country_names">
+         <item> Синт-Мартен</item>
+         <item>Карибські Нідерланди</item>
+         <item>Кюрасао</item>
+         <item>Південний Судан</item>
+     </string-array>
     <string-array name="reminder_methods_labels">
         <item>Сповіщення</item>
         <item>E-mail</item>

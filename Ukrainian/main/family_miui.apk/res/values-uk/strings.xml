@@ -140,8 +140,8 @@
      <string name="reading_image">Читання фото…</string>
      <string name="processing">Обробка…</string>
      <string name="crop_image_failed">Не вдається обрізати фото!</string>
-     <string name="sdcard_disabled">Некоректна Sd-Карта!</string>
-     <string name="sdcard_space_lack">Недостатньо місця на Sd-Карті</string>
+     <string name="sdcard_disabled">Некоректна SD карта!</string>
+     <string name="sdcard_space_lack">Недостатньо місця на SD карті</string>
      <string name="sdcard_is_full">SD карта заповнена</string>
      <string name="save_image_failed">Неможливо зберегти фото!</string>
      <string name="save_draft_succeed">Чернетка збережена!</string>
@@ -579,8 +579,8 @@
      <string name="request_successful">Успішно виконане!</string>
      <string name="ring_times_format">%1$s раз(а)</string>
      <string name="sdcard_error">Помилка SD карти!</string>
-     <string name="sdcard_invalid_for_install_voice_engine">Помилка Sd-Карти при установці голосового помічника</string>
-     <string name="sdcard_invalid_for_ring">Невірна Sd-Карта для настроювання сигналу</string>
+     <string name="sdcard_invalid_for_install_voice_engi2ne">Помилка SD карти при установці голосового помічника</string>
+     <string name="sdcard_invalid_for_ring">Невірна SD карта для настроювання сигналу</string>
      <string name="sent">Відправити</string>
      <string name="set_top">Настроювання</string>
      <string name="subject">Тема</string>

@@ -31,4 +31,36 @@
         <item quantity="other">+%d подій</item>
         <item quantity="one">+1 подія</item>
     </plurals>
+	<plurals name="endbycount">
+         <item quantity="other">; %d раз</item>
+         <item quantity="one">; 1 раз</item>
+     </plurals>
+     <plurals name="daily">
+         <item quantity="other">Кожні %d дн.</item>
+         <item quantity="one">Щодня</item>
+     </plurals>
+     <plurals name="weekly">
+         <item quantity="other">Кожні %1$d тиж. в %2$s</item>
+         <item quantity="one">Щотижня в %2$s</item>
+     </plurals>
+     <plurals name="recurrence_interval_daily">
+         <item quantity="other">Кожні %d дн.</item>
+         <item quantity="one">Щодня</item>
+     </plurals>
+     <plurals name="recurrence_interval_weekly">
+         <item quantity="other">Кожні %d тиж.</item>
+         <item quantity="one">Щотижня</item>
+     </plurals>
+     <plurals name="recurrence_interval_monthly">
+         <item quantity="other">Кожні %d міс.</item>
+         <item quantity="one">Щомісяця</item>
+     </plurals>
+     <plurals name="recurrence_interval_yearly">
+         <item quantity="other">Кожні %d р.</item>
+         <item quantity="one">Щорічно</item>
+     </plurals>
+     <plurals name="recurrence_end_count">
+         <item quantity="other">Для %d подій</item>
+         <item quantity="one">Для %d події</item>
+     </plurals>
 </resources>

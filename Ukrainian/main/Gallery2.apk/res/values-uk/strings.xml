@@ -519,7 +519,7 @@
      <string name="servernoreturncontent">Сервер не відповідає</string>
      <string name="gallery_camera_bucket_name">Знімки камери</string>
      <string name="gallery_camera_videos_bucket_name">Відео</string>
-     <string name="not_enough_space">Ваша Sd-Карта заповнена</string>
+     <string name="not_enough_space">Ваша SD карта заповнена</string>
      <string name="confirm_restore_message">Відновити настроювання камери за замовчуванням?</string>
      <string name="review_play">Відтворити</string>
      <string name="review_retake">Інший знімок</string>

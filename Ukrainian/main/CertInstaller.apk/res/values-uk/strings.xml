@@ -29,4 +29,6 @@
     <string name="cert_read_error">Встановлення не виконано, тому що не вдалося відкрити файл сертифікату.</string>
     <string name="no_cert_file_found">На SD карті відсутній файл сертифікату.</string>
     <string name="sdcard_not_present">SD карта відсутня.</string>
+	<string name="only_primary_user_allowed">Тільки власник пристрою може встанавлювати сертификати.</string>
+    <string name="credential_usage_label">Використання облікових данних:</string>
 </resources>

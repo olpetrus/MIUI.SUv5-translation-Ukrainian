@@ -518,7 +518,7 @@
 	<string name="file_picker">Огляд</string>
 	<string name="file_name">Iм\'я</string>
 	<string name="file_dir">Папка</string>
-	<string name="storage_internal">Внутрішній накопичувач</string>
+	<string name="storage_internal">Внутрішня пам\'ять</string>
 	<string name="storage_sd_card">SD карта</string>
 	<string name="storage_usb">USB накопичувач</string>
 	<string name="save_dialog_title">Зберегти</string>
