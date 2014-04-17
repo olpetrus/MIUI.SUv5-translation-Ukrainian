@@ -215,4 +215,5 @@
     <string name="not_support_this_type">Даний тип файлу не підтримується</string>
 	<string name="support_tip">При підключенні AnyShare забезпечуватиме тех. підтримку</string>
     <string name="receive_tip">Для швидкого сполучення і отримання черги передачі</string>
+	<string name="file_not_exist">Файл не існує</string>
 </resources>

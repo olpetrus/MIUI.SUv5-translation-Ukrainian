@@ -115,7 +115,7 @@
      <string name="not_selectable_in_scene_mode">Недоступно в режимі сюжету</string>
      <string name="pref_exposure_title">Експозиція</string>
      <string name="dialog_ok">ОК</string>
-     <string name="spaceislow_content">Місце на вашій SD карті закінчується. Вилучите не потрібні фото або інші файли./string>
+     <string name="spaceislow_content">Місце на вашій SD карті закінчується. Вилучите не потрібні фото або інші файли.</string>
      <string name="video_reach_size_limit">Досягнуться граничний розмір</string>
      <string name="pano_too_fast_prompt">Занадто швидко</string>
      <string name="pano_dialog_prepare_preview">Підготовка панорами</string>
