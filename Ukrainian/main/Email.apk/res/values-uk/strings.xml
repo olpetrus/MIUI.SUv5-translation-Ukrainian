@@ -868,7 +868,7 @@
      <string name="more_atts_total">Усього вкладень: %1$d</string>
      <string name="menu_att_mgr_order_size">Сортування по розміру</string>
      <string name="att_mgr_title_order_mime">Формат</string>
-     <string name="att_mgr_title_order_name">Ім'я</string>
+     <string name="att_mgr_title_order_name">Ім\'я</string>
      <string name="att_mgr_title_order_sender">Відправник</string>
      <string name="att_mgr_title_order_rev_date">Дата</string>
      <string name="att_mgr_title_order_size">Розмір</string>

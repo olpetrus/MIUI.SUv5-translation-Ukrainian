@@ -58,7 +58,7 @@
      <string name="header_data_and_synchronization">Синхронізація даних</string>
      <string name="title_reg">Реєстрація</string>
      <string name="micloud_account_label">Аккаунт: %1$s</string>
-     <string name="email_already_be_used">Цей Email уже прив'язаний до іншого аккаунту.</string>
+     <string name="email_already_be_used">Цей Email уже прив\'язаний до іншого аккаунту.</string>
      <string name="error_no_sms_service">Сервіс повідомлень не доступний</string>
      <string name="reg_by_email_failure">Помилка реєстрації: %1$s</string>
      <string name="unactivated_user">Не активований</string>
