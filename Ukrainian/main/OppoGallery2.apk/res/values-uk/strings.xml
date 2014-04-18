@@ -8,7 +8,7 @@
     <string name="pref_camera_scenemode_entry_portrait">Портрет</string>
     <string name="pref_camera_scenemode_entry_landscape">Пейзаж</string>
     <string name="pref_camera_scenemode_entry_sports">Дія</string>
-    <string name="pref_camera_scenemode_entry_backlight">Заднє світло</string>
+    <string name="pref_camera_scenemode_entry_backlight">Підсвічування</string>
     <string name="camera_error_title">Помилка камери</string>
     <string name="cannot_connect_camera">Не вдалося під\'єднатися до камери.</string>
     <string name="camera_disabled">Камеру вимкнено відповідно до політики безпеки.</string>

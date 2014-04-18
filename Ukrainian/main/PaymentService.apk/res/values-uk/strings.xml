@@ -223,7 +223,7 @@
     <string name="lockscreen_forgot_pattern_button_text"><u>Ключ для нагадування паролю</u></string>
     <string name="lockpattern_recording_intro_header">Створіть ключ розблокування:</string>
     <string name="lockpattern_settings_help_how_to_record">Як створити графічний ключ</string>
-    <string name="lockpattern_recording_incorrect_too_short">З\'єднайте не менше %d точок.</string>
+    <string name="lockpattern_recording_incorrect_too_short">З\'єднайте точки (мінімум %d)</string>
     <string name="lockpattern_pattern_entered_header">Графічний ключ зображений</string>
     <string name="lockpattern_need_to_confirm">Введіть повторно:</string>
     <string name="lockpattern_need_to_confirm_wrong">Ключі не співпадають, створіть новий.</string>

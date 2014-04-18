@@ -1180,7 +1180,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="lockpattern_recording_intro_header">Накреслити власний зразок розблокування</string>
     <string name="lockpattern_recording_intro_footer">Натисніть \"Меню\", щоб відкрити довідку.</string>
     <string name="lockpattern_recording_inprogress">Завершивши, приберіть палець</string>
-    <string name="lockpattern_recording_incorrect_too_short">З\'єднати принаймні %d крапки. Спробувати ще раз:</string>
+    <string name="lockpattern_recording_incorrect_too_short">З\'єднати крапки (мінімум %d)</string>
     <string name="lockpattern_pattern_entered_header">Зразок записано</string>
     <string name="lockpattern_need_to_confirm">Ще раз накреслити зразок для підтвердження:</string>
     <string name="lockpattern_pattern_confirmed_header">Новий зразок розблокування:</string>

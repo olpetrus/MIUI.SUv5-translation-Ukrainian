@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="general_preference_text_zoom_summary_array">
+    <string-array name="general_preference_auto_advance_summary_array">
+        <item>Переходить до нового повідомлення після видалення</item>
+        <item>Переходить до старого повідомлення після видалення</item>
+        <item>Переходить до списку повідомлень після видалення</item>
+    </string-array>
+	<string-array name="general_preference_text_zoom_summary_array">
         <item>Дрібний</item>
         <item>Невеликий</item>
-        <item>Звичайний</item>
+        <item>Середній</item>
         <item>Великий</item>
         <item>Величезний</item>
-    </string-array>
-    <string-array name="general_preference_auto_advance_summary_array">
-        <item>Показувати нові повідомлення після видалення листа</item>
-        <item>Показувати старі повідомлення після видалення листа</item>
-        <item>Показувати список повідомлень після видалення листа</item>
     </string-array>
 	<string-array name="compose_modes">
          <item>Відповісти</item>
          <item>Відповісти всім</item>
-         <item>Forward</item>
+         <item>Переслати</item>
      </string-array>
      <string-array name="sync_status">
-         <item>Success</item>
-         <item>No connection.</item>
-         <item>"Couldn't sign in."</item>
-         <item>Security error.</item>
-         <item>"Couldn't sync."</item>
-         <item>Internal Error</item>
+         <item>Готово</item>
+         <item>Немає з\'єднання</item>
+         <item>Неможливо авторизуватися</item>
+         <item>Помилка безпеки</item>
+         <item>Неможливо синхронізувати</item>
+         <item>Внутрішня помилка</item>
      </string-array>
      <string-array name="moveto_folder_sections">
-         <item>System</item>
-         <item>Frequently Used</item>
-         <item>All Folders</item>
+         <item>Система</item>
+         <item>Нещодавні</item>
+         <item>Всі папки</item>
      </string-array>
      <string-array name="prefentries_autoadvance">
-         <item>Newer</item>
-         <item>Older</item>
-         <item>Conversation list</item>
+         <item>Нові</item>
+         <item>Старі</item>
+         <item>Список розмов</item>
      </string-array>
      <string-array name="prefsummaries_autoadvance">
-         <item>Show newer conversation after you delete</item>
-         <item>Show older conversation after you delete</item>
-         <item>Show conversation list after you delete</item>
+         <item>Показувати нові діалоги після видалення</item>
+         <item>Показувати старі діалоги після видалення</item>
+         <item>Показувати список діалогов після видалення</item>
      </string-array>
      <string-array name="prefentries_removal_action">
-         <item>Show archive only</item>
-         <item>Show delete only</item>
-         <item>Show archive &amp; delete</item>
+         <item>Показувати архіви</item>
+         <item>Показувати видаленні</item>
+         <item>Показувати архіви і видаленні</item>
      </string-array>
      <string-array name="prefsummaries_removal_action_summary">
          <item>Show archive only</item>

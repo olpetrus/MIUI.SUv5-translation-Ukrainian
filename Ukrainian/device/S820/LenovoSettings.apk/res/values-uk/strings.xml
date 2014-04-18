@@ -1304,7 +1304,7 @@
     <string name="lockpattern_recording_intro_header">Накресліть графічний ключ розблокування:</string>
     <string name="lockpattern_recording_intro_footer">Для довідки натисніть \"Меню\".</string>
     <string name="lockpattern_recording_inprogress">По завершенню відпустіть палець</string>
-    <string name="lockpattern_recording_incorrect_too_short">З\'єднайте точки (мінімум %d). Повторіть спробу:</string>
+    <string name="lockpattern_recording_incorrect_too_short">З\'єднайте точки (мінімум %d)</string>
     <string name="lockpattern_pattern_entered_header">Графічний ключ записано</string>
     <string name="lockpattern_need_to_confirm">Для підтвердження накресліть графічний ключ повторно:</string>
     <string name="lockpattern_pattern_confirmed_header">Новий графічний ключ розблокування:</string>

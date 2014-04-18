@@ -197,7 +197,7 @@
     <string name="cloud_app_delete_data">Видалити бекап</string>
     <string name="cloud_app_backup_date">"Створено бекап "</string>
     <string name="cloud_app_total_size">Загальний розмір бекапу: %1$s</string>
-    <string name="cloud_app_version_size">Версія: %1$s, Розмір:%2$s</string>
+    <string name="cloud_app_version_size">Версія: %1$s, Розмір: %2$s</string>
     <string name="cloud_app_restore_prompt">Процес відновлення видалить всі локальні дані користувача разом з даними в хмарах.</string>
     <string name="cloud_app_remove_prompt">%1$s дані будуть видалені. Продовжити?</string>
     <string name="cloud_app_find_backup_prompt_1">Ви хочете зберегти локальні дані перед відновленням?</string>
