@@ -94,32 +94,32 @@
          <item quantity="one">Прибрати діалог з обранихх? (%1$d) </item>
      </plurals>
      <plurals name="conversation_muted">
-         <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> сповіщень відключено</item>
-         <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> сповіщення відключено</item>
+         <item quantity="other">Діалогів з відключенми сповіщеннями; %1$d</item>
+         <item quantity="one">Діалогів з відключенми сповіщеннями: %1$d</item>
      </plurals>
      <plurals name="conversation_spammed">
-         <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> помічені як спам</item>
-         <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> помічено як спам</item>
+         <item quantity="other">Помічені як спам: %1$d</item>
+         <item quantity="one">Помічені як спам: %1$d</item>
      </plurals>
      <plurals name="conversation_not_spam">
-         <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> прибрані зі спама</item>
-         <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> прибран зі спама</item>
+         <item quantity="other">Прибрано зі спама: %1$d</item>
+         <item quantity="one">Прибрано зі спаму: %1$d</item>
      </plurals>
      <plurals name="conversation_not_important">
-         <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> помічені як неважливі</item>
-         <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> помічений як неважливий</item>
+         <item quantity="other">Помічені як неважливі: %1$d</item>
+         <item quantity="one">Помічені як неважливі: %1$d</item>
      </plurals>
      <plurals name="conversation_phished">
-         <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> помічені як шахрайство</item>
-         <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> помічений як шахрайство</item>
+         <item quantity="other">Помічені як шахрайство: %1$d</item>
+         <item quantity="one">Помічені як шахрайство: %1$d</item>
      </plurals>
      <plurals name="conversation_archived">
-         <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> архівовані</item>
-         <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> aархівований</item>
+         <item quantity="other">Архівовано: %1$d</item>
+         <item quantity="one">Архівовано: %1$d</item>
      </plurals>
      <plurals name="conversation_deleted">
-         <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> видалені</item>
-         <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> видалений</item>
+         <item quantity="other">Видалено: %1$d</item>
+         <item quantity="one">Видалено: %1$d</item>
      </plurals>
      <plurals name="conversation_folder_changed">
          <item quantity="other">Теки змінені</item>

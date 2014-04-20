@@ -30,14 +30,14 @@
          <item>Нещодавні</item>
          <item>Всі папки</item>
      </string-array>
-     <string-array name="prefentries_autoadvance">
-         <item>Нові</item>
-         <item>Старі</item>
-         <item>Список розмов</item>
+     <string-array name="prefentries_autoAdvance">
+         <item>Перейти до нового повідомлення</item>
+         <item>Перейти до старого повідомлення</item>
+         <item>Перейти до списку розмов</item>
      </string-array>
-     <string-array name="prefsummaries_autoadvance">
-         <item>Показувати нові діалоги після видалення</item>
-         <item>Показувати старі діалоги після видалення</item>
+     <string-array name="prefsummaries_autoAdvance">
+         <item>Показувати нове повідомлення після видалення</item>
+         <item>Показувати старе повідомлення після видалення</item>
          <item>Показувати список діалогов після видалення</item>
      </string-array>
      <string-array name="prefentries_removal_action">
