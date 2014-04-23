@@ -46,11 +46,15 @@
         <item>Величезний</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>Дуже повільно</item>
-        <item>Повільно</item>
-        <item>Звичайно</item>
-        <item>Швидко</item>
-        <item>Дуже швидко</item>
+        <item>Дуже повільна</item>
+        <item>Повільна</item>
+        <item>Нормальна</item>
+        <item>Швидка</item>
+		<item>Швидше</item>
+        <item>Дуже швидка</item>
+		<item>Швидкісна</item>
+		<item>Дуже швидкісна</item>
+		<item>Найшвидша</item>
     </string-array>
     <string-array name="change_security_lock_picker">
 		<item>Фейсконтроль</item>
@@ -656,7 +660,7 @@
      </string-array>
 	 	<string-array name="miracast_policies">
          <item>Невелика затримка</item>
-         <item> За замовчуванням</item>
+         <item>За замовчуванням</item>
          <item>Краща якість</item>
      </string-array>
  	<string-array name="show_non_rect_clip_entries">
@@ -675,4 +679,45 @@
         <item>IMSI</item>
         <item>GID</item>
     </string-array>
+	<string-array name="captioning_font_size_selector_titles">
+         <item>Very small</item>
+         <item>Small</item>
+         <item>Normal</item>
+         <item>Large</item>
+         <item>Very large</item>
+     </string-array>
+     <string-array name="captioning_edge_type_selector_titles">
+         <item>None</item>
+         <item>Outline</item>
+         <item>Drop shadow</item>
+     </string-array>
+     <string-array name="captioning_preset_selector_titles">
+         <item>White on black</item>
+         <item>Black on white</item>
+         <item>Yellow on black</item>
+         <item>Yellow on blue</item>
+         <item>Custom</item>
+     </string-array>
+     <string-array name="select_runtime_summaries">
+         <item>Use Dalvik</item>
+         <item>Use ART</item>
+         <item>Use ART debug build</item>
+     </string-array>
+     <string-array name="track_frame_time_entries">
+         <item>Off</item>
+         <item>On screen as bars</item>
+         <item>On screen as lines</item>
+         <item>In adb shell dumpsys gfxinfo</item>
+     </string-array>
+     <string-array name="debug_hw_overdraw_entries">
+         <item>Off</item>
+         <item>Show overdraw areas</item>
+         <item>Show areas for Deuteranomaly</item>
+         <item>Show overdraw counter</item>
+     </string-array>
+     <string-array name="security_settings_premium_sms_values">
+         <item>Ask</item>
+         <item>Never allow</item>
+         <item>Always allow</item>
+     </string-array>
 </resources>
