@@ -22,4 +22,4 @@
  	<string name="display_power_percent">Відображати заряд у відсотках</string>
  	<string name="battery_percentage_info">Рівень заряду:</string>
  	<string name="power_save_mode">Авторегулювання харчування екрана</string>
- <resources>
+ </resources>
