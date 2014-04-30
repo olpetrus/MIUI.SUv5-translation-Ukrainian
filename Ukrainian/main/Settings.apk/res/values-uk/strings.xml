@@ -3731,7 +3731,6 @@ Android File Transfer
     <string name="preferred_application_warning_title">Заміна додатку \"%s\"</string>
     <string name="preferred_application_warning_message">Заміна стандартного додатку \"%1$s\" може збільшувати використання енергії, понизити швидкість роботи пристрою та піддати систему ризику. \nРекомендується використовувати стандартний додаток \"%2$s\".</string>
     <string name="preferred_application_warning_replace">Замінити</string>
-    <string name="preferred_application_warning_use_system">Скасувати</string>
 	<string name="preferred_app_settings">Додаток за замовчанням</string>
     <string name="preferred_app_settings_default">MIUI</string>
     <string name="preferred_app_settings_reset">Скидання налаштувань</string>
@@ -4327,4 +4326,9 @@ Android File Transfer
      <string name="status_bar_screen_key_home">Клавіша \"Додому\"</string>
      <string name="status_bar_screen_key_recent_apps">Клавіша недавніх додатків</string>
      <string name="status_bar_screen_key_back">Клавіша \"Назад\"</string>
+	 <string name="preferred_application_warning_use_system">Використовувати %s</string>
+     <string name="preferred_sms_warning_message"> При використанні додатка \"%1$s\" за замовчуванням для повідомлень може стягуватися додаткова оплата</string>
+     <string name="preferred_sms_warning_use_system">Скасування</string>
+     <string name="preferred_sms_settings">Цей додаток буде встановлений за замовчуванням для створення й читання повідомлень</string>
+     <string name="preferred_sms_title">Додаток повідомлень за замовчуванням</string>
 </resources>

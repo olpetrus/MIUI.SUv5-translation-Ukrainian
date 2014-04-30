@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Чорний список</string>
-     <string name="bl_block_info" formatted="false">Викликів: %d, Повідомлень: %d</string>
+     <string name="bl_block_info" formatted="false">Викликів: %d | SMS: %d</string>
      <string name="bl_no_blacklist">Немає контактів</string>
      <string name="bl_no_block_call">Немає заблокованих викликів</string>
      <string name="bl_no_block_sms">Немає заблокованих повідомлень</string>
@@ -30,7 +30,7 @@
      <string name="dlg_retore">Відновити в повідомлення?</string>
      <string name="dlg_retore_ok">ОК</string>
      <string name="fw_blocked">Чорний список</string>
-     <string name="fw_blocked_count" formatted="false">Виклики: %d, SMS: %d</string>
+     <string name="fw_blocked_count">"Заблоковано "</string>
      <string name="marked_by_others">%d користувачі відзначили як</string>
      <string name="marked_by_user">ви відзначили як</string>
      <string name="menu_add">Додати</string>
@@ -166,10 +166,10 @@
      <string name="note_call_none">Немає викликів</string>
      <string name="note_keyword_none">Немає ключових слів</string>
      <string name="note_preference_delete">Неможливо видалити активний режим блокування</string>
-     <string name="block_message_number">Блокованих повідомлень: %d</string>
-     <string name="block_phone_number">Блокованих викликів: %d</string>
- 	 <string name="fw_blocked_count_call">Викликів: %d</string>
-     <string name="fw_blocked_count_sms">Повідомлень: %d</string>
+     <string name="block_message_number">Блоковано: %d</string>
+     <string name="block_phone_number">Блоковано: %d</string>
+	 <string name="fw_blocked_count_call">"викоиків: %d | "</string>
+     <string name="fw_blocked_count_sms">SMS: %d</string>
  	 <string name="wl_no_whitelist">Немає номерів</string>
  	 <string name="user_define_title">Додавання режиму</string>
      <string name="blacklist_prefix_add_hint">Додати всі номери із префіксом у чорний список</string>
@@ -179,14 +179,14 @@
      <string name="address_choose_hint">Регіони: %1$s, %2$s, %3$d.</string>
      <string name="two_address_choose_hint">Регіони: %1$s, %2$s2</string>
      <string name="one_address_choose_hint">Регіон: %s1</string>
- 	 <string name="dlg_black_antispam_message">Додати повідомлення в чорний список?</string>
-     <string name="dlg_white_antispam_message">Додати повідомлення в білий список?</string>
+ 	 <string name="dlg_black_antispam_message">Додати в чорний список?</string>
+     <string name="dlg_white_antispam_message">Додати  в білий список?</string>
      <string name="dlg_black_address_antispam_message">Додати регіон у чорний список?</string>
      <string name="dlg_white_address_antispam_message">Додати регіон у білий список?</string>
      <string name="dlg_white_antispam_hint">Білий список</string>
  	 <string name="dlg_black_antispam_hint">Чорний список</string>
  	 <string name="dlg_add_blacklist_warn_conflict_title">Попередження</string>
-     <string name="dlg_add_blacklist_warn_conflict_content">%1$s і %2$s інші контакти вже додані в білий список</string>
+     <string name="dlg_add_blacklist_warn_conflict_content">%1$s та інші контакти вже додані в білий список</string>
      <string name="dlg_remove_whitelist">Вилучити обрані номери з білого списку</string>
      <string name="dlg_remove_address_blacklist">Вилучити регіон із чорного списку й відновити зв\'язані повідомлення в список діалогів?</string>
      <string name="dlg_remove_address_whitelist">Вилучити регіон з білого списку?</string>
@@ -201,12 +201,12 @@
      <string name="addwhitelist">У білий список</string>
      <string name="st_hint_add_phonenumber">Увести номер телефону</string>
      <string name="st_hint_add_head_number">Увести префікс</string>
-     <string name="st_message_Smspass">Дозволити повідомлення</string>
-     <string name="st_message_phonepass">Дозволити виклики</string>
+     <string name="st_message_Smspass">Повідомлення</string>
+     <string name="st_message_phonepass">Виклики</string>
      <string name="Smspass">Дозволити повідомлення</string>
      <string name="Phonepass">Дозволити виклики</string>
-     <string name="st_message_SMS_Antispam">Блокувати повідомлення</string>
-     <string name="st_message_phone_Antispam">Блокувати виклики</string>
+     <string name="st_message_SMS_Antispam">Повідомлення</string>
+     <string name="st_message_phone_Antispam">Виклики</string>
      <string name="Acaddnumtitle">Додати префікс телефону в білий список</string>
      <string name="Nacaddnumtitle">Додати номер телефону в білий список</string>
      <string name="st_title_addblacklist">Додати в чорний список</string>
@@ -230,21 +230,21 @@
      <string name="st_antispam_bw_man_add">Ввести номер вручну</string>
      <string name="st_antispam_bw_head_add">Додати префікс</string>
      <string name="st_antispam_bw_pick_add">Вибрати зі списку контактів</string>
-     <string name="st_antispam_bw_adress_add">Додати адреса</string>
-     <string name="st_antispam_black_adress_add">Вибрати область</string>
+     <string name="st_antispam_bw_adress_add">Додати регіон</string>
+     <string name="st_antispam_black_adress_add">Вибрати регіон</string>
      <string name="st_antispam_bw_choose_modes">Вибрати режим</string>
      <string name="hint_antispam_mode_edit">Свій режим</string>
      <string name="st_title_adress">Вибрати регіон</string>
      <string name="st_title_adress_num">Обране: %d</string>
-     <string name="SMS_BLACKLIST">Чорний список повідомлень</string>
-     <string name="SMS_PREFIX">Чорний список префіксів</string>
-     <string name="SMS_MODENAME">Чорний список за замовчуванням</string>
-     <string name="SMS_KEYWORDS">Чорний список ключових слів</string>
-     <string name="SMS_ADRESS">Чорний список регіонів</string>
-     <string name="Call_BLACKLIST">Чорний список викликів</string>
-     <string name="Call_PREFIX">Чорний список префіксів</string>
-     <string name="Call_MODENAME">Чорний список за замовчуванням</string>
-     <string name="Call_ADRESS">Чорний список регіонів</string>
+     <string name="SMS_BLACKLIST">Повідомлення</string>
+     <string name="SMS_PREFIX">Префікси</string>
+     <string name="SMS_MODENAME">Чорний список</string>
+     <string name="SMS_KEYWORDS">Ключові слова</string>
+     <string name="SMS_ADRESS">Регіони</string>
+     <string name="Call_BLACKLIST">Виклики</string>
+     <string name="Call_PREFIX">Префікси</string>
+     <string name="Call_MODENAME">Чорний список</string>
+     <string name="Call_ADRESS">Регіони</string>
      <string name="Call_PRIVATE_CALL">Приватні виклики</string>
      <string name="PAST_BLOCK">Раніше заблоковані</string>
      <string name="AD_Antispam">Блокувати рекламу</string>

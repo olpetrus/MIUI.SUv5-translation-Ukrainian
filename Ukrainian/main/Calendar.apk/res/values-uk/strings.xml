@@ -54,7 +54,7 @@
     <string name="edit_event_calendar_label">Календар</string>
     <string name="edit_event_show_all">Показати всі</string>
     <string name="description_label">Опис</string>
-    <string name="presence_label">Мій статус</string>
+    <string name="presence_label">Статус</string>
     <string name="privacy_label">Конфіденційність</string>
     <string name="reminders_label">Додати нагадування</string>
     <string name="no_syncable_calendars">Нема календарів</string>
@@ -198,7 +198,7 @@
     <string name="lunar_date">Місячна дата</string>
     <string name="widget_select_style">Оберіть стиль</string>
     <string name="widget_events">Наступні події</string>
-    <string name="widget_no_events">Нема подій</string>
+    <string name="widget_no_events">Далі, немає повістки дня</string>
     <string name="show_almanac">Календар альманах</string>
     <string name="show_gou_piao">Календар квитків</string>
     <string name="gou_piao_event_title">Нагадування поїздки %s</string>
@@ -222,7 +222,7 @@
 	<string name="copy_email">Копіювати адресу ел. пошти</string>
     <string name="copy_number">Копіювати номер телефону</string>
     <string name="done">Готово</string>
-    <string name="today_no_events">Сьогодні немає заходів</string>
+    <string name="today_no_events">Повістка дня відстуня</string>
     <string name="more_string">Ще %1$s…</string>
 	<string name="pref_title_no_remind">Не нагадувати</string>
     <string name="pref_title_notification_remind">Тільки в рядку стану</string>

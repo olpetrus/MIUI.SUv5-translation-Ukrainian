@@ -17,7 +17,7 @@
         <item quantity="one">1 доба</item>
     </plurals>
     <plurals name="weekN">
-        <item quantity="other">%d ТИЖДЕНЬ</item>
+        <item quantity="other">ТИЖДЕНЬ %d</item>
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>

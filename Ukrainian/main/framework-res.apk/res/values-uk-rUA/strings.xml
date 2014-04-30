@@ -1836,4 +1836,18 @@
 	 <string name="webviewchromium_low_memory_error">Не вдається завершити попередню операцію через нестачу пам\'яті</string>
 	 <string name="webviewchromium_opening_file_error">Не вдається відкрити обраний файл</string>
 	 <string name="webviewchromium_private_browsing_warning">Ця можливість не підтримується в цій версії Android.</string>
+	 <string name="storage_uicc"> Uicc-Накопичувач</string>
+ 	<string name="mediasize_na_letter">Лист</string>
+     <string name="mediasize_na_gvrnmt_letter">Лист уряду</string>
+     <string name="mediasize_na_legal">Юридичне</string>
+     <string name="mediasize_na_junior_legal">Молодше юридичне</string>
+     <string name="mediasize_na_ledger">Регістр</string>
+     <string name="mediasize_na_tabloid">Таблоїд</string>
+     <string name="mediasize_na_index_3x5"> Індекс-Карта 3x5</string>
+     <string name="mediasize_na_index_4x6"> Індекс-Карта 4x6</string>
+     <string name="mediasize_na_index_5x8"> Індекс-Карта 5x8</string>
+     <string name="mediasize_na_monarch">Монарх</string>
+     <string name="mediasize_na_quarto">Кварто</string>
+     <string name="mediasize_na_foolscap">Формат</string>
+ 	 <string name="transient_navigation_confirmation_long">Проведіть палцем від краю екрана, щоб відкрити панель повідомлень</string>
 </resources>
