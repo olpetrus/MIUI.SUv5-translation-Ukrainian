@@ -680,44 +680,44 @@
         <item>GID</item>
     </string-array>
 	<string-array name="captioning_font_size_selector_titles">
-         <item>Very small</item>
-         <item>Small</item>
-         <item>Normal</item>
-         <item>Large</item>
-         <item>Very large</item>
+         <item>Дуже маленький</item>
+         <item>Маленький</item>
+         <item>Середній</item>
+         <item>Великий</item>
+         <item>Дуже великий</item>
      </string-array>
      <string-array name="captioning_edge_type_selector_titles">
-         <item>None</item>
-         <item>Outline</item>
-         <item>Drop shadow</item>
+         <item>Немає</item>
+         <item>Контур</item>
+         <item>Тінь</item>
      </string-array>
      <string-array name="captioning_preset_selector_titles">
-         <item>White on black</item>
-         <item>Black on white</item>
-         <item>Yellow on black</item>
-         <item>Yellow on blue</item>
-         <item>Custom</item>
+         <item>Білий на чорному</item>
+         <item>Чорний на білому</item>
+         <item>Жовтий на чорному</item>
+         <item>Жовтий на синьому</item>
+         <item>Користувацький</item>
      </string-array>
      <string-array name="select_runtime_summaries">
-         <item>Use Dalvik</item>
-         <item>Use ART</item>
-         <item>Use ART debug build</item>
+         <item>Використовувати Dalvik</item>
+         <item>Використовувати ART</item>
+         <item>Використовувати налагоджуванний ART</item>
      </string-array>
      <string-array name="track_frame_time_entries">
-         <item>Off</item>
-         <item>On screen as bars</item>
-         <item>On screen as lines</item>
-         <item>In adb shell dumpsys gfxinfo</item>
+         <item>Відключити</item>
+         <item>На екрані у вигляді смуг</item>
+         <item>На екрані у вигляді ліній</item>
+         <item>В adb shell dumpsys gfxinfo</item>
      </string-array>
      <string-array name="debug_hw_overdraw_entries">
-         <item>Off</item>
-         <item>Show overdraw areas</item>
-         <item>Show areas for Deuteranomaly</item>
-         <item>Show overdraw counter</item>
+         <item>Вимкнене</item>
+         <item>Показувати область відмальовування</item>
+         <item>Показувати область Deuteranomaly</item>
+         <item>Показувати контур відмальовування </item>
      </string-array>
      <string-array name="security_settings_premium_sms_values">
-         <item>Ask</item>
-         <item>Never allow</item>
-         <item>Always allow</item>
+         <item>Запитувати</item>
+         <item>ЗАборонити</item>
+         <item>Дозволити</item>
      </string-array>
 </resources>

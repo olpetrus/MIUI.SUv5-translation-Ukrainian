@@ -44,4 +44,20 @@
         <item quantity="other">Додатків: %d \nДоступ до читання сповіщень.</item>
         <item quantity="one">Додатків: %d \nДоступ до читання сповіщень.</item>
     </plurals>
-</resources>
+	<plurals name="wrong_pin_code">
+	    <item quantity="other">Невірний PIN-код. Залишилось спроб: %d.</item>
+        <item quantity="one">Невірний PIN-код. Залишилось спроб: %d.</item>
+	</plurals>
+    <plurals name="print_search_result_count_utterance">
+	    <item quantity="other">Знайдено принтерів: %1$s</item>
+        <item quantity="one">Знайдено принтерів: %1$s</item>
+	</plurals>
+	<plurals name="show_cit_countdown">
+        <item quantity="other">Після %1$d кроків відкриється доступ до інженерного меню Cit</item>
+        <item quantity="one">Після %1$d кроку відкриється доступ до інженерного меню Cit</item>
+    </plurals>
+    <plurals name="show_rep_countdown">		
+	    <item quantity="other">Після %1$d кроків з\'явиться можливість відправляти відгуки про помилки</item>
+        <item quantity="one">Після %1$d кроку з\'явиться можливість відправляти відгуки про помилки</item>
+    </plurals>
+ </resources>

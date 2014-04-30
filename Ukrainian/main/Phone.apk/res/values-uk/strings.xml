@@ -1639,4 +1639,6 @@
  	<string name="set_sub_global_activate_failed">Помилка активації</string>
     <string name="set_sub_global_deactivate_failed">Помилка деактивації</string>
  	<string name="set_sub_not_supported_phone_in_call">Неможливо активувати або деактивувати підписки під час виклику</string>
+	<string name="open_miui">Відкрити</string>
+ 	<string name="callwait_open_hint">Послуга \"Очікування виклику\" надається оператором, якщо ви отримуєте помилку коду MMI, зверніться до вашого оператора для з\'ясування подробиць.</string>
 </resources>
