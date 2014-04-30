@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Чорний список</string>
      <string name="bl_block_info" formatted="false">Викликів: %d | SMS: %d</string>
-     <string name="bl_no_blacklist">Немає контактів</string>
+     <string name="bl_no_blacklist">Немає заблокованих контактів</string>
      <string name="bl_no_block_call">Немає заблокованих викликів</string>
      <string name="bl_no_block_sms">Немає заблокованих повідомлень</string>
      <string name="dlg_add_blacklist">Додати номер у чорний список?</string>
@@ -30,9 +30,9 @@
      <string name="dlg_retore">Відновити в повідомлення?</string>
      <string name="dlg_retore_ok">ОК</string>
      <string name="fw_blocked">Чорний список</string>
-     <string name="fw_blocked_count">"Заблоковано "</string>
-     <string name="marked_by_others">%d користувачі відзначили як</string>
-     <string name="marked_by_user">ви відзначили як</string>
+     <string name="fw_blocked_count" formatted="false">"Заблоковано викликів: %d, повідомлень: %d"</string>
+     <string name="marked_by_others">"%d користувачів відмітили як "</string>
+     <string name="marked_by_user">"ви відмітили як "</string>
      <string name="menu_add">Додати</string>
      <string name="menu_add_into_contact">Додати до існуючого контакту</string>
      <string name="menu_add_new_contact">Новий контакт</string>
@@ -170,8 +170,8 @@
      <string name="block_phone_number">Блоковано: %d</string>
 	 <string name="fw_blocked_count_call">"викоиків: %d | "</string>
      <string name="fw_blocked_count_sms">SMS: %d</string>
- 	 <string name="wl_no_whitelist">Немає номерів</string>
- 	 <string name="user_define_title">Додавання режиму</string>
+     <string name="wl_no_whitelist">Немає білих номерів</string>
+     <string name="user_define_title">Свій режим</string>
      <string name="blacklist_prefix_add_hint">Додати всі номери із префіксом у чорний список</string>
      <string name="whitelist_prefix_add_hint">Додати всі номери із префіксом у білий список</string>
      <string name="customizer_mode_user_define_name">Мій режим</string>

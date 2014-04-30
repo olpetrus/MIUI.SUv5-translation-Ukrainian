@@ -35,9 +35,9 @@
      <string name="clear_cache">Очистити кеш</string>
      <string name="clear_cache_success">Кеш очищено</string>
      <string name="clear_cache_summary">Очистить кеш зображень в додатку</string>
-     <string name="clear_history">Очистити історію</string>
-     <string name="clear_playhistory">Очищення історії</string>
-     <string name="clear_playhistory_tip">Очистити історію перегляду?</string>
+     <string name="clear_history">Видалити історію</string>
+     <string name="clear_playhistory">Видалити історію перегляду</string>
+     <string name="clear_playhistory_tip">Видалити історію перегляду?</string>
      <string name="clearplayhistory">Очистить історію</string>
      <string name="comment">Коментарі</string>
      <string name="comment_can_input_prefix">Можна так же ввести</string>
