@@ -4097,7 +4097,7 @@ Android File Transfer
   SIM/RUIM не підтримується."</string>
      <string name="sim_pin_attempts">"
  Залишилося спроб:"</string>
- <string name="wrong_pin_code_pukked">Невірний Pin-Код Sim-Карти. Ви можете звернутися до вашого оператора для з'ясування інформації із приводу розблокування</string>
+ <string name="wrong_pin_code_pukked">Невірний PIN-rод SIM-карти. Ви можете звернутися до вашого оператора для з\'ясування інформації із приводу розблокування</string>
      <string name="pin_failed">Помилка Pin-Коду</string>
  	<string name="sms_application_title">Додаток для SMS за замовчуванням</string>
      <string name="sms_change_default_dialog_title">Змінити додаток для SMS?</string>
@@ -4314,12 +4314,12 @@ Android File Transfer
      <string name="status_bar_settings_basic_settings">Загальні</string>
      <string name="status_bar_settings_advanced">Додатково</string>
      <string name="status_bar_settings_show_flow_info">Показувати потік</string>
-     <string name="status_bar_settings_show_carrier">Показувати ім'я оператора</string>
-     <string name="status_bar_settings_custom_carrier">Змінити ім'я оператора</string>
+     <string name="status_bar_settings_show_carrier">Показувати ім\'я оператора</string>
+     <string name="status_bar_settings_custom_carrier">Змінити ім\'я оператора</string>
      <string name="status_bar_settings_no_carrier">Не встановлене</string>
      <string name="status_bar_settings_show_carrier_summary">Тільки на екрані блокування</string>
      <string name="status_bar_settings_show_wifi_name">Показати Wi-Fi</string>
-     <string name="status_bar_settings_custom_wifi_name">Змінити ім'я Wi-Fi</string>
+     <string name="status_bar_settings_custom_wifi_name">Змінити ім\'я Wi-Fi</string>
      <string name="status_bar_screen_button_key">Екранні клавіші</string>
      <string name="status_bar_key_position_custom">Положення клавіш</string>
      <string name="status_bar_screen_key_menu">Клавіша \"Меню\"</string>
