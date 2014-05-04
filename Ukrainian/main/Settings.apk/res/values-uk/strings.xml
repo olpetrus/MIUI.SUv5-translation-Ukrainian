@@ -4104,9 +4104,9 @@ Android File Transfer
      <string name="sms_change_default_dialog_text" formatted="false">Використовувати додаток \"%s\" за замовчуванням замість \"%s\"?</string>
      <string name="sms_change_default_no_previous_dialog_text">Використовувати додаток \"%s\" за замовчуванням для SMS?</string>
  	<string name="location_mode_title">Режим</string>
-     <string name="location_mode_high_accuracy_title">Висока точність</string>
-     <string name="location_mode_battery_saving_title">Економія батареї</string>
-     <string name="location_mode_sensors_only_title">Тільки сенсор пристрою</string>
+     <string name="location_mode_high_accuracy_title">По мережам та GPS</string>
+     <string name="location_mode_battery_saving_title">Тільки по мережам</string>
+     <string name="location_mode_sensors_only_title">Тільки по GPS</string>
      <string name="location_mode_location_off_title">Виключити місце розташування</string>
      <string name="location_category_recent_location_requests">Останні запити про місце розташування</string>
      <string name="location_no_recent_apps">Немає додатків</string>
@@ -4116,7 +4116,7 @@ Android File Transfer
      <string name="location_mode_screen_title">Режим місця розташування</string>
      <string name="location_mode_high_accuracy_description">Використовувати GPS, Wi-Fi і мобільну мережу для визначення місця розташування</string>
      <string name="location_mode_battery_saving_description">Використовувати Wi-Fi і мобільну мережу для визначення місця розташування</string>
-     <string name="location_mode_sensors_only_description">Використовувати GPS для визначення місця розташування</string>
+     <string name="location_mode_sensors_only_description">Використовувати тільки GPS для визначення місця розташування</string>
      <string name="location_loading_injected_setting">Одержання…</string>
      <string name="location_category_enhanced_location">Точне місце розташування</string>
  	<string name="app_ops_settings_summary">Керування дозволами для додатків</string>
