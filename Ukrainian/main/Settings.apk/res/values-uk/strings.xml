@@ -4131,7 +4131,7 @@ Android File Transfer
  	<string name="enable_terminal_title">Локальний термінал</string>
  	<string name="enable_terminal_summary">Включити локальний термінал</string>
  	<string name="battery_history_days_no_seconds" formatted="false">%1$dдн. %2$dгод. %3$dхв.</string>
- 	<string name="battery_history_hours_no_seconds">%1$dгод. % 2$dхв.</string>
+ 	<string name="battery_history_hours_no_seconds" formatted="false">%1$dгод. % 2$dхв.</string>
  	<string name="battery_history_minutes_no_seconds">%1$dмхв.</string>
  	<string name="accessibility_captioning_title">Заголовки</string>
  	<string name="captioning_preview_title">Перегляд</string>
@@ -4159,7 +4159,7 @@ Android File Transfer
  	<string name="color_cyan">Блакитний</string>
  	<string name="color_yellow">Жовтий</string>
  	<string name="color_magenta">Пурпурний</string>
- 	 <string name="print_settings">Друк</string>
+ 	<string name="print_settings">Друк</string>
  	<string name="print_settings_title">Настроювання друку</string>
  	<string name="print_service_security_warning_title">Використовувати %1$s?</string>
  	<string name="print_service_security_warning_summary">Ваш документ може проходити через один або кілька серверів на шляху до принтеру.</string>
@@ -4180,7 +4180,7 @@ Android File Transfer
  	<string name="print_cancel">Скасування</string>
  	<string name="print_job_summary">"%1$s
  %2$s"</string>
- 	  <string name="print_printing_state_title_template">Друк %1$s</string>
+ 	<string name="print_printing_state_title_template">Друк %1$s</string>
  	<string name="print_cancelling_state_title_template">Скасування %1$s</string>
  	<string name="print_failed_state_title_template">Помилка друку %1$s</string>
  	<string name="print_blocked_state_title_template">Принтер заблокований %1$s</string>
@@ -4228,7 +4228,7 @@ Android File Transfer
  	<string name="set_priority_sub_error">Помилка при установці пріоритету для підписки. Підписка неактивна</string>
  	<string name="prompt">Підказка</string>
  	<string name="prompt_user">Підказка користувача</string>
- 	 <string name="ssl_ca_cert_warning">Мережа може контролюватися</string>
+ 	<string name="ssl_ca_cert_warning">Мережа може контролюватися</string>
  	<string name="done_button">Готове</string>
  	<string name="ssl_ca_cert_dialog_title">Моніторинг мережі</string>
  	<string name="ssl_ca_cert_info_message">"Це обладнання управляється:
@@ -4259,10 +4259,10 @@ Android File Transfer
  	<string name="restriction_settings_title">Обмеження</string>
  	<string name="restriction_menu_reset">Зняти обмеження</string>
  	<string name="restriction_menu_change_pin">Змінити Pin-Код</string>
- 	 <string name="incoming_call_breathing_light_color_title">Колір індикації викликів</string>
+ 	<string name="incoming_call_breathing_light_color_title">Колір індикації викликів</string>
  	<string name="notification_breathing_light_color_title">Колір індикації повідомлень</string>
  	<string name="mms_breathing_light_color_title">Колір індикації повідомлень</string>
- 	 <string name="incoming_call_breathing_light_freq_title">Частота мерехтіння для викликів</string>
+ 	<string name="incoming_call_breathing_light_freq_title">Частота мерехтіння для викликів</string>
  	<string name="notification_breathing_light_freq_title">Частота мерехтіння для повідомлень</string>
  	<string name="mms_breathing_light_freq_title">Частота мерехтіння для повідомлень</string>
  	<string name="account_autostar_label">Автозапуск</string>
@@ -4293,7 +4293,7 @@ Android File Transfer
  	<string name="welcome"> Ласкаво просимо!</string>
  	<string name="launching_cit">Запуск інженерного меню…</string>
  	<string name="launching_rep">Відправлення звіту про помилки…</string>
- 	 <string name="status_bar_style_settings">Повідомлення</string>
+ 	<string name="status_bar_style_settings">Повідомлення</string>
  	<string name="status_bar_and_notification_bar">Панель повідомлень</string>
  	<string name="status_bar_settings_toggle_layout_style">Положення перемикачів</string>
  	<string name="status_bar_settings_toggle_layout_style_compact">Рядок</string>
@@ -4326,7 +4326,7 @@ Android File Transfer
  	<string name="status_bar_screen_key_home">Клавіша \"Додому\"</string>
  	<string name="status_bar_screen_key_recent_apps">Клавіша недавніх додатків</string>
  	<string name="status_bar_screen_key_back">Клавіша \"Назад\"</string>
-	 <string name="preferred_application_warning_use_system">Використовувати %s</string>
+ 	<string name="preferred_application_warning_use_system">Використовувати %s</string>
  	<string name="preferred_sms_warning_message"> При використанні додатка \"%1$s\" за замовчуванням для повідомлень може стягуватися додаткова оплата</string>
  	<string name="preferred_sms_warning_use_system">Скасування</string>
  	<string name="preferred_sms_settings">Цей додаток буде встановлений за замовчуванням для створення й читання повідомлень</string>
