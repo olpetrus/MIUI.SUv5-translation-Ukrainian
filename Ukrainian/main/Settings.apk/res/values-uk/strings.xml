@@ -4130,7 +4130,7 @@ Android File Transfer
      <string name="enable_quickboot_summary">Включити режим швидкого перезавантаження обладнання</string>
  	<string name="enable_terminal_title">Локальний термінал</string>
      <string name="enable_terminal_summary">Включити локальний термінал</string>
- 	<string name="battery_history_days_no_seconds">%1$dдн. % 2$dгод. % 3$dхв.</string>
+ 	<string name="battery_history_days_no_seconds">%1$dдн. %2$dгод. %3$dхв.</string>
      <string name="battery_history_hours_no_seconds">%1$dгод. % 2$dхв.</string>
      <string name="battery_history_minutes_no_seconds">%1$dмхв.</string>
  	<string name="accessibility_captioning_title">Заголовки</string>
