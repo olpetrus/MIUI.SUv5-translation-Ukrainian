@@ -43,7 +43,7 @@
 	<string name="apply_lockscreen_paper_tips">Екран не підтримує різні шпалери</string>
 	<string name="theme_import_from_sdcard">Імпорт з SD карти</string>
 	<string name="theme_select_others">Інші</string>
-	<string name="third_party_pickers_activity_title">Встановити %1$s</string>
+	<string name="third_party_pickers_activity_title">Встановити: %1$s</string>
 	<string name="lockstyle_personal_settings">Персоналізація</string>
 	<string name="component_lockstyle_personal_title">Налаштування</string>
 	<string name="wallpaper_settings">Налаштування шпалер</string>

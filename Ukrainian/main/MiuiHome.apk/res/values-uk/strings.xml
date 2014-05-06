@@ -180,9 +180,9 @@
 	<string name="status_bar_toggle_quiet_mode">Тихий режим</string>
 	<string name="status_bar_toggle_ringtone">Мелодія</string>
 	<string name="status_bar_toggle_ring">Дзвоник</string>
-	<string name="status_bar_toggle_sync_auto">Автосинхронізація</string>
-	<string name="status_bar_toggle_sync_manual">Ручна синхронізація</string>
-	<string name="status_bar_toggle_syncing">Синхронізація</string>
+	<string name="status_bar_toggle_sync_auto">Синхр.</string>
+	<string name="status_bar_toggle_sync_manual">Синхр.</string>
+	<string name="status_bar_toggle_syncing">Синхр.</string>
 	<string name="status_bar_toggle_power_low">Економія енергії</string>
 	<string name="status_bar_toggle_power_mid">Нормально</string>
 	<string name="status_bar_toggle_power_high">Продуктивність</string>

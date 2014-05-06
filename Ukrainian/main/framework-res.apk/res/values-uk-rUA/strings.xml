@@ -728,7 +728,7 @@
     <string name="ext_media_safe_unmount_notification_title">USB можна від\'єднати</string>
     <string name="ext_media_safe_unmount_notification_message">Від\'єднайте USB накопичувач.</string>
     <string name="ext_media_nomedia_notification_title">USB накопичувач від\'єднано</string>
-    <string name="ext_media_nomedia_notification_message">USB накопичувач від\'єднано.</string>
+    <string name="ext_media_nomedia_notification_message">USB накопичувач від\'єднано. Підключіть новий медіа пристрій.</string>
     <string name="activity_list_empty">Відповідних дій не знайдено</string>
     <string name="tutorial_double_tap_to_zoom_message_short">Натисніть двічі для змінення масштабу</string>
     <string name="gadget_host_error_inflating">Помилка при наповненні віджету</string>
