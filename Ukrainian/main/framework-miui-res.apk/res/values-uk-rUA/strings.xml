@@ -467,4 +467,18 @@
     <string name="global_actions_reboot">Перезавантаження</string>
     <string name="global_actions_shutdown">Вимкнення</string>
     <string name="global_actions_silent_mode">Режим \"Без звуку\"</string>
+	<string name="sync_data_merge_warning_desc">Локальні дані \"%s\" будуть об\'єднані із хмарними даними, будьте уважні!</string>
+    <string name="sync_data_recover_warning_title">Попередження</string>
+    <string name="sync_data_recover_warning_desc">Дані \"%s\" будуть відновлені із хмарного сервісу, будьте уважні!</string>
+    <string name="sync_data_merge_warning_ok">Об\'єднати</string>
+    <string name="sync_data_merge_warning_cancel">Скасування</string>
+    <string name="sync_data_recover_warning_ok">Відновити</string>
+    <string name="sync_data_recover_warning_cancel">Скасування</string>
+    <string name="sync_data_contact">контакти</string>
+    <string name="sync_data_mms">SMS</string>
+    <string name="sync_data_cloud_album">хмарні альбоми</string>
+    <string name="sync_data_call_log">записи виклику</string>
+    <string name="sync_data_notes">замітки</string>
+    <string name="sync_data_loading">Одержання інформації із сервера</string>
+    <string name="sync_data_merge_warning_title">Попередження</string>
 </resources>

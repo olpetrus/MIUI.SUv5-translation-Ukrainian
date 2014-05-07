@@ -899,7 +899,7 @@
      <string name="updated_at">Останнє оновлення: %1$s</string>
      <string name="updated_just_now"> Тільки що оновлене</string>
      <string name="time_error">Помилка часу</string>
-	 	<string name="mailbox_name_server_inbox">Inbox</string>
+	 <string name="mailbox_name_server_inbox">Inbox</string>
      <string name="mailbox_name_server_outbox">Outbox</string>
      <string name="mailbox_name_server_drafts">Drafts</string>
      <string name="mailbox_name_server_trash">Trash</string>
@@ -915,4 +915,10 @@
      <string name="outbox_alert_description_sent_failed">Розмір прикріпленого файлу занадто великий</string>
      <string name="outbox_alert_button_confirm">Змінити</string>
      <string name="blank_feedback_toast">Неможливо відправити порожній відгук</string>
+	 <string name="wait_for_sync_body_txt_array_1">Сервер Exchange відповість протягом</string>
+     <string name="wait_for_sync_body_txt_array_2">1-30</string>
+     <string name="wait_for_sync_body_txt_array_3">секунд. Будь ласка, підтвердьте параметри безпеки. Зверніть увагу на</string>
+     <string name="wait_for_sync_body_txt_array_4">системні повідомлення</string>
+     <string name="wait_for_sync_body_txt_array_5">.</string>
+     <string name="wait_for_sync_note">Проведіть зверху вниз для перегляду повідомлення. Натисніть, щоб завершити</string>
 </resources>

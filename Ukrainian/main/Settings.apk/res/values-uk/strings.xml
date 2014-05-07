@@ -4331,4 +4331,13 @@ Android File Transfer
  	<string name="preferred_sms_warning_use_system">Скасування</string>
  	<string name="preferred_sms_settings">Цей додаток буде встановлений за замовчуванням для створення й читання повідомлень</string>
  	<string name="preferred_sms_title">Додаток повідомлень за замовчуванням</string>
+	<string name="dirac_mode_general_earbuds">Звичайні навушники</string>
+    <string name="dirac_mode_general_inear">Звичайні вкладиші</string>
+    <string name="dirac_mode_piston_1">Пістони Xiaomi-1</string>
+    <string name="dirac_mode_piston_2">Пістони Xiaomi-2</string>
+    <string name="dirac_mode_piston_youth">Пістони Xiaomi-youth</string>
+ 	<string name="msd_pc_system_install_start_summary_vista"> Для версій Windows Vista і новіше, \"%1$s\" буде автоматично відображатися як USB-накопичувач</string>
+    <string name="msd_pc_system_install_step_2_summary_xp">2. % 1$s буде відображатися як USB-накопичувач при підключенні КПК.</string>
+    <string name="msd_pc_system_install_finish_summary_xp">Після установки драйверів \"%1$s\" буде відображатися при підключенні до ПК як USB-накопичувач </string>
+    <string name="msd_pc_system_install_finish_summary_vista"> Для версій Windows Vista і новіше, музичний плеєр \"%1$s\" буде автоматично відображатися на ПК.</string>
 </resources>

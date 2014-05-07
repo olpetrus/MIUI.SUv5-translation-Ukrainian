@@ -142,8 +142,8 @@
 	<string name="download_completed">Завантажено</string>
     <string name="download_batch_start">Почати всі завантаження</string>
     <string name="delete_file_from_sdcard">Також видалити файл з SD карти</string>
-    <string name="recommend">Рекомендувати</string>
-    <string name="billboard">Афіша</string>
+    <string name="recommend">Нові</string>
+    <string name="billboard">Популярні</string>
     <string name="new_albums">Нові альбоми</string>
     <string name="hot_artists">Популярні виконавці</string>
     <string name="search_suggestion">Шукати в пропозиціях:</string>
@@ -264,6 +264,7 @@
     <string name="filter_by_size_max">2Мб</string>
     <string name="filter_by_size_min">0Кб</string>
     <string name="fast_scroll_alphabet">" АБВГДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЮЯABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+	<string name="channel">Радіо</string>
     <string name="channel_postfix">МГц</string>
     <string name="channel_format" formatted="false">"%s  %s МГц"</string>
     <string name="project_device_mobile">Стільниковий телефон</string>
@@ -276,6 +277,11 @@
     <string name="dirac_mode_earbuds">Навушники Xiaomi</string>
     <string name="dirac_mode_piston_100">Пістони Xiaomi</string>
     <string name="dirac_mode_general">Звичайні навушники</string>
+	<string name="dirac_mode_general_earbuds">Звичайні навушники</string>
+    <string name="dirac_mode_general_inear">Звичайні вкладиші</string>
+    <string name="dirac_mode_piston_1">Пістони Xiaomi-1</string>
+    <string name="dirac_mode_piston_2">Пістони Xiaomi-2</string>
+    <string name="dirac_mode_piston_youth">Пістони Xiaomi-youth</string>
     <string name="eq_flat">Легка</string>
     <string name="eq_rock">Рок</string>
     <string name="eq_jazz">Джаз</string>
@@ -352,11 +358,17 @@
 	<string name="data_usage_warning_summary">При прослуховуванні музики високої якості через мобільний інтернет можливе надмірне споживання трафіка.</string>
 	<string name="source_from">Джерело: %1$s</string>
 	<string name="no_music_to_play">Музика відсутня</string>
-		<string name="load_recommend_in_process">Завантаження…</string>
-     <string name="load_recommend_failed">Помилка завантаження списку</string>
+	<string name="load_recommend_in_process">Завантаження…</string>
+    <string name="load_recommend_failed">Помилка завантаження списку</string>
  	<string name="click_to_play_all">Натисніть для відтворення</string>
-     <string name="collect_topic_success">Альбом доданий у вибране</string>
-     <string name="collect_bill_success">Додане у вибране</string>
-     <string name="collect_fm_success">Додане у вибране</string>
-     <string name="uncollect_success">Вилучене з вибраного</string>
+    <string name="collect_topic_success">Альбом доданий у вибране</string>
+    <string name="collect_bill_success">Додане у вибране</string>
+    <string name="collect_fm_success">Додане у вибране</string>
+    <string name="uncollect_success">Вилучене з вибраного</string>
+	<string name="sync_alert_title">Синхронізація музики</string>
+    <string name="sync_alert_message">Синхронізувати музику з Micloud</string>
+    <string name="not_now">Скасування</string>
+    <string name="sync_disable_toast">Ви можете увімкнути синхронізацію музики через \"Налаштування\" > \"Аккаунти\" > \"Micloud\"</string>
+    <string name="login_and_enable">Синхронізувати</string>
+    <string name="sync_enable_toast">Ви можете змінити цю функцію через \"Налаштування\" > \"Аккаунти\" > \"Micloud\"</string>
 </resources>
