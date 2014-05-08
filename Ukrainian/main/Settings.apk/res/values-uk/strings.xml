@@ -4341,4 +4341,7 @@ Android File Transfer
     <string name="msd_pc_system_install_step_2_summary_xp">2. % 1$s буде відображатися як USB-накопичувач при підключенні КПК.</string>
     <string name="msd_pc_system_install_finish_summary_xp">Після установки драйверів \"%1$s\" буде відображатися при підключенні до ПК як USB-накопичувач </string>
     <string name="msd_pc_system_install_finish_summary_vista"> Для версій Windows Vista і новіше, музичний плеєр \"%1$s\" буде автоматично відображатися на ПК.</string>
+	<string name="dialog_title_auto_start_tips">Інформація про автозапуск</string>
+    <string name="dialog_message_auto_start_tips">Деякі додатки можуть працювати в фоні некоректно без автозапуску. Щоб перевірити, яким додаткам дозволено автозапуск \"Безпека\" > \"Дозволи\" > \"Автозапуск\".</string>
+    <string name="button_text_known">ОК</string>
 </resources>

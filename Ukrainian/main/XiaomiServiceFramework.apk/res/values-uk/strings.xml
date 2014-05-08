@@ -110,9 +110,10 @@
     <string name="find_device_error_network">Помилка мережі.</string>
     <string name="find_device_error_server">Помилка серверу.</string>
     <string name="find_device_success_title">Пошук пристроїв включено</string>
-    <string name="find_device_notice_p1">Перейдіть до</string>
-    <string name="find_device_notice_p3">щоб знайти, заблокувати, чи видалити дані.</string>
-    <string name="i_know">Я знаю</string>
+    <string name="find_device_notice_p1">Для пошуку і керування телефоном використовуйте сервіс</string>
+    <string name="find_device_notice_p3">""</string>
+	<string name="find_device_notice_p4">Коли SIM-карта буде замінена, буде відправлена SMS активації для подальшого відстеження місцезнаходження телефона.</string>
+    <string name="i_know">ОК</string>
     <string name="find_device_disabled_title">Пошук пристроїв вимкнено</string>
     <string name="find_device_disabled_notice">Ви можете увімкнути його знову в Налаштування &lt; Облікові Записи &lt;\n- MiCloud</string>
     <string name="activate_phone_send_sms_fail">Помилка надсилання SMS для отриманий.</string>
