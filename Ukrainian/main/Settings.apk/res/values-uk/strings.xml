@@ -3979,7 +3979,8 @@ Android File Transfer
 	<string name="free_wifi_summary">Безкоштовний Wi-Fi, надається від %1$s</string>
     <string name="free_wifi_connect_title">Доступна мережа Wi-Fi</string>
     <string name="free_wifi_connect_summary">Безкоштовний Wi-Fi надається від %1$s. Натисніть для підключення</string>
-    <string name="free_wifi_connect_dialog_title">Доступний безкоштовний Wi-Fi</string>
+    <string name="free_wifi_manage_summary">Натисніть для перегляду %1$s.</string>
+	<string name="free_wifi_connect_dialog_title">Доступний безкоштовний Wi-Fi</string>
     <string name="free_wifi_connect_dialog_summary">Безкоштовний Wi-Fi %1$s надається від %2$s.</string>
     <string name="free_wifi_wiwide_provider">Wiwide</string>
     <string name="free_wifi_connect">Підключити</string>

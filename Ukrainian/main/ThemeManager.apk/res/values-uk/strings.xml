@@ -294,4 +294,9 @@
     <string name="resource_trial_end_restore">Скасувати</string>
     <string name="resource_trial_end_purchase">Придбати</string>
 	<string name="resource_ringtone_volume_mute">Звук мелодії вимкнено</string>
+	<string name="resource_delete">ВИдалити</string>
+ 	<string name="apply_default_font_tip">Продовжити використовувати поточний шрифт системи?</string>
+    <string name="theme_yes">ОК</string>
+    <string name="theme_no">Відмінити</string>
+	<string name="theme_fresh_man_notifaction">Доступні нові теми</string>
 </resources>

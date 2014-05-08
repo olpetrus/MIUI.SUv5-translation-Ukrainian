@@ -143,7 +143,7 @@
     <string name="download_batch_start">Почати всі завантаження</string>
     <string name="delete_file_from_sdcard">Також видалити файл з SD карти</string>
     <string name="recommend">Нові</string>
-    <string name="billboard">Популярні</string>
+    <string name="billboard">Категорії</string>
     <string name="new_albums">Нові альбоми</string>
     <string name="hot_artists">Популярні виконавці</string>
     <string name="search_suggestion">Шукати в пропозиціях:</string>
