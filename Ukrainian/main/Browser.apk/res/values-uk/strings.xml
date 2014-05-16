@@ -4,13 +4,13 @@
 	<string name="choose_upload">Виберіть файл для завантаження</string>
 	<string name="uploads_disabled">Завантаження файлів відключене</string>
 	<string name="new_tab">Нова вкладка</string>
-	<string name="new_incognito_tab">Нова вкладка (інкогніто)</string>
+	<string name="new_incognito_tab">Нова вкладка \"Інкогніто\"</string>
 	<string name="tab_bookmarks">Закладки</string>
 	<string name="tab_most_visited">Часто відвідувані</string>
 	<string name="tab_history">Історія</string>
 	<string name="tab_snapshots">Збережені сторінки</string>
 	<string name="added_to_bookmarks">Додано в закладки</string>
-	<string name="alert_tips">Цей сайт може представляти загрозу для безпеки</string>
+	<string name="alert_tips">Цей сайт може містити шкідливі ресурси</string>
 	<string name="removed_from_bookmarks">Видалено з закладок</string>
 	<string name="sign_in_to" formatted="false">Увійти в \"%s2\"</string>
 	<string name="username">Ім\'я</string>
@@ -212,7 +212,7 @@
 	<string name="pref_extras_title">Розширені</string>
 	<string name="pref_extras_website_settings">Налаштування веб-сайтів</string>
 	<string name="pref_extras_website_settings_summary">Додаткові налаштування для окремих сайтів</string>
-	<string name="pref_extras_reset_default_title">Скидання налаштувань</string>
+	<string name="pref_extras_reset_default_title">Інші</string>
 	<string name="pref_extras_reset_default">Скидання налаштувань</string>
 	<string name="pref_extras_reset_default_summary">Відновити значення за замовчуванням</string>
 	<string name="pref_extras_reset_default_dlg">Відновити значення за замовчуванням?</string>
@@ -283,7 +283,7 @@
 	<string name="loadSuspended">Не вдалося завантажити сторінку: немає інтернет-підключення</string>
 	<string name="clear_history">Очистити історію</string>
 	<string name="close_all_tab_alert_message">Закрити всі вкладки?</string>
-	<string name="close_all_tab_alert_title">Закрити всі вкладки</string>
+	<string name="close_all_tab_alert_title">Підтвердження</string>
 	<string name="browser_history">Нещодавно відвідані сторінки</string>
 	<string name="empty_history">Немає історії</string>
 	<string name="go_home">Домашня сторінка</string>
@@ -296,8 +296,8 @@
 	<string name="popup_window_attempt">Відкрити спливаюче вікно з цього сайту?</string>
 	<string name="allow">Дозволити</string>
 	<string name="block">Заблокувати</string>
-	<string name="too_many_windows_dialog_title">Відкрито максимальне число вкладок</string>
-	<string name="too_many_windows_dialog_message">Неможливо відкрити нову вкладку: закрийте хоча б одну</string>
+	<string name="too_many_windows_dialog_title">Відкрито максимальна кількість вкладок</string>
+	<string name="too_many_windows_dialog_message">Неможливо відкрити нову вкладку</string>
 	<string name="too_many_subwindows_dialog_title">Спливаюче вікно вже відкрито</string>
 	<string name="too_many_subwindows_dialog_message">Можна відкрити тільки одне спливаюче вікно</string>
 	<string name="download_no_sdcard_dlg_title">USB накопичувач відсутнiй</string>
@@ -321,7 +321,7 @@
 	<string name="geolocation_permissions_prompt_share">Дозволити</string>
 	<string name="geolocation_permissions_prompt_dont_share">Відхилити</string>
 	<string name="geolocation_permissions_prompt_remember">Запам\'ятати налаштування</string>
-	<string name="geolocation_permissions_prompt_toast_allowed">У цього сайту є доступ до даних про місцезнаходження. Щоб заборонити його, виберіть Налаштування -&gt; Розширені -&gt; Налаштування веб-сайтiв.</string>
+	<string name="geolocation_permissions_prompt_toast_allowed">У цього сайту є доступ до даних про місцезнаходження. Щоб змінити параметри, виберіть \"Налаштування >; Розширені > Налаштування веб-сайтiв\".</string>
 	<string name="geolocation_settings_page_title">Очистити геодані</string>
 	<string name="geolocation_settings_page_summary_allowed">Цей сайт зараз має доступ до вашого місцезнаходження</string>
 	<string name="geolocation_settings_page_summary_not_allowed">У цього сайту зараз немає доступу до даних про ваше місцезнаходження</string>
@@ -356,7 +356,7 @@
 	<string name="import_bookmarks_dialog_import">Додати закладки Android в акаунт %s</string>
 	<string name="menu_share_url">Надіслати</string>
 	<string name="menu_theme_setting">Налаштування оформлення</string>
-	<string name="max_tabs_warning">Досягнута межа кількості вкладок</string>
+	<string name="max_tabs_warning">Відкрито максимальна кількість вкладинок</string>
 	<string name="menu_addtodesk">На Домашній екран</string>
 	<string name="instant_search_label">Google з Живим пошуком(Лабораторія Google)</string>
 	<string name="preview">Попередній перегляд</string>
@@ -401,7 +401,7 @@
 	<string name="delete">Видалити</string>
     <string name="save_bookmark">В закладки</string>
 	<string name="delete_bookmark">З закладок</string>
-	<string name="multi_select_title">Обрано пунктів: %1$s</string>
+	<string name="multi_select_title">Обрано: %1$s</string>
 	<string name="delete_multi_bookmarks_alert_title">Видалити вибрані закладки (%1$s шт.)?</string>
 	<string name="add_bookmark">Додати закладку</string>
 	<string name="send_bookmark_to_home_screen">Надіслати на домашній екран</string>
@@ -459,7 +459,7 @@
 	<string name="pref_reading_mode_enabled_title_summary">Необхідно включити JavaScript</string>
 	<string name="pref_developer_options">Налаштування розробника</string>
 	<string name="pref_developer_options_summary">Налагодження або настройка звітів</string>
-	<string name="add_xiaomi_account_warning">Спочатку увійдіть в акаунт Xiaomi</string>
+	<string name="add_xiaomi_account_warning">Увійдіть в акаунт Xiaomi</string>
 	<string name="report_reading_mode_issue">Звіт помилки в MIUI</string>
 	<string name="pref_key_gesture_title">Клавіші та жести</string>
 	<string name="pref_key_title">Налаштування клавіш</string>
@@ -469,13 +469,13 @@
 	<string name="pref_fling_on_border_enabled">Перемикання вкладок жестом</string>
 	<string name="pref_fling_on_border_enabled_title_summary">Слайд від лівого або правого краю екрану для перемикання між вкладками</string>
 	<string name="pref_fling_on_border_operation">Дія при відпуску на межi</string>
-	<string name="is_page_top">Верх сторінки</string>
-	<string name="is_page_bottom">Низ сторінки</string>
-	<string name="is_first_tab">Перша вкладка</string>
-	<string name="is_last_tab">Остання вкладка</string>
-	<string name="is_first_history_item">Перший елемент історії</string>
-	<string name="is_last_history_item">Останній елемент історії</string>
-	<string name="warning">Небезпека</string>
+	<string name="is_page_top">Досягнуто початок сторінки</string>
+	<string name="is_page_bottom">Досягнуто кінець сторінки</string>
+	<string name="is_first_tab">Це перша вкладка</string>
+	<string name="is_last_tab">Це остання вкладка</string>
+	<string name="is_first_history_item">Це перша сторінка</string>
+	<string name="is_last_history_item">Це остання сторінка</string>
+	<string name="warning">Попередження</string>
 	<string name="menu_exit">Вихiд</string>
 	<string name="menu_hv_swap">Альбомний режим</string>
 	<string name="menu_hv_swap2">Портретний режим</string>
@@ -489,7 +489,7 @@
 	<string name="pref_content_fontsize_setting">Налаштування шрифту</string>
 	<string name="recover_from_crash">Відновити останню сесію</string>
 	<string name="recover">Відновити</string>
-	<string name="crash_recovcery_message">Браузер був екстрено закритий. Відновити останні вкладки?</string>
+	<string name="crash_recovcery_message">Браузер був закритий з помилкою. Ви бажаєте відновити останнню сесію?</string>
 	<string name="pref_autologin_progress_in_background">Підписка на сайти Google з використанням %s у фоновому режимі</string>
 	<string name="menu_enable_night_mode">Увімкнути нічний режим</string>
 	<string name="menu_disable_night_mode">Вiдключити нічний режим</string>
@@ -513,8 +513,8 @@
 	<string name="return_to_homepage">Повернутися на домашню сторінку</string>
 	<string name="notif_install_successful">Завантаження завершено</string>
 	<string name="in_incognito">Ви увійшли в режим інкогніто, історія зберігатися не буде</string>
-	<string name="tab_opened_background_in_incognito">Відкрито нове вікно в режимі інкогніто</string>
-	<string name="stop_loading">Стоп</string>
+	<string name="tab_opened_background_in_incognito">Вкладинка відкрита в режимі \"Інкогніто\". Сторінки не будуть відображатися в історії.</string>
+	<string name="stop_loading">Зупинити</string>
 	<string name="file_picker">Огляд</string>
 	<string name="file_name">Iм\'я</string>
 	<string name="file_dir">Папка</string>
@@ -522,7 +522,7 @@
 	<string name="storage_sd_card">SD карта</string>
 	<string name="storage_usb">USB накопичувач</string>
 	<string name="save_dialog_title">Зберегти</string>
-	<string name="save_file_already_exist_alert_title">Увага</string>
+	<string name="save_file_already_exist_alert_title">Попередження</string>
 	<string name="save_file_already_exist_alert_message">Файл вже існує, перезаписати його?</string>
 	<string name="filename_empty_alert_message">Необхідно ввести ім\'я файлу</string>
 	<string name="filename_illegal_alert_message">Файл містить неприпустимі символи, вони будуть автоматично видалені</string>
@@ -531,7 +531,7 @@
 	<string name="download_dialog_file_length_hint_txt">Розмір файлу:</string>
 	<string name="download_dialog_file_length_lessthan1kb">Менш 1 Кб</string>
 	<string name="download_dialog_default_path_invalid">Неприпустимий шлях завантаження, буде використовуватися шлях по-замовчуванням</string>
-	<string name="download_dialog_file_length_nolength_error_txt">Не вдалося завантажити</string>
+	<string name="download_dialog_file_length_nolength_error_txt">Помилка завантаження</string>
 	<string name="download_dialog_file_length_nolength_txt">Завантаження…</string>
 	<string name="app_update_install">Нова версія завантажена і готова до установки</string>
 	<string name="app_new_version">Нова версія завантажена і встановлена</string>
@@ -557,7 +557,7 @@
 	<string name="download">Завантажити</string>
 	<string name="loading_rest_candidates">Завантаження…</string>
 	<string name="downloading">Завантаження…</string>
-	<string name="downloaded">Завантажено</string>
+	<string name="downloaded">Завантаження завершено</string>
 	<string name="disk_space_used">Використано: %1$s</string>
 	<string name="disk_space_selected">Вибрано: %1$s</string>
 	<string name="disk_space_available">Доступно: %1$s</string>
@@ -566,18 +566,18 @@
 	<string name="download_video_alert_message">Завантаження відео через мобільний інтернет може спричинити за собою великі витрати трафіку</string>
     <string name="common_use_phrase_bottom_bar_cn_txt">.ru</string>
     <string name="common_use_phrase_bottom_bar_paste_txt">Вставити</string>
-	<string name="download_video_start_down_toast">Завантажити %1$s вiдео</string>
+	<string name="download_video_start_down_toast">Завантаження %1$s вiдео</string>
     <string name="menu_download_video">Завантажені відео</string>
     <string name="download_video_unseleted_all">Зняти вибір</string>
     <string name="download_video_please_select_video">Вибрати відео</string>
-    <string name="download_video_please_download_market">Необхідно встановити Mi-Маркет.</string>
-    <string name="download_video_no_title_default_name">Безіменне відео</string>
+    <string name="download_video_please_download_market">Необхідно встановити Mi-Маркет</string>
+    <string name="download_video_no_title_default_name">Відео</string>
     <string name="download_video_menu_dialog_title">Встановлення…</string>
-    <string name="download_video_menu_dialog_summary">Для використання цієї функції необхідно встановити додаток Відео</string>
+    <string name="download_video_menu_dialog_summary">Необхідно встановити відеоплеєр перед використанням цієї функції</string>
     <string name="download_video_menu_dialog_positive_txt">Встановити</string>
     <string name="download_video_menu_video_version_low">Необхідно оновити додаток Відео</string>
 	<string name="pref_accessibility_url_shortcut_enter_title">Введення швидких URL термінів</string>
-	<string name="pref_accessibility_url_shortcut_enter_summary">Швидка вставка часто використовуваних термінів (.com, www.) в адресний рядок</string>
+	<string name="pref_accessibility_url_shortcut_enter_summary">Відображення панелі доменів при введенні URL</string>
 	<string name="common_use_phrase_bottom_bar_paste_analytic_txt">Вставити</string>
 	<string name="common_use_phrase_bottom_bar_up_analytic_txt">Розширити</string>
 	<string name="common_use_phrase_bottom_bar_down_analytic_txt">Прибрати</string>
@@ -586,7 +586,7 @@
 	<string name="pref_file_downlaod_save_reset_default_settings">Скинути налаштування</string>
 	<string name="pref_file_downlaod_save_is_reset_default_settings">Відновити налаштування за замовчуванням</string>
 	<string name="pref_file_download_save_modify_default_path">Змінити місце зберігання</string>
-	<string name="geolocation_permissions_prompt_toast_disallowed">Цей сайт не може отримати доступ до вашого місцеположення</string>
+	<string name="geolocation_permissions_prompt_toast_disallowed">У цього сайту немає доступу до данних о вашому місцезнаходженні. Щоб змінити параметри, оберіть \"Налаштування> Додатково > Данні веб-сайтів\".</string>
 	<string name="pref_content_homepage">Стартова сторінка</string>
 	<string name="search">Пошук</string>
 	<string name="clear_search_history">Очистити історію</string>
@@ -611,7 +611,7 @@
 	<string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Повідомлення про Wi-Fi</string>
     <string name="network_show_wifi_setting_tip_dialog_setting_title">При використанні мобільного інтернету ви будете отримувати повідомлення про доступні мережi Wi-Fi</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Доступна мережа Wi-Fi</string>
-    <string name="network_show_wifi_setting_tip_dialog_description">Під\'єднатися?</string>
+    <string name="network_show_wifi_setting_tip_dialog_description">Підключитися до мережі?</string>
     <string name="network_show_wifi_setting_tip_dialog_notshow">Запам\'ятати вибір</string>
 	<string name="send_to_popular">В Популярні</string>
 	<string name="add_quicklink_to_popular">Додати в популярні</string>
@@ -791,4 +791,7 @@
     <string name="miui_content_web_search">Пошук</string>
     <string name="miui_content_share">Відправка</string>
 	<string name="url_visit_confirm">Ви відвідаєте</string>
+	<string name="ssl_certificate">Сертифікат безпеки</string>
+ 	<string name="ssl_certificate_is_valid">Данний сертифікат недійсний</string>
+ 	<string name="pref_content_cloud_speedup">Хмарне прискорення</string>
 </resources>

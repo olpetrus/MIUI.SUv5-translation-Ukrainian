@@ -56,26 +56,26 @@
     <string name="crop_save_text">Зберегти</string>
     <string name="multiface_crop_help">Натисніть на обличчя, щоб почати.</string>
     <string name="saving_image">Збереження зображення…</string>
-    <string name="save_error">Неможливо зберегти обрізане зображення.</string>
+    <string name="save_error">Не вдалося зберегти зображення</string>
     <string name="crop_label">Обрізати</string>
-    <string name="select_image">Вибір зображення</string>
-    <string name="select_video">Вибір відео</string>
+    <string name="select_image">Обрати зображення</string>
+    <string name="select_video">Обрати відео</string>
     <string name="select_item">Редагувати головний екран</string>
     <string name="select_album">Редагувати головний екран</string>
-    <string name="set_image">Встановити зображення як</string>
+    <string name="set_image">Застосувати</string>
     <string name="camera_setas_wallpaper">Шпалери</string>
     <string name="delete">Видалити</string>
-    <string name="confirm_delete">Видалити обране (%s од.)?</string>
-    <string name="confirm_delete_cloud_all_item_page" formatted="false">Видалити зображення (%s од.) в альбомах (%s од.)?</string>
+    <string name="confirm_delete">Видалити обране? \n\nОбрано: %s</string>
+    <string name="confirm_delete_cloud_all_item_page" formatted="false">Видалити обрані альбоми і зображення? \n\nЗображень:%s \nАльбомів: %s</string>
     <string name="delete_fail_too_many_items">Помилка видалення. Можливо відзначено дуже багато.</string>
 	<string name="delete_file">Видалити обрані файли (%1$d)?</string>
 	<string name="delete_files_and_folders">Видалити обрані файли (%1$d) та теки (%2$d)?</string>
 	<string name="delete_folder">Видалити обрані теки (%1$d од.)</string>
-    <string name="action_fail_unknown_error">Відбулася невідома помилка.</string>
-    <string name="add_to_cloud_fail_too_many_items">Обрано дуже багато елементів.</string>
+    <string name="action_fail_unknown_error">Відбулася невідома помилка</string>
+    <string name="add_to_cloud_fail_too_many_items">Обрано дуже багато елементів</string>
 	<string name="comfirm_delete_current_album">Видалити обраний альбом?</string>
 	<string name="add_to_cloud_failed_message_with_count" formatted="false">%2$s елементів не можуть бути додані в альбоми в хмарах: %s</string>
-    <string name="confirm_delete_album" formatted="false">Видалити обрані альбоми (%s од.)? (Включаючи вкладення: %s од.)?</string>
+    <string name="confirm_delete_album" formatted="false">Видалити обрані альбоми з зображеннями? \n\nАльбомів: %s \nЗображень: %s</string>
     <string name="confirm_delete_system_album">Видалити %s?</string>
     <string name="confirm_delete_folders_and_pictures">Видалити (%s од.)?</string>
     <string name="confirm_delete_pictures">Знімок: %s</string>
@@ -90,7 +90,7 @@
     <string name="details_title">%1$d з %2$d:</string>
     <string name="close">Закрити</string>
     <string name="show_on_map">Показати на мапі</string>
-    <string name="no_map_app">Немає додатків для виконання цієї дії.</string>
+    <string name="no_map_app">Немає додатків для виконання цієї дії</string>
     <string name="no_such_item">Неможливо знайти елемент</string>
     <string name="edit">Редагувати</string>
     <string name="activity_not_found">Немає додатку для виконання цієї дії</string>
