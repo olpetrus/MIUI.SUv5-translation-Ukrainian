@@ -1282,7 +1282,7 @@
     <string name="settings_license_activity_loading">Завантаження…</string>
     <string name="settings_safetylegal_title">Відомості про безпеку</string>
     <string name="settings_safetylegal_activity_title">Відомості про безпеку</string>
-    <string name="settings_safetylegal_activity_unreachable">Пристрій не під\'єднано до Інтернету. Щоб переглянути цю інформацію, відкрийте сторінку %s на будь-якому комп\'ютері з інтернет доступом.</string>
+    <string name="settings_safetylegal_activity_unreachable">Неможливо підключитися до мережы. Перейдыть за посиланням %s з любого пристрою, підключеного до Інтернету.</string>
     <string name="settings_safetylegal_activity_loading">Завантаження…</string>
     <string name="lockpassword_choose_your_password_header">Придумайте пароль</string>
     <string name="lockpassword_choose_your_pattern_header">Створіть графічний ключ</string>
@@ -2478,7 +2478,7 @@
     <string name="touch_sensitive_turn_off_title">Вимкнути режим "В рукавицях"</string>
     <string name="touch_sensitive_turn_off_summary">Вимкнути запобігання випадкового вмикання екрану в кишені?</string>
 	<string name="screen_never_timeout_title">Ніколи</string>
-    <string name="screen_on_proximity_sensor_title">Запобігання помилок</string>
+    <string name="screen_on_proximity_sensor_title">Запобігання випадкових натискань</string>
     <string name="screen_on_proximity_sensor_summary">Запобігання випадкових натискань поки телефон знаходиться в кишені</string>
     <string name="preferred_launcher_title">Бажаний лаунчер</string>
     <string name="preferred_launcher_warning_title">Заміна стандартного лаунчера</string>

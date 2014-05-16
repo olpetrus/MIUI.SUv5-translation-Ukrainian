@@ -567,7 +567,7 @@
     <string name="contactDetailCalllog">Історія викликів</string>
     <string name="ringLabelsGroup">Мелодія</string>
     <string name="default_ringtone">Рингтон за замовчуванням</string>
-    <string name="callNoAnswerTimeFormat">Виклик: %s гудків</string>
+    <string name="callNoAnswerTimeFormat">Гудки %s разів</string>
     <string name="menu_send_to_desktop">Надіслати на домашній екран</string>
     <string name="send_contact_shortcut_todesktop_success">Додано на Домашній екран.</string>
     <string name="summary_kind_title">Основна інформація</string>

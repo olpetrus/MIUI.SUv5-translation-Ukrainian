@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="alarm_set">
-        <item>Задзвонить менш ніж через одну хвилину</item>
-        <item>Задзвонить через %1$s</item>
-        <item>Задзвонить через %2$s</item>
-        <item>Задзвонить через %1$s та %2$s</item>
-        <item>Задзвонить через %3$s</item>
-        <item>Задзвонить через %1$s та %3$s</item>
-        <item>Задзвонить через %2$s та %3$s</item>
-        <item>Задзвонить через %1$s, %2$s, та %3$s</item>
+        <item>Будильник менш ніж через одну хвилину</item>
+        <item>Будильник через %1$s</item>
+        <item>Будильник через %2$s</item>
+        <item>Будильник через %1$s та %2$s</item>
+        <item>Будильник через %3$s</item>
+        <item>Будильник через %1$s та %3$s</item>
+        <item>Будильник через %2$s та %3$s</item>
+        <item>Будильник через %1$s, %2$s, та %3$s</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 хвилина</item>
@@ -20,7 +20,7 @@
         <item>30 хвилин</item>
     </string-array>
     <string-array name="auto_silence_entries">
-        <item>Выкл</item>
+        <item>Ніколи</item>
         <item>1 хвилина</item>
         <item>5 хвилин</item>
         <item>10 хвилин</item>
@@ -30,19 +30,19 @@
         <item>30 хвилин</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
-        <item>Ні</item>
+        <item>Нічго</item>
         <item>Відкласти</item>
-        <item>Відключити</item>
+        <item>Вимкнути</item>
     </string-array>
     <string-array name="alarm_in_furture">
-        <item>Задзвонить менш ніж через одну хвилину</item>
-        <item>Задзвонить через %1$s</item>
-        <item>Задзвонить через %2$s</item>
-        <item>Задзвонить через %1$s та %2$s</item>
-        <item>Задзвонить через %3$s</item>
-        <item>Задзвонить через %1$s та %3$s</item>
-        <item>Задзвонить через %2$s та %3$s</item>
-        <item>Задзвонить через %1$s, %2$s, та %3$s</item>
+        <item>Будильник менш ніж через одну хвилину</item>
+        <item>Будильник через %1$s</item>
+        <item>Будильник через %2$s</item>
+        <item>Будильник через %1$s та %2$s</item>
+        <item>Будильник через %3$s</item>
+        <item>Будильник через %1$s та %3$s</item>
+        <item>Будильник через %2$s та %3$s</item>
+        <item>Будильник через %1$s, %2$s, та %3$s</item>
     </string-array>
     <string-array name="days">
         <item>Вчора</item>

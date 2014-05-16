@@ -36,11 +36,11 @@
      <string name="check_phone_error_title">Служба синхронізації не запущена</string>
      <string name="check_phone_io_error">Мережна помилка</string>
      <string name="send_sms_for_sync_title">Сервіс активації не запущений</string>
-     <string name="send_sms_for_sync_notice"> Для активації потрібно відправити SMS, продовжити?</string>
-     <string name="activate">Активація</string>
-     <string name="activate_fail_notification_title">Повтор активації служб Xiaomi</string>
-     <string name="sim_changed_reactivate_notice">Поточна SIM не активована. Для активації потрібно відправити SMS, продовжити?</string>
-     <string name="sim_changed_reactivate_int_notice">Поточна SIM не активована. Для активація сервісу необхідно повторно відправити запит, зробити це зараз?</string>
+     <string name="send_sms_for_sync_notice"> Для активації потрібно відправити SMS. За це може стягуватися додаткова плата</string>
+     <string name="activate">Активувати</string>
+     <string name="activate_fail_notification_title">Повторна активація</string>
+     <string name="sim_changed_reactivate_notice">Поточна SIM карта не активована. Для активації потрібно відправити SMS. За це може стягуватися додаткова плата</string>
+     <string name="sim_changed_reactivate_int_notice">Поточна SIM карта не активована. Для активації потрібно відправити SMS. За це може стягуватися додаткова плата</string>
      <string name="error_title">Помилка синхронізації</string>
      <string name="error_unauthorized">Занадто багато помилок авторизації: синхронізація відключена</string>
      <string name="error_forbidden">Виявлені помилки аккаунта: синхронізація відключена</string>
@@ -48,7 +48,7 @@
      <string name="sim_unavailable">SIM карта недоступна</string>
      <string name="sim_locked">SIM карта заблокована</string>
      <string name="sim_not_ready">SIM карта використовується. Повторите пізніше.</string>
-     <string name="sim_in_airplane_mode">Відключіть режим \"У літаку\".</string>
+     <string name="sim_in_airplane_mode">Вимкніть режим \"У літаку\".</string>
      <string name="select_all">Вибрати всі</string>
      <string name="deselect_all">Зняти всі</string>
      <string name="select_item">Вибрати елементи</string>

@@ -201,8 +201,8 @@
     <string name="screen_rotation_freeze_message">Автоповорот вимкнено.</string>
     <string name="screen_button_disabled_message">Функції кнопок на нижньому екрані вимкнені. Для активації натисніть \"Додому\" та \"Вымкнути\".</string>
     <string name="screen_button_enabled_message">Функції кнопок на нижньому екрані вимкнені</string>
-    <string name="screen_button_notification_title">Екранні кнопки вимкнені</string>
-    <string name="screen_button_notification_text">Натискання \"Додому\"+\"Вимкнути\" для активації</string>
+    <string name="screen_button_notification_title">Навігаційні клавіши вимкнені</string>
+    <string name="screen_button_notification_text">Для увімкнення клавіш натисніть \"Додому\"+\"Вимкнути\"</string>
     <string name="status_bar_style_settings">Налаштування сповіщень</string>
     <string name="settings_toggle_layout_style">Стиль перемикачів</string>
     <string name="settings_toggle_layout_style_compact">Строка</string>

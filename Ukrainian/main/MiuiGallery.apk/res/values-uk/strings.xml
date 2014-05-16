@@ -249,8 +249,8 @@
     <string name="must_pick_file">Оберіть зображення</string>
     <string name="set_lock_or_wallpaper">Встановити як шпалери</string>
     <string name="set_lock_and_wallpaper">Встановлення в якості шпалер…</string>
-    <string name="set_wallpaper">Встановлення як шпалери стільниці…</string>
-    <string name="set_lockscreen">Встановлення як шпалери екрану блокування…</string>
+    <string name="set_wallpaper">Встановлення шпалер робочого столу…</string>
+    <string name="set_lockscreen">Встановлення шпалер екрану блокування…</string>
     <string name="wallpaper">Шпалери стільниці</string>
     <string name="contact_photo">Встановити як зображення контакту</string>
     <string name="context_menu_add_contact">Додати в контакти</string>
@@ -331,7 +331,7 @@
     <string name="warn">Попередження</string>
     <string name="send_multiple_files_hint_format">Надсилання (%s)</string>
     <string name="send">Надіслати</string>
-    <string name="sd_not_available">Немає доступу до SD карти.</string>
+    <string name="sd_not_available">SD картане виявлена</string>
 	<string name="select_too_much_to_send_tips">Неможливо надіслати стільки елементів (Максимум: %d).</string>
     <string name="pick_too_much_tips">Неможливо вибрати стільки елементів (Максимум: %d).</string>
     <string name="internal_sd_card">Внутрішня пам\'ять</string>

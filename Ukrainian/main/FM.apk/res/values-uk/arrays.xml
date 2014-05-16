@@ -16,7 +16,7 @@
         <item>Класика</item>
         <item>Класичний рок</item>
         <item>Коледж</item>
-        <item>Країна</item>
+        <item>Кантрі</item>
         <item>Надзвичайний стан</item>
         <item>Аварійний тест</item>
         <item>Іноземна мова</item>
@@ -79,44 +79,81 @@
         <item>Видалити</item>
     </string-array>
     <string-array name="regional_band_entries">
-        <item>Північна Америка</item>
-        <item>Європа</item>
-        <item>Японія</item>
-        <item>Японія (Wide)</item>
-        <item>Австралія</item>
-        <item>Австрія</item>
-        <item>Бельгія</item>
-        <item>Бразилія</item>
-        <item>Китай</item>
-        <item>Чехія</item>
-        <item>Данія</item>
-        <item>Фінляндія</item>
-        <item>Франція</item>
-        <item>Германія</item>
-        <item>Греція</item>
-        <item>Гонконг</item>
-        <item>Індія</item>
-        <item>Ірландія</item>
-        <item>Італія</item>
-        <item>Корея</item>
-        <item>Мексика</item>
-        <item>Нідерланди</item>
-        <item>Нова Зеландія</item>
-        <item>Норвегія</item>
-        <item>Польша</item>
-        <item>Португалія</item>
-        <item>Росія</item>
-        <item>Сінгапур</item>
-        <item>Словаччина</item>
-        <item>Іспанія</item>
-        <item>Швейцарія</item>
-        <item>Швеція</item>
-        <item>Тайвань</item>
-        <item>Туреччина</item>
-        <item>Великобританія</item>
-        <item>США</item>
-        <item>Венесуела</item>
-    </string-array>
+     <item>Австралія</item>
+     <item>Австрія</item>
+     <item>Бельгія</item>
+     <item>Бразилія</item>
+     <item>Великобританія</item>
+     <item>Німеччина</item>
+     <item>Гонконг</item>
+     <item>Греція</item>
+     <item>Данія</item>
+     <item>Європа</item>
+     <item>Індія</item>
+     <item>Ірландія</item>
+     <item>Іспанія</item>
+     <item>Італія</item>
+     <item>Китай</item>
+     <item>Корея</item>
+     <item>Мексика</item>
+     <item>Нідерланди</item>
+     <item>Нова Зеландія</item>
+     <item>Норвегія</item>
+     <item>Польща</item>
+     <item>Португалія</item>
+     <item>Росія</item>
+     <item>Північна Америка</item>
+     <item>Сінгапур</item>
+     <item>Словаччина</item>
+     <item>США</item>
+     <item>Тайвань</item>
+     <item>Туреччина</item>
+     <item>Фінляндія</item>
+     <item>Франція</item>
+     <item>Чехія</item>
+     <item>Швейцарія</item>
+     <item>Швеція</item>
+     <item>Японія (Wide)</item>
+     <item>Японія</item>
+   </string-array>
+   <string-array name="regional_band_values">
+     <item>4</item>
+     <item>5</item>
+     <item>6</item>
+     <item>7</item>
+     <item>34</item>
+     <item>13</item>
+     <item>15</item>
+     <item>14</item>
+     <item>10</item>
+     <item>1</item>
+     <item>16</item>
+     <item>17</item>
+     <item>29</item>
+     <item>18</item>
+     <item>8</item>
+     <item>19</item>
+     <item>20</item>
+     <item>21</item>
+     <item>22</item>
+     <item>23</item>
+     <item>24</item>
+     <item>25</item>
+     <item>26</item>
+     <item>0</item>
+     <item>27</item>
+     <item>28</item>
+     <item>35</item>
+     <item>32</item>
+     <item>33</item>
+     <item>11</item>
+     <item>12</item>
+     <item>9</item>
+     <item>30</item>
+     <item>31</item>
+     <item>3</item>
+     <item>2</item>
+   </string-array>
     <string-array name="rf_cfg">
         <item>Отримати поточні параметри станції</item>
         <item>Отримати параметри станції з повторенням у 20 разів</item>
@@ -131,7 +168,7 @@
     </string-array>
     <string-array name="stats_options">
         <item>Виберіть опцію</item>
-        <item>Налаштування FM пошуку</item>
+        <item>Налаштування параметрів FM пошуку</item>
         <item>RF статистика</item>
     </string-array>
 </resources>

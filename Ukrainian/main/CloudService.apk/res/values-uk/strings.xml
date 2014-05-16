@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Менеджер акаунтів Xiaomi</string>
-    <string name="sync_item_sms_title">Синхронізація SMS</string>
+    <string name="app_name">Синхронізація Xiaomi</string>
+    <string name="sync_item_sms_title">Синхронізація повідомлень</string>
     <string name="sync_item_sms_summary">Отримання сертифіката</string>
     <string name="sub_sync_item_sms_title_wifi_only">MMS тільки по Wi-Fi</string>
-    <string name="sub_sync_item_sms_summary">Рекомендується ввімкнути, або збільшиться витрата трафіку</string>
+    <string name="sub_sync_item_sms_summary">Скорочує передачу данних по мережі</string>
     <string name="pref_title_sync_contacts_title">Синхронізація контактів</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Фото тільки по Wi-Fi</string>
-    <string name="pref_summary_sync_display_photo_on_wifi_only">Рекомендується ввімкнути, або збільшиться витрата трафіку</string>
+    <string name="pref_summary_sync_display_photo_on_wifi_only">Скорочує передачу данних по мережі</string>
     <string name="find_device">Пошук пристрою</string>
     <string name="find_device_stop_noise">Натисніть \"ОК\" для вимикання звуку</string>
     <string name="sync_item_calllog_title">Синхронізація журналу викликів</string>
-    <string name="sync_item_calllog_summary">Увімкніть для синхронізації журналу викликів</string>
+    <string name="sync_item_calllog_summary">Синхронізація журналу вихідних і вхідних викликів на цьому телефоні</string>
 	<string name="pref_title_sync_my_profile_title">Синхронізація профилю</string>
 	<string name="find_device_noise_title">Звук пошуку пристрою</string>
 	<string name="error_title">Помилка синхронізації</string>
@@ -21,14 +21,14 @@
     <string name="check_phone_error_title">Служба синхронізації не запущена</string>
     <string name="check_phone_io_error">Мережна помилка</string>
     <string name="send_sms_for_sync_title">Сервіс активації не запущений</string>
-    <string name="send_sms_for_sync_notice"> Для активації потрібно відправити SMS, продовжити?</string>
+    <string name="send_sms_for_sync_notice"> Для активації потрібно відправити SMS. За це може стягуватися додаткова плата.</string>
     <string name="activate">Активація</string>
-    <string name="activate_fail_notification_title">Повтор активації служб Xiaomi</string>
-    <string name="sim_changed_reactivate_notice">Поточна SIM не активована. Для активації потрібно відправити SMS, продовжити?</string>
-    <string name="sim_changed_reactivate_int_notice">Поточна SIM не активована. Для активація сервісу необхідно повторно відправити запит, зробити це зараз?</string>
+    <string name="activate_fail_notification_title">Повторна активація</string>
+    <string name="sim_changed_reactivate_notice">Поточна SIM не активована. Для активації потрібно відправити SMS. За це може стягуватися додаткова плата.</string>
+    <string name="sim_changed_reactivate_int_notice">Поточна SIM не активована. Для активації потрібно відправити SMS. За це може стягуватися додаткова плата.</string>
     <string name="no_sim">SIM карта не виявлена</string>
     <string name="sim_unavailable">SIM карта недоступна</string>
     <string name="sim_locked">SIM карта заблокована</string>
     <string name="sim_not_ready">SIM карта використовується. Повторите пізніше.</string>
-    <string name="sim_in_airplane_mode"> Необхідно відключити режим \"У літаку\".</string>
+    <string name="sim_in_airplane_mode">Виключити режим \"У літаку\".</string>
 </resources>

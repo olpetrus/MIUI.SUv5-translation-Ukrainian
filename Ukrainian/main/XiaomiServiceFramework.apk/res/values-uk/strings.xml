@@ -7,7 +7,7 @@
     <string name="login">Увійти</string>
     <string name="next">Далі</string>
     <string name="prev">Назад</string>
-    <string name="forget_password"><u>Забули пароль?</u></string>
+    <string name="forget_password">[відновити]</string>
     <string name="password">Пароль</string>
 	<string name="captcha">Код на малюнку</string>
     <string name="vcode">Перевірочний код</string>
@@ -84,7 +84,7 @@
     <string name="sync_sub_dspt">При отриманий через SMS можливі додаткові витрати.</string>
     <string name="sync_sub_int_dspt">Надсилання SMS для активації може бути предметом тарифікації за міжнародні повідомлення.</string>
     <string name="send_sms_for_sync_title">Надіслати повідомлення</string>
-    <string name="send_sms_for_sync_notice">При отриманий через SMS можливі додаткові витрати.</string>
+    <string name="send_sms_for_sync_notice">Для активації потрібно відправити SMS. За це може стягуватися додаткова плата.</string>
 	<string name="title">Назва</string>
     <string name="send_int_sms_for_sync_notice">Надсилання SMS для активації може бути предметом тарифікації за міжнародні повідомлення.</string>
     <string name="failed_to_send_activate_email">Збій при надсиланні активаційного листа.</string>
@@ -547,4 +547,5 @@
     <string name="activate_desc_mixed_sim_cards">Для активації аккаунта Xiaomi на двох SIM-картах будуть відправлені SMS</string>
     <string name="activate_desc_2_sim_cards">Для активації аккаунта Xiaomi на двох SIM-картах будуть відправлені SMS</string>
     <string name="activate_desc_2_intl_sim_cards"> Для активації аккаунта Xiaomi на двох SIM-картах будуть відправлені інтернаціональні SMS</string>
+    <string name="foreign_login"><u>Країна</u></string>
 </resources>

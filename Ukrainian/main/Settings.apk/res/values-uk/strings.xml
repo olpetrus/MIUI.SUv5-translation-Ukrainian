@@ -2244,7 +2244,7 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="touch_sensitive_turn_off_confirm">Гаразд</string>
     <string name="touch_sensitive_turn_off_cancel">Скасувати</string>
 	<string name="screen_never_timeout_title">Ніколи</string>
-    <string name="screen_on_proximity_sensor_title">Запобігання помилок</string>
+    <string name="screen_on_proximity_sensor_title">Запобігання випадкових натисків</string>
     <string name="screen_on_proximity_sensor_summary">Запобігання випадкових натискань поки телефон знаходиться в кишені</string>
     <string name="preferred_launcher_title">Бажаний лаунчер</string>
     <string name="preferred_launcher_warning_title">Заміна стандартного лаунчера</string>
@@ -3727,7 +3727,7 @@ Android File Transfer
     <string name="alert_show_screensaver_when_not_charging_title">Попередження</string>
     <string name="alert_show_screensaver_when_not_charging_msg">Батарея буде розряджатися набагато швидше під час показу заставки, якщо заряджання не під\'єднано. \nВимкнути цей пункт?</string>
 	<string name="cleaner_support_hints">Підтримка: Clean Master</string>
-	<string name="preferred_application_title">За замовчанням: %s</string>
+	<string name="preferred_application_title">Замінити додаток за замовчуванням?</string>
     <string name="preferred_application_warning_title">Заміна додатку \"%s\"</string>
     <string name="preferred_application_warning_message">Заміна стандартного додатку \"%1$s\" може збільшувати використання енергії, понизити швидкість роботи пристрою та піддати систему ризику. \nРекомендується використовувати стандартний додаток \"%2$s\".</string>
     <string name="preferred_application_warning_replace">Замінити</string>
@@ -4327,7 +4327,7 @@ Android File Transfer
  	<string name="status_bar_screen_key_home">Клавіша \"Додому\"</string>
  	<string name="status_bar_screen_key_recent_apps">Клавіша недавніх додатків</string>
  	<string name="status_bar_screen_key_back">Клавіша \"Назад\"</string>
- 	<string name="preferred_application_warning_use_system">Використовувати %s</string>
+ 	<string name="preferred_application_warning_use_system">Відміна</string>
  	<string name="preferred_sms_warning_message"> При використанні додатка \"%1$s\" за замовчуванням для повідомлень може стягуватися додаткова оплата</string>
  	<string name="preferred_sms_warning_use_system">Скасування</string>
  	<string name="preferred_sms_settings">Цей додаток буде встановлений за замовчуванням для створення й читання повідомлень</string>
@@ -4342,6 +4342,6 @@ Android File Transfer
     <string name="msd_pc_system_install_finish_summary_xp">Після установки драйверів \"%1$s\" буде відображатися при підключенні до ПК як USB-накопичувач </string>
     <string name="msd_pc_system_install_finish_summary_vista"> Для версій Windows Vista і новіше, музичний плеєр \"%1$s\" буде автоматично відображатися на ПК.</string>
 	<string name="dialog_title_auto_start_tips">Інформація про автозапуск</string>
-    <string name="dialog_message_auto_start_tips">Деякі додатки можуть працювати в фоні некоректно без автозапуску. Щоб перевірити, яким додаткам дозволено автозапуск \"Безпека\" > \"Дозволи\" > \"Автозапуск\".</string>
+    <string name="dialog_message_auto_start_tips">Деякі додатки можуть працювати в фоні некоректно без автозапуску. Ви можете додати необхыдні додатки вручну в список автозапуску.</string>
     <string name="button_text_known">ОК</string>
 </resources>

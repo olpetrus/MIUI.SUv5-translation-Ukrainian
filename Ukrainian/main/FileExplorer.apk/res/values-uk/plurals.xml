@@ -9,20 +9,20 @@
        <item quantity="many">файлів: %d</item>
     </plurals>
 	<plurals name="delete_files_confirm">
- 		<item quantity="other">Вилучити файли (%1$d)</item>
- 		<item quantity="zero">Вилучити файли (%1$d)</item>
-        <item quantity="one">Вилучити файли (%1$d)</item>
-        <item quantity="two">Вилучити файли (%1$d)</item>
-        <item quantity="few">Вилучити файли(%1$d)</item>
-        <item quantity="many">Вилучити файли (%1$d)</item>
+ 		<item quantity="other">Вилучити файли (%1$d шт.)</item>
+ 		<item quantity="zero">Вилучити файли (%1$d шт.)</item>
+        <item quantity="one">Вилучити файли (%1$d шт.)</item>
+        <item quantity="two">Вилучити файли (%1$d шт.)</item>
+        <item quantity="few">Вилучити файли(%1$d шт.)</item>
+        <item quantity="many">Вилучити файли (%1$d шт.)</item>
  	</plurals>
  	<plurals name="delete_folders_confirm">
- 		<item quantity="other">" і папки (%1$d)?"</item>
- 		<item quantity="zero">" і папки (%1$d)?"</item>
-        <item quantity="one">" і папки (%1$d)?"</item>
-        <item quantity="two">" і папки (%1$d)?"</item>
-        <item quantity="few">" і папки(%1$d)?"</item>
-        <item quantity="many">" і папки (%1$d)?"</item>
+ 		<item quantity="other">" і папки (%1$d шт.)?"</item>
+ 		<item quantity="zero">" і папки (%1$d шт.)?"</item>
+        <item quantity="one">" і папки (%1$d шт.)?"</item>
+        <item quantity="two">" і папки (%1$d шт.)?"</item>
+        <item quantity="few">" і папки(%1$d шт.)?"</item>
+        <item quantity="many">" і папки (%1$d шт.)?"</item>
  	</plurals>
  	<plurals name="ui_bar_txt_download_progress">
  		<item quantity="other">Залишилося скачати файлів:%1$d</item>

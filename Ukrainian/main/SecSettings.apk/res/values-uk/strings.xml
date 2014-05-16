@@ -1158,7 +1158,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="settings_license_activity_loading">Завантаження…</string>
     <string name="settings_safetylegal_title">Інформація щодо безпеки</string>
     <string name="settings_safetylegal_activity_title">Інформація щодо безпеки</string>
-    <string name="settings_safetylegal_activity_unreachable">Немає передачі даних. Щоб переглянути ці відомості зараз, перейдіть на %s з будь-якого комп\'ютера, підключеного до Інтернету</string>
+    <string name="settings_safetylegal_activity_unreachable">Неможливо підключитися до мережі. Перейдіть за посиланням %s з любого пристрою, підключеного до Інтернету.</string>
     <string name="settings_safetylegal_activity_loading">Завантаження…</string>
     <string name="lockpassword_choose_your_password_header">Вибір пароля</string>
     <string name="lockpassword_choose_your_pattern_header">Накреслення зразка для розблокування екрана</string>
