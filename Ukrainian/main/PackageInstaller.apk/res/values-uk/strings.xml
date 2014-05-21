@@ -84,8 +84,8 @@
     <string name="unknown_installer">Неопізнаний інструмент ПК</string>
 	<string name="install_failed_system_incompatible">Це застосування не сумісне з системою MIUI.</string>
     <string name="virus_scan_install">" <u>Продовжити установку</u> "</string>
-    <string name="virus_scan_is_virus">Це застосування містить вірус, рекомендується його видалити!</string>
-    <string name="virus_scan_is_risk">Я розумію небезпеку, продовжити установку.</string>
+    <string name="virus_scan_is_virus">Цей додаток містить вірус.</string>
+    <string name="virus_scan_is_risk">Цей додаток виявляє загрозу для вашого пристрою.</string>
     <string name="virus_scan_clear">Видалити</string>
 	<string name="virus_scan_caller_unknown">Невідомо</string>
 </resources>

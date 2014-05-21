@@ -2218,7 +2218,7 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="sms_delivered_sound_dialog_title">Оберіть звук доставленого SMS</string>
     <string name="haptic_feedback_level">Рівень вібрації</string>
     <string name="privacy_protect_title">Налаштування приватності</string>
-    <string name="privacy_mode_enable_title">Режим гостя</string>
+    <string name="privacy_mode_enable_title">Режим \"Гість\"</string>
     <string name="privacy_mode_enable_sum">Приховати нотатки, світлини, журнал викликів для захисту приватності.</string>
     <string name="ac_enable_title">Дозволи</string>
     <string name="ac_set_apps_title">Захист додатків</string>
@@ -3534,7 +3534,7 @@ Android File Transfer
     <string name="fw_import_whitelist_confirm">Додати обрані номера (%d) в білий список?</string>
     <string name="fw_blacklist_hint">Виклики та повідомлення будуть заблоковані по замовчанню</string>
     <string name="fw_whitelist_hint">Виклики та повідомлення не будуть заблоковані по замовчанню</string>
-    <string name="fw_no_effect">Режим Гостя вимкнено. Увімкнути зараз?</string>
+    <string name="fw_no_effect">Режим \"Гість\" вимкнено. Увімкнути зараз?</string>
     <string name="fw_call_muted">Виклик без сповіщення</string>
     <string name="fw_call_rejected">Виклик переадресовано</string>
     <string name="fw_call_imported">Імпорт журналу викликів</string>

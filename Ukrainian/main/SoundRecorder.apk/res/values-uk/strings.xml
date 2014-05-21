@@ -107,7 +107,7 @@
  	<string name="cloud_record">Записи в MiCloud (%d)</string>
  	<string name="loading_recording">Немає записів</string>
  	<string name="status_bar_back">Натисніть тут для повернення</string>
- 	<string name="access_error">Запис неможливий у режимі гостюючи</string>
+ 	<string name="access_error">Запис неможливий у режимі \"Гість\"</string>
  	<string name="record_download">Скачати запис з Micloud</string>
     <string name="record_download_msg">Для відтворення запису необхідно його скачати</string>
     <string name="record_download_msg_reload">Запис не існує</string>
@@ -131,5 +131,5 @@
     <string name="button_start_now">Продовжити</string>
     <string name="notification_title_all_paused">Завантаження призупинено</string>
     <string name="notification_message_all_paused">Можливі надмірні витрати трафіку</string>
-	<string name="toast_file_is_downloading">Файл завантажується, зачекайте</string>
+	<string name="toast_file_is_downloading">Файл завантажується, string name="access_error</string>
 </resources>
