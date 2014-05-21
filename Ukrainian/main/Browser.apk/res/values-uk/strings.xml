@@ -710,9 +710,7 @@
     <string name="webview_js_dialog_before_unload_title">Підтвердження переходу</string>
     <string name="webview_js_dialog_before_unload_positive_button">Покинути сторінку</string>
     <string name="webview_js_dialog_before_unload_negative_button">Залишитися на сторінці</string>
-    <string name="webview_js_dialog_before_unload">"%s
- 
- Покинути цю сторінку?"</string>
+    <string name="webview_js_dialog_before_unload">%s \n\nЗалишити цю сторінку?</string>
     <string name="webview_ok">ОК</string>
     <string name="webview_cancel">Скасування</string>
     <string name="webview_js_dialog_title">Сторінка \"%s\" відповідає:</string>
@@ -794,4 +792,5 @@
 	<string name="ssl_certificate">Сертифікат безпеки</string>
  	<string name="ssl_certificate_is_valid">Данний сертифікат недійсний</string>
  	<string name="pref_content_cloud_speedup">Хмарне прискорення</string>
+	<string name="snapshot_successed">Сторінка успішно збережена для читання в режимі оффлайн</string>
 </resources>
