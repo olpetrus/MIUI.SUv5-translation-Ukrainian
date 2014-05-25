@@ -123,4 +123,14 @@
 	<string name="weather_unit_middle">" | "</string>
 	<string name="network_unavailable">Помилка підключення. Мережа недоступна.</string>
  	<string name="weather_data_unreachable">Неможливо отримати данні про погоду. Будь ласка, спробуйте пізніше.</string>
+	<string name="gps_hint">Поточне місце розташування</string>
+ 	<string name="edit_city">Змінити</string>
+ 	<string name="act_weather_cycle_no_forcast">Невідомо</string>
+ 	<string name="button_abandon">Скасувати зміни</string>
+ 	<string name="aqi_quality_index_break">Yikes!</string>
+ 	<string name="act_weather_find_city_net_no_good">Не вдається підключитися до мережі</string>
+    <string name="act_weather_find_city_click_retry">Повтор</string>
+ 	<string name="location_tag"> Місце розташування</string>
+    <string name="act_weather_find_city_no_result">Немає результатів</string>
+    <string name="act_weather_find_city_added">Місто додане</string>
 </resources>
