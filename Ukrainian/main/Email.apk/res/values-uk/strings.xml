@@ -411,7 +411,7 @@
     <string name="search_slow_warning_message">Очікування відповіді від серверу може зайняти багато часу.</string>
     <string name="action_bar_mailbox_list_title">Теки</string>
 	<string name="long_string">Це дуже довгий рядок, дальше не буде нічого цікавого! Повірте, ви просто даремно витрачаєте свій безцінний час, вчитуючись в цю маячню ... Качечка - три, корова - два, скільки кінь?</string>
-    <string name="default_signature">Надіслано через Xiaomi</string>
+    <string name="default_signature">Надіслано з MiPhone</string>
     <string name="require_manual_sync_message">Фонову синхронізацію вимкнено для цього облікового запису в роумінгу.</string>
     <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
     <string name="single_new_message_notification_big_text">"%1$s
@@ -445,7 +445,7 @@
     <string name="account_setup_index_label">Додайте обліковий запис</string>
     <string name="account_setup_index_other_mails">Інші поштові сервіси</string>
     <string name="account_setup_basic_label">Заповніть інформацію для поштової скриньки %s:</string>
-    <string name="account_setup_basic_name_label">Ваше ім\'я (не обов\'язково)</string>
+    <string name="account_setup_basic_name_label">Ім\'я (не обов\'язково)</string>
     <string name="account_setup_basic_description_label">Ім\'я облікового запису (не обов\'язково)</string>
     <string name="add_quick_responses_action">Створити новий</string>
     <string name="account_security_waiting_policy_key_message">\"%s\" запитує налаштування безпеки з серверу, зачекайте.</string>
@@ -956,4 +956,17 @@
      <string name="no_sdcard"> Sd- Карта відсутня</string>
      <string name="download_complete_message">Завантаження завершене, натисніть для оновлення</string>
      <string name="file_size">Розмір</string>
+	 <string name="menu_resend_all">Переслати всі</string>
+     <string name="outbox_no_mails">Немає вихідних повідомлень</string>
+ 	 <string name="device_activity_btn_str">Повернутися до активації</string>
+     <string name="device_not_activiey_lint1">Диспетчер пристроїв не активований</string>
+     <string name="device_not_activiey_lint2">Поштовий сервіс не працює коректно</string>
+     <string name="device_activity_lint_str">Включити повне відновлення поштового сервісу й активувати службу безпеки</string>
+ 	 <string name="xiaomi_update_dialog_title">%1$s оновлене!</string>
+     <string name="xiaomi_update_dialog_message">Доступна версія: %1$s \nрозмір: %2$s</string>
+     <string name="xiaomi_update_dialog_message_diff">Доступна версія: %1$s \nрозмір Delta відновлення: %2$s</string>
+     <string name="xiaomi_external_storage_unavailable">Пам'ять недоступна, перевірте стан SD-карти</string>
+     <string name="xiaomi_bytes_unit">%1$sб</string>
+     <string name="xiaomi_kilobytes_unit">%1$sкб</string>
+     <string name="xiaomi_megabytes_unit">%1$sмб</string>
 </resources>

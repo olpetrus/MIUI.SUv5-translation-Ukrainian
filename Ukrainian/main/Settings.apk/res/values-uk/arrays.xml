@@ -404,7 +404,7 @@
         <item>Завжди</item>
     </string-array>
     <string-array name="score_descriptions">
-        <item>Чорний список вимкнено</item>
+        <item>Чорний список вимкнений</item>
         <item>Керування дозволами вимкнено</item>
         <item>Дуже багато сміття</item>
         <item>Час очікування сканування вірусів сплив</item>
@@ -413,7 +413,7 @@
     <string-array name="score_suggests">
         <item>Увімкнути чорний список</item>
         <item>Включіть додаток для керування дозволами</item>
-        <item>Звільніть сміття</item>
+        <item>Очистить сміття</item>
         <item>Оновіть вірусну базу</item>
         <item>Контролюйте кількість фонових процесів</item>
     </string-array>

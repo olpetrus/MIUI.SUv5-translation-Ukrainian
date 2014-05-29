@@ -592,7 +592,7 @@
 	<string name="clear_search_history">Очистити історію</string>
 	<string name="bottom_bar_tabs_long_click_up_tip_txt">" Слайд вгору для закриття "</string>
     <string name="bottom_bar_tabs_long_click_down_tip_txt">" Слайд вниз для закриття "</string>
-    <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">" Остання вкладка "</string>
+    <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Всі вкладки вже закриті</string>
 	<string name="already_in_top_level">Ця закладка вже нагорі</string>
 	<string name="webapp_app_name">Веб-маркет додатків</string>
 	<string name="webapp_dialog_title">Додати додатки на домашній екран</string>

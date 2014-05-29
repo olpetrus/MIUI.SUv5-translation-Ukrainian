@@ -7,10 +7,10 @@
     <string-array name="system_package_label">
         <item>Браузер</item>
         <item>Галерея</item>
-        <item>Суперкористувач</item>
+        <item>Дозволи</item>
         <item>Камера</item>
-        <item>Моніторинг трафіку</item>
-        <item>Сховище погоди</item>
+        <item>Трафік</item>
+        <item>Дані погоди</item>
         <item>Погода</item>
     </string-array>
     <string-array name="system_data_label">
@@ -20,10 +20,10 @@
         <item>Мультимедійні повідомлення</item>
         <item>Налаштування системи</item>
         <item>Налаштування Wi-Fi</item>
-        <item>Домашній екран</item>
+        <item>Робочий стіл</item>
         <item>Будильник</item>
         <item>Нотатки</item>
-        <item>Анти-спам</item>
+        <item>Антиспам</item>
         <item>Облікові записи</item>
     </string-array>
     <string-array name="app_type_desc">

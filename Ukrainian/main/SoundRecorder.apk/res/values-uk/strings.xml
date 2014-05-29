@@ -9,7 +9,7 @@
     <string name="button_ok">Гаразд</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
     <string name="audio_db_title_format">dd-MM-yyyy_HH:mm:ss</string>
-    <string name="audio_db_artist_name">Ваші записи</string>
+    <string name="audio_db_artist_name">Мої записи</string>
     <string name="audio_db_album_name">Аудіозаписи</string>
     <string name="audio_db_playlist_name">Мої записи</string>
     <string name="error_sdcard_access">Не вдалося отримати доступ до внутрішньої або зовнішньої пам\'яті</string>
@@ -17,7 +17,7 @@
     <string name="error_app_internal_title">Помилка додатку</string>
     <string name="error_mediadb_new_record">Не вдалося зберегти аудіозапис</string>
     <string name="default_record_name">Без імені</string>
-    <string name="menu_view_record_list">Перелік записів</string>
+    <string name="menu_view_record_list">Мої записи</string>
     <string name="menu_setting">Налаштування</string>
     <string name="delete_dialog_message">Видалити запис?</string>
     <string name="overwrite_dialog_message">Запис з таким іменем вже існує. Перезаписати?</string>
@@ -35,10 +35,10 @@
     <string name="notification_warning">Мало пам\'яті (лишилось менше %d хвилин)…</string>
     <string name="record_list">Перелік записів</string>
     <string name="record_loading">Завантаження…</string>
-    <string name="sd_card_not_available">SD карта недоступна.</string>
+    <string name="sd_card_not_available">SD карта недоступна</string>
     <string name="call_record">Записи викликів (%d)</string>
     <string name="fm_record">Записи радіо (%d)</string>
-    <string name="open_file_explorer">Відкрити менеджер файлів</string>
+    <string name="open_file_explorer">Відкрити в провіднику</string>
     <string name="no_file">Немає записів</string>
     <string name="mark_now">(Поточна)</string>
     <string name="second">%d сек.</string>
@@ -48,8 +48,8 @@
     <string name="dialog_play">Відтворити</string>
     <string name="dialog_send">Надіслати</string>
     <string name="dialog_delete">Видалити</string>
-    <string name="dialog_warning">Небезпека</string>
-    <string name="alert_message_delete_record">Видалити обраний запис?</string>
+    <string name="dialog_warning">Попередження</string>
+    <string name="alert_message_delete_record">Видалити обрані записи?</string>
     <string name="unknown_caller">Невідомий номер</string>
     <string name="miui_preiew_list_actionmode_title">Обрано: %d</string>
     <string name="rename">Перейменувати</string>
@@ -64,11 +64,11 @@
     <string name="rename_duplicate">Таке ім\'я вже існує.</string>
     <string name="record_picker_title">Диктофон</string>
     <string name="dialog_title_storage_full">Недостатньо вільного місця</string>
-    <string name="dialog_content_storage_full">Через нестачу пам\'яті, запис був зупинений, видаліть зайві файли через Менеджер Файлів. Виконати додаток?</string>
+    <string name="dialog_content_storage_full">Через нестачу пам\'яті, запис був зупинений.</string>
     <string name="record_saving">Збереження…</string>
     <string name="preparing_playback">Завантаження записів…</string>
     <string name="loading_duration">Завантажується тривалість…</string>
-    <string name="low_battery_error">Лишилось менше 5% заряду батареї, щоб уникнути втрату запису, запис буде зупинено і збережено.</string>
+    <string name="low_battery_error">Лишилось менше 5% заряду батареї, щоб уникнути втрату запису запис буде зупинено і збережено.</string>
     <string name="low_battery_message_title">Низький заряд батареї</string>
     <string name="low_battery_warning">Неочікуване вимкнення може призвести до втрати запису.</string>
     <string name="record_name_hour">.</string>
@@ -89,26 +89,26 @@
 	<string name="duration_format_minute">%s хв.</string>
 	<string name="duration_format_second">%s сек.</string>
 	<string name="toast_max_record_time">%1$s може записати близько %2$s</string>
-	<string name="toast_uninstall_fileexplorer">Менеджер Файлів не встановлен</string>
+	<string name="toast_uninstall_fileexplorer">Провідник не встановлен</string>
 	<string name="message_file_size_error">Запис досягла максимально можливої межі %s</string>
 	<string name="start_recording">Почати запис</string>
     <string name="pause">Пауза</string>
     <string name="play_record">Відтворити</string>
-    <string name="stop_recording">Завершити запис</string>
+    <string name="stop_recording">Зупинити запис</string>
     <string name="view_list_of_recordings">Перегляд переліку записів</string>
-    <string name="search_for_recordings_in_folders">Пошук записів в теках</string>
+    <string name="search_for_recordings_in_folders">Пошук записів в Провіднику</string>
     <string name="back">Назад</string>
-	<string name="error_filename_illegal_char">Ім\'я файлу містить неприпустимі символи</string>
+	<string name="error_filename_illegal_char">Ім\'я файлу містить неприпустимі символи.</string>
 	<string name="record_list_fm">Записи радіо</string>
     <string name="record_list_call">Записи викликів</string>
     <string name="record_list_cloud">Хмарні записи</string>
     <string name="record_list_cloud_fm">Хмарні записи радіо</string>
     <string name="record_list_cloud_call">Хмарні записи викликів</string>
- 	<string name="cloud_record">Записи в MiCloud (%d)</string>
- 	<string name="loading_recording">Немає записів</string>
+ 	<string name="cloud_record">Записи в хмарі(%d)</string>
+ 	<string name="loading_recording">Завантаження записів</string>
  	<string name="status_bar_back">Натисніть тут для повернення</string>
  	<string name="access_error">Запис неможливий у режимі \"Гість\"</string>
- 	<string name="record_download">Скачати запис з Micloud</string>
+ 	<string name="record_download">Скачати з MiCloud</string>
     <string name="record_download_msg">Для відтворення запису необхідно його скачати</string>
     <string name="record_download_msg_reload">Запис не існує</string>
     <string name="record_download_complete">Завантажено</string>
@@ -121,7 +121,7 @@
     <string name="record_downloading_notification">Завантаження…</string>
     <string name="record_downloading_notification_count">%d завантажується</string>
     <string name="record_downloading_notification_complete">Завантаження завершене</string>
-    <string name="sync_records">Синхронізація записів</string>
+    <string name="sync_records">Синхронізація з MiCloud</string>
     <string name="sync_only_in_wifi">Тільки по Wi-Fi</string>
     <string name="sync_only_in_wifi_summary">Диктофон буде завантажувати записи в хмару через мобільний інтернет, якщо відключена ця функція</string>
     <string name="sync_only_in_wifi_alert">Після відключення цієї функції можливо надмірне споживання мобільного трафіка</string>
@@ -130,6 +130,6 @@
     <string name="button_queue_for_wifi">В чергу</string>
     <string name="button_start_now">Продовжити</string>
     <string name="notification_title_all_paused">Завантаження призупинено</string>
-    <string name="notification_message_all_paused">Можливі надмірні витрати трафіку</string>
-	<string name="toast_file_is_downloading">Файл завантажується, string name="access_error</string>
+    <string name="notification_message_all_paused">Можливі надмірні витрати трафіку/</string>
+	<string name="toast_file_is_downloading">Файл завантажується</string>
 </resources>

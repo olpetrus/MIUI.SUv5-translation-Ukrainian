@@ -505,7 +505,7 @@
     <string name="modified_time">Час зміни</string>
     <string name="photo_size">Дозвіл</string>
  	<string name="bigscreen_video_quit">Натисніть для виходу з режиму відтворення</string>
- 	<string name="fail_to_download_n_items">Помилка завантаження. Файлів: %s</string>
+ 	<string name="fail_to_download_n_items">Помилка завантаження файлів: %s</string>
  	<string name="home_page_tab_photo">Камера</string>
     <string name="home_page_tab_cloud">Хмарні</string>
     <string name="home_page_tab_local">Локальні</string>
