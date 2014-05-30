@@ -58,8 +58,8 @@
     <string name="install_sina">Натисніть для встановлення Sina Weibo</string>
     <string name="install_tencent">Отримати додаток Weibo</string>
     <string name="share_content">Погода MIUI</string>
-    <string name="share_weather_content">Погода в %1$s: %2$s, %3$s, %4$s. % 5$s.</string>
-    <string name="share_aqi_content">Якість у повітря в %1$s: %2$s, %3$s. % 4$s %5$s.</string>
+    <string name="share_weather_content">"Погода в %1$s: %2$s, %3$s, %4$s. % 5$s."</string>
+    <string name="share_aqi_content">"Якість у повітря в %1$s: %2$s, %3$s. % 4$s %5$s."</string>
     <string name="save_screen_shot_failed">Не вдалося зробити скриншот</string>
     <string name="trend_weather_today">Сьогодні</string>
     <string name="trend_weather_tomorrow">Завтра</string>
