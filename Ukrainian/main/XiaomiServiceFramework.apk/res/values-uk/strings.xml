@@ -432,7 +432,6 @@
     <string name="activate_status_desc_acquire_phone_number_server_error">Відбулася помилка сервера при одержанні номера</string>
     <string name="activate_status_desc_acquire_phone_number_server_io_error">Відбулася помилка введення/висновку при одержанні номера</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info">Не вдається одержати номер телефону</string>
-    <string name="activate_status_desc_acquire_phone_number_server_no_info">Не вдається отримати номер телефону</string>
     <string name="activate_status_desc_acquire_sim_user_id">Отримання інформації про реєстрацію з серверу</string>
     <string name="activate_status_desc_acquire_sim_user_id_server_error_wait">Відбулася помилка серверу при отриманні інформації. Очікування повтору…</string>
     <string name="activate_status_desc_acquire_sim_user_id_server_io_error_wait">Відбулася помилка вводу/виводу при отриманні інформації. Очікування повтору…</string>
@@ -441,13 +440,11 @@
     <string name="activate_status_desc_acquire_sim_user_id_server_io_error">Відбулася помилка введення/висновку при одержанні інформації</string>
     <string name="activate_status_desc_acquire_sim_user_id_server_no_info">Не вдається одержати інформацію</string>
     <string name="activate_status_desc_acquire_sim_pass_token_server_error_wait">Відбулася помилка сервера при одержанні відомостей про безпеку. Очікування повтору…</string>
-    <string name="activate_status_desc_acquire_sim_pass_token_server_io_error_wait">Відбулася помилка введення/висновку при одержанні відомостей про безпеку. Очікування повтору…</string>
     <string name="activate_status_desc_acquire_sim_pass_token_server_io_error_wait">Відбулася помилка вводу/виводу при отриманні відомостей. Очікування повтору…</string>
     <string name="activate_status_desc_acquire_sim_pass_token_server_error">Відбулася помилка сервера при одержанні відомостей про безпеку.</string>
     <string name="activate_status_desc_acquire_sim_pass_token_server_io_error">Відбулася помилка введення/висновку при одержанні відомостей про безпеку.</string>
     <string name="activate_status_desc_acquire_sim_pass_token_server_no_info">Не вдається одержати відомості про безпеку.</string>
     <string name="activate_status_desc_acquire_sim_pass_token_password_error">Не вдається одержати відомості про безпеку через невірний пароль</string>
-    <string name="activate_status_desc_acquire_sim_pass_token_password_error">Не вдається отримати відомості безпеки через невірний пароль</string>
     <string name="checking_input">Перевірка даних…</string>
     <string name="skip_login_u"><u>Пропустити</u></string>
 	<string name="micloud_data_loading">Завантаження…</string>

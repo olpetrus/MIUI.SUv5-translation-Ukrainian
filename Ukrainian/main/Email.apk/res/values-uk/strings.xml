@@ -965,7 +965,7 @@
  	 <string name="xiaomi_update_dialog_title">%1$s оновлене!</string>
      <string name="xiaomi_update_dialog_message">Доступна версія: %1$s \nрозмір: %2$s</string>
      <string name="xiaomi_update_dialog_message_diff">Доступна версія: %1$s \nрозмір Delta відновлення: %2$s</string>
-     <string name="xiaomi_external_storage_unavailable">Пам'ять недоступна, перевірте стан SD-карти</string>
+     <string name="xiaomi_external_storage_unavailable">Пам\'ять недоступна, перевірте стан SD-карти</string>
      <string name="xiaomi_bytes_unit">%1$sб</string>
      <string name="xiaomi_kilobytes_unit">%1$sкб</string>
      <string name="xiaomi_megabytes_unit">%1$sмб</string>
