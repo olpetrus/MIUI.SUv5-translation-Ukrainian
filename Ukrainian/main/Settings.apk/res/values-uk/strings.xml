@@ -2305,7 +2305,6 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="date_time_settings">Дата та час</string>
     <string name="timezone_settings">Часовий пояс</string>
     <string name="security_privacy_settings_title">Безпека</string>
-    <string name="security_relative">Пов\'язані з безпекою</string>
     <string name="nearby_wifi">Доступні мережі</string>
     <string name="unlock_set_enter_system">Доступ до системи напряму</string>
     <string name="unlock_set_enter_system_summary">При ввімкненні системний екран блокування буде проігноровано</string>

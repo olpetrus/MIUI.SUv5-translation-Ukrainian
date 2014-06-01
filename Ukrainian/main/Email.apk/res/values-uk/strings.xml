@@ -956,7 +956,7 @@
      <string name="no_sdcard"> Sd- Карта відсутня</string>
      <string name="download_complete_message">Завантаження завершене, натисніть для оновлення</string>
      <string name="file_size">Розмір</string>
-	 <string name="menu_resend_all">Переслати всі</string>
+	 <string name="menu_resend_all">Відправити всі</string>
      <string name="outbox_no_mails">Немає вихідних повідомлень</string>
  	 <string name="device_activity_btn_str">Повернутися до активації</string>
      <string name="device_not_activiey_lint1">Диспетчер пристроїв не активований</string>
