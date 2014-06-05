@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Інструменти SIM</string>
-    <string name="appI_name">Інструменти SIMI</string>
-    <string name="appII_name">Інструменти SIMII</string>
-    <string name="lable_not_available">"Додаток не встановлено"</string>
+    <string name="appI_name">Інструменти SIM1</string>
+    <string name="appII_name">Інструменти SIMI2</string>
+    <string name="lable_not_available">Додаток не встановлено</string>
     <string name="menu_end_session">Закінчення сесії</string>
     <string name="help">Допомога</string>
     <string name="menu_back">Назад</string>
@@ -15,7 +15,7 @@
     <string name="button_no">Ні</string>
     <string name="alphabet">Символи</string>
     <string name="digits">Цифри (0-9, *, #, +)</string>
-    <string name="default_call_setup_msg">Це розмова…</string>
+    <string name="default_call_setup_msg">Іде виклик…</string>
     <string name="stk_app_state">Стан додатку</string>
     <string name="enable_app">Активно</string>
     <string name="disable_app">Неактивно</string>
@@ -49,11 +49,11 @@
     <string name="lable_close_channel">Закрити канал</string>
     <string name="lable_receive_data">Приймання даних</string>
     <string name="lable_send_data">Передача даних</string>
-    <string name="lable_get_channel_status">Надати інформацію</string>
+    <string name="lable_get_channel_status">Отримати статус каналу</string>
     <string name="lable_service_search">Сервісний пошук</string>
-    <string name="lable_get_service_information">Отримати інформаційну службу</string>
-    <string name="lable_declare_service">Оголосити служби</string>
-    <string name="lable_set_frame">Набір кадрів</string>
+    <string name="lable_get_service_information">Отримати інформацію сервісу</string>
+    <string name="lable_declare_service">Оголосити службу</string>
+    <string name="lable_set_frame">Отримати статус рамки</string>
     <string name="lable_get_frame_status">Отримати статус кадру</string>
     <string name="lable_retrieve_multimedia_message">Завантаження мультимедійних повідомлень</string>
     <string name="lable_submit_multimedia_message">Надсилання мультимедійних повідомлень</string>
@@ -64,6 +64,6 @@
     <string name="lable_busy_on_bip">Додаток зайнятий по командам BIP, спробуйте пізніше.</string>
     <string name="main_menu_not_initialized">Головне меню не ініціалізовано</string>
     <string name="lable_busy_on_call">Телефон зайнятий викликом, спочатку треба закінчити розмову</string>
-    <string name="lable_on_flight_mode">Цей додаток не може використовуватися в режимі В літаку</string>
+    <string name="lable_on_flight_mode">Цей додаток не може використовуватися в режимі \"В літаку\"</string>
 	<string name="lable_sim_not_ready">Інструменти SIM не готовий або не підтримується</string>
 </resources>

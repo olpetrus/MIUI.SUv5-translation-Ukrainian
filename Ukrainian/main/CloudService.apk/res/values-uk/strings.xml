@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Синхронізація Xiaomi</string>
     <string name="sync_item_sms_title">Синхронізація повідомлень</string>
-    <string name="sync_item_sms_summary">Отримання сертифіката</string>
+    <string name="sync_item_sms_summary">Синхронізація повідомлень між пристроями</string>
     <string name="sub_sync_item_sms_title_wifi_only">MMS тільки по Wi-Fi</string>
     <string name="sub_sync_item_sms_summary">Скорочує передачу данних по мережі</string>
     <string name="pref_title_sync_contacts_title">Синхронізація контактів</string>

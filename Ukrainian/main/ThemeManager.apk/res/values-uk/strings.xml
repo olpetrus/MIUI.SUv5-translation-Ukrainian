@@ -32,7 +32,7 @@
 	<string name="theme_component_title_contact">Кнопки</string>
 	<string name="theme_component_title_lockstyle">Екран блокування</string>
 	<string name="theme_component_title_statusbar">Панель статусу</string>
-	<string name="theme_component_title_launcher">Домашній екран</string>
+	<string name="theme_component_title_launcher">Робочий стіл</string>
 	<string name="theme_component_title_audio_effect">Звукові ефекти</string>
 	<string name="theme_component_title_alarmstyle">Стиль будильника</string>
 	<string name="theme_component_title_clock">Годинник</string>
@@ -47,7 +47,7 @@
 	<string name="lockstyle_personal_settings">Персоналізація</string>
 	<string name="component_lockstyle_personal_title">Налаштування</string>
 	<string name="wallpaper_settings">Налаштування шпалер</string>
-	<string name="desktop_wallpaper">Домашній екран</string>
+	<string name="desktop_wallpaper">Робочий стіл</string>
 	<string name="live_wallpaper">Живі шпалери</string>
 	<string name="mi_wallpaper">MIUI шпалери</string>
 	<string name="lockscreen_wallpaper">Екран блокування</string>

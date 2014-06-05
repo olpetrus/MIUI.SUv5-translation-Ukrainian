@@ -9,8 +9,8 @@
         <item quantity="one">Контактів: %1$d</item>
      </plurals>
      <plurals name="group_list_num_numbers_in_group">
-        <item quantity="other">номерів: %1$d</item>
-        <item quantity="one">номерів: %1$d</item>
+        <item quantity="other">Номерів: %1$d</item>
+        <item quantity="one">Номерів: %1$d</item>
      </plurals>
      <plurals name="listFoundAllContacts">
         <item quantity="other">Знайдено: %d</item>
@@ -21,25 +21,25 @@
         <item quantity="one">Контактів: 1</item>
      </plurals>
      <plurals name="listTotalPhoneContacts">
-        <item quantity="other">Контакти з номерами телефонів: %d</item>
-        <item quantity="one">Контакти з номерами телефону: 1</item>
+        <item quantity="other">Контактів з номерами телефонів: %d</item>
+        <item quantity="one">Контактів з номерами телефону: 1</item>
      </plurals>
      <plurals name="merge_info">
-        <item quantity="other">об\'єднано з декількох джерел (%0$d)</item>
+        <item quantity="other">об\'єднаний з джерел: %0$d</item>
         <item quantity="one">не об\'єднано</item>
      </plurals>
      <plurals name="notification_voicemail_title">
         <item quantity="other">Голосові повідомлення: %1$d</item>
-        <item quantity="one">Голосова пошта</item>
+        <item quantity="one">Голосові повідомлення: 1</item>
      </plurals>
      <plurals name="numSelectedSimContacts">
-        <item quantity="other">Обрано контактів: %1$d</item>
-        <item quantity="zero">Обрано контактів: %1$d</item>
-        <item quantity="one">Обрано контактів: %1$d</item>
+        <item quantity="other">Обрано: %1$d</item>
+        <item quantity="zero">Обрано: %1$d</item>
+        <item quantity="one">Обрано: %1$d</item>
      </plurals>
      <plurals name="num_contacts_in_group">
-        <item quantity="other">%2$s. В групі %1$d люд.</item>
-        <item quantity="one">%2$s. В групі %1$d люд.</item>
+        <item quantity="other">Контактів в групі %2$s: %1$d</item>
+        <item quantity="one">Контактів в групі %2$s: %1$d</item>
      </plurals>
      <plurals name="num_groups_in_account">
         <item quantity="other">Груп: %0$d</item>

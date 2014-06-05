@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="powermanage_entries">
-        <item>Тільки дзвінки</item>
+        <item>Тільки виклики</item>
         <item>Енергозбереження</item>
         <item>Нормальний</item>
         <item>Продуктивність</item>

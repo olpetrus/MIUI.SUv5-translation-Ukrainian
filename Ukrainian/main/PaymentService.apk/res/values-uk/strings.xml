@@ -28,7 +28,7 @@
 	<string name="bankcall_saved_card_info">%1$s - закінчується %2$s</string>
 	<string name="bankcall_xiaomi_company">Корпорація Xiaomi</string>
 	<string name="btn_back">Назад</string>
-	<string name="btn_call">Зателефонувати</string>
+	<string name="btn_call">Виклик</string>
 	<string name="btn_count_down_auto">Запит через %1$s сек.</string>
 	<string name="btn_delete_record">Видалити запис</string>
 	<string name="btn_mili_center_recharge">Поповнити баланс</string>
@@ -188,12 +188,12 @@
 	<string name="voucher_edit_hint">Пароль</string>
 	<string name="voucher_edit_limit">тільки цифри</string>
 	<string name="micloud_summary">Увійдіть в обліковий запис Xiaomi щоб синхронізувати контакти, зображення, повідомлення та інші дані з сервісом в хмарах.</string>
-	<string name="micloud_is_what">Що таке MiCloud?</string>
+	<string name="micloud_is_what">Що таке Mi Cloud?</string>
 	<string name="micloud_more">Детальніше</string>
 	<string name="micloud_intro_01_part_01">Економити на витратах SMS</string>
 	<string name="micloud_intro_01_part_02">MIUI дозволяє Вам надсилати безкоштовні повідомлення через інтернет.</string>
 	<string name="micloud_intro_02_part_01">Не треба робити нічего зайвого.</string>
-	<string name="micloud_intro_02_part_02">MiCloud синхронізація даних з сервісом в хмарах.</string>
+	<string name="micloud_intro_02_part_02">Mi Cloud синхронізація даних з сервісом в хмарах.</string>
 	<string name="micloud_intro_03_part_01">Безпека в користуванні</string>
 	<string name="micloud_intro_03_part_02">Керування даними на \"i.xiaomi.com\".</string>
 	<string name="micloud_dspt">MiCloud керування даними в будь-який час!</string>

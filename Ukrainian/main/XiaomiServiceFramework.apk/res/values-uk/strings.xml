@@ -3,7 +3,7 @@
     <string name="app_name">Системні служби Xiaomi</string>
     <string name="show_password">Показати пароль</string>
     <string name="account">Обліковий запис</string>
-    <string name="account_hint_text">E-mail/Номер телефону</string>
+    <string name="account_hint_text">Email/Номер телефону</string>
     <string name="login">Увійти</string>
     <string name="next">Далі</string>
     <string name="prev">Назад</string>
@@ -22,9 +22,9 @@
     <string name="micloud_error_illegal_pwd">Невірний пароль</string>
 	<string name="micloud_error_empty_captcha_code">Введіть код з малюнку</string>
     <string name="micloud_error_empty_vcode">Введіть перевірочний код</string>
-    <string name="micloud_email">Адреса e-mail</string>
+    <string name="micloud_email">Адреса email</string>
     <string name="reg_type_phone">Реєстрація по телефону (Рекомендується)</string>
-    <string name="reg_type_email">Реєстрація по e-mail</string>
+    <string name="reg_type_email">Реєстрація по email</string>
     <string name="micloud_input_password_prompt">Введіть пароль</string>
     <string name="micloud_password_confirm_hint">Підтвердіть пароль</string>
     <string name="micloud_password_req_notice">8~16 символів, цифр, літералфавіту (чутливі до регістру)</string>
@@ -33,7 +33,7 @@
     <string name="micloud_via_sms_alert">При отримані через SMS можливі додаткові витрати.</string>
     <string name="micloud_via_int_sms_alert">При активації через SMS можливі додаткові витрати.</string>
     <string name="micloud_val_sms_alert">Для перевірки номеру буде надіслано SMS. Продовжити?</string>
-    <string name="micloud_error_email">Некоректний e-mail</string>
+    <string name="micloud_error_email">Некоректний email</string>
     <string name="micloud_account">Обліковий запис Xiaomi</string>
     <string name="micloud_activing_account">Активація облікового запису…</string>
     <string name="micloud_activing_account_delayed">Вже майже все…</string>
@@ -55,7 +55,7 @@
     <string name="header_data_and_synchronization">Дані та синхронізація</string>
     <string name="title_reg">Зареєструватися</string>
     <string name="micloud_account_label">обліковий запис: %1$s</string>
-    <string name="email_already_be_used">Ця адреса e-mail вже використовується в іншому обліковому записі.</string>
+    <string name="email_already_be_used">Ця адреса email вже використовується в іншому обліковому записі.</string>
     <string name="error_no_sms_service">Сервіс SMS недосяжний</string>
     <string name="reg_by_email_failure">Реєстрацію перервано: %1$s</string>
     <string name="unactivated_user">Аккаунт не активований</string>
@@ -116,10 +116,10 @@
 	<string name="find_device_notice_p4">Коли SIM-карта буде замінена, буде відправлена SMS активації для подальшого відстеження місцезнаходження телефона.</string>
     <string name="i_know">ОК</string>
     <string name="find_device_disabled_title">Пошук пристрою виключений</string>
-    <string name="find_device_disabled_notice">Ви можете включити його знову в Настроювання &lt; Аккаунти &lt; Micloud</string>
+    <string name="find_device_disabled_notice">Ви можете включити його знову в Настроювання &lt; Аккаунти &lt; Mi Cloud</string>
     <string name="activate_phone_send_sms_fail">Помилка відправлення SMS для активації</string>
     <string name="activate_phone_server_error">Помилка сервера</string>
-    <string name="activate_phone_failed_notif_title">Не вдалося запустити Micloud</string>
+    <string name="activate_phone_failed_notif_title">Не вдалося запустити Mi Cloud</string>
     <string name="activate_phone_send_sms_failed_notif">Помилка відправлення SMS для активації</string>
     <string name="activate_phone_server_error_notif">Помилка сервера</string>
     <string name="user_agreement_p1">"При вході ви погоджуєтеся з "</string>
@@ -138,7 +138,7 @@
     <string name="removing_account">Вихід…</string>
     <string name="checking_account">Перевірка облікового запису…</string>
 	<string name="cmcc_data_sync_notice">Використовуйте обліковий запис Xiaomi для синхронізації повідомлень та контактів з іншими пристроями.</string>
-	<string name="cmcc_micloud_dspt">Використовуйте MiCloud для синхронізації даних, визначння місцезнаходження телефону.</string>
+	<string name="cmcc_micloud_dspt">Використовуйте Mi Cloud для синхронізації даних, визначння місцезнаходження телефону.</string>
     <string name="label_order_name">Назва:</string>
     <string name="label_order_price">Ціна:</string>
     <string name="password_hint">Введіть пароль від обліковки Xiaomi:</string>
@@ -370,7 +370,7 @@
     <string name="service_error">Помилка сервісу</string>
     <string name="enable_micloud">Реєстрація або вхід</string>
     <string name="micloud_summary">Вхід в обліковий запис Xiaomi для синхронізації контактів, світлин та інших функцій.</string>
-    <string name="micloud_is_what">Що таке MiCloud?</string>
+    <string name="micloud_is_what">Що таке Mi Cloud?</string>
     <string name="available_functionality">Доступні функції</string>
     <string name="internet_message">Хмарні повідомлення</string>
     <string name="micloud_more">Дізнатись більше</string>
@@ -385,10 +385,10 @@
  	<string name="micloud_intro_02_part_02">Синхронізуйте контакти, повідомлення, фото та інше між іншими пристроями</string>
  	<string name="micloud_intro_03_part_01">Убезпечте ваші дані на відстані</string>
  	<string name="micloud_intro_03_part_02">Визначите місце розташування, заблокуйте або вилучите всі дані з обладнання дистанційно на i.xiaomi.com</string>
- 	<string name="micloud_dspt">Використовуйте Micloud для синхронізації даних, визначення місця розташування телефону</string>
+ 	<string name="micloud_dspt">Використовуйте Mi Cloud для синхронізації даних, визначення місця розташування телефону</string>
     <string name="start_micloud">Почати</string>
     <string name="micloud_proceed">Продовжити</string>
-    <string name="disable_micloud"><u>Відключити MiCloud</u></string>
+    <string name="disable_micloud"><u>Відключити Mi Cloud</u></string>
 	<string name="account_detail">Обліковий запис Xiaomi:\n%1$s</string>
 	<string name="error_user_name">Невірне ім\'я користувача</string>
 	<string name="quick_login_step2_title">2х-етапна веріфікація</string>
@@ -413,7 +413,7 @@
     <string name="trust_device">Я довіряю цьому пристрою</string>
     <string name="vcode_prompt_long">Введіть перевірочний код, отриманий від Xiaomi</string>
     <string name="vcode_notification_title">Перевірку авторизації не завершено</string>
-    <string name="activate_phone_failed_notif_title_msim">Помилка активації сервісів MiCloud для SIM карти %s</string>
+    <string name="activate_phone_failed_notif_title_msim">Помилка активації сервісів Mi Cloud для SIM карти %s</string>
     <string name="activate_status_title_activating">Активація SIM карти</string>
     <string name="activate_status_title_activating_msim">Активація SIM карти %s</string>
     <string name="activate_status_desc_getting_device_info">Отримання інформації про пристрій</string>
@@ -448,15 +448,15 @@
     <string name="checking_input">Перевірка даних…</string>
     <string name="skip_login_u"><u>Пропустити</u></string>
 	<string name="micloud_data_loading">Завантаження…</string>
-	<string name="micloud_space_full_influence"><u>Що робити, якщо закінчилося вільне місце в MiCloud?</u></string>
+	<string name="micloud_space_full_influence"><u>Що робити, якщо закінчилося вільне місце в Mi Cloud?</u></string>
 	<string name="micloud_title_dspt" formatted="false">Всього: %s \n Зайнято: %s | Вільно: %s</string>
 	<string name="micloud_title_full_dspt" formatted="false">Пам\'ять заповнена!</string>
 	<string name="micloud_user_base_info">Дані користувача</string>
-	<string name="micloud_user_email">E-mail</string>
+	<string name="micloud_user_email">Email</string>
 	<string name="micloud_user_phone">Номер телефону</string>
 	<string name="micloud_user_name">Им\'я користувача</string>
 	<string name="micloud_user_id">ID користувача</string>
-	<string name="micloud_storage_space">Пам\'ять MiCloud</string>
+	<string name="micloud_storage_space">Пам\'ять Mi Cloud</string>
 	<string name="micloud_user_space_usage">Зайнято пам\'яті</string>
 	<string name="micloud_web_discription_01">Війдіть на i.xiaomi.com</string>
 	<string name="micloud_web_discription_02">для перегляду і управління файлами з любого місця</string>
@@ -464,14 +464,14 @@
 	<string name="micloud_gallery_video">Відео</string>
 	<string name="micloud_app_data">Резервні копії програм</string>
 	<string name="micloud_account_details">Дані аккаунта</string>
-	<string name="micloud_full_influence_title">Коли закінчилось місце в MiCloud…</string>
+	<string name="micloud_full_influence_title">Коли закінчилось місце в Mi Cloud…</string>
 	<string name="micloud_warn_full_msg">Пам\'ять заповнена!</string>
 	<string name="micloud_warn_low_title">Пам\'ять майже заповнена \u2026</string>
 	<string name="micloud_warn_low_sum">Пам\'ять заповнена на 90%.</string>
 	<string name="micloud_warn_full_title">Пам\'ять заповнена!</string>
-	<string name="micloud_warn_full_sum">На даний час дані не можуть бути синхронізовані з MiCloud.</string>
+	<string name="micloud_warn_full_sum">На даний час дані не можуть бути синхронізовані з Mi Cloud.</string>
 	<string name="micloud_none">Пусто</string>
-	<string name="micloud_full_influence_dspt">Всі фото, відео, замітки і дані програм будуть синхронізовані з MiCloud. \n\n Таким чином, якщо ви втратите або зламаєте телефон, ваші дані залишаться в безпеці. \n\nКоли пам\'ять в MiCloud заповнена, ваші старі дані не зникнуть, проте, нові дані не зможуть синхронізуватися з MiCloud. \n\nЩоб це виправити, необхідно буде видалити непотрібні дані з MiCloud.</string>
+	<string name="micloud_full_influence_dspt">Всі фото, відео, замітки і дані програм будуть синхронізовані з Mi Cloud. \n\n Таким чином, якщо ви втратите або зламаєте телефон, ваші дані залишаться в безпеці. \n\nКоли пам\'ять в Mi Cloud заповнена, ваші старі дані не зникнуть, проте, нові дані не зможуть синхронізуватися з Mi Cloud. \n\nЩоб це виправити, необхідно буде видалити непотрібні дані з Mi Cloud.</string>
 	<string name="enable_sync_dspt">Синхронізація відключена</string>
 	<string name="enable_sync">Включити</string>
     <string name="logout_failed">Помилка виходу</string>

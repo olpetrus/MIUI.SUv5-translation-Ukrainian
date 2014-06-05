@@ -2454,7 +2454,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="motion_disabled_message">Активуйте рух, щоб випробувати посібник</string>
     <string name="pick_up_to_call_out_title">Прямий виклик</string>
     <string name="pick_up_to_call_out_summary">Телефонування контакту, який зараз відображається на екрані</string>
-    <string name="pick_up_to_call_out_content">Виклик контакту, чиї деталі журналу, контактні дані або деталі повідомлень відображаються на екрані, якщо пристрій піднести до обличчя</string>
+    <string name="pick_up_to_call_out_content">Зателефонувати контакту, чиї деталі журналу, контактні дані або деталі повідомлень відображаються на екрані, якщо пристрій піднести до обличчя</string>
     <string name="surface_title">Керування долонями</string>
     <string name="surface_tutorial_settings_title">Посібник із керування долонями</string>
     <string name="learn_about_surface_title">Відомості про керування долонями</string>

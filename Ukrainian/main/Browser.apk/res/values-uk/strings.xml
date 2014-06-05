@@ -531,7 +531,7 @@
 	<string name="download_dialog_file_length_hint_txt">Розмір файлу:</string>
 	<string name="download_dialog_file_length_lessthan1kb">Менш 1 Кб</string>
 	<string name="download_dialog_default_path_invalid">Неприпустимий шлях завантаження, буде використовуватися шлях по-замовчуванням</string>
-	<string name="download_dialog_file_length_nolength_error_txt">Помилка завантаження</string>
+	<string name="download_dialog_file_length_nolength_error_txt">невідомо</string>
 	<string name="download_dialog_file_length_nolength_txt">Завантаження…</string>
 	<string name="app_update_install">Нова версія завантажена і готова до установки</string>
 	<string name="app_new_version">Нова версія завантажена і встановлена</string>

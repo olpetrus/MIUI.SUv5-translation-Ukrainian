@@ -108,7 +108,7 @@
  	<string name="loading_recording">Завантаження записів</string>
  	<string name="status_bar_back">Натисніть тут для повернення</string>
  	<string name="access_error">Запис неможливий у режимі \"Гість\"</string>
- 	<string name="record_download">Скачати з MiCloud</string>
+ 	<string name="record_download">Скачати з Mi Cloud</string>
     <string name="record_download_msg">Для відтворення запису необхідно його скачати</string>
     <string name="record_download_msg_reload">Запис не існує</string>
     <string name="record_download_complete">Завантажено</string>
@@ -121,7 +121,7 @@
     <string name="record_downloading_notification">Завантаження…</string>
     <string name="record_downloading_notification_count">%d завантажується</string>
     <string name="record_downloading_notification_complete">Завантаження завершене</string>
-    <string name="sync_records">Синхронізація з MiCloud</string>
+    <string name="sync_records">Синхронізація з Mi Cloud</string>
     <string name="sync_only_in_wifi">Тільки по Wi-Fi</string>
     <string name="sync_only_in_wifi_summary">Диктофон буде завантажувати записи в хмару через мобільний інтернет, якщо відключена ця функція</string>
     <string name="sync_only_in_wifi_alert">Після відключення цієї функції можливо надмірне споживання мобільного трафіка</string>

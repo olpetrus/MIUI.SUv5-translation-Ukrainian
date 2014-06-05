@@ -2,6 +2,6 @@
 <resources>
   <string-array name="otherLabels">
     <item>Організація</item>
-    <item>Примітка</item>
+    <item>Нотатка</item>
   </string-array>
 </resources>

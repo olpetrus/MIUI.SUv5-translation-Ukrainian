@@ -97,7 +97,7 @@
  	<string name="task_restore_cancel_dialog">Скасування може привести до ушкодження даних</string>
 	<string name="task_backup_cancel_progress">Скасувати…</string>
 	<string name="task_restore_cancel_progress">Скасувати…</string>
-	<string name="nothing_searched">Нічого не знайдено</string>
+	<string name="nothing_searched">Немає результатів пошуку</string>
 	<string name="restore_counts">Відновлення:</string>
 	<string name="service_stoped">Сервіс зупинено</string>
 	<string name="sc_network_unavailable">Помилка з\'єднання з мережаю</string>

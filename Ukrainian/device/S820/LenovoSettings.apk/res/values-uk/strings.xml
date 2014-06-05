@@ -749,7 +749,7 @@
     <string name="wifi_error">Помилка</string>
     <string name="wifi_in_airplane_mode">В літаку</string>
     <string name="wifi_fail_to_scan">Не вдалося почати пошук мереж.</string>
-    <string name="wifi_notify_open_networks">Сповіщення про мережі</string>
+    <string name="wifi_notify_open_networks">Сповіщувати про мережі</string>
     <string name="wifi_notify_open_networks_summary">Повідомляти при виявленні відкритої мережі</string>
     <string name="wifi_enable_watchdog_service">Ігнорувати мережі з поганим сигналом</string>
     <string name="wifi_poor_network_detection">Уникати поганих з\'єднань</string>
@@ -2511,7 +2511,7 @@
     <string name="camera_key_action_shortcut_title">Ярлик</string>
     <string name="camera_key_action_toggle_title">Перемикач</string>
     <string name="camera_key_action_app_title">Відкрити додаток</string>
-    <string name="camera_key_action_shortcut_home">Домашній екран</string>
+    <string name="camera_key_action_shortcut_home">Робочий стіл</string>
     <string name="camera_key_action_shortcut_screenshot">Знімок екрану</string>
     <string name="camera_key_action_shortcut_search">Пошук</string>
     <string name="camera_key_action_shortcut_call">Виклик</string>
@@ -2914,7 +2914,7 @@ Android File Transfer
     <string name="sim_management_title">SIM менеджер</string>
     <string name="sim_status_title">Статус SIM</string>
     <string name="slot_status_title">Інформація про IMEI</string>
-	<string name="xiaomi_cloud_service">MiCloud</string>
+	<string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xiaomi_money_service">MiCredit</string>
 	<string name="noise_suppression">Придушення шумів</string>
     <string name="phone_call_noise_suppression">Придушення шумів при розмові</string>

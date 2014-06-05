@@ -1336,7 +1336,7 @@
     <string name="onscreenCdmaMergeCallext">Злиття викликів</string>
     <string name="end_call_because_can_not_hold">Завершить поточний виклик, так як він не може бути поставлений на утримання.</string>
     <string name="ring_only_once_title">Телефонувати тільки один раз</string>
-    <string name="ring_only_once_summary">Телефонує тільки один раз при виборі Прийняти відео-виклик в режимі голосового виклику</string>
+    <string name="ring_only_once_summary">Телефонувати тільки один раз при виборі Прийняти відео-виклик в режимі голосового виклику</string>
     <string name="fdn_contact_name_number_invalid">Назва та номер не можуть бути порожніми.</string>
     <string name="fdn_contact_number_invalid">Хибний номер.</string>
     <string name="fdn_phone_book_busy">Телефонна книга не відповідає, спробуйте пізніше.</string>

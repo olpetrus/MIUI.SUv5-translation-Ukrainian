@@ -173,7 +173,7 @@
     <string name="express_inquiry_delivered">Доставлене</string>
     <string name="express_inquiry_no_history">Немає історії</string>
 	<string name="call">Виклик</string>
-	<string name="no_more_result">Нічого не знайдено</string>
+	<string name="no_more_result">Немає результатів пошуку</string>
 	<string name="sina_share_pendding">Відправлення…</string>
     <string name="sina_share_success">Відправлене</string>
     <string name="sina_share_fail">Помилка відправлення</string>

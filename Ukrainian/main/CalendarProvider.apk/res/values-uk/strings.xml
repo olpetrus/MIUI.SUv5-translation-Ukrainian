@@ -11,7 +11,7 @@
     <string name="provider_label">Календар</string>
     <string name="debug_tool_delete_button">Видалити</string>
     <string name="debug_tool_start_button">Почати</string>
-    <string name="debug_tool_message">Ви збираєтесь 1) зберегти копію БД календаря на SD карту/USB накопичувач, доступне для всіх додатків і 2) відправити по e-mail. Не забудьте видалити БД після копіювання або отримання по e-mail.</string>
+    <string name="debug_tool_message">Ви збираєтесь 1) зберегти копію БД календаря на SD карту/USB накопичувач, доступне для всіх додатків і 2) відправити по email. Не забудьте видалити БД після копіювання або отримання по email.</string>
     <string name="debug_tool_email_sender_picker">Виберіть додаток для надсилання</string>
     <string name="debug_tool_email_subject">БД календаря прикріплена</string>
     <string name="debug_tool_email_body">До листа прикріплено БД календаря. Будьте обережними.</string>

@@ -28,7 +28,7 @@
     <string name="bind_baidu_account_setting">Обліковий запис Bind Baidu</string>
     <string name="bind_baidu_account_summary">Завантажте плейлист з свого облікового запису Baidu music</string>
     <string name="synchronize_playlist_setting">Синхронізувати плейлист</string>
-    <string name="synchronize_playlist_summary">Синхронізувати плейлист с хмарами.</string>
+    <string name="synchronize_playlist_summary">Синхронізувати плейлист с хмарою Mi Cloud.</string>
     <string name="not_login">Вхід</string>
     <string name="mobile_connect_settings">Мобільна мережа</string>
     <string name="download_album_settings">Завантажувати зображення</string>
@@ -366,9 +366,9 @@
     <string name="collect_fm_success">Додане у вибране</string>
     <string name="uncollect_success">Вилучене з вибраного</string>
 	<string name="sync_alert_title">Синхронізація музики</string>
-    <string name="sync_alert_message">Синхронізувати музику з Micloud</string>
+    <string name="sync_alert_message">Синхронізувати музику з Mi cloud</string>
     <string name="not_now">Скасування</string>
-    <string name="sync_disable_toast">Ви можете увімкнути синхронізацію музики через \"Налаштування\" > \"Аккаунти\" > \"Micloud\"</string>
+    <string name="sync_disable_toast">Ви можете увімкнути синхронізацію музики через \"Налаштування\" > \"Аккаунти\" > \"Mi Cloud\"</string>
     <string name="login_and_enable">Синхронізувати</string>
-    <string name="sync_enable_toast">Ви можете змінити цю функцію через \"Налаштування\" > \"Аккаунти\" > \"Micloud\"</string>
+    <string name="sync_enable_toast">Ви можете змінити цю функцію через \"Налаштування\" > \"Аккаунти\" > \"Mi Cloud\"</string>
 </resources>

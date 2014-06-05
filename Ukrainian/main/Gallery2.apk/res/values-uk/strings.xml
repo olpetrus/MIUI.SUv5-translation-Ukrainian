@@ -620,7 +620,7 @@
      <string name="rotate_image">Поворот</string>
      <string name="edit_image">Виправлення</string>
      <string name="crop_image">Кадрувати</string>
-     <string name="set_wallpaper_home">Домашній екран</string>
+     <string name="set_wallpaper_home">Робочий стіл</string>
      <string name="set_wallpaper_lock">Екран блокування</string>
      <string name="set_wallpaper_both">Обидва екрани</string>
      <string name="custom">Персоналізация</string>
@@ -660,7 +660,7 @@
      <string name="share_num_limit">Кількість переданих файлів обмежене %s</string>
      <string name="menu_share_title">Передати</string>
      <string name="menu_share_more_title">Передати й правити</string>
-     <string name="menu_email_title">Передати по E-mail</string>
+     <string name="menu_email_title">Передати по Email</string>
      <string name="menu_delete_title">Вилучити</string>
      <string name="menu_add_set_titile">Додати нову директорію</string>
      <string name="menu_add_slideshow_title"> Слайд-Шоу</string>

@@ -99,7 +99,7 @@
     <string name="S_MMC">Карта пам\'яті</string>
     <string name="RM_NORMAL">Звичайний</string>
     <string name="RM_MMS">Відео для MMS</string>
-    <string name="RM_EMAIL">Обмеж. для e-mail</string>
+    <string name="RM_EMAIL">Обмеж. для email</string>
     <string name="RM_SLOW">Сповільнений рух</string>
     <string name="RM_FAST">Прискоренний рух</string>
     <string name="RM_SELF">Автопортрет</string>
