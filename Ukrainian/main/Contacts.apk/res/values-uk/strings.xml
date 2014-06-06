@@ -725,7 +725,7 @@
     <string name="import_weibo_notification_title">Імпортування контактів Sina Weibo…</string>
     <string name="import_weibo_notification_title_done">Оновлено контактів: %s</string>
     <string name="import_weibo_progress_hint">Імпортування…</string>
-    <string name="export_vcard_description" product="nosdcard>Експорт vCard в пам\'ять телефону</string>
+    <string name="export_vcard_description" product="nosdcard">Експорт vCard в пам\'ять телефону</string>
     <string name="export_vcard_description" product="default">Експорт vCard на SD карту</string>
     <string name="export_to_sim">Експорт на SIM карту</string>
     <string name="export_to_sim2">Експорт на SIM карту 2</string>
