@@ -76,8 +76,7 @@
     <string name="accessibility_no_phone">Немає сигналу мережі.</string>
     <string name="accessibility_phone_one_bar">Поганий сигнал мережі.</string>
     <string name="accessibility_phone_two_bars">Нормальний сигнал мережі.</string>
-    <string name="accessibility_phone_three_bars">Середній сигнал мережі.</string>
-	<string name="accessibility_phone_four_bars">Хороший сигнал мережі.</string>
+    <string name="accessibility_phone_three_bars">Гарний сигнал мережі.</string>
     <string name="accessibility_phone_signal_full">Відмінний сигнал мережі.</string>
     <string name="accessibility_no_data">Немає сигналу передачі даних.</string>
     <string name="accessibility_data_one_bar">Поганий сигнал передачі даних.</string>
@@ -358,6 +357,4 @@
     <string name="settings_advanced">Додаткові налаштування</string>
 	<string name="accessibility_search_light">Пошук</string>
     <string name="accessibility_camera_button">Камера</string>
-	<string name="call_status_ringing">Виклик</string>
-    <string name="reject_call">Відхилити виклик</string>
 </resources>
