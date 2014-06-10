@@ -90,7 +90,7 @@
     <string name="remove_item">Прибрати</string>
     <string name="delete_song_desc">Видалити %s?</string>
     <string name="scanning">Сканую SD карту…</string>
-    <string name="scanning_nosdcard">Сканую USB накопичувач…</string>
+    <string name="scanning_nosdcard">Сканування USB накопичувача…</string>
     <string name="online_indicator">-онлайн</string>
     <string name="search_title">Пошук</string>
     <string name="delete_playlist_menu">Видалити</string>
@@ -104,11 +104,11 @@
     <string name="recentlyplayed_title">Нещодавно відтворювалося</string>
     <string name="frequentlyplayed_title">Часто відтворюється</string>
     <string name="sdcard_missing_message">Не встановлено SD карту.</string>
-    <string name="sdcard_missing_message_nosdcard">Не під\'єднано USB накопичувач.</string>
+    <string name="sdcard_missing_message_nosdcard">USB накопичувач відсутній.</string>
     <string name="sdcard_busy_message">Карта пам\'яті зайнята.\n Перевірте стан карти пам\'яті.</string>
-    <string name="sdcard_busy_message_nosdcard">USB накопичувач зайнятий.</string>
+    <string name="sdcard_busy_message_nosdcard">USB накопичувач використовується</string>
     <string name="sdcard_error_message">На SD карті відбулася помилка.</string>
-    <string name="sdcard_error_message_nosdcard">На USB накопичувачі відбулася помилка.</string>
+    <string name="sdcard_error_message_nosdcard">Помилка доступа до USB накопичувача</string>
     <string name="unknown_artist_name">Невідомий виконавець</string>
     <string name="unknown_album_name">Невідомий альбом</string>
     <string name="ringtone_menu">Використовувати як мелодію</string>

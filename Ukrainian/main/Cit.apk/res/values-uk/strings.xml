@@ -218,10 +218,10 @@
    <string name="cit_gyroscope_sensor_check_summary">Датчик гіроскопа. Нижче показані значення: x y z</string>
    <string name="cit_pressure_sensor_check_summary">Нижче відображаються значення атмосферного тиску</string>
    <string name="cit_camera_sdcard_error">SD карта заповнена, фото не може бути збережене</string>
-   <string name="cit_usb_OTG_in">USB-OTG обладнання підключене</string>
-   <string name="cit_OTG_waiting_in">Будь ласка, підключіть USB-OTG обладнання</string>
-   <string name="cit_OTG_waiting_out">Будь ласка, відключіть USB-OTG обладнання</string>
-   <string name="cit_usb_OTG_out">USB-OTG обладнання відключене</string>
+   <string name="cit_usb_OTG_in">USB OTG пристрій підключений</string>
+   <string name="cit_OTG_waiting_in">Будь ласка, підключіть USB OTG пристрій.</string>
+   <string name="cit_OTG_waiting_out">Будь ласка, відключіть USB OTG пристрій.</string>
+   <string name="cit_usb_OTG_out">USB OTG пристрій відключений</string>
    <string name="cit_otg_not_supported">Ця модель телефону не підтримує тестування OTG</string>
    <string name="cit_calibration_pass">Калібрування виконане успішно</string>
    <string name="cit_calibration_fail">Не вдалося відкалібрувати</string>

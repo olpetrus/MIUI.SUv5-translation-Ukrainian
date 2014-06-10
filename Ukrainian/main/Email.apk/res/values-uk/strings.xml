@@ -134,7 +134,7 @@
     <string name="message_view_attachment_cancel_action">Стоп</string>
     <string name="message_view_status_attachment_saved">Вкладення збережено як %s</string>
     <string name="message_view_status_attachment_not_saved">Файл не збережено.</string>
-    <string name="message_view_attachment_background_load">Примітка. Декілька вкладень в переадресованому повідомленні будуть завантажені перед надсиланням.</string>
+    <string name="message_view_attachment_background_load">Декілька вкладень в переадресованому повідомленні будуть завантажені перед надсиланням.</string>
     <string name="message_view_show_message_action">Повідомлення</string>
     <string name="message_view_show_invite_action">Запросити</string>
     <string name="message_view_show_pictures_action">Показати зображення</string>
@@ -163,15 +163,15 @@
     <string name="attachment_info_no_intent">Формат, що не підтримується. Щоб відкрити файл, встановіть необхідний додаток з Android Маркету.</string>
     <string name="attachment_info_sideload_disabled">Вкладення є додатком. Щоб його можна було встановити, в розділі \"Налаштування\" &gt; \"Додатки\" виберіть \"Невідомі джерела\".</string>
     <string name="attachment_info_apk_install_disabled">Додатки не можна встановлювати безпосередньо з електронної пошти. Збережіть файл, перейдіть в \"Завантаження\" та виконайте встановлення.</string>
-    <string name="attachment_not_found">Не вдалося завантажити вкладення.</string>
-    <string name="message_decode_error">При розшифровці повідомлення відбулася помилка.</string>
+    <string name="attachment_not_found">Не вдалося завантажити вкладення</string>
+    <string name="message_decode_error">Не вдалося розшифрувати повідомлення</string>
     <string name="eml_view_title">Перегляд \"%s\"</string>
     <string name="message_discarded_toast">Чернетку видалено</string>
     <string name="message_saved_toast">Чернетку повідомлення збережено</string>
     <string name="message_view_display_attachment_toast">Неможливо показати вкладення</string>
     <string name="message_view_load_attachment_failed_toast">Не вдалося завантажити вкладення \"%s\"</string>
     <string name="message_view_parse_message_toast">Повідомлення відкривається…</string>
-    <string name="forward_download_failed_ticker">Збій при пересиланні вкладень</string>
+    <string name="forward_download_failed_ticker">Збій при пересиланні вкладень.</string>
     <string name="forward_download_failed_title">Не вдалося переслати вкладення</string>
     <string name="login_failed_ticker">Помилка авторизації \"%s\"</string>
     <string name="login_failed_title">Не вдалося увійти в обліковий запис</string>

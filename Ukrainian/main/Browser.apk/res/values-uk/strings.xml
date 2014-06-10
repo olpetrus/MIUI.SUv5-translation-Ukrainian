@@ -301,7 +301,7 @@
 	<string name="too_many_subwindows_dialog_title">Спливаюче вікно вже відкрито</string>
 	<string name="too_many_subwindows_dialog_message">Можна відкрити тільки одне спливаюче вікно</string>
 	<string name="download_no_sdcard_dlg_title">USB накопичувач відсутнiй</string>
-	<string name="download_no_sdcard_dlg_msg">USB накопичувач необхідний для завантаження %s</string>
+	<string name="download_no_sdcard_dlg_msg">Для завантаження файла %s потрібен USB накопичувач.</string>
 	<string name="download_sdcard_busy_dlg_title">USB накопичувач недоступний</string>
 	<string name="download_sdcard_busy_dlg_msg">USB накопичувач зайнятий. Щоб дозволити завантаження, виберіть \"Відключити USB накопичувач\" у панелі повідомлень</string>
 	<string name="cannot_download">Завантаження можливе тільки з URL, що починаються з \"http\" або \"https\"</string>

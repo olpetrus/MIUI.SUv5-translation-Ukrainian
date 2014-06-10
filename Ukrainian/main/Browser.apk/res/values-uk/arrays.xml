@@ -86,13 +86,13 @@
          <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
     </string-array>
    <string-array name="menu_theme_setting">
-         <item>" "</item>
-         <item>" "</item>
-         <item>" "</item>
-         <item>" "</item>
-         <item>" "</item>
-         <item>" "</item>
-         <item>" "</item>
+         <item>Біла</item>
+         <item>Жовта</item>
+         <item>Сіра</item>
+         <item>Коричнева</item>
+         <item>Зелена</item>
+         <item>Синя</item>
+         <item>Темна</item>
      </string-array>
  	<string-array name="search_bar_search_engines_default">
          <item>google</item>

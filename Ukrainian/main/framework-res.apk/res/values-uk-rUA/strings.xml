@@ -1113,7 +1113,7 @@
     <string name="permlab_manageAccounts">Керування обліковими записами</string>
     <string name="permlab_manageAppTokens">Керування упорядкуванням</string>
     <string name="permlab_manageNetworkPolicy">Керування мережевою політикою</string>
-    <string name="permlab_manageUsb">Керування USB-пристроями</string>
+    <string name="permlab_manageUsb">Керування USB пристроями</string>
     <string name="permlab_masterClear">Загальне скидання</string>
     <string name="permlab_mediaStorageWrite">Дані мультимедіа</string>
     <string name="permlab_modifyAudioSettings">Налаштування звуку</string>
@@ -1262,7 +1262,7 @@
     <string name="permdesc_manageAccounts">Дозволяє додатку керувати обліковими записами.</string>
     <string name="permdesc_manageAppTokens">Дозволяє системному додатку створювати власні впорядковування.</string>
     <string name="permdesc_manageNetworkPolicy">Дозволяє додатку керувати мережевими політиками та задавати свої правила для додатків.</string>
-    <string name="permdesc_manageUsb">Дозволяє додатку керувати настройками та дозволами для USB-пристроїв.</string>
+    <string name="permdesc_manageUsb">Дозволяє додатку керувати настройками та дозволами для USB пристроїв.</string>
     <string name="permdesc_masterClear">Дозволяє додатку відновлювати заводські налаштування системи, видаляти всі дані та додатки.</string>
     <string name="permdesc_mediaStorageWrite">Дозволяє додатку змінювати зміст мультимедіа у внутрішньої пам\'яті.</string>
     <string name="permdesc_modifyAudioSettings">Дозволяє додатку змінювати налаштування звуку.</string>
