@@ -1007,7 +1007,7 @@
     <string name="usb_tethering_available_subtext">USB зв\'язок встановлено, встановіть флаг для під\'єднання</string>
     <string name="usb_tethering_active_subtext">Під\'єднання</string>
     <string name="usb_tethering_storage_active_subtext">Неможливо під\'єднатися під час використання USB накопичувача</string>
-    <string name="usb_tethering_unavailable_subtext">USB не під\'єднано</string>
+    <string name="usb_tethering_unavailable_subtext">USB кабель не під\'єднано</string>
     <string name="usb_tethering_errored_subtext">Помилка під\'єднання USB</string>
     <string name="bluetooth_tether_checkbox_text">Bluetooth модем</string>
     <string name="bluetooth_tethering_available_subtext">Увімкнено</string>
