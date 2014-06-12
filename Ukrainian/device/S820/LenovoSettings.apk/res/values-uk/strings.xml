@@ -1183,7 +1183,7 @@
     <string name="carrier_enabled_summaryOff">APN вимк.</string>
     <string name="bearer">Володар</string>
     <string name="menu_delete">Видалити APN</string>
-    <string name="menu_new">Нова точка доступу</string>
+    <string name="menu_new">Додати</string>
     <string name="menu_save">Зберегти</string>
     <string name="menu_cancel">Скасувати</string>
     <string name="error_name_empty">Необхідно вказати назву.</string>
@@ -1259,7 +1259,7 @@
     <string name="location_network_based">Wi-Fi та мобільні мережі</string>
     <string name="location_neighborhood_level">Використовувати Wi-Fi та мобільні мережі для визначення розташування</string>
     <string name="location_neighborhood_level_wifi">Розташування визначається за допомогою Wi-Fi</string>
-    <string name="location_gps">По супутниках GPS</string>
+    <string name="location_gps">Супутники GPS</string>
     <string name="location_street_level">Дозволити додаткам використовувати GPS для визначення розташування</string>
     <string name="assisted_gps">Використовувати A-GPS</string>
     <string name="assisted_gps_enabled">Використовувати сервер для A-GPS (зніміть флаг для менш інтенсивного використання мережі)</string>

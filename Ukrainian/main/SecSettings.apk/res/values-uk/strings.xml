@@ -1048,7 +1048,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="carrier_enabled_summaryOff">APN вимкнено</string>
     <string name="bearer">Канал</string>
     <string name="menu_delete">Видалити APN</string>
-    <string name="menu_new">Нова APN</string>
+    <string name="menu_new">Додати</string>
     <string name="menu_save">Зберегти</string>
     <string name="menu_cancel">Скасувати</string>
     <string name="error_title" />
