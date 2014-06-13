@@ -10,9 +10,9 @@
     <string name="status_bar_accessibility_dismiss_recents">Закрити нещодавні додатки</string>
     <string name="status_bar_recent_clear_result">Очищено: %1$s, доступно: %2$s</string>
     <string name="status_bar_recent_clear_nothing_result">Немає пам\'яті, яку можна очистити</string>
-    <string name="status_bar_recent_guide_all">Слайд вгору для закриття, слайд униз для закріплення</string>
-    <string name="status_bar_recent_guide_top">Слайд вгору для закриття</string>
-    <string name="status_bar_recent_guide_bottom">Слайд униз для закріплення</string>
+    <string name="status_bar_recent_guide_all">Свайп вгору для закриття, свайп униз для закріплення</string>
+    <string name="status_bar_recent_guide_top">Свайп вгору для закриття</string>
+    <string name="status_bar_recent_guide_bottom">Свайп униз для закріплення</string>
     <string name="battery_low_title">Під\'єднайте зарядний пристрій</string>
     <string name="battery_low_subtitle">Низький заряд батареї.</string>
     <string name="battery_low_percent_format">Лишилось %d%%</string>
@@ -47,14 +47,14 @@
     <string name="compat_mode_on">Збільшити на весь екран</string>
     <string name="compat_mode_off">Розтягнути на весь екран</string>
     <string name="compat_mode_help_header">Сумісність масштабу</string>
-    <string name="compat_mode_help_body">Якщо додаток створювався для меншої роздільної здатності екрану,то біля годинника з\'явиться регулятор масштабу.</string>
+    <string name="compat_mode_help_body">Якщо додаток створювався для меншої роздільної здатності екрану, то біля годинника з\'явиться регулятор масштабу.</string>
     <string name="screenshot_saving_ticker">Збереження знімку екрану…</string>
     <string name="screenshot_saving_title">Збереження знімку екрану…</string>
     <string name="screenshot_saving_text">Збереження знімку екрану</string>
     <string name="screenshot_saved_title">Знімок екрану збережено</string>
-    <string name="screenshot_saved_text">Перегляд скнишоту</string>
+    <string name="screenshot_saved_text">Натисніть для перегляду.</string>
     <string name="screenshot_failed_title">Неможливо створити знімок екрану</string>
-    <string name="screenshot_failed_text">Неможливо зберегти знімок екрану. Можливо накопичувач вже використовується або недостатно пам\'яті.</string>
+    <string name="screenshot_failed_text">Неможливо зберегти знімок екрану. Накопичувач вже використовується або недостатно пам\'яті.</string>
     <string name="usb_preference_title">Налаштування передачі файлів по USB</string>
     <string name="use_mtp_button_title">Під\'єднувати як медіапрогравач (MTP)</string>
     <string name="use_ptp_button_title">Під\'єднувати як камеру (PTP)</string>
@@ -74,26 +74,25 @@
     <string name="accessibility_battery_three_bars">Гарний рівень заряду батареї.</string>
     <string name="accessibility_battery_full">Батарею повністю заряджено.</string>
     <string name="accessibility_no_phone">Немає сигналу мережі.</string>
-    <string name="accessibility_phone_one_bar">Поганий сигнал мережі.</string>
-    <string name="accessibility_phone_two_bars">Нормальний сигнал мережі.</string>
-    <string name="accessibility_phone_three_bars">Середній сигнал мережі.</string>
-	<string name="accessibility_phone_four_bars">Хороший сигнал мережі.</string>
-    <string name="accessibility_phone_signal_full">Відмінний сигнал мережі.</string>
+    <string name="accessibility_phone_one_bar">Рівень сигналу мережі: 1.</string>
+    <string name="accessibility_phone_two_bars">Рівень сигналу мережі: 2.</string>
+    <string name="accessibility_phone_three_bars">Рівень сигналу мережі: 3..</string>
+	    <string name="accessibility_phone_signal_full">Рівень сигналу мережі: повний.</string>
     <string name="accessibility_no_data">Немає сигналу передачі даних.</string>
-    <string name="accessibility_data_one_bar">Поганий сигнал передачі даних.</string>
-    <string name="accessibility_data_two_bars">Нормальний сигнал передачі даних.</string>
-    <string name="accessibility_data_three_bars">Гарний сигнал передачі даних.</string>
-    <string name="accessibility_data_signal_full">Відмінний сигнал передачі даних.</string>
+    <string name="accessibility_data_one_bar">Рівень сигналу передачі даних: 1.</string>
+    <string name="accessibility_data_two_bars">Рівень сигналу передачі даних: 2.</string>
+    <string name="accessibility_data_three_bars">ГРівень сигналу передачі даних: 3.</string>
+    <string name="accessibility_data_signal_full">Рівень сигналу передачі даних: повний.</string>
     <string name="accessibility_no_wifi">Немає сигналу Wi-Fi.</string>
-    <string name="accessibility_wifi_one_bar">Поганий сигнал Wi-Fi.</string>
-    <string name="accessibility_wifi_two_bars">Нормальний сигнал Wi-Fi.</string>
-    <string name="accessibility_wifi_three_bars">Гарний сигнал Wi-Fi.</string>
-    <string name="accessibility_wifi_signal_full">Відмінний сигнал Wi-Fi.</string>
+    <string name="accessibility_wifi_one_bar">Рівень сигналу Wi-Fi: 1.</string>
+    <string name="accessibility_wifi_two_bars">Рівень сигналу Wi-Fi: 2.</string>
+    <string name="accessibility_wifi_three_bars">Рівень сигналу Wi-Fi: 3.</string>
+    <string name="accessibility_wifi_signal_full">Рівень сигналу Wi-Fi: повний.</string>
     <string name="accessibility_no_wimax">Немає сигналу WiMAX.</string>
-    <string name="accessibility_wimax_one_bar">Поганий сигнал WiMAX.</string>
-    <string name="accessibility_wimax_two_bars">Нормальний сигнал WiMAX.</string>
-    <string name="accessibility_wimax_three_bars">Гарний сигнал WiMAX.</string>
-    <string name="accessibility_wimax_signal_full">Відмінний сигнал WiMAX.</string>
+    <string name="accessibility_wimax_one_bar">Рівень сигналу WiMAX: 1.</string>
+    <string name="accessibility_wimax_two_bars">Рівень сигналу WiMAX: 2.</string>
+    <string name="accessibility_wimax_three_bars">Рівень сигналу WiMAX: 3.</string>
+    <string name="accessibility_wimax_signal_full">Рівень сигналу WiMAX: повний.</string>
     <string name="accessibility_data_connection_gprs">GPRS</string>
     <string name="accessibility_data_connection_3g">3G</string>
     <string name="accessibility_data_connection_3.5g">3.5G</string>
@@ -114,11 +113,11 @@
     <string name="accessibility_ringer_vibrate">Вібрація.</string>
     <string name="accessibility_ringer_silent">Без звуку.</string>
     <string name="accessibility_recents_item_dismissed">%s відхилений.</string>
-    <string name="data_usage_disabled_dialog_3g_title">2G-3G передачу даних вимкнено</string>
-    <string name="data_usage_disabled_dialog_4g_title">4G передачу даних вимкнено</string>
+    <string name="data_usage_disabled_dialog_3g_title">Передачу даних 2G-3G вимкнено</string>
+    <string name="data_usage_disabled_dialog_4g_title">Передачу даних 4G вимкнено</string>
     <string name="data_usage_disabled_dialog_mobile_title">Мобільну мережу вимкнено</string>
     <string name="data_usage_disabled_dialog_title">Передачу даних вимкнено</string>
-    <string name="data_usage_disabled_dialog">"Ви досягли встановленого ліміту передачі даних.\nЯкщо Ви увімкнете передачу даних, оператором може зніматися додаткова платня."</string>
+    <string name="data_usage_disabled_dialog">Ви досягли встановленого ліміту передачі даних.\nЯкщо Ви увімкнете передачу даних, оператором може зніматися додаткова платня.</string>
     <string name="data_usage_disabled_dialog_enable">Увімкнути передачу даних</string>
     <string name="status_bar_settings_signal_meter_disconnected">Немає доступу в інтернет</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi під\'єднаний</string>
@@ -129,14 +128,14 @@
     <string name="status_bar_notification_inspect_item_title">Про додаток</string>
     <string name="notifications_off_title">Сповіщення вимкнені</string>
     <string name="notifications_off_text">Натисніть для вмикання сповіщень.</string>
-    <string name="accessibility_rotation_lock_off">Екран буде повертатися автоматично.</string>
+    <string name="accessibility_rotation_lock_off">Екран буде повертатися автоматично</string>
     <string name="accessibility_rotation_lock_on_landscape">Встановлено ландшафтна орієнтація екрана.</string>
     <string name="accessibility_rotation_lock_on_portrait">Встановлено портретна орієнтація екрана.</string>
     <string name="share">Надіслати</string>
-    <string name="description_direction_up">Зсуньте вгору для %s.</string>
-    <string name="description_direction_down">Зсуньте вниз для %s.</string>
-    <string name="description_direction_left">Зсуньте вліво для %s.</string>
-    <string name="description_direction_right">Зсуньте вправо для %s.</string>
+    <string name="description_direction_up">Свайп вгору для %s.</string>
+    <string name="description_direction_down">Свайп вниз для %s.</string>
+    <string name="description_direction_left">Свайп вліво для %s.</string>
+    <string name="description_direction_right">Свайп вправо для %s.</string>
     <string name="description_target_search">Пошук</string>
     <string name="tab_notifications_lable">Сповіщення</string>
     <string name="tab_toggles_lable">Перемикачі</string>
@@ -162,9 +161,9 @@
     <string name="usb_mode_mount_storage_title">Підключити USB накопичувач?</string>
     <string name="mount_storage">Так</string>
     <string name="dismount_storage">Ні</string>
-    <string name="usb_notification">Під\'єднання по USB</string>
+    <string name="usb_notification">USB підключений</string>
     <string name="usb_notification_mtp_info">Доступ до даних з комп\'ютера</string>
-    <string name="usb_notification_ptp_info">Доступ до світлин з комп\'ютера</string>
+    <string name="usb_notification_ptp_info">Доступ до фото з комп\'ютера</string>
     <string name="usb_notification_mtp_problem">Допомога</string>
     <string name="usb_ptp_text">Світлини</string>
     <string name="usb_mtp_text">Файли</string>
@@ -172,12 +171,12 @@
     <string name="usb_notification_ptp_ticker_text">Під\'єднання по USB (Світлини)</string>
     <string name="move_data_to_sdcard_title">Експорт внутрішніх даних на SD карту</string>
     <string name="move_data_to_sdcard_message">Всі Ваші дані з внутрішньої пам\'яті (світлини, контакти) буде пересунуто на SD карту.</string>
-    <string name="user_guide_for_notification">Отримано нове сповіщення, потягніть вниз статусний рядок для отримання деталей</string>
+    <string name="user_guide_for_notification">Потягніть вниз статусний рядок для отримання деталей</string>
     <string name="user_guide_for_toggle">Список перемикачів можна прокручувати горизонтально</string>
     <string name="user_guide_for_toggle_list">Керування перемикачами</string>
     <string name="user_guide_for_call">Для повернення в інтерфейс телефону потягніть униз статусний рядок і натисніть на сповіщення про виклик</string>
     <string name="return_to_incall_screen">Вернутися до виклику</string>
-    <string name="call_status_dialing">Викликається</string>
+    <string name="call_status_dialing">Набір</string>
     <string name="status_bar_toggle_ac">Доступ</string>
     <string name="status_bar_toggle_bluetooth">BT</string>
     <string name="status_bar_toggle_brightness">Яскравість</string>
@@ -204,13 +203,13 @@
     <string name="screen_button_enabled_message">Функції кнопок на нижньому екрані вимкнені</string>
     <string name="screen_button_notification_title">Навігаційні клавіши вимкнені</string>
     <string name="screen_button_notification_text">Для увімкнення клавіш натисніть \"Додому\"+\"Вимкнути\"</string>
-    <string name="status_bar_style_settings">Налаштування сповіщень</string>
+    <string name="status_bar_style_settings">Сповіщення</string>
     <string name="settings_toggle_layout_style">Стиль перемикачів</string>
     <string name="settings_toggle_layout_style_compact">Строка</string>
     <string name="settings_toggle_layout_style_single_page">Сітка</string>
     <string name="settings_toggle_layout_style_applying">Змінюю стиль перемикачів…</string>
     <string name="settings_toggle">Перемикачі</string>
-    <string name="settings_toggle_position">Розміщення перемикачів</string>
+    <string name="settings_toggle_position">Керування перемикачами</string>
     <string name="settings_toggle_position_divider_page">У верхній панелі є %1$d перемикачів</string>
     <string name="settings_toggle_position_divider_list">Перемикачі, що є у верхній панелі</string>
     <string name="settings_toggle_position_reset">Впорядкувати по замовчанню</string>
@@ -255,14 +254,14 @@
     <string name="notification_otg_unknow_in">Пристрій OTG під\'єднано</string>
     <string name="notification_otg_unknow_out">Пристрій OTG від\'єднано</string>
     <string name="mdb_restore_label">Відновлення MDB</string>
-    <string name="mdb_restore_info1">Відновить дані телефону</string>
-    <string name="mdb_restore_info2">Не раз\'єднуйте з\'єднання по USB</string>
+    <string name="mdb_restore_info1">Відновлення даних телефону</string>
+    <string name="mdb_restore_info2">Не вимикайте USB</string>
     <string name="mdb_restore_cancel">Відміна</string>
-    <string name="mdb_usb_disconnection_exit">USB від\'єднано.</string>
+    <string name="mdb_usb_disconnection_exit">USB вимкнено</string>
     <string name="mdb_restore_mode">Режим відновлення</string>
-    <string name="mdb_entering">Вхід…</string>
+    <string name="mdb_entering">Запуск…</string>
     <string name="status_bar_recording_back">Вернутися в Диктофон</string>
-    <string name="status_bar_recording_pause">Запис на паузі. Натисніть для повернення до Диктофону</string>
+    <string name="status_bar_recording_pause">Запис на паузі</string>
     <string name="headset_settings">Навушники під\'єднано</string>
     <string name="headset_info">Налагодити кнопки</string>
     <string name="headset_custom">Налагодити</string>
@@ -277,10 +276,10 @@
     <string name="no_vibrate_hint">У відповідності до Ваших налаштувань, вібрацію вимкнено при вхідному виклику та включення вібрації при SMS не буде мати ефекту</string>
     <string name="to_vibrate_settings">Налаштування вібрації</string>
     <string name="camera_key_action_title">Кнопка MI</string>
-    <string name="camera_key_action_setting_title">Кнопка MI</string>
+    <string name="camera_key_action_setting_title">MI кнопка</string>
     <string name="camera_key_action_category_title">Використовуйте, якщо положення камери не відкрито</string>
     <string name="camera_key_action_none_title">Нема дії</string>
-    <string name="camera_key_action_shortcut_title">Посилання</string>
+    <string name="camera_key_action_shortcut_title">Ярлик</string>
     <string name="camera_key_action_toggle_title">Запуск перемикача</string>
     <string name="camera_key_action_app_title">Відкрити додаток</string>
     <string name="camera_key_action_shortcut_home">Вернутися на робочий стіл</string>
@@ -289,34 +288,48 @@
     <string name="camera_key_action_shortcut_call">Виклик</string>
     <string name="camera_key_action_shortcut_wake">Заблокувати/Розблокувати</string>
     <string name="torch_activity_name">Ліхтарик</string>
-    <string name="torch_activity_hint">Ви можете швидко увімкнути ліхтарик, утримуючи [icon] на екрані блокування</string>
+    <string name="torch_activity_hint">Утримуйте [icon] на екрані блокування фонарику</string>
     <string name="lockscreen_carrier_default">Немає мережі</string>
     <string name="chooseUsbActivity">Виберіть додаток для USB пристрою</string>
     <string name="usb_storage_title">USB під\'єднано</string>
-    <string name="usb_storage_message">Ви під\'єднали комп\'ютер по USB. Натисніть на кнопку внизу, якщо хочете скопіювати файли між комп\'ютером та USB накопичувачем смартфону.</string>
-    <string name="usb_storage_error_message">Виникла проблема при використанні Вашого USB накопичувача як змінного носія.</string>
+   <string name="usb_storage_message" product="nosdcard">Ви підключили комп\'ютер по USB. Натисніть на кнопку внизу, якщо прагнете скопіювати файли між комп\'ютером і USB накопичувачем</string>
+     <string name="usb_storage_message" product="default">Ви підключили комп\'ютер по USB. Натисніть на кнопку внизу, якщо прагнете скопіювати файли між комп\'ютером і SD картою</string>
+     <string name="usb_storage_error_message" product="nosdcard">Виникла проблема при використанні Вашого USB накопичувача як знімного носія</string>
+     <string name="usb_storage_error_message" product="default">Виникла проблема з вашою SD картою</string>
     <string name="usb_storage_notification_title">USB під\'єднано</string>
     <string name="usb_storage_notification_message">Виберіть для копіювання файлів на/з комп\'ютера.</string>
     <string name="usb_storage_stop_notification_title">Вимкнути USB накопичувач</string>
     <string name="usb_storage_stop_notification_message">Виберіть, щоб вимкнути USB накопичувач.</string>
     <string name="usb_storage_stop_title">Використовується USB накопичувач</string>
-    <string name="usb_storage_stop_message">Перед вимкненням USB накопичувача перевірте, що "від\'єднали" USB накопичувач смартфону з комп\'ютера.</string>
+      <string name="usb_storage_stop_message" product="nosdcard">Перед вимиканням USB накопичувача впевніться, що \"витягли\" USB накопичувач із комп\'ютера</string>
+     <string name="usb_storage_stop_message" product="default">Перед вимиканням USB накопичувача впевніться, що \"витягли\" SD карту з комп\'ютера</string>
     <string name="dlg_confirm_kill_storage_users_title">Увімкнути USB накопичувач</string>
-    <string name="dlg_confirm_kill_storage_users_text">При під\'єднанні USB накопичувача, деякі додатки можуть бути зупинені та будуть недосяжними поки Ви не від\'єднаєте USB накопичувач.</string>
+    <string name="dlg_confirm_kill_storage_users_text">При під\'єднанні USB накопичувача деякі додатки можуть бути зупинені та будуть недосяжними поки Ви не від\'єднаєте USB накопичувач.</string>
     <string name="dlg_error_title">Невдала USB операція</string>
     <string name="dlg_ok">Так</string>
-    <string name="ext_media_checking_notification_title">Підготування USB накопичувача</string>
+    <string name="ext_media_checking_notification_title" product="nosdcard">Підготування USB накопичувача</string>
+	<string name="ext_media_checking_notification_title" product="default">Подготовка SD карти</string>
     <string name="ext_media_checking_notification_message">Перевірка на помилки.</string>
-    <string name="ext_media_nofs_notification_title">Пустий USB накопичувач</string>
-    <string name="ext_media_nofs_notification_message">USB пристрій порожній або його файлова система не підтримується.</string>
-    <string name="ext_media_unmountable_notification_title">USB накопичувач пошкоджено</string>
-    <string name="ext_media_unmountable_notification_message">Можливо прийдеться відформатувати його.</string>
-    <string name="ext_media_badremoval_notification_title">USB неочікувано від\'єднано</string>
-    <string name="ext_media_badremoval_notification_message">Від\'єднайте накопичувач перед витягуванням.</string>
-    <string name="ext_media_safe_unmount_notification_title">USB можна витягувати</string>
-    <string name="ext_media_safe_unmount_notification_message">Від\'єднайте накопичувач.</string>
-    <string name="ext_media_nomedia_notification_title">USB накопичувач від\'єднано</string>
-    <string name="ext_media_nomedia_notification_message">USB накопичувач від\'єднано.</string>
+    <string name="ext_media_nofs_notification_title" product="nosdcard">Порожній USB накопичувач</string>
+     <string name="ext_media_nofs_notification_title" product="default">Порожня SD карта</string>
+     <string name="ext_media_nofs_notification_message" product="nosdcard">USB накопичувач порожній або файлова система не підтримується</string>
+     <string name="ext_media_nofs_notification_message" product="default">SD карта порожня або файлова система не підтримується</string>
+     <string name="ext_media_unmountable_notification_title" product="nosdcard">USB накопичувач ушкоджений</string>
+     <string name="ext_media_unmountable_notification_title" product="default">SD карта ушкоджена</string>
+     <string name="ext_media_unmountable_notification_message" product="nosdcard">Можливо прийдеться відформатувати USB накопичувач</string>
+     <string name="ext_media_unmountable_notification_message" product="default">Можливо прийдеться відформатувати SD карту</string>
+     <string name="ext_media_badremoval_notification_title" product="nosdcard">USB зненацька від\’єднаний</string>
+     <string name="ext_media_badremoval_notification_title" product="default">SD карта зненацька від\’єднана</string>
+     <string name="ext_media_badremoval_notification_message" product="nosdcard">Витягніть USB накопичувач перед від\'єднанням</string>
+     <string name="ext_media_badremoval_notification_message" product="default">Витягніть SD карту перед від\'єднанням</string>
+     <string name="ext_media_safe_unmount_notification_title" product="nosdcard">USB можна від\'єднати</string>
+     <string name="ext_media_safe_unmount_notification_title" product="default">SD карту можна від\'єднати</string>
+     <string name="ext_media_safe_unmount_notification_message" product="nosdcard">Від\'єднаєте USB накопичувач</string>
+     <string name="ext_media_safe_unmount_notification_message" product="default">Від\'єднаєте SD карту</string>
+     <string name="ext_media_nomedia_notification_title" product="nosdcard">USB накопичувач від\’эднаний</string>
+     <string name="ext_media_nomedia_notification_title" product="default">SD карта від\’эднана </string>
+     <string name="ext_media_nomedia_notification_message" product="nosdcard"> USB накопичувач від\’эднаний.</string>
+     <string name="ext_media_nomedia_notification_message" product="default">SD карта від\’эднана.</string>
     <string name="screen_button_custom">Налаштувати положення екранних клавіш</string>
     <string name="recent_apps_key">Клавіша \"Нещодавні додатки\"</string>
     <string name="recent_apps_key_show">Показати клавішу \"Нещодавні додатки\"</string>
@@ -328,7 +341,7 @@
     <string name="status_bar_network_flow_today">Сьогодні: %1$s</string>
     <string name="status_bar_network_flow">Сьогодні:%1$s Залишок:%2$s Пакет:%3$s</string>
     <string name="status_bar_network_flow_exceed">Сьогодні:%1$s Перебільшено:%2$s Пакет:%3$s</string>
-    <string name="drive_mode_tip">Ви за кермом автомобілю. Будьте пильними!</string>
+    <string name="drive_mode_tip">Ви в режимі \"За кермом\"</string>
     <string name="recording_tip">Натисніть, для повернення до запису</string>
     <string name="no_notification_tips">Немає сповіщень</string>
     <string name="ext_media_mountable_notification_title">USB накопичувач під\'єднано</string>
@@ -337,18 +350,18 @@
 	<string name="status_bar_toggle_wifi_ap">Точка доступу Wi-Fi</string>
     <string name="status_bar_toggle_quiet_mode">Тихий режим</string>
     <string name="settings_notification_bar">Панель Сповіщень</string>
-    <string name="settings_status_bar">Панель Статусу</string>
+    <string name="settings_status_bar">Панель статусу</string>
 	<string name="settings_custom_notification">Налаштування сповіщень</string>
     <string name="settings_all_app_display_loading">Завантаження…</string>
     <string name="settings_show_notificationBar_notification">Відображувати сповіщення</string>
-    <string name="settings_show_statusBar_notification">Сповіщення в Панелі Статусу</string>
+    <string name="settings_show_statusBar_notification">Сповіщення в панелі статусу</string>
     <string name="filter_item_preview_image">Попередній перегляд</string>
-	<string name="filter_item_description">Ви можете задати користувацькі налаштування відображення сповіщень для кожного додатку.</string>
+	<string name="filter_item_description">Для налаштування сповіщень зайдіть в налаштування &gt; Панель повідомлень &gt; Налаштування повідомлень</string>
 	<string name="usb_share_net_info">Використовувати інтернет комп\'ютера</string>
     <string name="torch_opened">Ліхтарик запущено</string>
     <string name="torch_closed">Ліхтарик закрито</string>
 	<string name="oldman_airplane_mode_text">В літаку</string>
-    <string name="status_bar_and_notification_bar">Панель повідомлень і статусбар</string>
+    <string name="status_bar_and_notification_bar">Панель повідомлень і статус бар</string>
     <string name="settings_show_screenshot_notification">Повідомлення про скриншот</string>
     <string name="settings_show_carrier">Назва оператора</string>
     <string name="settings_custom_carrier">Змінити назву оператора</string>
@@ -360,4 +373,5 @@
     <string name="accessibility_camera_button">Камера</string>
 	<string name="call_status_ringing">Виклик</string>
     <string name="reject_call">Відхилити виклик</string>
+	<string name="oldman_incall_text">в виклику</string>
 </resources>
