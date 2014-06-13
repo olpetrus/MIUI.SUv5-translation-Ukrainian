@@ -176,8 +176,8 @@
      <string name="sim_missing_slot2">Не виявлена SIM карта(Слот 2)</string>
      <string name="sim_missing">Не виявлені SIM карти</string>
      <string name="sim_missing_detail">Перевірте готовність SIM карти</string>
-     <string name="wap_push_setting_noti_ticker">Дозволити Push-Службу?</string>
-     <string name="wap_push_setting_noti_title">Дозволити Push-Службу чи ні?</string>
+     <string name="wap_push_setting_noti_ticker">Дозволити PUSH Службу?</string>
+     <string name="wap_push_setting_noti_title">Дозволити PUSH Службу чи ні?</string>
      <string name="wap_push_setting_noti_text">Натисніть для вибору</string>
      <string name="url_dialog_choice_title">Повідомлення</string>
      <string name="url_dialog_choice_message">Це відкриє браузер, продовжити?</string>
