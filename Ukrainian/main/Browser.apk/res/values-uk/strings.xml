@@ -617,10 +617,10 @@
 	<string name="add_quicklink_to_popular">Додати в популярні</string>
 	<string name="quicklink_saved_before">Посилання вже додано в популярні</string>
 	<string name="pref_content_block_float_popups">Блокувати спливаючі вікна</string>
-    <string name="miui_search_notification_title">Пошук у браузері</string>
-    <string name="miui_search_notification_message">Натисніть, щоб відкрити.</string>
-    <string name="miui_quicksearch_enable_pref_title">Швидкий пошук</string>
-    <string name="miui_quicksearch_enable_pref_summary">Включити швидкий пошук у панелі повідомлень.</string>
+    <string name="miui_search_notification_title">Пошук</string>
+    <string name="miui_search_notification_message">Натисніть, щоб відкрити панель пошуку.</string>
+    <string name="miui_quicksearch_enable_pref_title">Пошук в панелі сповіщень</string>
+    <string name="miui_quicksearch_enable_pref_summary">Завжди відображати панель пошуку в панелі сповіщень</string>
 	<string name="network_alert_message">Мережа Wi-Fi недоступна, використовувати мобільний інтернет?</string>
     <string name="yes">Гаразд</string>
     <string name="no">Скасувати</string>

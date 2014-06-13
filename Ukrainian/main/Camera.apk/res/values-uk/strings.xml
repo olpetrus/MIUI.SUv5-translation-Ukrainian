@@ -768,10 +768,10 @@
     <string name="S_MMC">Карта пам\'яті</string>
     <string name="RM_NORMAL">Звичайний</string>
     <string name="RM_MMS">Відео для MMS</string>
-    <string name="RM_EMAIL">Обмеження для e-mail</string>
+    <string name="RM_EMAIL">Обмеження для Email</string>
     <string name="RM_SLOW">Уповільнений рух</string>
     <string name="RM_FAST">Швидкий рух</string>
-    <string name="CS_PROGRESS_TEXT">Створення зображення. Зачекайте…</string>
+    <string name="CS_PROGRESS_TEXT">Створення зображення…</string>
     <string name="SCN_NONE">Ні</string>
     <string name="SCN_PORTRAIT">Портрет</string>
     <string name="SCN_LANDSCAPE">Пейзаж</string>
