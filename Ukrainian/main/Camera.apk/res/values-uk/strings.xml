@@ -10,7 +10,7 @@
     <string name="gallery_camera_bucket_name">Фотокамера</string>
     <string name="gallery_camera_videos_bucket_name">Відеокамера</string>
     <string name="wait">Завантаження…</string>
-    <string name="no_storage">Під\'єднайте SD-карту перед використанням камери</string>
+    <string name="no_storage">Під\'єднайте SD карту перед використанням камери</string>
     <string name="not_enough_space">Пам\'ять заповнена</string>
     <string name="preparing_sd">Підготування внутрішньої пам\'яті…</string>
     <string name="access_sd_fail">Немає доступу до USB накопичувача.</string>
@@ -460,7 +460,7 @@
     <string name="pref_camera_movie_solid_entry_on">Увімкнена</string>
     <string name="pref_camera_storage_external_title">Накопичувач</string>
     <string name="pref_camera_storage_external_entry_off">Пам\'ять телефону</string>
-    <string name="pref_camera_storage_external_entry_on">SD-карта</string>
+    <string name="pref_camera_storage_external_entry_on">SD карта</string>
     <string name="unit_mm">мм</string>
     <string name="share">Поділитися</string>
     <string name="send">Надіслати</string>

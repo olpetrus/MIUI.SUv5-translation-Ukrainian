@@ -45,8 +45,8 @@
         <item quantity="one">Додатків: %d \nДоступ до читання сповіщень.</item>
     </plurals>
 	<plurals name="wrong_pin_code">
-	    <item quantity="other">Невірний PIN-код. Залишилось спроб: %d.</item>
-        <item quantity="one">Невірний PIN-код. Залишилось спроб: %d.</item>
+	    <item quantity="other">Невірний PIN код. Залишилось спроб: %d.</item>
+        <item quantity="one">Невірний PIN код. Залишилось спроб: %d.</item>
 	</plurals>
     <plurals name="print_search_result_count_utterance">
 	    <item quantity="other">Знайдено принтерів: %1$s</item>

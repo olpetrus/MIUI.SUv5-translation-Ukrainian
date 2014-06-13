@@ -38,7 +38,7 @@
      <string name="keyguard_password_wrong_sim2_pin_code">Неправильний PIN код для SIM2!</string>
      <string name="keyguard_password_enter_sim1_puk_code">Введіть PUK для SIM1</string>
      <string name="keyguard_password_enter_sim2_puk_code">Введіть PUK для SIM2</string>
-     <string name="lockscreen_sim1_puk_locked_message">SIM1 PUK-Заблокована</string>
+     <string name="lockscreen_sim1_puk_locked_message">SIM1 PUK Заблокована</string>
      <string name="lockscreen_sim2_puk_locked_message">SIM2 PUK -Заблокована</string>
      <string name="choose_bootup_mode"> Будь ласка, виберіть SIM</string>
      <string name="choose_gprs_mode">Виберіть передачу даних</string>
@@ -87,9 +87,9 @@
      <string name="Mmrejectcause5">Виклик не вдався MM #5</string>
      <string name="Mmrejectcause6">Виклик не дозволений MM #6</string>
      <string name="usbint_notification_title">USB інтернет активний</string>
-     <string name="wifi_display_bt_off_wfd_on"> При включенні Wi-Fi-Дисплея функція Bluetooth буде відключена. Продовжити?</string>
-     <string name="wifi_display_wfd_off_bt_on"> При включенні Bluetooth Wi-Fi-Дисплей буде відключений. Продовжити?</string>
-     <string name="wifi_display_wifi_p2p_disconnect_wfd_connect"> При підключенні Wi-Fi-Дисплея поточне підключення Wi-Fi Direct буде перервано. Продовжити?</string>
+     <string name="wifi_display_bt_off_wfd_on"> При включенні Wi-FiДисплея функція Bluetooth буде відключена. Продовжити?</string>
+     <string name="wifi_display_wfd_off_bt_on"> При включенні Bluetooth Wi-FiДисплей буде відключений. Продовжити?</string>
+     <string name="wifi_display_wifi_p2p_disconnect_wfd_connect"> При підключенні Wi-FiДисплея поточне підключення Wi-Fi Direct буде перервано. Продовжити?</string>
      <string name="Videoview_error_text_invalid_connection">Помилка з\'єднання (Помилка 403)</string>
      <string name="redo">Повтор</string>
      <string name="undo">Скасування</string>

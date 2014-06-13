@@ -62,7 +62,7 @@
 	<string name="saved_to_sim">Збережено</string>
 	<string name="sim_card_cloud">%s (повідомлення в хмарах)</string>
 	<string name="forward_from">Від:</string>
-    <string name="add_slide_hint">Натисніть, щоб додати</string>
+    <string name="add_slide_hint">Натисніть щоб додати</string>
     <string name="discard_slideshow">Скасувати слайдшоу</string>
     <string name="slide_show_part">Частина %1$s з %2$s</string>
     <string name="remove_text">Видалити текст</string>

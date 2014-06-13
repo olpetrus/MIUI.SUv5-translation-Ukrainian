@@ -8,10 +8,10 @@
     <string name="apply_last_fix">Застосувати останню локацію</string>
     <string name="locale">Обмежити</string>
     <string name="select">Вибрати</string>
-    <string name="gps_on">GPS (Увмк.)</string>
-    <string name="gps_off">GPS (Вимк.)</string>
-    <string name="stress_on">Стрес тест (Увмк.)</string>
-    <string name="stress_off">Стрес тест (Вимк.)</string>
+    <string name="gps_on">GPS (Увімкнений)</string>
+    <string name="gps_off">GPS (Вимкнений)</string>
+    <string name="stress_on">Стрес тест (Увімкнений)</string>
+    <string name="stress_off">Стрес тест (Вимкнений)</string>
     <string name="delete">Видалити</string>
     <string name="ref_latlng">Ref позиція</string>
     <string name="log_nmea">Журнал NMEA</string>

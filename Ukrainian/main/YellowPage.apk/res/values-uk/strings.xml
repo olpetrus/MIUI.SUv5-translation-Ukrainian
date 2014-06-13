@@ -162,7 +162,7 @@
     <string name="locating_fail">Помилка визначення розташування, перевірте параметри служби.</string>
 	<string name="recharge_my_phone_number">Мій номер</string>
     <string name="recharge_unknown_number">Невідомий</string>
-	<string name="balance_inquiry_send_sms_fail_hint">Помилка відправлення SNS. Перевірте стан SIM-карки.</string>
+	<string name="balance_inquiry_send_sms_fail_hint">Помилка відправлення SNS. Перевірте стан SIM карки.</string>
 	<string name="nearby_yellow_page_title">Поблизу</string>
     <string name="nearby_no_yellow_page">Нема результатів</string>
 	<string name="mark_title_null_hint">Введення не може бути порожнім</string>

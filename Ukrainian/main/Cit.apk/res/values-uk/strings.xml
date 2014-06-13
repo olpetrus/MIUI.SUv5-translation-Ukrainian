@@ -147,8 +147,8 @@
    <string name="cit_sim_sim_operator_name">Ім\'я постачальника SIM:</string>
    <string name="cit_sim_state_absent">Немає SIM карти</string>
    <string name="cit_sim_state_network_locked">PIN</string>
-   <string name="cit_sim_state_pin_required">Потрібно Pin-Код</string>
-   <string name="cit_sim_state_puk_required">Потрібно Puk-Код</string>
+   <string name="cit_sim_state_pin_required">Потрібно PIN код</string>
+   <string name="cit_sim_state_puk_required">Потрібно PUK код</string>
    <string name="cit_sim_state_ready">SIM карта готова до використання</string>
    <string name="cit_sim_state_unkown">Невідомий стан</string>
    <string name="cit_start_calibration">Початок калібрування</string>

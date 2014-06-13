@@ -141,7 +141,7 @@
  	<string name="exit_share_in_process">Вихід з альбому…</string>
  	<string name="exit_share_successfully">Вихід з альбому %1$s завершений</string>
  	<string name="exposure_time">Витримка</string>
- 	<string name="external_sd_card"> SD-карта</string>
+ 	<string name="external_sd_card">SD карта</string>
  	<string name="external_usb_device"> USB накопичувач</string>
  	<string name="facelift">Сяйво</string>
  	<string name="facetan">Засмага</string>
@@ -301,7 +301,7 @@
  	<string name="screensaver_category">Заставка</string>
  	<string name="screensaver_path">"Альбом заставки: "</string>
  	<string name="screensaver_path_not_set">не заданий</string>
- 	<string name="sd_not_available"> SD-карта відключена або недоступна</string>
+ 	<string name="sd_not_available">SD карта відключена або недоступна</string>
  	<string name="seconds">сік</string>
  	<string name="select_album">Режим редагування</string>
  	<string name="select_all">Вибрати всі</string>

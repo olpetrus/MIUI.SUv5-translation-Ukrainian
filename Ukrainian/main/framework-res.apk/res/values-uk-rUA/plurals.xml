@@ -92,8 +92,8 @@
         <item quantity="one">1 збіг</item>
     </plurals>
 	    <plurals name="pinpuk_attempts">
-        <item quantity="other">Залишилось спроб до блокування SIM-карти: %d.</item>
-        <item quantity="one">Залишилось спроб до блокування SIM-карти: %d</item>
+        <item quantity="other">Залишилось спроб до блокування SIM карти: %d.</item>
+        <item quantity="one">Залишилось спроб до блокування SIM карти: %d</item>
     </plurals>
     <plurals name="restr_pin_countdown">
         <item quantity="other">Повторіть через %d сік</item>

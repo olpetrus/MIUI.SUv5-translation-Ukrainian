@@ -766,7 +766,7 @@
     <string name="fd_turn_on">Увімкнути</string>
     <string name="fd_turn_off">Вимкнути</string>
     <string name="fd_ok">Гаразд</string>
-    <string name="fd_simcard_text">SIM-карта:</string>
+    <string name="fd_simcard_text">SIM карта:</string>
     <string name="fd_sim1_text">SIM1</string>
     <string name="fd_sim2_text">SIM2</string>
     <string name="fd_text_screen_on">Увмк. екран</string>
