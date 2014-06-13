@@ -588,10 +588,10 @@
      <string name="recipient_needed">Одержувач не обраний</string>
      <string name="recipient_error_dialog_title">Помилка відправлення</string>
      <string name="confirm_send_title">Відправити повідомлення?</string>
-     <string name="confirm_send_message_with_no_subject">Тема не зазначена</string>
-     <string name="confirm_send_message_with_no_body">Немає тексту</string>
+     <string name="confirm_send_message_with_no_subject">Тема не зазначена.</string>
+     <string name="confirm_send_message_with_no_body">Немає тексту.</string>
      <string name="confirm_send_message">Відправити повідомлення?</string>
-     <string name="message_discarded">Повідомлення вилучене</string>
+     <string name="message_discarded">Повідомлення вилучене.</string>
      <string name="signature">"
  
  % s"</string>
@@ -617,7 +617,7 @@
      <string name="menu_compose">Створити</string>
      <string name="menu_change_folders">Змінити папки</string>
      <string name="menu_move_to">Перемістити</string>
-     <string name="menu_move_to_inbox">Перемістити в папку \"Вхідні\"</string>
+     <string name="menu_move_to_inbox">Перемістити у \"Вхідні\"</string>
      <string name="menu_manage_folders">Настроювання папок</string>
      <string name="report_rendering_problem">Виглядає погано</string>
      <string name="report_rendering_improvement">Має гарний вигляд</string>
@@ -904,7 +904,7 @@
      <string name="mailbox_name_server_junk">Junk</string>
      <string name="mailbox_name_server_starred">Starred</string>
      <string name="mailbox_name_server_all_unread">Unread</string>
- 	 <string name="contact_select">Вибрати контакти</string>
+ 	 <string name="contact_select">Вибрытьконтакти</string>
  	 <string name="request_entity_large">Запитуваний файл занадто великий</string>
      <string name="conversation_item_mark_read">Прочитане</string>
      <string name="conversation_item_mark_unread">Не прочитане</string>
