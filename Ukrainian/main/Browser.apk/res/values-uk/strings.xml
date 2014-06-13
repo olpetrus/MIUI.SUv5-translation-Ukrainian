@@ -805,4 +805,17 @@
     <string name="miuichromium_error_page_reason_server">Браузер не може завантажити сторінку</string>
     <string name="miuichromium_error_page_reload">Оновити</string>
     <string name="miuichromium_error_page_url">Показати URL сторінки</string>
+	    <string name="webapp_add_to_favorite_toast">Додати у верх вибраного</string>
+     <string name="webapp_webapp_favortes_title">Вибране</string>
+     <string name="webapp_menu_addtodesk">Додати на робочий стіл</string>
+     <string name="webapp_menu_already_addtodesk">Уже додане на робочий стіл</string>
+     <string name="webapp_menu_share">Відправити</string>
+     <string name="webapp_menu_settings">Настроювання</string>
+     <string name="webapp_menu_nightmode">Нічний режим</string>
+     <string name="webapp_menu_favorites">Вибране</string>
+     <string name="webapp_menu_exit">Вихід</string>
+     <string name="webapp_settings_title">Настроювання</string>
+     <string name="pref_webapp_settings_fontsize">Розмір шрифту</string>
+     <string name="pref_webapp_settings_savewidth">2G/3G не завантажує зображення</string>
+     <string name="pref_webapp_settings_hidebottombar">Завжди ховати нижню панель</string>
 </resources>
