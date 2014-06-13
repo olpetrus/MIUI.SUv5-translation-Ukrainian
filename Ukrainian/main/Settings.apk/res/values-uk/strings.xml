@@ -4369,4 +4369,16 @@ Android File Transfer
     <string name="xiaomi_router_notif_summary">Повідомляти коли доступний роутер Xiaomi.</string>
     <string name="xiaomi_router_available_notif_title">Доступний роутер Xiaomi</string>
     <string name="xiaomi_router_available_notif_summary">Натисніть для перегляду</string>
+	<string name="bugreport_tool_log">Записати звіт</string>
+    <string name="modem_tool_log">Записати звіт модему</string>
+    <string name="modem_tool_log_start">Почати запис</string>
+    <string name="modem_tool_log_stop">Зупинити запис</string>
+    <string name="modem_tool_log_start_toast">Почати запис звіту модему в %s</string>
+    <string name="modem_tool_log_stop_toast">Зупинити запис звіту модему з %s</string>
+ 	<string name="app_feedback">Звіти</string>
+    <string name="app_backup">Бекап</string>
+    <string name="google_backup_section_title">Бекап Google</string>
+    <string name="system_backup_section_title">Бекап системи</string>
+    <string name="local_backup_section_title">Локальний бекап</string>
+    <string name="local_backup_section_summary">Резервні копії даних</string>
 </resources>
