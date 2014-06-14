@@ -128,4 +128,16 @@
          <item>dianping</item>
          <item>bing</item>
     </string-array>
+	<string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Комп\'ютер</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+     </string-array>
+ 	<string-array name="pre_webapp_text_sizes">
+        <item>Великий</item>
+        <item>Середній</item>
+        <item>Нормальний</item>
+        <item>Дрібний</item>
+     </string-array>
 </resources>
