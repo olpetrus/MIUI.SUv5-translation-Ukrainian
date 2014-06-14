@@ -780,7 +780,7 @@
     <string name="sub_sync_item_browser_title_novel">Книги</string>
     <string name="sub_sync_item_browser_title_novel_summary">Синхронізувати книги браузера</string>
     <string name="sub_sync_item_browser_title_cloud_tab">Вкладки</string>
-    <string name="sub_sync_item_browser_title_cloud_tab_summary">Синхронізації відкритих вкладок браузера</string>
+    <string name="sub_sync_item_browser_title_cloud_tab_summary">Синхронізувати відкриті вкладинки браузера</string>
  	<string name="miui_content_select">Вибрати</string>
     <string name="miui_content_select_all">Вибрати всі</string>
     <string name="miui_content_cut">Вирізати</string>
@@ -818,4 +818,12 @@
      <string name="pref_webapp_settings_fontsize">Розмір шрифту</string>
      <string name="pref_webapp_settings_savewidth">2G/3G не завантажує зображення</string>
      <string name="pref_webapp_settings_hidebottombar">Завжди ховати нижню панель</string>
+	 <string name="sub_sync_item_browser_title_webapp">Веб додатки</string>
+    <string name="sub_sync_item_browser_title_webapp_summary">Синхронізувати додані веб додатки і обране</string>
+ +    <string name="loading_tips">Потягніть вниз, щоб оновити</string>
+ +    <string name="up_to_loading_tips">Відпустіть, щоб оновити</string>
+ +    <string name="cloud_loading_tips">Потягніть вниз, щоб синхронізувати</string>
+ +    <string name="cloud_up_to_loading_tips">Відпустіть, щоб синхронізувати</string>
+ +    <string name="cloud_time_tips">Остання синхронізація</string>
+ +    <string name="cloud_no_new_data_toast">Немає нових даних, повторіть пізніше</string>
 </resources>

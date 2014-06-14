@@ -70,14 +70,14 @@
         <item>Я</item>
     </string-array>
     <string-array name="alarm_in_future">
-        <item>Будильник менше ніж через хвилину</item>
-        <item>Будильник через %1$s</item>
-        <item>Будильник через %2$s</item>
-        <item>Будильник через %1$s та %2$s</item>
-        <item>Будильник через %3$s</item>
-        <item>Будильник через %1$s та %3$s</item>
-        <item>Будильник через %2$s та %3$s</item>
-        <item>Будильник через %1$s, %2$s та %3$s</item>
+        <item>Будильник задзвонить менше ніж через хвилину</item>
+        <item>Будильник задзвонить через %1$s</item>
+        <item>Будильник задзвонить через %2$s</item>
+        <item>Будильник задзвонить через %1$s та %2$s</item>
+        <item>Будильник задзвонить через %3$s</item>
+        <item>Будильник задзвонить через %1$s та %3$s</item>
+        <item>Будильник задзвонить через %2$s та %3$s</item>
+        <item>Будильник задзвонить через %1$s, %2$s та %3$s</item>
     </string-array>
     <string-array name="contact_entries">
         <item>Ім\'я</item>
