@@ -4381,6 +4381,6 @@ Android File Transfer
     <string name="google_backup_section_title">Бекап Google</string>
     <string name="system_backup_section_title">Бекап системи</string>
     <string name="local_backup_section_title">Локальний бекап</string>
-    <string name="local_backup_section_summary">Резервне копирование даних</string>
- 	<string name="bluetooth_device_address">Адрес устройства:</string>
+    <string name="local_backup_section_summary">Резервне копіювання даних</string>
+ 	<string name="bluetooth_device_address">Адреса пристрою:</string>
 </resources>
