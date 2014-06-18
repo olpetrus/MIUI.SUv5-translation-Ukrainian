@@ -726,4 +726,8 @@
          <item>низький</item>
          <item>критичний</item>
      </string-array>
-</resources>
+    <string-array name="perm_disable_keyguard_action">
+         <item>Дозволити</item>
+         <item>Заборонити</item>
+    </string-array>
+ </resources>
