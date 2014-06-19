@@ -74,7 +74,7 @@
          <item>Величезний</item>
       </string-array>
       <string-array name="pref_volume_key_choices">
-         <item>Прокручування сторінки</item>
+         <item>Перемикання сторінок</item>
          <item>Перемикання вкладок</item>
 		 </string-array>
  	 <string-array name="google">

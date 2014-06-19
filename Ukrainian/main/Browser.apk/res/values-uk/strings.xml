@@ -250,7 +250,8 @@
 	<string name="menu_save_bandwidth_mode_open_toast">Обмеження мобільного трафіку включено</string>
 	<string name="menu_save_bandwidth_mode_close_toast">Обмеження мобільного трафіку відключено</string>
 	<string name="pref_data_preload_title">Попереднє завантаження результатів пошуку</string>
-	<string name="modify_download_path_no_sdcard_dlg_msg">USB накопичувач відключений</string>
+	<string name="modify_download_path_no_sdcard_dlg_msg" product="nosdcard">Потребується USB накопичувач для зміни шляху</string>
+	<string name="modify_download_path_no_sdcard_dlg_msg" product="default">Потребується SD карта для зміни шляху</string>
 	<string name="pref_data_preload_summary">": Дозволити браузеру  завантажувати результати пошуку в фоновому режимі"</string>
 	<string name="pref_data_preload_value_never_summary">"
 Заборонити браузеру попередньо завантажувати результати пошуку у фонi"</string>
@@ -522,8 +523,8 @@
 	<string name="download_complete">Завантаження завершено</string>
 	<string name="download_dialog_file_length_hint_txt">Розмір файлу:</string>
 	<string name="download_dialog_file_length_lessthan1kb">Менш 1 Кб</string>
-	<string name="download_dialog_default_path_invalid">Неприпустимий шлях завантаження, буде використовуватися шлях по-замовчуванням</string>
-	<string name="download_dialog_file_length_nolength_error_txt">невідомо</string>
+	<string name="download_dialog_default_path_invalid">Невірний шлях завантаження, буде використан шлях за замовчуванням</string>
+	<string name="download_dialog_file_length_nolength_error_txt">Завантаження не вдалося</string>
 	<string name="download_dialog_file_length_nolength_txt">Завантаження…</string>
 	<string name="app_update_install">Нова версія завантажена і готова до установки</string>
 	<string name="app_new_version">Завантаження завершене: остання версія додатку вже встановлена</string>
@@ -574,17 +575,17 @@
 	<string name="common_use_phrase_bottom_bar_up_analytic_txt">Розширити</string>
 	<string name="common_use_phrase_bottom_bar_down_analytic_txt">Прибрати</string>
 	<string name="download_default_path_txt">Запам\'ятати вибір</string>
-	<string name="pref_file_download_save_title">Завантажити</string>
+	<string name="pref_file_download_save_title">Завантаження</string>
 	<string name="pref_file_downlaod_save_reset_default_settings">Скинути налаштування</string>
 	<string name="pref_file_downlaod_save_is_reset_default_settings">Відновити налаштування за замовчуванням</string>
 	<string name="pref_file_download_save_modify_default_path">Змінити місце зберігання</string>
-	<string name="geolocation_permissions_prompt_toast_disallowed">У цього сайту немає доступу до данних про ваше місцезнаходження. Щоб змінити параметри, оберіть Налаштування> Додатково > Данні веб-сайтів.</string>
+	<string name="geolocation_permissions_prompt_toast_disallowed">У цього сайту немає доступу до данних про ваше місцезнаходження</string>
 	<string name="pref_content_homepage">Стартова сторінка</string>
 	<string name="search">Пошук</string>
 	<string name="clear_search_history">Очистити історію</string>
-	<string name="bottom_bar_tabs_long_click_up_tip_txt">" Слайд вгору для закриття "</string>
+	<string name="bottom_bar_tabs_long_click_up_tip_txt">Зсуньте вгору для закриття</string>
     <string name="bottom_bar_tabs_long_click_down_tip_txt">" Слайд вниз для закриття "</string>
-    <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Всі вкладки вже закриті</string>
+    <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Це останя вкладка</string>
 	<string name="already_in_top_level">Ця закладка вже нагорі</string>
 	<string name="webapp_app_name">Веб маркет додатків</string>
 	<string name="webapp_dialog_title">Додати додатки на робочий стіл</string>
@@ -759,11 +760,11 @@
     <string name="color_picker_button_black">Чорний</string>
     <string name="color_picker_button_white">Білий</string>
 	<string name="save_image_success">Зображення збережене</string>
-    <string name="save_image_failed">Помилка збереження зображення</string>
+    <string name="save_image_failed">Не вдалося зберегти зображення</string>
     <string name="pref_version_summary">Версія: %s</string>
     <string name="pref_category_title_version">Версія</string>
     <string name="js_disable_confirm_title">Відключити Javascript?</string>
-    <string name="js_disable_confirm_message"> При відключенні Javascript деякі сайти можуть відображатися некоректно.</string>
+    <string name="js_disable_confirm_message">При відключенні Javascript деякі сайти можуть відображатися некоректно</string>
     <string name="cloud_tab">Хмара</string>
     <string name="sync_item_browser_title">Синхронізація даних</string>
     <string name="sync_item_browser_summary">Синхронізувати дані браузера</string>
@@ -812,11 +813,11 @@
      <string name="pref_webapp_settings_hidebottombar">Завжди ховати нижню панель</string>
 	 <string name="sub_sync_item_browser_title_webapp">Веб додатки</string>
     <string name="sub_sync_item_browser_title_webapp_summary">Синхронізувати додані веб додатки і обране</string>
-    <string name="loading_tips">Потягніть вниз, щоб оновити</string>
-    <string name="up_to_loading_tips">Відпустіть, щоб оновити</string>
-    <string name="cloud_loading_tips">Потягніть вниз, щоб синхронізувати</string>
-    <string name="cloud_up_to_loading_tips">Відпустіть, щоб синхронізувати</string>
+    <string name="loading_tips">Потягніть вниз щоб оновити</string>
+    <string name="up_to_loading_tips">Відпустіть щоб оновити</string>
+    <string name="cloud_loading_tips">Потягніть вниз щоб синхронізувати</string>
+    <string name="cloud_up_to_loading_tips">Відпустіть щоб синхронізувати</string>
     <string name="cloud_time_tips">Остання синхронізація</string>
    <string name="cloud_no_new_data_toast">Немає нових даних</string>
-   <string name="pref_content_brightness_setting">Налаштування підсвічування</string>
+   <string name="pref_content_brightness_setting">Налаштування яскравості</string>
 </resources>

@@ -32,9 +32,9 @@
     <string name="not_login">Вхід</string>
     <string name="mobile_connect_settings">Мобільна мережа</string>
     <string name="download_album_settings">Завантажувати зображення</string>
-    <string name="download_album_summary">Збільшиться обсяг даних для завантаження.</string>
+    <string name="download_album_summary">Автозавантаження обкладинок через мобільний інтернет</string>
     <string name="download_lyric_settings">Завантажувати тексти пісень</string>
-    <string name="download_lyric_summary">Не дуже вплине на обсяг даних для завантаження.</string>
+    <string name="download_lyric_summary">Автозаватаження текстів пісень через мобільний інтернет</string>
     <string name="listen_to_music_online_settings">Слухати онлайн Baidu</string>
     <string name="listen_to_online_summary">Збільшиться обсяг даних для завантаження</string>
     <string name="load_album_artist_failed">Помилка завантаження альбому та списку виконавців.</string>

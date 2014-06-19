@@ -19,7 +19,7 @@
      <string name="dlg_clear_current_ok">ОК</string>
      <string name="dlg_clear_current_sms">Видалити всі заблоковані повідомлення від цього номера?</string>
      <string name="dlg_delete_keyword">Видалити обрані ключові слова?</string>
-     <string name="dlg_edit_keyword">Редагування ключового слова</string>
+     <string name="dlg_edit_keyword">Зміна ключового слова</string>
      <string name="dlg_import_blacklist">Додавання в чорний список…</string>
      <string name="dlg_import_whitelist">Додавання в білий список…</string>
  	 <string name="dlg_remove_blacklist_ing">Видалення із  чорного списку…</string>
@@ -61,8 +61,8 @@
      <string name="st_block_title">Блокувати</string>
      <string name="st_call_group">Виклики</string>
      <string name="st_common_setting_group">Загальні</string>
-     <string name="st_filter_keywords_setting_summary1">Повідомлення, що містять ключові слова, будуть заблоковані.</string>
-     <string name="st_filter_keywords_setting_summary2">Ви можете додати кілька ключових слів через кому</string>
+     <string name="st_filter_keywords_setting_summary1">Повідомлення від невідомих номерів, що містять ключові слова, будуть заблоковані.</string>
+     <string name="st_filter_keywords_setting_summary2">"n(Ви можете додати кілька ключових слів через кому)"</string>
  	 <string name="st_advanced_setting_group">Додатково</string>
  	 <string name="st_block_unknown_call">Блокувати нвідом. виклики</string>
  	 <string name="st_block_unknown_sms">Блокувати невідом. повідомлення</string>
@@ -85,7 +85,7 @@
      <string name="tab_sms">Повідомлення</string>
      <string name="tab_title">Чорний список</string>
      <string name="toast_keyword_blank">Ви не ввели ключові слова</string>
-     <string name="toast_keyword_exist">Ключове слово \"%s\" вже існує</string>
+     <string name="toast_keyword_exist">Ключове слово вже існує</string>
  	 <string name="toast_keyword_invalid">Невірне ключове слово</string>
  	 <string name="menu_add_vip_custom">Додати виключення</string>
  	 <string name="quiet_mode">Не турбувати</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Системні служби Xiaomi</string>
+    <string name="app_name">Системні служби Mi Cloud</string>
     <string name="show_password">Показати пароль</string>
     <string name="account">Обліковий запис</string>
     <string name="account_hint_text">Email/Номер телефону</string>
@@ -527,8 +527,8 @@
     <string name="activate_popup_title_failed_query_info">Помилка активації</string>
     <string name="activate_popup_desc_failed_query_info">Не вдається одержати номер телефону. Переконайтеся, що ваша SIM карта обслуговується</string>
     <string name="activate_popup_confirm_failed_query_info">Повтор</string>
-    <string name="activate_popup_title_failed_server">Помилка активації</string>
-    <string name="activate_popup_desc_failed_server">Помилка сервера. Перевірте параметри мережі</string>
+    <string name="activate_popup_title_failed_server">Помилка сервера</string>
+    <string name="activate_popup_desc_failed_server">Перевірте підключення до мережі і повторіть ще раз.</string>
     <string name="activate_popup_confirm_failed_server">Повтор</string>
     <string name="activate_popup_title_failed_receive_sms">Помилка активації</string>
     <string name="activate_popup_desc_failed_receive_sms">Введений невірний номер. Переконайтеся, що ваша SIM карта обслуговується</string>

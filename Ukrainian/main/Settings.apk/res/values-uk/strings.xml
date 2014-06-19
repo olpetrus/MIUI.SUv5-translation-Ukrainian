@@ -96,7 +96,7 @@
     <string name="bluetooth_lock_voice_dialing">Заблокувати голосовий набір</string>
     <string name="bluetooth_lock_voice_dialing_summary">Запобігти використання Bluetooth, коли екран заблоковано</string>
     <string name="bluetooth_devices">Пристрої Bluetooth</string>
-    <string name="bluetooth_device_name">Ім\'я пристрою</string>
+    <string name="bluetooth_device_name">Ім\'я пристрою:</string>
     <string name="bluetooth_device_details">Налаштування пристрою</string>
     <string name="bluetooth_profile_details">Налаштування профілю</string>
     <string name="bluetooth_name_not_set">Без налаштування імені, використовувати ім\'я облікового запису</string>
@@ -4353,7 +4353,7 @@ Android File Transfer
     <string name="bluetooth_unlock_title">Розблокування Bluetooth пристроєм</string>
     <string name="bluetooth_unlock_turned_off">Виключене</string>
     <string name="bluetooth_unlock_turned_on">Включене</string>
-    <string name="bluetooth_unlock_settings_toggle_title">Доступні пристрої</string>
+    <string name="bluetooth_unlock_settings_toggle_title">Застосувати до</string>
     <string name="bluetooth_unlock_settings_unlock_device">Розблокування екрана</string>
     <string name="bluetooth_unlock_settings_devices_title">Пристрій</string>
     <string name="bluetooth_unlock_no_matched_device_yet">Немає доступних пристроїв</string>
@@ -4362,7 +4362,7 @@ Android File Transfer
     <string name="bluetooth_unlock_delete_device">Вилучити обладнання</string>
     <string name="bluetooth_unlock_confirm_device_text">Натисніть на обладнання для підтвердження</string>
     <string name="bluetooth_unlock_device_matched_text">Використовувати це обладнання для розблокування екрана</string>
-    <string name="bluetooth_unlock_delete_device_confirm_msg">Вилучити обрані пристрої</string>
+    <string name="bluetooth_unlock_delete_device_confirm_msg">Вилдалити обраний пристрій?</string>
     <string name="bluetooth_unlock_change_device_confirm_msg">Замінити старі пристрої на нові?</string>
  	<string name="wifi_type_approval_title">Підтвердження типу</string>
  	<string name="manage_xiaomi_router">Керування роутером Xiaomi</string>
@@ -4378,9 +4378,9 @@ Android File Transfer
     <string name="modem_tool_log_stop_toast">Зупинити запис звіту модему з %s</string>
  	<string name="app_feedback">Звіти</string>
     <string name="app_backup">Бекап</string>
-    <string name="google_backup_section_title">Бекап Google</string>
+    <string name="google_backup_section_title">Бекап та відновлення</string>
     <string name="system_backup_section_title">Бекап системи</string>
     <string name="local_backup_section_title">Локальний бекап</string>
-    <string name="local_backup_section_summary">Резервне копіювання даних</string>
+    <string name="local_backup_section_summary">Бекап налаштування систем, аккаунта і додатків</string>
  	<string name="bluetooth_device_address">Адреса пристрою:</string>
 </resources>
