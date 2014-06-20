@@ -163,7 +163,7 @@
     <string name="lrc_searching">Пошук текстів пісень…</string>
     <string name="lyric_open_other_connect">Завантажити тексти пісень, використовуючи мобільну мережу</string>
     <string name="impunity_declaration_title">Заява</string>
-    <string name="impunity_declaration">Для прослуховування онлайн музики використовується сервіс Baidu Online Music. Натисніть \"OK\", щоб прийняти <a href="http://music.baidu.com/doc/agreement">правила використання</a> і продовжуйте.</string>
+    <string name="impunity_declaration">Онлайн музика надається сервісом Baidu Online Music. Прийняти <a href="http://music.baidu.com/doc/agreement">користувацька угода</a> та дозволити доступ до мережі?</string>
     <string name="music_filter_helper">Щоб заховати файли, які не є музикою, був застосований фільтр по розміру 800 Кб. Налаштування фільтру можуть бути змінені в меню Налаштування / Фільтр файлів.</string>
     <string name="music_open_other_connect">Завантаження музики через мобільну мережу</string>
     <string name="modify_meta">Змінити інформацію про пісню</string>
@@ -246,7 +246,7 @@
     <string name="correct_id3_start">Почати корегування ID3 через інтернет.</string>
     <string name="correct_id3_success">Корегування ID3 завершено.</string>
     <string name="correct_id3_failed">Помилка коргування ID3.</string>
-	<string name="correct_id3_in_processing">Виправлення тегів ID3.</string>
+    <string name="correct_id3_in_processing">Виправлення тегів ID3.</string>
     <string name="correct_id3_open_other_connect">Вмікніть корегування ID3 з використанням мобільного інтернету.</string>
     <string name="correct_id3_not_support">Корегування ID3 не підтримує цей тип файлу.</string>
     <string name="batch_correct_id3_completed">Групове корегування ID3 завершено.</string>
@@ -264,7 +264,7 @@
     <string name="filter_by_size_max">2Мб</string>
     <string name="filter_by_size_min">0Кб</string>
     <string name="fast_scroll_alphabet">" АБВГДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЮЯABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-	<string name="channel">Радіо</string>
+    <string name="channel">Радіо</string>
     <string name="channel_postfix">МГц</string>
     <string name="channel_format" formatted="false">"%s  %s МГц"</string>
     <string name="project_device_mobile">Стільниковий телефон</string>
@@ -371,4 +371,8 @@
     <string name="sync_disable_toast">Ви можете увімкнути синхронізацію музики через \"Налаштування\" > \"Аккаунти\" > \"Mi Cloud\"</string>
     <string name="login_and_enable">Синхронізувати</string>
     <string name="sync_enable_toast">Ви можете змінити цю функцію через \"Налаштування\" > \"Аккаунти\" > \"Mi Cloud\"</string>
+    <string name="impunity_declaration_ignore">Запам\'ятати</string>
+    <string name="impunity_declaration_settings">Запитувати доступ до мережі</string>
+    <string name="impunity_declaration_summary">Запит доступу до мережі при кожному запуску програвача</string>
+    <string name="take_effect_afater_restart">Для застосування данної функції необхідно перезавантажити програвач</string>
 </resources>
