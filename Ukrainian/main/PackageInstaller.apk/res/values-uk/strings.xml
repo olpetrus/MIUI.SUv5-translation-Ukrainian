@@ -88,4 +88,9 @@
     <string name="virus_scan_is_risk">Цей додаток виявляє загрозу для вашого пристрою.</string>
     <string name="virus_scan_clear">Видалити</string>
 	<string name="virus_scan_caller_unknown">Невідомо</string>
+		<string name="ad_block_button_title">Блокувати рекламу</string>
+ 	<string name="ad_relative">Реклама</string>
+ 	<string name="adware_count">Файлів реклами: %d</string>
+ 	<string name="adware_hint">Ці файли використовуються сторонніми додатками для відображення реклами</string>
+ 	<string name="adware_title">Реклама</string>
 </resources>
