@@ -4383,4 +4383,7 @@ Android File Transfer
     <string name="local_backup_section_title">Локальний бекап</string>
     <string name="local_backup_section_summary">Бекап налаштування систем, аккаунта і додатків</string>
  	<string name="bluetooth_device_address">Адреса пристрою:</string>
+ 	<string name="title_font">Шрифт</string>
+ 	<string name="title_font_current">Вибір шрифту</string>
+ 	<string name="use_network_warning">Сервіси Xiaomi запитують доступ до мережі</string><string name="title_font">Шрифт</string>
 </resources>
