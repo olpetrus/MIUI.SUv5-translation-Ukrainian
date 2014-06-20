@@ -5,6 +5,5 @@
          <item quantity="one">1 збіг</item>
      </plurals>
      <plurals name="webview_last_num_days">
-         <item quantity="other">Останні %d дн.</item>
-     </plurals>
+         <item quantity="other">Останні %d днів</item>
  </resources>
