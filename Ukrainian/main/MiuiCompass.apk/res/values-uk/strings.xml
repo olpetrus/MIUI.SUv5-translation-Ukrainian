@@ -27,4 +27,8 @@
     <string name="direction_east">Сх</string>
     <string name="direction_west">Зх</string>
     <string name="guide_toast">Для калібрування компасу повторюйте рух телефоном, як це зображено вище</string> 
+    <string name="direction_north_east">ПС</string>
+ 	<string name="direction_north_west">ПЗ</string>
+ 	<string name="direction_south_east">ПС</string>
+ 	<string name="direction_south_west">ПЗ</string>
 </resources>
