@@ -19,7 +19,7 @@
      <string name="main_alert_message_no_imsi">Немає SIM карти</string>
      <string name="firewall_activity_lable">Обмеження трафіка додатків</string>
      <string name="firewall_applist">Додатка</string>
-     <string name="firewall_rule_group_title_mobile">2G/3G</string>
+     <string name="firewall_rule_group_title_mobile">Мобільний</string>
      <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
      <string name="firewall_fragment_tab_title_nonsys">Сторонні</string>
      <string name="firewall_fragment_tab_title_sys">Системні</string>
@@ -35,7 +35,7 @@
      <string name="sorted_button">Сортування</string>
      <string name="app_detail">Інформація</string>
      <string name="app_version">Версія</string>
-     <string name="app_mobile">2G/3G</string>
+     <string name="app_mobile">Мобільний</string>
      <string name="app_wifi">Wi-Fi</string>
      <string name="traffic_none">Немає</string>
      <string name="sorted_dialog_title">Сортування</string>
@@ -145,7 +145,7 @@
  За подальше використання мобільного інтернету можуть утримуватися додаткові витрати відповідно вашому тарифному плану."</string>
      <string name="data_usage_disabled_dialog_enable">Включити</string>
      <string name="data_usage_mobile_limit_snoozed_title">Межа трафіка перевищена</string>
-     <string name="data_usage_limit_snoozed_body">Натисніть для перегляду інформації</string>
+     <string name="data_usage_limit_snoozed_body">Перевищено ліміт трафіку за місяць.</string>
      <string name="data_usage_restricted_title">Фонові з\'єднання заборонені</string>
      <string name="data_usage_restricted_body">Натисніть, щоб дозволити</string>
      <string name="data_usage_leisure_warning_title">Межа безкоштовного трафіка</string>
@@ -174,12 +174,12 @@
 	 <string name="network_assistant_upgraded_title">Оновленння завершене</string>
      <string name="network_assistant_upgraded_body">Натисніть для налаштування трафіку</string>
 	 <string name="pref_new_installed_preconfig_title">Налаштування для нових додатків</string>
-	 <string name="main_alert_message_slot_no_data_connection">Слот SIM карти не підтримує доступ до інтернету</string>
+	 <string name="main_alert_message_slot_no_data_connection">Слот SIM карти не підтримує\nдоступ до інтернету</string>
 	 	<string name="spinner_title">%1$s – Мобільний інтернет: %2$s</string>
- 	<string name="traffic_config_alert_title">Різниця: %s </string>
+ 	<string name="traffic_config_alert_title">Різниця: %s</string>
      <string name="traffic_config_alert_ok">ОК</string>
      <string name="traffic_config_alert_cancel">Відміна</string>
-     <string name="traffic_config_alert_nomore">Запам\’ятати</string>
+     <string name="traffic_config_alert_nomore">Більше не питати</string>
      <string name="traffic_config_alert_body">"Данs мобільного оператора показують, що трафіку залишилось: %s.
  Оновити локальні дані трафіку?"</string>
      <string name="traffic_config_alert_body_normal">"
@@ -194,8 +194,8 @@
      <string name="datausage_purchase_title_pkglist">Купити трафік</string>
      <string name="datausage_purchase_title_confirm">Відомості про покупку</string>
      <string name="datausage_purchase_title_order">Купити трафік</string>
-     <string name="datausage_purchase_banner_title">Трафік перевищено %s</string>
-     <string name="datausage_purchase_view_detail">Показати відомості</string>
+     <string name="datausage_purchase_banner_title">Трафік перевищено на %s</string>
+     <string name="datausage_purchase_view_detail">Інформація</string>
      <string name="datausage_purchase_buy">Купити</string>
      <string name="datausage_purchase_pay_confirm">Купити</string>
      <string name="datausage_purchase_pay_hint">Відмінити виклик %s</string>
@@ -212,6 +212,6 @@
      <string name="datausage_purchase_backto_ns">Назад</string>
      <string name="datausage_purchase_goto_monthsetting">Змінити трафік</string>
      <string name="datausage_purchase_pkglist_nodata">"Виявлений конфлікт вашого тарифного плану та поточного замовлення. Зверніться до мобільного оператора для з\’ясування інформації."</string>
-     <string name="datausage_purchase_pkglist_networkerror">Мережа недоступна</string>
+     <string name="datausage_purchase_pkglist_networkerror">Мережа недоступна. Перевірте під\'єднання і повторіть спробу.</string>
      <string name="datausage_purchase_pkglist_servererror">Помилка серверу</string>
  </resources>

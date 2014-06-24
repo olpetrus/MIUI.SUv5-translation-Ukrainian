@@ -1123,7 +1123,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="tethering_help_button_text">Довідка</string>
     <string name="network_settings_title">Мобільні мережі</string>
     <string name="location_title">Моє розташування</string>
-    <string name="location_network_based">Використовувати безпроводові мережі</string>
+    <string name="location_network_based">Wi-Fi і мобільні мережі</string>
     <string name="location_neighborhood_level">Розташування визначено Wi-Fi та/або мобільними мережами</string>
     <string name="location_neighborhood_level_wifi">Розташування визначено Wi-Fi</string>
     <string name="location_gps">Використовувати GPS-супутники</string>

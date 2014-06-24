@@ -6,17 +6,17 @@
         <item>Трафік за місяць</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Вчора 2G/3G</item>
-        <item>Сьогодні 2G/3G</item>
-        <item>В цьому місяці 2G/3G</item>
+        <item>Вчора (Моб.трафік)</item>
+        <item>Сьогодні (Моб.трафік)</item>
+        <item>В цьому місяці (Моб.трафік)</item>
         <item>Вчора Wi-Fi</item>
         <item>Сьогодні Wi-Fi</item>
         <item>В цьому місяці Wi-Fi</item>
     </string-array>
     <string-array name="date_of_app">
-        <item>Вчора 2G/3G</item>
-        <item>Сьогодні 2G/3G</item>
-        <item>В цьому місяці 2G/3G</item>
+        <item>Вчора (Моб.трафік)</item>
+        <item>Сьогодні (Моб.трафік)</item>
+        <item>В цьому місяці (Моб.трафік)</item>
     </string-array>
     <string-array name="traffic_uints">
         <item>Байт</item>
