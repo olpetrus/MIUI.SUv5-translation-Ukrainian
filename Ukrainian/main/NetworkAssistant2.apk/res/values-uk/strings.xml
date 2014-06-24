@@ -175,4 +175,43 @@
      <string name="network_assistant_upgraded_body">Натисніть для налаштування трафіку</string>
 	 <string name="pref_new_installed_preconfig_title">Налаштування для нових додатків</string>
 	 <string name="main_alert_message_slot_no_data_connection">Слот SIM карти не підтримує доступ до інтернету</string>
+	 	<string name="spinner_title">%1$s – Мобільний інтернет: %2$s</string>
+ 	<string name="traffic_config_alert_title">Різниця: %s </string>
+     <string name="traffic_config_alert_ok">ОК</string>
+     <string name="traffic_config_alert_cancel">Відміна</string>
+     <string name="traffic_config_alert_nomore">Запам\’ятати</string>
+     <string name="traffic_config_alert_body">"Данs мобільного оператора показують, що трафіку залишилось: %s.
+ Оновити локальні дані трафіку?"</string>
+     <string name="traffic_config_alert_body_normal">"
+ Дані мобільного оператора показують, що трафіку залишилось: %1$s. Це значення відрізняється від локального на  %2$s."</string>
+     <string name="traffic_config_alert_body_leisure">"
+Дані мобільного оператора показують, що додаткового трафіку залишилось: %1$s. Це значення відрізняється від локального на  %2$s."</string>
+     <string name="traffic_config_alert_body_leisure_notset">"
+Дані мобільного оператора показують, що додаткового трафіку залишилось: %1$s. Локальний трафік не встановлен."</string>
+     <string name="traffic_config_alert_setted">Ввести трафік</string>
+     <string name="dual_setting_simcard1">SIM 1</string>
+     <string name="dual_setting_simcard2">SIM 2</string>
+     <string name="datausage_purchase_title_pkglist">Купити трафік</string>
+     <string name="datausage_purchase_title_confirm">Відомості про покупку</string>
+     <string name="datausage_purchase_title_order">Купити трафік</string>
+     <string name="datausage_purchase_banner_title">Трафік перевищено %s</string>
+     <string name="datausage_purchase_view_detail">Показати відомості</string>
+     <string name="datausage_purchase_buy">Купити</string>
+     <string name="datausage_purchase_pay_confirm">Купити</string>
+     <string name="datausage_purchase_pay_hint">Відмінити виклик %s</string>
+     <string name="datausage_purchase_pay_captcha_hint">Введіть перевірочний код</string>
+     <string name="datausage_purchase_pay_captcha_tips">"Після введення перевірочного коду натисніть \"Купити\". Ви отримаєте підтвердження протягом 10 хвилин."</string>
+     <string name="datausage_purchase_get_captcha">Отримати код (%d)</string>
+     <string name="datausage_purchase_get_captcha_again">Повторити відправлення</string>
+     <string name="datausage_purchase_get_captcha_failed">Не вдається отримати перевірочний код. Перевірте налаштування мережі.</string>
+     <string name="datausage_purchase_confirm_tip">Замовлення:</string>
+     <string name="datausage_purchase_ordering">Покупка…</string>
+     <string name="datausage_purchase_result_ok">"Ви придбали %s
+ Прочитайте ориману SMS для отримання детальної інформації."</string>
+     <string name="datausage_purchase_result_failed">Не вдається завершити покупку</string>
+     <string name="datausage_purchase_backto_ns">Назад</string>
+     <string name="datausage_purchase_goto_monthsetting">Змінити трафік</string>
+     <string name="datausage_purchase_pkglist_nodata">"Виявлений конфлікт вашого тарифного плану та поточного замовлення. Зверніться до мобільного оператора для з\’ясування інформації."</string>
+     <string name="datausage_purchase_pkglist_networkerror">Мережа недоступна</string>
+     <string name="datausage_purchase_pkglist_servererror">Помилка серверу</string>
  </resources>

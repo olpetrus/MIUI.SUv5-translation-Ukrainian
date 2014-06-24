@@ -281,7 +281,7 @@
     <string name="resource_menu_refresh">Оновити</string>
     <string name="resource_unknow_error">Невідома помилка</string>
     <string name="resource_user_know">ОК</string>
-    <string name="resource_hint">Сигнал</string>
+    <string name="resource_hint">Попередження</string>
 	<string name="purchased_list">Придбані теми</string>
 	<string name="resource_import_failed">Помилка імпортування</string>
 	<string name="resource_ringtone_playing_error">Помилка відтворення</string>
@@ -299,4 +299,18 @@
     <string name="theme_yes">ОК</string>
     <string name="theme_no">Відмінити</string>
 	<string name="theme_fresh_man_notifaction">Доступні нові теми</string>
+		<string name="resource_allow">ОК</string>
+ 	<string name="resource_connect_network_message">Дозволити додатку достпу до мережі?</string>
+ 	<string name="resource_connect_network_settings">Запитувати доступ до мережі</string>
+ 	<string name="resource_remind_another_time">Запам\’ятати</string>
+ 	<string name="theme_user_agreement_allow">ОК</string>
+ 	<string name="theme_user_agreement_content1">"Прочитайте перед використанням "</string>
+ 	<string name="theme_user_agreement_content2">Користувацька угода</string>
+ 	<string name="theme_user_agreement_content3">" та "</string>
+ 	<string name="theme_user_agreement_content4">Політику безпеки</string>
+     <string name="theme_user_agreement_content5">.</string>
+ 	<string name="theme_user_agreement_remind_again">Запитувати доступ до мережі</string>
+     <string name="theme_user_agreement_remind_never">Запам\’ятати</string>
+ 	<string name="theme_user_agreement_remind_summary">Запит доступа мережі при кожному запуску додатка</string>
+ 	<string name="theme_user_agreement_title">Дозволити додатку доступ до мережі?</string>
 </resources>

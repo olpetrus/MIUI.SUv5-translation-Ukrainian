@@ -967,6 +967,9 @@
  	<string name="outbox_alert_button_resend">Відправити</string>
     <string name="outbox_alert_button_no_resend">Не відправляти</string>
     <string name="outbox_alert_mailbox_not_found">Адреса пошти відсутня</string>
-	<string name="phone">телефон</string>
-    <string name="tablet">планшет</string>
+    <string name="imap_name">Пошта (IMAP)</string>
+    <string name="pop3_name">Пошта (POP3)</string>
+ 	<string name="account_setup_incoming_mail_adress_label">Адреса пошти</string>
+ 	<string name="account_setup_incoming_mail_domain_hint">За бажанням</string>
+ 	<string name="account_setup_incoming_mail_domain_label">Домен</string>
 </resources>

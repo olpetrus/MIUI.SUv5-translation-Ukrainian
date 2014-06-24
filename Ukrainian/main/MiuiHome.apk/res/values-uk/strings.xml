@@ -206,4 +206,10 @@
 	<string name="lock_screen_success_message">Застосування</string>
 	<string name="current_wallpaper">Поточне</string>
     <string name="editing_mode_title_empty">Оберіть елементи</string>
+    	<string name="bad_wallpaper_source_prompt">Не вдалось завантажити шпалери</string>
+ 	<string name="status_downloaded">Завантажені</string>
+ 	<string name="status_downloading">Завантаження…</string>
+ 	<string name="status_installing">Встановлення…</string>
+ 	<string name="status_paused">Встановлено</string>
+	<string name="status_pending">Очікування…</string>
 </resources>

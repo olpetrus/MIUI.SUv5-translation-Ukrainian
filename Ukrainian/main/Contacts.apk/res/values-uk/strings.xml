@@ -1149,7 +1149,7 @@
     <string name="resource_menu_refresh">Оновити</string>
     <string name="resource_unknow_error">Невідома помилка</string>
     <string name="resource_user_know">Гаразд</string>
-    <string name="resource_hint">Сигнал</string>
+    <string name="resource_hint">Попередження</string>
     <string name="resource_ringtone_volume_mute">Звук мелодії вимкнено</string>
     <string name="t9_search_guide_pinyin">Введіть\"2\" и \"5\" для пошуку \"Василь Петренко\"</string>
     <string name="sim_contact_invalid">Некоректний контакт SIM</string>
@@ -1199,4 +1199,8 @@
     <string name="contact_detail_picture_description">Натисніть на фото для зміни</string>
     <string name="unknown_caller">Невідомий абонент</string>
 	<string name="resource_delete">Видалити</string>
+	<string name="resource_allow">ОК</string>
+ 	<string name="resource_connect_network_message">Дозволити додаткам доступ до мережі?</string>
+ 	<string name="resource_connect_network_settings">Запитувати доступ до мережі</string>
+ 	<string name="resource_remind_another_time">Запам\'ятати</string>
 </resources>
