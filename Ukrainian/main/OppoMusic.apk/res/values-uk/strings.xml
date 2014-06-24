@@ -270,7 +270,7 @@
     <string name="headphone_settings">Налаштування навушників</string>
     <string name="mi_effect_title">Використовувати MiSound підсилювач</string>
     <string name="mi_effect_summary">Завжди використовувати MiSound підсилювач при прослуховуванні через навушники</string>
-    <string name="dirac_mode_off">Dirac выкл.</string>
+    <string name="dirac_mode_off">Dirac вимкнено</string>
     <string name="dirac_mode_in_ear">Вкладиші Xiaomi</string>
     <string name="dirac_mode_earbuds">Навушники Xiaomi</string>
     <string name="dirac_mode_piston_100">Пістони Xiaomi</string>

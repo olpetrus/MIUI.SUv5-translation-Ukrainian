@@ -13,9 +13,9 @@
     <string name="confirm_delete_video_message">Видалити</string>
     <string name="confirm_delete_all_video_message">Видалити усі відео?</string>
     <string name="confirm_delete_mark_video_message">Видалити відмітки?</string>
-    <string name="toast_dolby_state_on">Dolby УВІМКНЕНО</string>
-    <string name="toast_dolby_state_off">Dolby ВИМКНЕНО</string>
-    <string name="toast_dirac_state_on">Dirac УВІМКНЕНО</string>
+    <string name="toast_dolby_state_on">Dolby увімкнено</string>
+    <string name="toast_dolby_state_off">Dolby вимкнено</string>
+    <string name="toast_dirac_state_on">Dirac увімкнено</string>
     <string name="toast_sound_effect_state_off">Sound Effect OFF</string>
     <string name="number_of_items_selected">Вибрано {0}</string>
     <string name="delete_tossing">Видалення…</string>

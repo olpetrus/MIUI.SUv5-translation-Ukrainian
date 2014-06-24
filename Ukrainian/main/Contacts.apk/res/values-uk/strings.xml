@@ -62,7 +62,7 @@
     <string name="menu_done">Гаразд</string>
     <string name="menu_doNotSave">Скасувати</string>
     <string name="menu_discard">Скасувати</string>
-    <string name="label_notes">Відмінити</string>
+    <string name="label_notes">Нотатка</string>
     <string name="label_sip_address">Інтернет виклик</string>
     <string name="ghostData_company">Компанія</string>
     <string name="ghostData_title">Посада</string>

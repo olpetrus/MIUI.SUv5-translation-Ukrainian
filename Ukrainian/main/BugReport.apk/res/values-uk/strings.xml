@@ -43,5 +43,5 @@
     <string name="wlan_unavailable_dialog_button_sent">Надіслати зараз</string>
     <string name="wlan_unavailable_dialog_button_ok">ОК</string>
     <string name="packaging_dialog_content">Створення звіту…</string>
-	<string name="bugreport_feedback_from">Відправник: %s</string>
+	<string name="bugreport_feedback_from">Від: %s</string>
 </resources>
