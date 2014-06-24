@@ -545,15 +545,12 @@
     <string name="activate_desc_2_sim_cards">Для активації аккаунта Xiaomi на двох SIM картах будуть відправлені SMS</string>
     <string name="activate_desc_2_intl_sim_cards"> Для активації аккаунта Xiaomi на двох SIM картах будуть відправлені інтернаціональні SMS</string>
     <string name="foreign_login"><u>Країна</u></string>
-<<<<<<< HEAD
 	<string name="sync_sub_1_sms"> Для активації SIM карти буде відправлена SMS.</string>
     <string name="sync_sub_1_intl_sms"> Для активації SIM карти буде відправлена міжнародна SMS.</string>
     <string name="sync_sub_2_sms"> Для активації SIM карт будуть відправлено дві SMS.</string>
     <string name="sync_sub_2_intl_sms"> Для активації SIM карт будуть відправлено дві міжнародні SMS.</string>
     <string name="sync_sub_1_sms_1_intl_sms"> Для активації SIM карт буде відправлено одна міжнародна й одна звичайна SMS.</string>
   	<string name="error_device_id">Не вдається одержати IMEI</string>
-</resources>
-=======
     <string name="sync_sub_1_sms">Для активації SIM карти буде відправлена SMS</string>
     <string name="sync_sub_1_intl_sms">Для активації SIM карти буде відправлена міжнародна  SMS</string>
     <string name="sync_sub_2_sms"> Для активації SIM карт буде відправлені дві SMS</string>
@@ -561,4 +558,3 @@
     <string name="sync_sub_1_sms_1_intl_sms"> Для активації SIM карт буде відправлена одна міжнародна і одна звичайна SMS</string>
     <string name="error_device_id">Не вдається отримати IMEI</string>
 </resources>
->>>>>>> origin/master

@@ -525,9 +525,6 @@
     <string name="ubifocus_data_missing">Деякі дані загублені</string>
     <string name="ubifocus_map_error">Деякі дані ушкоджені</string>
     <string name="ubifocus_refocus_fail_tip">Не вдалося зробити перефокусування із за загублених або ушкоджених даних</string>
-<<<<<<< HEAD
-</resources>
-=======
     <string name="download_refocus_data">Скачатb перефокусовані дані</string>
     <string name="refocus_data_downloading">Завантаження перефокусованих даних…</string>
     <string name="item_not_sync_for_origin_image">Зображення не було синхронізовано з хмарним сервісом і не може бути завантажено</string>
@@ -535,4 +532,3 @@
     <string name="item_not_sync_for_refocus_data">Зображення не було синхронізовано з хмарним сервісом і перефокусовані дані не можуть бути завантажені</string>
     <string name="ubifocus_guide_text">Утримуйте 0.5 секунди для перефокусування</string>
 </resources>
->>>>>>> origin/master
