@@ -488,7 +488,7 @@
     <string name="sdcard_settings_unmounted_status">Тепер можна вилучити USB накопичувач</string>
     <string name="sdcard_settings_bad_removal_status">USB накопичувач був вилучено під час використання!</string>
     <string name="sdcard_settings_used_bytes_label">Використано байт:</string>
-    <string name="sdcard_settings_scanning_status">Пошук мультимедіа на USB накопичувачі…</string>
+    <string name="sdcard_settings_scanning_status">Пошук медіа на USB накопичувачі…</string>
     <string name="sdcard_settings_read_only_status">USB накопичувач встановлено тільки для читання</string>
     <string name="skip_label">Пропустить</string>
     <string name="next_label">Далі</string>
@@ -572,13 +572,13 @@
     <string name="crypt_keeper_enter_password">Введіть пароль</string>
     <string name="crypt_keeper_failed_title">Збій шифрування</string>
     <string name="crypt_keeper_failed_summary">Дані на вашому телефоні більш не доступні через перерване шифрування.\n\nЩоб продовжити використовувати пристрій, виконайте скидання до заводських настройок. Після цього ви зможете відновити всі дані, для яких в обліковому записі Google було створено резервні копії.</string>
-    <string name="crypt_keeper_switch_input_method">Змінити метод введення</string>
+    <string name="crypt_keeper_switch_input_method">Змінити спосіб введення</string>
     <string name="lock_settings_picker_title">Тип блокування</string>
     <string name="backup_lock_settings_picker_title">Дод. спосіб блокування</string>
     <string name="unlock_set_unlock_launch_picker_title">Блокування екрану</string>
     <string name="unlock_set_unlock_launch_picker_change_title">Змінення блок. екрана</string>
     <string name="unlock_set_unlock_launch_picker_change_summary">Зміна або вимкнення графічного ключа, PIN коду чи паролю</string>
-    <string name="unlock_set_unlock_launch_picker_enable_summary">Вибрати метод блокування екрана</string>
+    <string name="unlock_set_unlock_launch_picker_enable_summary">Вибрати спосіб блокування екрана</string>
     <string name="unlock_backup_info_summary">Оберіть альтернативний спосіб розблокування екрану.</string>
     <string name="unlock_set_unlock_off_title">Ні</string>
     <string name="unlock_set_unlock_none_title">Захист вимкнено</string>
@@ -706,7 +706,7 @@
     <string name="bluetooth_dock_settings">Налаштування док-станції</string>
     <string name="bluetooth_dock_settings_title">Використовувати док-станцію для звуку</string>
     <string name="bluetooth_dock_settings_headset">Для гучного зв\'язку</string>
-    <string name="bluetooth_dock_settings_a2dp">Для музики та мультимедіа</string>
+    <string name="bluetooth_dock_settings_a2dp">Для музики та медіа</string>
     <string name="bluetooth_dock_settings_remember">Запам\'ятати налаштування</string>
     <string name="wifi_display_settings_title">Бездротовий дисплей</string>
     <string name="wifi_display_settings_empty_list_wifi_display_off">Для того щоб побачити пристрої, увімкніть функцію.</string>
@@ -856,7 +856,7 @@
     <string name="wifi_speed">Швидкість зв\'язку</string>
     <string name="wifi_ip_address">IP-адреса</string>
     <string name="wifi_ip_address_hint">192.168.1.128</string>
-    <string name="wifi_eap_method">Метод EAP</string>
+    <string name="wifi_eap_method">спосіб EAP</string>
     <string name="please_select_phase2">2-й етап аутентифікації</string>
     <string name="wifi_eap_ca_cert">Сертифікат центру сертифікації</string>
     <string name="wifi_eap_user_cert">Сертифікат користувача</string>
@@ -1148,7 +1148,7 @@
     <string name="storage_title_usb">USB під\'єднання до комп\'ютеру</string>
     <string name="usb_connection_category">Під\'єднати как</string>
     <string name="usb_mtp_title">Медіа-пристрій (MTP)</string>
-    <string name="usb_mtp_summary">Дозволяє передавати файли мультимедіа в ОС Windows або використовувати для цього Android File Transfer в ОС Mac (см. www.android.com/filetransfer)</string>
+    <string name="usb_mtp_summary">Дозволяє передавати файли медіа в ОС Windows або використовувати для цього Android File Transfer в ОС Mac (см. www.android.com/filetransfer)</string>
     <string name="usb_ptp_title">Камера (PTP)</string>
     <string name="usb_ptp_summary">Дозволяє передавати світлини за допомогою програмного забезпечення камери, а також передавати будь-які файли на комп\'ютери, що не підтримують MTP</string>
     <string name="usb_label_installer_cd">Встановити інструменти передачі файлів</string>
@@ -1488,7 +1488,7 @@
     <string name="hardkeyboard_category">Налаштування зовнішньої клавіатури</string>
     <string name="auto_punctuate_summary">Натисніть двічі клавішу \"Пропуск\" для введення точки</string>
     <string name="show_password">Показувати пароль</string>
-    <string name="ime_security_warning">Цей метод введення (%1$s) може зберігати введений текст, включаючи паролі, номера кредитних карт та іншу приватну інформацію. Використовувати цей спосіб введення?</string>
+    <string name="ime_security_warning">Цей спосіб введення (%1$s) може зберігати введений текст, включаючи паролі, номера кредитних карт та іншу приватну інформацію. Використовувати цей спосіб введення?</string>
     <string name="spellchecker_security_warning">Для перевірки орфографії буде використовуватися додаток %1$s, що може збирати всі введені дані, в тому числі паролі та номери кредитних карт. Продовжити?</string>
     <string name="spellchecker_quick_settings">Налаштування</string>
     <string name="spellchecker_language">Мова</string>
@@ -1543,7 +1543,7 @@
     <string name="input_method_selector_show_automatically_title">Автоматично</string>
     <string name="input_method_selector_always_show_title">Завжди показувати</string>
     <string name="input_method_selector_always_hide_title">Завжди приховувати</string>
-    <string name="configure_input_method">Настройка методів введення</string>
+    <string name="configure_input_method">Настройка спосібів введення</string>
     <string name="input_method_settings">Налаштування</string>
     <string name="input_method_settings_button">Налаштування</string>
     <string name="active_input_method_subtypes">Активні способи введення</string>

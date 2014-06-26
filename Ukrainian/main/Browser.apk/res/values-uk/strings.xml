@@ -250,8 +250,7 @@
 	<string name="menu_save_bandwidth_mode_open_toast">Обмеження мобільного трафіку включено</string>
 	<string name="menu_save_bandwidth_mode_close_toast">Обмеження мобільного трафіку відключено</string>
 	<string name="pref_data_preload_title">Попереднє завантаження результатів пошуку</string>
-	<string name="modify_download_path_no_sdcard_dlg_msg" product="nosdcard">Потребується USB накопичувач для зміни шляху</string>
-	<string name="modify_download_path_no_sdcard_dlg_msg" product="default">Потребується SD карта для зміни шляху</string>
+	<string name="modify_download_path_no_sdcard_dlg_msg">Потрібен накопичувач для зміни шляху</string>
 	<string name="pref_data_preload_summary">": Дозволити браузеру  завантажувати результати пошуку в фоновому режимі"</string>
 	<string name="pref_data_preload_value_never_summary">"
 Заборонити браузеру попередньо завантажувати результати пошуку у фонi"</string>
@@ -820,4 +819,32 @@
     <string name="cloud_time_tips">Остання синхронізація</string>
    <string name="cloud_no_new_data_toast">Немає нових даних</string>
    <string name="pref_content_brightness_setting">Налаштування яскравості</string>
+       <string name="contextmenu_selecttext">Выбрать текст</string>
+     <string name="input_valid_url">Введите корректный адрес сайта</string>
+     <string name="quicklink_have_deleted">Сайт удален</string>
+     <string name="miui_function_menu_delete_to_quicklinks">Удалить закладку</string>
+     <string name="miui_function_menu_desktop_ua">ПК</string>
+     <string name="miui_function_menu_mobile_ua">Мобильный</string>
+     <string name="local_bookmarks">Закладки Xiaomi</string>
+     <string name="google_bookmarks">Закладки Google</string>
+     <string name="error_title">Ошибка синхронизации</string>
+     <string name="error_unauthorized">Слишком много попыток авторизации: синхронизация отключена.</string>
+     <string name="error_forbidden">Возникли проблемы с вашим аккаунтом: синхронизация отключена.</string>
+     <string name="error_not_acceptable">Ошибка сервера: синхронизация отключена.</string>
+     <string name="sub_sync_item_browser_title_bookmark">Синхронизировать закладки</string>
+     <string name="sub_sync_item_browser_title_bookmark_summary">Синхронизировать закладки браузера</string>
+     <string name="contextmenu_selecttext">Вибрати текст</string>
+     <string name="input_valid_url">Введіть коректну адресу сайту</string>
+     <string name="quicklink_have_deleted">Сайт вилучений</string>
+     <string name="miui_function_menu_delete_to_quicklinks">Видалити закладку</string>
+     <string name="miui_function_menu_desktop_ua">ПК</string>
+     <string name="miui_function_menu_mobile_ua">Мобільний</string>
+     <string name="local_bookmarks">Закладки Xiaomi</string>
+     <string name="google_bookmarks">Закладки Google</string> 
+     <string name="error_title">Помилка синхронізації</string>
+     <string name="error_unauthorized">Занадто багато спроб авторизації: синхронізація відключена</string>
+     <string name="error_forbidden">Виникли проблеми з  вашим аккаунтом: синхронізація відключена</string>
+     <string name="error_not_acceptable">Помилка сервера: синхронізація відключена</string>
+     <string name="sub_sync_item_browser_title_bookmark">Синхронізувати закладки</string>
+     <string name="sub_sync_item_browser_title_bookmark_summary">Синхронізувати закладки браузера</string>
 </resources>

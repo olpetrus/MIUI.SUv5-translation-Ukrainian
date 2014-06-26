@@ -465,7 +465,7 @@
     <string name="keyguard_accessibility_user_selector">Вибір користувача</string>
     <string name="keyguard_accessibility_status">Статус</string>
     <string name="keyguard_accessibility_camera">Камера</string>
-    <string name="keygaurd_accessibility_media_controls">Елементи керування мультимедіа</string>
+    <string name="keygaurd_accessibility_media_controls">Елементи керування медіа</string>
     <string name="keyguard_accessibility_widget_reorder_start">Перепризначення віджету…</string>
     <string name="keyguard_accessibility_widget_reorder_end">Перепризначення віджету завершено.</string>
     <string name="keyguard_accessibility_widget_deleted">Віджет: %1$s видалено.</string>
@@ -612,7 +612,7 @@
     <string name="new_app_description">Зупинити старий додаток без збереження змін.</string>
     <string name="sendText">Оберіть дії для тексту</string>
     <string name="volume_ringtone">Гучність виклику</string>
-    <string name="volume_music">Гучність мультимедіа</string>
+    <string name="volume_music">Гучність медіа</string>
     <string name="volume_music_hint_playing_through_bluetooth">Відтворення через Bluetooth</string>
     <string name="volume_music_hint_silent_ringtone_selected">Обрано режим \"Без звуку\"</string>
     <string name="volume_call">Гучність при розмові</string>
@@ -623,7 +623,7 @@
     <string name="volume_icon_description_bluetooth">Bluetooth</string>
     <string name="volume_icon_description_ringer">Мелодія</string>
     <string name="volume_icon_description_incall">Виклик</string>
-    <string name="volume_icon_description_media">Мультимедіа</string>
+    <string name="volume_icon_description_media">медіа</string>
     <string name="volume_icon_description_notification">Повідомлення</string>
     <string name="ringtone_default">Мелодія за замовчанням</string>
     <string name="ringtone_default_with_actual">За замовчанням (%1$s)</string>
@@ -1115,7 +1115,7 @@
     <string name="permlab_manageNetworkPolicy">Керування мережевою політикою</string>
     <string name="permlab_manageUsb">Керування USB пристроями</string>
     <string name="permlab_masterClear">Загальне скидання</string>
-    <string name="permlab_mediaStorageWrite">Дані мультимедіа</string>
+    <string name="permlab_mediaStorageWrite">Дані медіа</string>
     <string name="permlab_modifyAudioSettings">Налаштування звуку</string>
     <string name="permlab_modifyNetworkAccounting">Зміна обліку трафіку</string>
     <string name="permlab_modifyPhoneState">Зміна стану телефону</string>
@@ -1264,7 +1264,7 @@
     <string name="permdesc_manageNetworkPolicy">Дозволяє додатку керувати мережевими політиками та задавати свої правила для додатків.</string>
     <string name="permdesc_manageUsb">Дозволяє додатку керувати настройками та дозволами для USB пристроїв.</string>
     <string name="permdesc_masterClear">Дозволяє додатку відновлювати заводські налаштування системи, видаляти всі дані та додатки.</string>
-    <string name="permdesc_mediaStorageWrite">Дозволяє додатку змінювати зміст мультимедіа у внутрішньої пам\'яті.</string>
+    <string name="permdesc_mediaStorageWrite">Дозволяє додатку змінювати зміст медіа у внутрішньої пам\'яті.</string>
     <string name="permdesc_modifyAudioSettings">Дозволяє додатку змінювати налаштування звуку.</string>
     <string name="permdesc_modifyNetworkAccounting">Дозволяє системному додатку змінити спосіб обліку трафіку.</string>
     <string name="permdesc_modifyPhoneState">Дозволяє додатку керувати функціями телефону. Додаток, що володіє цим дозволом, може перемикати мережі, вмикати та вимикати радіо на телефоні та виконувати інші подібні дії без сповіщень для користувача.</string>

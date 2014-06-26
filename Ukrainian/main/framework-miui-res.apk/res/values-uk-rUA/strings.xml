@@ -333,7 +333,7 @@
 	<string name="private_num">Приватний номер</string>
 	<string name="reboot_confirm">Телефон буде перезавантажено</string>
 	<string name="reboot_progress">Перезавантаження…</string>
-	<string name="reverse_all">Зняти всі</string>
+	<string name="reverse_all">зняти вибір</string>
 	<string name="safetylegal_activity_unreachable">Неможливо під\'єднатися до мережі. Перейдіть за посиланням %s з будь-якого пристрою, під\'єднаного до Інтернету.</string>
 	<string name="screen_button_notification_text">Для увімкнення клавіш натисніть \"Додому\"+\"Вмикання\"</string>
 	<string name="screen_button_notification_title">Навігаційні клавіші відключені</string>
@@ -386,7 +386,7 @@
 	<string name="volume_alarm">Будильник</string>
 	<string name="volume_icon_description_bluetooth">Bluetooth</string>
 	<string name="volume_icon_description_incall">Виклик</string>
-	<string name="volume_icon_description_media">Мультимедіа</string>
+	<string name="volume_icon_description_media">медіа</string>
 	<string name="volume_icon_description_notification">Сповіщення</string>
 	<string name="volume_icon_description_ringer">Виклик</string>
 	<string name="wake_alarm_message">Наступний дзвоник будильника: %s</string>

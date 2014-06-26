@@ -3,7 +3,7 @@
      <string name="app_name">Ponpontile</string>
      <string name="btn_write">Записати</string>
      <string name="select_all">Вибрати всі</string>
-     <string name="diselect_all">Зняти всі</string>
+     <string name="diselect_all">зняти вибір</string>
      <string name="add_configure">Додати конфігурацію</string>
      <string name="new_configures">Нові конфігурації</string>
      <string name="running">працює</string>

@@ -5,7 +5,7 @@
      <string name="abc_action_bar_up_description">Назад</string>
      <string name="abc_action_bar_home_description">Додому</string>
      <string name="action_mode_select_all">Вибрати всі</string>
-     <string name="action_mode_deselect_all">Зняти всі</string>
+     <string name="action_mode_deselect_all">зняти вибір</string>
      <string name="action_mode_title_empty">Вибрати</string>
      <string name="loading">Завантаження…</string>
      <string name="time_picker_label_hour">Г</string>
@@ -50,7 +50,7 @@
      <string name="sim_not_ready">SIM карта використовується. Повторите пізніше.</string>
      <string name="sim_in_airplane_mode">Вимкніть режим \"У літаку\".</string>
      <string name="select_all">Вибрати всі</string>
-     <string name="deselect_all">Зняти всі</string>
+     <string name="deselect_all">зняти вибір</string>
      <string name="select_item">Вибрати елементи</string>
      <string name="more">Ще</string>
      <string name="month_january">Січень</string>

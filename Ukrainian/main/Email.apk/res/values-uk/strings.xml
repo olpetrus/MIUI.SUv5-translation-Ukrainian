@@ -285,7 +285,7 @@
     <string name="account_setup_failed_dlg_server_message_fmt">"Не вдалося під\'єднатися до серверу.
 (%s)"</string>
     <string name="account_setup_failed_tls_required">Необхідний TLS, але він не підтримується сервером</string>
-    <string name="account_setup_failed_auth_required">Методи аутентифікації не підтримуються сервером</string>
+    <string name="account_setup_failed_auth_required">Способи аутентифікації не підтримуються сервером</string>
     <string name="account_setup_failed_security">Не вдалося встановити підключення до сервера через помилку безпеки</string>
     <string name="account_setup_failed_ioerror">Не вдалося підключитися до серверу.</string>
     <string name="account_setup_failed_protocol_unsupported">Введена неправильна адреса сервера або сервер запитує версію протоколу, яка не підтримується в пошті.</string>
@@ -661,7 +661,7 @@
      <string name="menu_photo_share_all">Відправити всі</string>
      <string name="saving">Збереження…</string>
      <string name="str_select_all">Вибрати всі</string>
-     <string name="str_select_none">Зняти всі</string>
+     <string name="str_select_none">Зняти вибір</string>
      <string name="content_description">%1$s про %2$s, %3$s в %4$s, %5$s</string>
      <string name="content_description_today">%1$s про %2$s, %3$s в %4$s, %5$s</string>
      <string name="read_string">діалог прочитаний</string>

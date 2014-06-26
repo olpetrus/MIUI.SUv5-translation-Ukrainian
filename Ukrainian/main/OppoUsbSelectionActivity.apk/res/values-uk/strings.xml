@@ -6,7 +6,7 @@
     <string name="usb_charge_detail">Зарядити телефон по USB</string>
     <string name="usb_storage">Накопичувач</string>
     <string name="usb_storage_detail">Відкрити пам\'ять телефону</string>
-    <string name="usb_adb">Режим мультимедіа</string>
+    <string name="usb_adb">Режим медіа</string>
     <string name="usb_selection">Будь ласка, виберіть тип USB підключення</string>
     <string name="usb_adb_detail">Синхронізація з ПК</string>
     <string name="usb_internet">USB модем</string>

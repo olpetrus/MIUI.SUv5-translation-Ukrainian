@@ -43,4 +43,6 @@
     <string name="account_setup_options_mail_window_2weeks">Два тиждні</string>
     <string name="account_setup_options_mail_window_1month">Один місяць</string>
     <string name="account_setup_options_mail_window_all">Усе</string>
+	<string name="auth_error_notification_title">Помилка авторизації</string>
+    <string name="auth_error_notification_text">Натисніть для редагування налаштувань %s</string>
 </resources>

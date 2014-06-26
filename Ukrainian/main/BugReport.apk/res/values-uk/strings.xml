@@ -20,7 +20,7 @@
     <string name="err_type_data_lost">Втрата даних</string>
     <string name="status_msg_pending_upload">Завантажується звітів: %d…</string>
     <string name="status_msg_collecting_log">Збереження логів</string>
-    <string name="action_submit">Підтвердити</string>
+    <string name="action_submit">Відправити</string>
     <string name="section_err_type">Тип звіту</string>
     <string name="section_description">Опис</string>
     <string name="section_screenshot">Скріншот</string>

@@ -313,4 +313,6 @@
      <string name="theme_user_agreement_remind_never">Запам\’ятати</string>
  	<string name="theme_user_agreement_remind_summary">Запит доступа мережі при кожному запуску додатка</string>
  	<string name="theme_user_agreement_title">Дозволити додатку доступ до мережі?</string>
+	<string name="resource_cancel">Скасування</string>
+   <string name="resource_ok">ОК</string>
 </resources>

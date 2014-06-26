@@ -498,7 +498,7 @@
 	<string name="error_share_with_creator">Ви вже є учасником цього альбому</string>
 	<string name="yellow_page">Сервіси</string>
     <string name="confirm_delete_home_merge_item">Вилучити обрані фото з пам\'яті телефону й хмари?\n\nфото: %s</string>
- 	<string name="deselect_all">Зняти всі</string>
+ 	<string name="deselect_all">Зняти вибір</string>
  	<string name="device_model">Пристрій</string>
  	<string name="taken_time">Час зйомки</string>
     <string name="modified_time">Час зміни</string>

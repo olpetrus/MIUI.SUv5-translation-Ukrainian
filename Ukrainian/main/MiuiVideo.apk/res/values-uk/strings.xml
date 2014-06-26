@@ -28,7 +28,7 @@
      <string name="cancel">Скасувати</string>
      <string name="cancel_favorite">З обраного</string>
      <string name="cancel_hide">Показати</string>
-     <string name="cancel_select_all">Зняти всі</string>
+     <string name="cancel_select_all">Зняти вибір</string>
      <string name="cancel_waitfornewset">Відписатися</string>
      <string name="cant_connecting">Не вдається під\'єднатися до серверу</string>
      <string name="channel_more">Ще</string>

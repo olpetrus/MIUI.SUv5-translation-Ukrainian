@@ -97,7 +97,7 @@
 	<string name="msg_send_no_sim_error">Помилка надсилання повідомлення, спробуйте ще раз.</string>
 	<string name="msg_send_send_fail_error">Помилка надсилання повідомлення</string>
 	<string name="msg_telecom_order_denom">%1s yuan не читає дані мобільної мережі</string>
-	<string name="msg_telecom_order_denom_label">Amout:</string>
+	<string name="msg_telecom_order_denom_label">Кіл-сть:</string>
 	<string name="msg_telecom_order_goods">%1s MiCredit</string>
 	<string name="msg_telecom_order_goods_label">Опис:</string>
 	<string name="msg_telecom_picker_hint_1_1">Після підтвердження купівлі, ваш телефон буде</string>
@@ -294,4 +294,8 @@
     <string name="giftcard_expire_notification_prime_title">Строк дії вашої подарункової картки закінчився</string>
     <string name="giftcard_expire_notification_sub_title">Строк дії подарункової картки MiCredits: %1$s</string>
     <string name="btn_agree">ОК</string>
+	<string name="payment_actionbar_title">Підтвердіть</string>
+    <string name="balance_title">Баланс</string>
+    <string name="recharge_group_familiar">Звичайні методи</string>
+    <string name="pc_pay_login">Війдіть</string>
 </resources>

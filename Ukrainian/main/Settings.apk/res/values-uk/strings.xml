@@ -242,7 +242,7 @@
     <string name="sdcard_settings_unmounted_status">Тепер можна вилучити USB накопичувач</string>
     <string name="sdcard_settings_bad_removal_status">USB накопичувач був вилучено під час використання!</string>
     <string name="sdcard_settings_used_bytes_label">Використано байт:</string>
-    <string name="sdcard_settings_scanning_status">Пошук мультимедіа на USB накопичувачі…</string>
+    <string name="sdcard_settings_scanning_status">Пошук медіа на USB накопичувачі…</string>
     <string name="sdcard_settings_read_only_status">USB накопичувач встановлено тільки для читання</string>
     <string name="skip_label">Пропустить</string>
     <string name="next_label">Далі</string>
@@ -460,7 +460,7 @@
     <string name="bluetooth_dock_settings">Налаштування док-станції</string>
     <string name="bluetooth_dock_settings_title">Використовувати док-станцію для звуку</string>
     <string name="bluetooth_dock_settings_headset">Для гучного зв\'язку</string>
-    <string name="bluetooth_dock_settings_a2dp">Для музики та мультимедіа</string>
+    <string name="bluetooth_dock_settings_a2dp">Для музики та медіа</string>
     <string name="bluetooth_dock_settings_remember">Запам\'ятати налаштування</string>
     <string name="wifi_display_settings_title">Бездротовий дисплей</string>
     <string name="wifi_display_settings_empty_list_wifi_display_off">Для того щоб побачити пристрої, увімкніть функцію.</string>
@@ -912,7 +912,7 @@
     <string name="storage_title_usb">USB під\'єднання до комп\'ютеру</string>
     <string name="usb_connection_category">Під\'єднати как</string>
     <string name="usb_mtp_title">Медіа-пристрій (MTP)</string>
-    <string name="usb_mtp_summary">Дозволяє передавати файли мультимедіа в ОС Windows або використовувати для цього Android File Transfer в ОС Mac (см. www.android.com/filetransfer)</string>
+    <string name="usb_mtp_summary">Дозволяє передавати файли медіа в ОС Windows або використовувати для цього Android File Transfer в ОС Mac (см. www.android.com/filetransfer)</string>
     <string name="usb_ptp_title">Камера (PTP)</string>
     <string name="usb_ptp_summary">Дозволяє передавати світлини за допомогою програмного забезпечення камери, а також передавати будь-які файли на комп\'ютери, що не підтримують MTP</string>
     <string name="usb_label_installer_cd">Встановити інструменти передачі файлів</string>
@@ -4246,7 +4246,7 @@ Android File Transfer
  Це може здійснюватися за допомогою довірених облікових даних."</string>
  	<string name="ssl_ca_cert_settings_button">Перевірити довірені облікові дані</string>
  	<string name="tune_away_title">Вилучене настроювання</string>
- 	<string name="tune_away_Default">Disabled</string>
+ 	<string name="tune_away_Default">Вимкнено</string>
  	<string name="tune_away_enabled">Вилучене настроювання включене</string>
  	<string name="tune_away_disabled">Вилучене настроювання виключене</string>
  	<string name="priority_sub_title">Пріоритет підписки</string>

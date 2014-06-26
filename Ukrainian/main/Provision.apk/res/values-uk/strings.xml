@@ -29,7 +29,14 @@
     <string name="traffic_protection_text_hint">Введіть ліміт трафіку</string>
     <string name="data_usage_summary">Якщо ви ще не вибрали тарифний план, рекомендується вимкнути передачу даних. В іншому випадку оператор може знімати платню.</string>
     <string name="use_data">Передачу даних увімкнено</string>
-    <string name="input_method_category">Виберіть спосіб введення за замовчуванням</string>
+    <string name="input_method_category">Є багато способів введення на вибір, ви можете обрати підходящий метод введення на основі ваших вподобань, якщо ви початківець, рекомендується використовувати спосіб введення за замовчуванням</string>
     <string name="input_method">Спосіб введення</string>
     <string name="default_gprs_sim_name">Будь ласка введіть \"%s\" межу трафіку</string>
+	    <string name="welcome"> Ласкаво просимо!</string>
+     <string name="input_method_setting">Виберіть спосіб введення за замовчуванням</string>
+     <string name="other_settings">Інші налаштування</string>
+     <string name="other_settings_location">Визначення місця розташування</string>
+     <string name="other_settings_location_summary">Дозволити картам і іншим додаткам одержувати дані про ваше місце розташування</string>
+     <string name="other_settings_user_experience">Програма поліпшення якості</string>
+     <string name="other_settings_user_experience_summary">Допоможіть Xiaomi поліпшити їхні продукти відправленням анонімних звітів про діагностику системи й іншому</string>
 </resources>

@@ -228,7 +228,7 @@
     <string name="rename">Перейменувати</string>
     <string name="rename_description">Перейменування…</string>
     <string name="share_link_failed">Не вдалося створити посилання</string>
-    <string name="choose_send_type">Виберіть метод надсилання</string>
+    <string name="choose_send_type">Виберіть спосіб надсилання</string>
     <string name="download_link_completed">"Я відкрив доступ до %1$s через KuaiPan. Посилання: "</string>
     <string name="transing">Надсилання</string>
     <string name="finished">Завершено</string>
@@ -345,4 +345,12 @@
      <string name="share_box_receive">Прийняті</string>
      <string name="file_not_exist">Файл не існує</string>
      <string name="open_file_failed">Не вдалось відкрити файл</string>
+	 <string name="byteShort">Б</string>
+     <string name="kilobyteShort">Кб</string>
+     <string name="megabyteShort">Мб</string>
+     <string name="gigabyteShort">Гб</string>
+     <string name="terabyteShort">Тб</string>
+     <string name="petabyteShort">Пб</string>
+     <string name="tab_sys_size">Загальна пам\'ять</string>
+     <string name="menu_list_name">Меню</string>
 </resources>

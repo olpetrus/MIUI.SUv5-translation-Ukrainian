@@ -168,7 +168,7 @@
     <string name="dialog_selected_recorded_file_deleted">Обраний записаний файл буде видалено</string>
     <string name="dialog_selected_recorded_files_deleted">Обрані записані файли будуть видалені</string>
     <string name="dialog_title_motion">Відомості про переворот</string>
-    <string name="dialog_message_motion">Щоб вимкнути звук вхідного виклику, повідомлення, будильника або мультимедіа, переверніть пристрій</string>
+    <string name="dialog_message_motion">Щоб вимкнути звук вхідного виклику, повідомлення, будильника або медіа, переверніть пристрій</string>
     <string name="dialog_motion_disabled">Рух вимкнено</string>
     <string name="dialog_do_not_show_again">Не показувати знову</string>
     <string name="skip">Пропустить</string>

@@ -127,46 +127,24 @@
     <string name="simContacts_title">Контакти на SIM карті</string>
     <string name="noContactsHelpTextWithSyncForCreateShortcut">Відсутні контакти для відображення. (Якщо обліковий запис був тільки що доданий, потрібно декілька хвилин для синхронізації контактів.)</string>
     <string name="noContactsHelpTextForCreateShortcut">Відсутні контакти для відображення.</string>
-    <string name="nocontactshelptext" product="tablet">" У вас немає контактів для відображення.\n\nщоб додати контакт натисніть <font fgcolor="#ffffffff"><b>Меню</b></font>, потім натисніть:\n
-         \n<li><font fgcolor="#ffffffff"><b>Аккаунти</b></font> для додавання або настроювання аккаунта з контактами, для синхронізації із планшетом\n</li>
+    <string name="nocontactshelptext">" У вас немає контактів для відображення.\n\nщоб додати контакт натисніть <font fgcolor="#ffffffff"><b>Меню</b></font>, потім натисніть:\n
+         \n<li><font fgcolor="#ffffffff"><b>Аккаунти</b></font> для додавання або настроювання аккаунта з контактами, для синхронізації із пристроєм\n</li>
          \n<li><font fgcolor="#ffffffff"><b>Новий контакт</b></font> для створення нового контакту\n</li>
          \n<li><font fgcolor="#ffffffff"><b>Імпорт/експорт</b></font> для імпорту контактів з SIM або SD карти\n</li>"
      </string>
-     <string name="nocontactshelptext" product="default">" У вас немає контактів для відображення.\n\nщою додати контакт натисніть <font fgcolor="#ffffffff"><b>Меню</b></font>, потім натисніть:\n
-         \n<li><font fgcolor="#ffffffff"><b>Аккаунти</b></font> для додавання або настроювання аккаунта з контактами, для синхронізації з телефоном\n</li>
-         \n<li><font fgcolor="#ffffffff"><b>Новий контакт</b></font> для створення нового контакту\n</li>
-         \n<li><font fgcolor="#ffffffff"><b>Імпорт/експорт</b></font> для імпорту контактів з SIM або SD карти\n</li>"
-     </string>
-     <string name="nocontactshelptextwithsync" product="tablet">" У вас немає контактів для відображення. (Якщо ви тільки що додали аккаунт, синхронізація займе кілька хвилин.)\n\nщоб додати контакт натисніть <font fgcolor="#ffffffff"><b>Меню</b></font>, потім натисніть:\n
-         \n<li><font fgcolor="#ffffffff"><b>Аккаунти</b></font> для додавання або настроювання аккаунта з контактами, для синхронізації із планшетом\n</li>
+      <string name="nocontactshelptextwithsync">" У вас немає контактів для відображення. (Якщо ви тільки що додали аккаунт, синхронізація займе кілька хвилин.)\n\nЩоб додати контакт натисніть <font fgcolor="#ffffffff"><b>Меню</b></font>, потім натисніть:\n
+         \n<li><font fgcolor="#ffffffff"><b>Аккаунти</b></font> для додавання або настроювання аккаунта з контактами, для синхронізації з пристроєм\n</li>
          \n<li><font fgcolor="#ffffffff"><b>Параметри відображення</b></font> для вибору відображуваних контактів\n</li>
          \n<li><font fgcolor="#ffffffff"><b>Новий контакт</b></font> для створення нового контакту\n</li>
          \n<li><font fgcolor="#ffffffff"><b>Імпорт/експорт</b></font> для імпорту контактів з SIM або SD карти\n</li>"
      </string>
-     <string name="nocontactshelptextwithsync" product="default">" У вас немає контактів для відображення. (Якщо ви тільки що додали аккаунт, синхронізація займе кілька хвилин.)\n\nщоб додати контакт натисніть <font fgcolor="#ffffffff"><b>Меню</b></font>, потім натисніть:\n
-         \n<li><font fgcolor="#ffffffff"><b>Аккаунти</b></font> для додавання або настроювання аккаунта з контактами, для синхронізації з телефоном\n</li>
-         \n<li><font fgcolor="#ffffffff"><b>Параметри відображення</b></font> для вибору відображуваних контактів\n</li>
-         \n<li><font fgcolor="#ffffffff"><b>Новий контакт</b></font> для створення нового контакту\n</li>
-         \n<li><font fgcolor="#ffffffff"><b>Імпорт/експорт</b></font> для імпорту контактів з SIM або SD карти\n</li>"
-     </string>
-     <string name="nocontactsnosimhelptext" product="tablet">" У вас немає контактів для відображення.\n\nщоб додати контакт натисніть <font fgcolor="#ffffffff"><b>Меню</b></font>, потім натисніть:\n
-         \n<li><font fgcolor="#ffffffff"><b>Аккаунти</b></font> для додавання або настроювання аккаунта з контактами, для синхронізації із планшетом\n</li>
+         <string name="nocontactsnosimhelptext">" У вас немає контактів для відображення.\n\nщоб додати контакт натисніть <font fgcolor="#ffffffff"><b>Меню</b></font>, потім натисніть:\n
+         \n<li><font fgcolor="#ffffffff"><b>Аккаунт</b></font> для додавання або настроювання аккаунта з контактами, для синхронізації з пристроєм\n</li>
          \n<li><font fgcolor="#ffffffff"><b>Новий контакт</b></font> для створення нового контакту\n</li>
          \n<li><font fgcolor="#ffffffff"><b>Імпорт/експорт</b></font> для імпорту контактів з SD карти\n</li>"
      </string>
-     <string name="nocontactsnosimhelptext" product="default">" У вас немає контактів для відображення.\n\nщоб додати контакт натисніть <font fgcolor="#ffffffff"><b>Меню</b></font>, потім натисніть:\n
-         \n<li><font fgcolor="#ffffffff"><b>Аккаунти </b></font> для додавання або настроювання аккаунта з контактами, для синхронізації з телефоном\n</li>
-         \n<li><font fgcolor="#ffffffff"><b>Новий контакт</b></font> для створення нового контакту\n</li>
-         \n<li><font fgcolor="#ffffffff"><b>Імпорт/експорт</b></font> для імпорту контактів з SD карти\n</li>"
-     </string>
-     <string name="nocontactsnosimhelptextwithsync" product="tablet">" У вас немає контактів для відображення. (Якщо ви тільки що додали аккаунт, синхронізація займе кілька хвилин.)\n\nщоб додати контакт натисніть <font fgcolor="#ffffffff"><b>Меню</b></font>, потім натисніть:\n
-         \n<li><font fgcolor="#ffffffff"><b>Аккаунти</b></font> для додавання або настроювання аккаунта з контактами, для синхронізації із планшетом\n</li>
-         \n<li><font fgcolor="#ffffffff"><b>Параметри відображення</b></font> для вибору відображуваних контактів\n</li>
-         \n<li><font fgcolor="#ffffffff"><b>Новий контакт</b></font> для створення нового контакту\n</li>
-         \n<li><font fgcolor="#ffffffff"><b>Імпорт/експорт</b></font> для імпорту контактів з SD карти\n</li>"
-     </string>
-     <string name="nocontactsnosimhelptextwithsync" product="default">" У вас немає контактів для відображення. (Якщо ви тільки що додали аккаунт, синхронізація займе кілька хвилин.)\n\nщоб додати контакт натисніть <font fgcolor="#ffffffff"><b>Меню</b></font>, потім натисніть:\n
-         \n<li><font fgcolor="#ffffffff"><b>Аккаунти</b></font> для додавання або настроювання аккаунта з контактами, для синхронізації з телефоном\n</li>
+     <string name="nocontactsnosimhelptextwithsync">" У вас немає контактів для відображення. (Якщо ви тільки що додали аккаунт, синхронізація займе кілька хвилин.)\n\nщоб додати контакт натисніть <font fgcolor="#ffffffff"><b>Меню</b></font>, потім натисніть:\n
+         \n<li><font fgcolor="#ffffffff"><b>Аккаунти</b></font> для додавання або настроювання аккаунта з контактами, для синхронізації з пристроєм\n</li>
          \n<li><font fgcolor="#ffffffff"><b>Параметри відображення</b></font> для вибору відображуваних контактів\n</li>
          \n<li><font fgcolor="#ffffffff"><b>Новий контакт</b></font> для створення нового контакту\n</li>
          \n<li><font fgcolor="#ffffffff"><b>Імпорт/експорт</b></font> для імпорту контактів з SD карти\n</li>"
@@ -219,8 +197,7 @@
     <string name="description_plus_button">плюс</string>
     <string name="description_view_contact_detail">Дані контакту</string>
     <string name="no_sdcard_title">Немає SD карти</string>
-    <string name="no_sdcard_message" product="nosdcard">Накопичувач не виявлено.</string>
-    <string name="no_sdcard_message" product="default">SD карта не виявлена.</string>
+    <string name="no_sdcard_message">Накопичувач не виявлено.</string>
     <string name="searching_vcard_title">Пошук vCard</string>
     <string name="import_from_sim">Імпортувати з SIM карти</string>
     <string name="import_from_sim2">Імпортувати з SIM карти 2</string>
@@ -230,18 +207,15 @@
     <string name="import_one_vcard_string">Імпорт одного файлу vCard</string>
     <string name="import_multiple_vcard_string">Імпорт декількох файлів vCard</string>
     <string name="import_all_vcard_string">Імпорт всіх файлів vCard</string>
-    <string name="searching_vcard_message" product="nosdcard">Пошук даних vcard на накопичувачі…</string>
- 	<string name="searching_vcard_message" product="default">Пошук даних vcard на SD карті…</string>
-    <string name="scanning_sdcard_failed_title" product="nosdcard">Неможливо просканувати накопичувач</string>
- 	<string name="scanning_sdcard_failed_title" product="default">Неможливо просканувати SD карту</string>
+    <string name="searching_vcard_message">Пошук даних vcard на накопичувачі…</string>
+    <string name="scanning_sdcard_failed_title">Неможливо просканувати накопичувач</string>
     <string name="scanning_sdcard_failed_message">Причина: %s</string>
     <string name="fail_reason_io_error">Помилка вводу-виводу</string>
     <string name="fail_reason_low_memory_during_import">Недостатньо пам\'яті. Можливо, файл дуже великий.</string>
     <string name="fail_reason_vcard_parse_error">Не вдалося відкрити файл vCard</string>
     <string name="fail_reason_not_supported">Формат не підтримується.</string>
     <string name="vcard_import_failed">Не вдалося імпортувати файл vcard.</string>
-    <string name="import_failure_no_vcard_file" product="nosdcard">На накопичувачі не знайдені файли vcard.</string>
-    <string name="import_failure_no_vcard_file" product="default">На SD карті не знайдені файли vcard.</string>
+    <string name="import_failure_no_vcard_file">На накопичувачи не знайдені файли vCard.</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">Не вдалося зібрати позначка інформацію з наданого файлу vcard.</string>
     <string name="fail_reason_failed_to_read_files">Один або більше файлів не можуть бути імпортовані (%s).</string>
     <string name="fail_reason_unknown">Невідома помилка.</string>
@@ -266,8 +240,7 @@
     <string name="exporting_contact_failed_title">Не вдалося експортувати</string>
     <string name="exporting_contact_failed_message">Помилка експорту даних:\nПричина: %s</string>
     <string name="fail_reason_no_exportable_contact">Немає контактів, які можна експортувати.</string>
-    <string name="fail_reason_too_many_vcard" product="nosdcard">Дуже багато файлів vCard на накопичувачі.</string>
-    <string name="fail_reason_too_many_vcard" product="default">Дуже багато файлів vCard на SD карті.</string>
+    <string name="fail_reason_too_many_vcard">Занадто багато файлів vCard на накопичувачі.</string>
     <string name="fail_reason_too_long_filename">Назва файлу дуже довга (%s).</string>
     <string name="exporting_vcard_finished_title">Експорт %s завершено.</string>
     <string name="exporting_vcard_canceled_title">Експорт %s скасований.</string>
@@ -276,11 +249,10 @@
     <string name="fail_reason_could_not_initialize_exporter">Не вдається запустити експорт: \"%s\".</string>
     <string name="fail_reason_error_occurred_during_export">Помилка при експорті: \"%s\".</string>
     <string name="composer_failed_to_get_database_infomation">Не вдалося отримувати відомості з бази даних.</string>
-    <string name="composer_has_no_exportable_contact" product="tablet">Немає контактів для експорту. Якщо у вашому планшеті є контакти, можливо, їхній експорт був заблокований постачальником даних</string>
-    <string name="composer_has_no_exportable_contact" product="default">Немає контактів для експорту. Якщо у вашому телефоні є контакти, можливо, їхній експорт був заблокований постачальником даних</string>
+    <string name="composer_has_no_exportable_contact">Немає контактів для експорту. Якщо у вашому пристрої є контакти, можливо, їхній експорт був заблокований постачальником даних</string>
     <string name="composer_not_initialized">Редактор vcard запущений некоректно.</string>
     <string name="fail_reason_could_not_open_file" formatted="false">Не вдалося відкрити \"%s\": %s</string>
-    <string name="exporting_contact_list_progress" formatted="false">Контактів:%s з %s</string>
+    <string name="exporting_contact_list_progress" formatted="false">Контактів: %s з %s</string>
     <string name="cancel_import_confirmation_title">Скасувати імпорту vCard</string>
     <string name="cancel_import_confirmation_message">Скасувати імпорт %s?</string>
     <string name="cancel_export_confirmation_title">Скасувати експорт vCard</string>
@@ -327,8 +299,7 @@
     <string name="clear_digits">Очистити номер</string>
     <string name="call_record_setting_miui">Налаштування запису викликів</string>
 	<string name="save">Зберегти</string>
-    <string name="account_phone" product="tablet">Планшет, без синхронізації</string>
-    <string name="account_phone" product="default">Телефон, без синхронізації</string>
+    <string name="account_phone">Пристрій, без синхронізації</string>
     <string name="call_custom">Виклик %s</string>
     <string name="call_home">Домашній тел.</string>
     <string name="call_mobile">Мобільний тел.</string>
@@ -712,8 +683,7 @@
     <string name="quit_dialog_confirm_title">Ви не об\'єднували жодного контакту. Вийти?</string>
     <string name="preference_import_export">Імпорт/Експорт</string>
     <string name="preference_import_export_title">Імпорт/Експорт контактів</string>
-    <string name="import_vcard_description" product="nosdcard">Імпорт контактів з пам\'яті телефону</string>
-    <string name="import_vcard_description" product="default">Імпорт контактів с SD карти</string>
+    <string name="import_vcard_description">Імпорт контактів з пам\'яті телефону</string>
     <string name="import_weibo_dialog_title">Імпорт контактів Sina Weibo</string>
     <string name="import_weibo_error_no_matched_contacts">Немає співпадаючих контактів</string>
     <string name="import_weibo_error_no_network">Помилка мережі</string>
@@ -725,8 +695,7 @@
     <string name="import_weibo_notification_title">Імпортування контактів Sina Weibo…</string>
     <string name="import_weibo_notification_title_done">Оновлено контактів: %s</string>
     <string name="import_weibo_progress_hint">Імпортування…</string>
-    <string name="export_vcard_description" product="nosdcard">Експорт vCard в пам\'ять телефону</string>
-    <string name="export_vcard_description" product="default">Експорт vCard на SD карту</string>
+    <string name="export_vcard_description">Експорт vCard в пам\'ять телефону</string>
     <string name="export_to_sim">Експорт на SIM карту</string>
     <string name="export_to_sim2">Експорт на SIM карту 2</string>
     <string name="export_to_sim_title">Експортування…</string>
@@ -1203,4 +1172,5 @@
  	<string name="resource_connect_network_message">Дозволити додаткам доступ до мережі?</string>
  	<string name="resource_connect_network_settings">Запитувати доступ до мережі</string>
  	<string name="resource_remind_another_time">Запам\'ятати</string>
+	<string name="callrecordview_menu_delete_confirm">Підтвердити %s?</string>
 </resources>

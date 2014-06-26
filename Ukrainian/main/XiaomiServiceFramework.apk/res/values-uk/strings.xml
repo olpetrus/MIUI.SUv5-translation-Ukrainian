@@ -7,7 +7,7 @@
     <string name="login">Увійти</string>
     <string name="next">Далі</string>
     <string name="prev">Назад</string>
-    <string name="forget_password"><u>Забули пароль</u></string>
+    <string name="forget_password"><u>Забули пароль?</u></string>
     <string name="password">Пароль</string>
 	<string name="captcha">Код на малюнку</string>
     <string name="vcode">Перевірочний код</string>
@@ -113,7 +113,7 @@
     <string name="find_device_notice_p1">Відвідайте</string>
  	<string name="find_device_notice_p2">i.xiaomi.com</string>
  	<string name="find_device_notice_p3">для пошуку, блокування або скидання всіх даних на пристрої.</string>
-	<string name="find_device_notice_p4">Коли SIM карта буде замінена, буде відправлена SMS активації для подальшого відстеження місцезнаходження телефона.</string>
+	<string name="find_device_notice_p4">При заміні SIM карти, буде выдправлено повідомлення для подальшого відстеження місцезнаходження телефона.</string>
     <string name="i_know">ОК</string>
     <string name="find_device_disabled_title">Пошук пристрою виключений</string>
     <string name="find_device_disabled_notice">Ви можете включити його знову в Настроювання &lt; Аккаунти &lt; Mi Cloud</string>
@@ -459,7 +459,7 @@
 	<string name="micloud_storage_space">Пам\'ять Mi Cloud</string>
 	<string name="micloud_user_space_usage">Зайнято пам\'яті</string>
 	<string name="micloud_web_discription_01">Війдіть на i.xiaomi.com</string>
-	<string name="micloud_web_discription_02">для до файлів в Mi Cloud</string>
+	<string name="micloud_web_discription_02">для доступа до файлів в Mi Cloud</string>
 	<string name="micloud_gallery_image">Зображення</string>
 	<string name="micloud_gallery_video">Відео</string>
 	<string name="micloud_app_data">Резервні копії програм</string>

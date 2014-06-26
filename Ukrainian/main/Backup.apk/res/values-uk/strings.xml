@@ -151,7 +151,7 @@
 	<string name="no_network">Не вдалося підключитися до мережі</string>
 	<string name="retry">Повтор</string>
 	<string name="select_all">Вибрати всі</string>
-	<string name="reverse_all">Зняти всі</string>
+	<string name="reverse_all">Зняти вибір</string>
 	<string name="refresh">Оновити</string>
 	<string name="cloud_item_info_summary">" (Локальный: %1$s | Mi Cloud: %2$s)"</string>
  	<string name="total_num">Всего: %d</string>

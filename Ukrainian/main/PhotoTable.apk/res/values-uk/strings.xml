@@ -9,4 +9,7 @@
     <string name="stock_photo_album_name">Стандартні знімки</string>
     <string name="local_source_name">Фото на пристрої</string>
     <string name="need_to_configure">Немає вибраних світлин.</string>
+	<string name="photodream_select_all">Вибрати всі</string>
+    <string name="photodream_select_none">Зняти вибір</string>
+   <string name="no_photos">На пристрої немає фото.</string>
 </resources>

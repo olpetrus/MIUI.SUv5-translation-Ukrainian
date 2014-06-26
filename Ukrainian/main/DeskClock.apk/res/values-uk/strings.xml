@@ -213,7 +213,7 @@
  	<string name="help">Допомога</string>
     <string name="label_description">Назва</string>
     <string name="ringtone_description">Рингтон</string>
- 	<string name="timer_ring_service_desc">Sound playback service for timers set in Clock.</string>
+ 	<string name="timer_ring_service_desc">Сервіс відтворення звуку в годиннику.</string>
     <string name="menu_alarm">Будильник</string>
     <string name="menu_timer">Таймер</string>
     <string name="menu_clock">Годинник</string>
@@ -241,7 +241,7 @@
     <string name="seconds_label_description">сек</string>
     <string name="sw_share_main">Мій  час %s</string>
     <string name="sw_share_laps">Кіл:</string>
-    <string name="sw_notification_lap_number">Кругp %d</string>
+    <string name="sw_notification_lap_number">Коло %d</string>
     <string name="timer_add_timer">Додати таймер</string>
     <string name="timer_start">Старт</string>
     <string name="timer_delete">Вилучити</string>

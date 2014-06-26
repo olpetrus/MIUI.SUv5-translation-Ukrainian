@@ -88,9 +88,19 @@
     <string name="virus_scan_is_risk">Цей додаток виявляє загрозу для вашого пристрою.</string>
     <string name="virus_scan_clear">Видалити</string>
 	<string name="virus_scan_caller_unknown">Невідомо</string>
-		<string name="ad_block_button_title">Блокувати рекламу</string>
+	<string name="ad_block_button_title">Блокувати рекламу</string>
  	<string name="ad_relative">Реклама</string>
  	<string name="adware_count">Файлів реклами: %d</string>
  	<string name="adware_hint">Ці файли використовуються сторонніми додатками для відображення реклами</string>
  	<string name="adware_title">Реклама</string>
+	<string name="all">Усі дозволи</string>
+    <string name="main_title">Встановлення додатків</string>
+    <string name="installer_name">Джерело: %1$s</string>
+    <string name="button_cancel">Скасування</string>
+    <string name="button_next">Далі</string>
+    <string name="button_continue">Продовжити</string>
+    <string name="button_remove">Вилучити</string>
+    <string name="button_continue_install">Продовжити встановлення</string>
+    <string name="button_install_lastest">Скачати й установити нову версію</string>
+    <string name="button_install_official">Скачати й установити офіційну версію</string>
 </resources>
