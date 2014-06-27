@@ -32,7 +32,7 @@
      <string name="micloud_password_confirm_hint">Підтвердьте пароль</string>
      <string name="micloud_password_req_notice">8~16 символів, цифр, букв алфавіту (чутливі до регістру).</string>
      <string name="micloud_password_error_inconsistent">Паролі не збігаються</string>
-        <string name="micloud_active_alert_title">Відправити SMS</string>
+     <string name="micloud_active_alert_title">Відправити SMS</string>
      <string name="micloud_via_sms_alert"> При активації через SMS можливі додаткові витрати</string>
      <string name="micloud_via_int_sms_alert"> При активації через SMS можливі додаткові витрати</string>
      <string name="micloud_error_email">Некоректний email</string>
@@ -133,7 +133,7 @@
      <string name="removing_account">Вихід…</string>
      <string name="checking_account">Перевірка пароля…</string>
      <string name="button_cancel">Скасування</string>
-     <string name="bind_sina_weibo">Прив'язати Sina Weibo</string>
+     <string name="bind_sina_weibo">Прив\'язати Sina Weibo</string>
      <string name="bind_weibo_description">Синхронізуйте друзів з Sina Weibo.</string>
      <string name="add_weibo_account">Прив\'язати аккаунт</string>
      <string name="binded">Прив\'язаний</string>

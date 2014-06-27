@@ -65,7 +65,7 @@
     <string name="no_updates_warning">Оновлень не знайдено</string>
     <string name="no_updates_warning2">Розслабтеся, ми повідомимо вас про оновлення :)</string>
     <string name="new_updates_found_title">Доступне оновлення</string>
-    <string name="new_update_content_title">"Нова версія "</string>
+    <string name="new_update_content_title">" "</string>
     <string name="new_update_downloading_body">Завантаження версії:%s</string>
     <string name="new_update_download_complete_body">Нова версія:%s</string>
     <string name="update_success_title">Оновлення завершено!</string>
@@ -150,14 +150,13 @@
     <string name="active_xiaomi_account_msg">"Для активації аккаунта Xiaomi відвідайте https://account.xiaomi.com/pass/serviceLogin"</string>
     <string name="active_xiaomi_account">Активний</string>
     <string name="update_comment_title">Коментар</string>
-    <string name="update_comment_hint"></string>
     <string name="next">Далі</string>
     <string name="previous">Назад</string>
     <string name="finish">Готово</string>
 	<string name="comment_publish">Відправити</string>
 	<string name="edit_comment_title">Редагувати</string>
 	<string name="edit_comment">" Добавить коментар"</string>
-		<string name="edit_text_default">Написати коментар</string>
+	<string name="edit_text_default">Написати коментар</string>
  	<string name="comment_sending">Відправлення…</string>
  	<string name="comment_upload_failed">Не вдалося відправити коментар</string>
  	<string name="comment_upload_hint">Спасибі за ваш відгук!</string>
@@ -169,8 +168,6 @@
 	<string name="fourgrid_no_notificaiont">Не показувати в статусбарі</string>
 	<string name="updater_finish_download">Завантаження прошивки закінчено</string>
 	<string name="toast_update_failed_hints">Помилка оновлення. Завантажте повну прошивку.</string>
-	    <string name="system_backup_helper"> Як правило, відновлення MIUI не вплине на внутрішню пам\'ять, але ми рекомендуємо щоб ви зробили бекап перед відновленням системи</string>
-     <string name="new_update_content_title">Знайдена нова версія</string>
      <string name="update_comment_hint">( за бажанням)</string>
      <string name="toast_msg_reboot">Відновлення завершене, необхідне перезавантаження</string>
      <string name="toast_need_login">Увійдіть в Mi аккаунт</string>
