@@ -63,7 +63,7 @@
     <string name="accessibility_home">Додому</string>
     <string name="accessibility_menu">Меню</string>
     <string name="accessibility_recent">Нещодавні додатки</string>
-    <string name="accessibility_ime_switch_button">Кнопка редагування методу введення.</string>
+    <string name="accessibility_ime_switch_button">Кнопка зміни способу введення.</string>
     <string name="accessibility_compatibility_zoom_button">Кнопка сумісності масштабу.</string>
     <string name="accessibility_compatibility_zoom_example">Збільшити масштаб.</string>
     <string name="accessibility_bluetooth_connected">Bluetooth під\'єднано.</string>
@@ -292,44 +292,30 @@
     <string name="lockscreen_carrier_default">Немає мережі</string>
     <string name="chooseUsbActivity">Виберіть додаток для USB пристрою</string>
     <string name="usb_storage_title">USB під\'єднано</string>
-   <string name="usb_storage_message" product="nosdcard">Ви підключили комп\'ютер по USB. Натисніть на кнопку внизу, якщо прагнете скопіювати файли між комп\'ютером і USB накопичувачем</string>
-     <string name="usb_storage_message" product="default">Ви підключили комп\'ютер по USB. Натисніть на кнопку внизу, якщо прагнете скопіювати файли між комп\'ютером і SD картою</string>
-     <string name="usb_storage_error_message" product="nosdcard">Виникла проблема при використанні Вашого USB накопичувача як знімного носія</string>
-     <string name="usb_storage_error_message" product="default">Виникла проблема з вашою SD картою</string>
+    <string name="usb_storage_message">Ви підключили комп\'ютер по USB. Натисніть на кнопку внизу, якщо прагнете скопіювати файли між  комп\'ютером і накопичувачем</string>
+    <string name="usb_storage_error_message">Виникла проблема з  накопичувачем.</string>
     <string name="usb_storage_notification_title">USB під\'єднано</string>
     <string name="usb_storage_notification_message">Виберіть для копіювання файлів на/з комп\'ютера.</string>
     <string name="usb_storage_stop_notification_title">Вимкнути USB накопичувач</string>
     <string name="usb_storage_stop_notification_message">Виберіть, щоб вимкнути USB накопичувач.</string>
     <string name="usb_storage_stop_title">Використовується USB накопичувач</string>
-      <string name="usb_storage_stop_message" product="nosdcard">Перед вимиканням USB накопичувача впевніться, що \"витягли\" USB накопичувач із комп\'ютера</string>
-     <string name="usb_storage_stop_message" product="default">Перед вимиканням USB накопичувача впевніться, що \"витягли\" SD карту з комп\'ютера</string>
+    <string name="usb_storage_stop_message">Перед вимкненням USB накопичувача переконайтеся, що \"витягнули\" накопичувач з ком\'ютера.</string> 
     <string name="dlg_confirm_kill_storage_users_title">Увімкнути USB накопичувач</string>
     <string name="dlg_confirm_kill_storage_users_text">При під\'єднанні USB накопичувача деякі додатки можуть бути зупинені та будуть недосяжними поки Ви не від\'єднаєте USB накопичувач.</string>
     <string name="dlg_error_title">Невдала USB операція</string>
     <string name="dlg_ok">Так</string>
-    <string name="ext_media_checking_notification_title" product="nosdcard">Підготування USB накопичувача</string>
-	<string name="ext_media_checking_notification_title" product="default">Подготовка SD карти</string>
+    <string name="ext_media_checking_notification_title">Підготування накопичувача</string>
     <string name="ext_media_checking_notification_message">Перевірка на помилки.</string>
-    <string name="ext_media_nofs_notification_title" product="nosdcard">Порожній USB накопичувач</string>
-     <string name="ext_media_nofs_notification_title" product="default">Порожня SD карта</string>
-     <string name="ext_media_nofs_notification_message" product="nosdcard">USB накопичувач порожній або файлова система не підтримується</string>
-     <string name="ext_media_nofs_notification_message" product="default">SD карта порожня або файлова система не підтримується</string>
-     <string name="ext_media_unmountable_notification_title" product="nosdcard">USB накопичувач ушкоджений</string>
-     <string name="ext_media_unmountable_notification_title" product="default">SD карта ушкоджена</string>
-     <string name="ext_media_unmountable_notification_message" product="nosdcard">Можливо прийдеться відформатувати USB накопичувач</string>
-     <string name="ext_media_unmountable_notification_message" product="default">Можливо прийдеться відформатувати SD карту</string>
-     <string name="ext_media_badremoval_notification_title" product="nosdcard">USB зненацька від\’єднаний</string>
-     <string name="ext_media_badremoval_notification_title" product="default">SD карта зненацька від\’єднана</string>
-     <string name="ext_media_badremoval_notification_message" product="nosdcard">Витягніть USB накопичувач перед від\'єднанням</string>
-     <string name="ext_media_badremoval_notification_message" product="default">Витягніть SD карту перед від\'єднанням</string>
-     <string name="ext_media_safe_unmount_notification_title" product="nosdcard">USB можна від\'єднати</string>
-     <string name="ext_media_safe_unmount_notification_title" product="default">SD карту можна від\'єднати</string>
-     <string name="ext_media_safe_unmount_notification_message" product="nosdcard">Від\'єднаєте USB накопичувач</string>
-     <string name="ext_media_safe_unmount_notification_message" product="default">Від\'єднаєте SD карту</string>
-     <string name="ext_media_nomedia_notification_title" product="nosdcard">USB накопичувач від\’эднаний</string>
-     <string name="ext_media_nomedia_notification_title" product="default">SD карта від\’эднана </string>
-     <string name="ext_media_nomedia_notification_message" product="nosdcard"> USB накопичувач від\’эднаний.</string>
-     <string name="ext_media_nomedia_notification_message" product="default">SD карта від\’эднана.</string>
+    <string name="ext_media_nofs_notification_title">Порожній накопичувач</string>
+     <string name="ext_media_nofs_notification_message">Накопичувач порожній або файлова система не підтримується</string>
+     <string name="ext_media_unmountable_notification_title">Накопичувач ушкоджений</string>
+     <string name="ext_media_unmountable_notification_message">Можливо прийдеться відформатувати накопичувач</string>
+     <string name="ext_media_badremoval_notification_title">Накопичувач від\’єднаний</string>
+     <string name="ext_media_badremoval_notification_message">Витягніть накопичувач перед від'єднанням</string>
+     <string name="ext_media_safe_unmount_notification_title">Накопичувач можна від\'єднати</string>
+     <string name="ext_media_safe_unmount_notification_message">Від\'єднаєте накопичувач</string>
+     <string name="ext_media_nomedia_notification_title">Накопичувач від\’єднаний </string>
+     <string name="ext_media_nomedia_notification_message">Накопичувач від\’єднаний </string>
     <string name="screen_button_custom">Налаштувати положення екранних клавіш</string>
     <string name="recent_apps_key">Клавіша \"Нещодавні додатки\"</string>
     <string name="recent_apps_key_show">Показати клавішу \"Нещодавні додатки\"</string>

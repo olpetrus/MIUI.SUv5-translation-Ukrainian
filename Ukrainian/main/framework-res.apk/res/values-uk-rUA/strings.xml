@@ -567,7 +567,7 @@
     <string name="textSelectionCABTitle">Вибір тексту</string>
     <string name="addToDictionary">добавить в словник</string>
     <string name="deleteText">видалити</string>
-    <string name="inputMethod">Метод введення</string>
+    <string name="inputMethod">спосіб введення</string>
     <string name="editTextMenuTitle">Дії з текстом</string>
     <string name="low_internal_storage_view_title">Мало внутрішньої пам\'яті.</string>
     <string name="low_internal_storage_view_text">Внутрішньої пам\'яті телефону стає все менше і менше.</string>
@@ -753,7 +753,7 @@
     <string name="permission_request_notification_title">Запит дозволено</string>
     <string name="Permission requested">Запит дозволено</string>
     <string name="permission_request_notification_with_subtitle">Потрібен дозвіл\n для облікового запису \"%s\"</string>
-    <string name="input_method_binding_label">Метод введення</string>
+    <string name="input_method_binding_label">спосіб введення</string>
     <string name="sync_binding_label">Синхр.</string>
     <string name="accessibility_binding_label">Спеціальні можливості</string>
     <string name="wallpaper_binding_label">Шпалери</string>
@@ -1056,7 +1056,7 @@
     <string name="permlab_batteryStats">Статистика батареї</string>
     <string name="permlab_bindDeviceAdmin">Дані адміністратора</string>
     <string name="permlab_bindGadget">Віджети</string>
-    <string name="permlab_bindInputMethod">Метод введення</string>
+    <string name="permlab_bindInputMethod">спосіб введення</string>
     <string name="permlab_bindPackageVerifier">Перевірка додатків</string>
     <string name="permlab_bindRemoteViews">Служба віджетів</string>
     <string name="permlab_bindTextService">Служба повідомлень</string>
@@ -1205,7 +1205,7 @@
     <string name="permdesc_batteryStats">Дозволяє системному додатку змінювати статистику батареї.</string>
     <string name="permdesc_bindDeviceAdmin">Дозволяє системному додатку надсилати дані адміністратора пристрою.</string>
     <string name="permdesc_bindGadget">Дозволяє системному додатку збирати інформацію про віджети.</string>
-    <string name="permdesc_bindInputMethod">Дозволяє системному додатку виконувати прив\'язку до методу введення.</string>
+    <string name="permdesc_bindInputMethod">Дозволяє системному додатку виконувати прив\'язку до способу введення.</string>
     <string name="permdesc_bindPackageVerifier">Дозволяє системному додатку надсилати запити на перевірку пакетів додатків.</string>
     <string name="permdesc_bindRemoteViews">Дозволяє системному додатку виконувати прив\'язку до служби віджетів.</string>
     <string name="permdesc_bindTextService">Дозволяє системному додатку виконувати прив\'язку до служби текстових повідомлень (наприклад, SpellCheckerService).</string>
@@ -1253,7 +1253,7 @@
     <string name="permdesc_getPackageSize">Дозволяє додатку отримувати відомості про розмір додатку.</string>
     <string name="permdesc_getTasks">Дозволяє додатку отримувати відомості про останні та поточні процеси.</string>
     <string name="permdesc_hardware_test">Дозволяє додатку керувати різними процесами для перевірки апаратного забезпечення.</string>
-    <string name="permdesc_injectEvents">Дозволяє додатку передавати власні методи введення в інші додатки, наприклад, натискання клавіш. Шкідливі додатки можуть використовувати цю можливість для встановлення повного контролю над телефоном.</string>
+    <string name="permdesc_injectEvents">Дозволяє додатку передавати власні способи введення в інші додатки, наприклад, натискання клавіш. Шкідливі додатки можуть використовувати цю можливість для встановлення повного контролю над телефоном.</string>
     <string name="permdesc_installLocationProvider">Дозволяє додатку створювати фіктивні джерела розміщення для тестування.</string>
     <string name="permdesc_installPackages">Дозволяє додатку встановлювати нові або оновлені додатки.</string>
     <string name="permdesc_internalSystemWindow">Дозволяє системному додатку показувати спливаючі вікна.</string>
@@ -1302,7 +1302,7 @@
     <string name="permdesc_removeTasks">Дозволяє додатку видаляти процеси запущені додатків. Шкідливі додатки можуть порушувати роботу інших додатків.</string>
     <string name="permdesc_reorderTasks">Дозволяє додатку перемикати режим виконання процесу з активного на фоновий. Шкідливі додатки можуть встановити для себе активний режим без сповіщення.</string>
     <string name="permdesc_retrieve_window_content">Дозволяє додатку отримувати доступ до змісту активного вікна. Шкідливе ПЗ може витягти всі дані вікна та проаналізувати весь його текст, окрім паролів</string>
-    <string name="permdesc_runSetActivityWatcher">Дозволяє додатку керувати способом запуску процесів.</string>
+    <string name="permdesc_runSetActivityWatcher">Дозволяє додатку керувати спосібом запуску процесів.</string>
     <string name="permdesc_sdcardWrite">Дозволяє додатку записувати та змінювати дані на SD карті.</string>
     <string name="permdesc_sendSms">Дозволяє додатку надсилати SMS повідомлення.</string>
     <string name="permdesc_sendSmsNoConfirmation">Дозволяє додатку надсилати SMS повідомлення без сповіщень.</string>

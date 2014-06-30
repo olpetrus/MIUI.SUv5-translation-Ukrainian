@@ -221,8 +221,7 @@
     <string name="menu_delete_messages">Видалити повідомлення</string>
     <string name="menu_lock">В обране</string>
     <string name="menu_unlock">З обраного</string>
-    <string name="sim_copy_to_phone_memory" product="tablet">Копіювати в пам\'ять планшету</string>
-    <string name="sim_copy_to_phone_memory" product="default">Копировать в пам\'ять телефонe</string>   
+    <string name="sim_copy_to_phone_memory">Копіювати в пам\'ять пристрою</string>
     <string name="sim_delete">Видалити</string>
     <string name="sim_view">Перегляд</string>
     <string name="delivery_header_title">Звіт</string>

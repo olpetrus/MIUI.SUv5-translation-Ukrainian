@@ -346,10 +346,10 @@
 	<string name="vip_recommend_rebuy">Придбати (5 MiCredits за 30 днів)</string>
 	<string name="music_quality">Якість музики</string>
 	<string name="higher_quality_music">Висока якість музики</string>
-	<string name="menu_higher_quality_music">Сервіс Baidu Music</string>
+	<string name="menu_higher_quality_music">Онлайн музика високої якості</string>
 	<string name="higher_quality_music_summary">Прослухати і завантажити музику вищої якості</string>
 	<string name="expired">Термін дії закінчився</string>
-	<string name="enabled">Включено</string>
+	<string name="enabled">Так</string>
 	<string name="valid_period">"Термін дії : "</string>
 	<string name="vip_bought">Ви вже придбали доступ до музики високої якості</string>
 	<string name="vip_expired">Термін дії доступу до музики високої якості минув</string>
@@ -366,7 +366,7 @@
     <string name="collect_fm_success">Додане у вибране</string>
     <string name="uncollect_success">Вилучене з вибраного</string>
 	<string name="sync_alert_title">Синхронізація музики</string>
-    <string name="sync_alert_message">Синхронізувати музику з Mi cloud</string>
+    <string name="sync_alert_message">Синхронізувати музику з Mi cloud?</string>
     <string name="not_now">Скасування</string>
     <string name="sync_disable_toast">Ви можете увімкнути синхронізацію музики через \"Налаштування\" > \"Аккаунти\" > \"Mi Cloud\"</string>
     <string name="login_and_enable">Синхронізувати</string>

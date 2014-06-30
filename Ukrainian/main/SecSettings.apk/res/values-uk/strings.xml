@@ -291,7 +291,7 @@
     <string name="unlock_set_unlock_launch_picker_change_title">Змін. спос. блок. екрана</string>
     <string name="unlock_set_unlock_launch_picker_change_summary">Змінення або вимкнення зразка, PIN коду або пароля</string>
     <string name="unlock_set_unlock_launch_picker_enable_summary">Вибір способу блокування екрана</string>
-    <string name="unlock_backup_info_summary">Якщо обличчя не розпізнано, який спосіб розблокування використовувати?</string>
+    <string name="unlock_backup_info_summary">Який спосіб розблокування ви хочете використовувати, якщо ваше обличчя не буде розпізнано?</string>
     <string name="unlock_backup_signature_info_summary">Який спосіб розблокування використовувати у разі, якщо підпис не розпізнано?</string>
     <string name="unlock_set_unlock_off_title">Немає</string>
     <string name="unlock_set_unlock_off_summary" />
@@ -1357,7 +1357,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="auto_punctuate_summary">Вставлення крапки в разі подвійного натискання пробілу</string>
     <string name="show_password">Зробити паролі видимими</string>
     <string name="show_password_summary">Показувати пароль під час введення</string>
-    <string name="ime_security_warning">У разі використання цього способу може збиратися весь текст, який вводиться, окрім паролів, включно з особистими даними та номерами кредитних карток. Його джерело — програма %1$s. Все одно використати?</string>
+    <string name="ime_security_warning">Цей спосіб може збирати всі, що вводяться дані ( за винятком паролів), у тому числі особисті відомості й номера кредитних карт. Він застосовується додатком %1$s. Однаково використовувати?</string>
     <string name="spellchecker_security_warning">Цей засіб перевірки правопису може збирати весь введений вами текст, зокрема такі особисті дані, як паролі та номери кредитних карток. Він походить від програми %1$s. Використати цей засіб перевірки правопису?</string>
     <string name="spellchecker_quick_settings">Установки</string>
     <string name="spellchecker_language">Мова</string>

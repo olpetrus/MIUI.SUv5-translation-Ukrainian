@@ -43,8 +43,8 @@
     <string name="radioInfo_display_bytes">байт</string>
     <string name="radioInfo_display_dbm">дБм</string>
     <string name="radioInfo_display_asu">asu</string>
-    <string name="sdcard_unmount">Вилучити SD карту</string>
-    <string name="sdcard_format">Очистити SD карту</string>
+    <string name="sdcard_unmount">Вилучити накопичувач</string>
+    <string name="sdcard_format">Очистити накопичувач</string>
     <string name="small_font">Маленький</string>
     <string name="medium_font">Середній</string>
     <string name="large_font">Великий</string>
@@ -326,13 +326,13 @@
     <string name="crypt_keeper_enter_password">Введіть пароль</string>
     <string name="crypt_keeper_failed_title">Збій шифрування</string>
     <string name="crypt_keeper_failed_summary">Дані на вашому телефоні більш не доступні через перерване шифрування.\n\nЩоб продовжити використовувати пристрій, виконайте скидання до заводських настройок. Після цього ви зможете відновити всі дані, для яких в обліковому записі Google було створено резервні копії.</string>
-    <string name="crypt_keeper_switch_input_method">Змінити метод введення</string>
+    <string name="crypt_keeper_switch_input_method">Змінити спосіб введення</string>
     <string name="lock_settings_picker_title">Тип блокування</string>
     <string name="backup_lock_settings_picker_title">Дод. спосіб блокування</string>
     <string name="unlock_set_unlock_launch_picker_title">Блокування екрану</string>
     <string name="unlock_set_unlock_launch_picker_change_title">Змінення блок. екрана</string>
     <string name="unlock_set_unlock_launch_picker_change_summary">Зміна або вимкнення графічного ключа, PIN коду чи паролю</string>
-    <string name="unlock_set_unlock_launch_picker_enable_summary">Вибрати метод блокування екрана</string>
+    <string name="unlock_set_unlock_launch_picker_enable_summary">Вибрати спосіб блокування екрана</string>
     <string name="unlock_backup_info_summary">Оберіть альтернативний спосіб розблокування екрану.</string>
     <string name="unlock_set_unlock_off_title">Ні</string>
     <string name="unlock_set_unlock_none_title">Захист вимкнено</string>
@@ -882,8 +882,8 @@
     <string name="memory_music_usage">Аудіо (Музика, мелодії та т.п.)</string>
     <string name="memory_media_misc_usage">Інше</string>
     <string name="memory_media_cache_usage">Кешовані дані</string>
-    <string name="sd_eject">Вилучити SD карту</string>
-    <string name="sd_eject_summary">Вилучити SD карту</string>
+    <string name="sd_eject">Вилучити накопичувач</string>
+    <string name="sd_eject_summary">Вилучити зовнішній накопичувач</string>
     <string name="sd_insert_summary">Під\'єднайте SD карту для підключення</string>
     <string name="sd_mount">Під\'єднати SD карту</string>
     <string name="sd_format">Очистити SD карту</string>
@@ -1307,7 +1307,7 @@
     <string name="input_method_selector_show_automatically_title">Автоматично</string>
     <string name="input_method_selector_always_show_title">Завжди показувати</string>
     <string name="input_method_selector_always_hide_title">Завжди приховувати</string>
-    <string name="configure_input_method">Настройка методів введення</string>
+    <string name="configure_input_method">Настройка способів введення</string>
     <string name="input_method_settings">Налаштування</string>
     <string name="input_method_settings_button">Налаштування</string>
     <string name="active_input_method_subtypes">Активні способи введення</string>
