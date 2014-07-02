@@ -530,7 +530,7 @@
 	<string name="confirm_delete_has_cloud_image">Видалити %s фото із Mi Cloud?</string>
 	<string name="confirm_delete_has_cloud_image_video">Видалити обрані файли із Mi Cloud? (% s)</string>
 	<string name="confirm_delete_has_cloud_local_image">Видалити %s фото з пам\'яті телефону й Mi Cloud?</string>
-	<string name="confirm_delete_has_cloud_local_image_video">Видалити обрані файли з пам'яті телефону й Mi Cloud? (% s)</string>
+	<string name="confirm_delete_has_cloud_local_image_video">Видалити обрані файли з пам\'яті телефону й Mi Cloud? (% s)</string>
 	<string name="confirm_delete_has_cloud_local_video">Видалити %s відео з пам\'яті телефону й Mi Cloud?</string>
 	<string name="confirm_delete_has_cloud_video">Видалити %s відео із Mi Cloud?</string>
 	<string name="confirm_delete_has_local_image">Видалити %s фото?</string>
