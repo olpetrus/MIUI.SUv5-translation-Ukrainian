@@ -24,16 +24,16 @@
     <string name="select_groups">Вибір груп</string>
     <string name="sim_capacity">Ємність SIM карти</string>
     <string name="sim_capacity_content" formatted="false">Доступно: %d | Зайнято: %d</string>
-    <string name="sim_contact_existing">Цей контакт на SIM вже існує</string>
+    <string name="sim_contact_existing">Контакт вже існує</string>
     <string name="sim_contact_number_missing">Контакт не знайдено</string>
-    <string name="sim_error_anr_full">Сховище номерів заповнено</string>
-    <string name="sim_error_email_full">Сховище електронних адрес заповнено</string>
-    <string name="sim_error_email_too_long">Адреса пошти дуже довга</string>
+    <string name="sim_error_anr_full">Пам\'ять для номерыв заповнена</string>
+    <string name="sim_error_email_full">Пам\'ять для електронноъ пошти заповнено</string>
+    <string name="sim_error_email_too_long">Адреса email дуже довга</string>
     <string name="sim_error_generic_failure">Помилка</string>
-    <string name="sim_error_not_ready">Завантаження контактів SIM карти. Почекайте…</string>
+    <string name="sim_error_not_ready">Завантаження контактів SIM карти…</string>
     <string name="sim_error_number_too_long">Номер дуже довгий</string>
     <string name="sim_error_password_error">Невірний пароль</string>
-    <string name="sim_error_storage_full">Сховище заповнено</string>
+    <string name="sim_error_storage_full">Пам\'ять SIM карти заповнена</string>
     <string name="sim_error_text_too_long">Ім\'я дуже довге</string>
     <string name="toast_text_copied">Текст скопійовано</string>
     <string name="provider_tag">Дані</string>

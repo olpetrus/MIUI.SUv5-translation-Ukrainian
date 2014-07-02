@@ -979,7 +979,7 @@
 	<string name="deleting_sim_entry_miui">Видалення контактів з SIM карти…</string>
     <string name="imei_invalid">Недійсний IMEI</string>
 	<string name="deleting">Видалення…</string>
-	<string name="confirm_delete_sim_entry_miui">Видалити контакти з SIM карти (%d од.)?</string>
+	<string name="confirm_delete_sim_entry_miui">Видалити контактів з SIM карти: %d?</string>
 	<string name="activity_not_found_uri">Додатку для відкриття файлів даного формату не знайдено</string>
     <string name="sim_capacity">Місткість SIM карти</string>
     <string name="sim_capacity_content" formatted="false">Доступно: %d. | Зайнято: %d</string>
@@ -1063,17 +1063,17 @@
     <string name="fail_to_add_account">Не вдалося додати обліковий запис</string>
     <string name="menu_refresh">Оновити</string>
     <string name="ringtone_volume_mute">Звук вимкнено</string>
-    <string name="pref_key_sim_manage">Керування SIM</string>
+    <string name="pref_key_sim_manage">Контакти SIM карти</string>
     <string name="accessibility_calllog_detail">Журнал</string>
     <string name="select_groups">Вибрати групи</string>
     <string name="sim_contact_existing">Контакт вже існує</string>
     <string name="sim_contact_number_missing">Номер контакту на SIM карті відсутній.</string>
     <string name="sim_error_generic_failure">Помилка</string>
-    <string name="sim_error_storage_full">Пам\'ять SIM карти заповнено</string>
+    <string name="sim_error_storage_full">Пам\'ять SIM карти заповнена.</string>
     <string name="sim_error_not_ready">Завантаження контактів SIM карти…</string>
     <string name="sim_error_text_too_long">Ім\'я дуже довге</string>
     <string name="sim_error_number_too_long">Номер дуже довгий</string>
-    <string name="sim_error_email_too_long">Адреса електронної пошти дуже довгий</string>
+    <string name="sim_error_email_too_long">Адреса email дуже довгий</string>
     <string name="sim_error_email_full">Пам\'ять для електронної пошти заповнено</string>
     <string name="sim_error_anr_full">пам\'ять для номерів заповнено</string>
     <string name="sim_error_password_error">Хибний пароль</string>
@@ -1176,7 +1176,7 @@
 	<string name="yellowpage_navigation_network_location_enabled">Сервіс активний. Відключити його можна в налаштуваннях місця розташування</string>
 	<string name="cta_notice_checkbox">Запам\'ятати</string>
 	<string name="cta_notice_new_contact_message">Для збереження контакту в аккаунті \"%s\" необхідний доступ до мережі</string>
-	<string name="cta_notice_ok">ОК</string>
+	<string name="cta_notice_ok">Дозволити</string>
 	<string name="cta_notice_photo_message">Для зміни фото контакту необхідний доступ до мережі</string>
 	<string name="cta_notice_settings">Запитувати доступ до мережі</string>
 	<string name="cta_notice_title">Дозволити доступ до мережі?</string>

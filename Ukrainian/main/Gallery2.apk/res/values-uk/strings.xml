@@ -345,11 +345,11 @@
 	<string name="loading">Завантаження…</string>
 	<string name="fail_to_load">Неможливо завантажити</string>
 	<string name="fail_to_load_image">Неможливо завантажити зображення</string>
-	<string name="no_thumbnail">Немає мініатюр</string>
+	<string name="no_thumbnail">Немає ескізу</string>
 	<string name="resume_playing_restart">Почати все спочатку</string>
 	<string name="crop_save_text">OK</string>
 	<string name="ok">OK</string>
-	<string name="multiface_crop_help">Для того, щоб почати, натисніть на обличчя.</string>
+	<string name="multiface_crop_help">Натисніть на обличчя, щоб почати</string>
 	<string name="saving_image">Збереження зображення…</string>
 	<string name="filtershow_saving_image">Збереження зображення в %1$s …</string>
 	<string name="save_error">Неможливо зберегти обрізане зображення</string>

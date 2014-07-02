@@ -48,7 +48,7 @@
     <string name="operation_rename_message">Назва теки</string>
     <string name="operation_create_folder_message">Введіть назву</string>
     <string name="operation_delete_confirm_message">Видалити</string>
-    <string name="operation_delete_confirm_message_folder">Все що міститься в папці буде видалено.\n</string>
+    <string name="operation_delete_confirm_message_folder">Тека бкде видалена зі всіма файлами.\n</string>
     <string name="delete_folder">Видалити теку?</string>
     <string name="delete_folders">Видалити теки(%1$d од.)?</string>
     <string name="delete_file">Видалити файл?</string>
@@ -356,6 +356,6 @@
 	<string name="connect_network_setting_des">Запитувати доступ до мережі</string>
 	<string name="network_connect_confirm_des"> Для використання хмарного сховища Kuaipan необхідний доступ до мережі</string>
 	<string name="never_notify_network_connect">Запам\'ятати</string>
-	<string name="operation_agree">ОК</string>
+	<string name="operation_agree">Дозволити</string>
 	<string name="system_alert">Дозволити доступ до мережі?</string>
 </resources>

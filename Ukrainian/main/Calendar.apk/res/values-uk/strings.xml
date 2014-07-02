@@ -279,7 +279,7 @@
 	<string name="pref_error_no_ringtone_select">Нічого не вибрано</string>
 	<string name="cta_notice_checkbox">Запам\'ятати</string>
 	<string name="cta_notice_message">Календарю необхідний доступ до контактів для одержання даних про дні народження</string>
-	<string name="cta_notice_ok">ОК</string>
+	<string name="cta_notice_ok">Дозволити</string>
 	<string name="cta_notice_title">Дозволити доступ до контактів?</string>
 	<string name="cta_notify_settings">Запитувати доступ до контактів</string>
 </resources>

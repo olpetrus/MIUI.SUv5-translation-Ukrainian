@@ -207,7 +207,7 @@
     <string name="settings_toggle_layout_style">Стиль перемикачів</string>
     <string name="settings_toggle_layout_style_compact">Строка</string>
     <string name="settings_toggle_layout_style_single_page">Сітка</string>
-    <string name="settings_toggle_layout_style_applying">Змінюю стиль перемикачів…</string>
+    <string name="settings_toggle_layout_style_applying">Зміна стилю…</string>
     <string name="settings_toggle">Перемикачі</string>
     <string name="settings_toggle_position">Керування перемикачами</string>
     <string name="settings_toggle_position_divider_page">У верхній панелі є %1$d перемикачів</string>
@@ -344,15 +344,15 @@
     <string name="filter_item_preview_image">Попередній перегляд</string>
 	<string name="filter_item_description">Для налаштування сповіщень зайдіть в налаштування &gt; Панель повідомлень &gt; Налаштування повідомлень</string>
 	<string name="usb_share_net_info">Використовувати інтернет комп\'ютера</string>
-    <string name="torch_opened">Ліхтарик запущено</string>
-    <string name="torch_closed">Ліхтарик закрито</string>
+    <string name="torch_opened">Ліхтарик увімкнений</string>
+    <string name="torch_closed">Ліхтарик вимкнений</string>
 	<string name="oldman_airplane_mode_text">В літаку</string>
     <string name="status_bar_and_notification_bar">Панель повідомлень і статус бар</string>
     <string name="settings_show_screenshot_notification">Повідомлення про скриншот</string>
     <string name="settings_show_carrier">Назва оператора</string>
     <string name="settings_custom_carrier">Змінити назву оператора</string>
     <string name="settings_no_carrier">Нічого</string>
-    <string name="settings_show_carrier_summary">Тільки на екрані блокування</string>
+    <string name="settings_show_carrier_summary">Якщо вимкнути, та назву оператора блокування і панелі сповіщень</string>
     <string name="settings_basic_settings">Основні налаштування</string>
     <string name="settings_advanced">Додаткові налаштування</string>
 	<string name="accessibility_search_light">Пошук</string>
