@@ -224,4 +224,8 @@
     <string name="download_failed_file_exists">Файл уже існує</string>
     <string name="download_failed_space">Помилка завантаження. Недостатньо вільного місця</string>
     <string name="download_failed_blocked">Помилка завантаження. Неможливо підключитися до мережі.</string>
+	<string name="notfiy_connect_title">Запитувати доступ до мережі</string>
+ 	<string name="notices_and_terms">Умови користування</string>
+ 	<string name="notify_connect_summary">Запит доступу до мережі при кожному запуску сервісів</string>
+ 	<string name="turn_on_yellowpage_service_title">Попередження</string>
 </resources>

@@ -339,7 +339,7 @@
     <string name="vip_recommend_buy">Сплатити (5 юанів в місяць)</string>
     <string name="vip_recommend_exchange">Використовувати код подарунку</string>
     <string name="synchronize_to_baidu_cloud">Резервне копіювання переліку пісень онлайн через сервіс Baidu Cloud.</string>
-    <string name="synchronize_guide_toast">Для вмикання синхронізації зайдіть в \"Налаштування\" > \"Синхронізувати перелік пісень\".</string>
+    <string name="synchronize_guide_toast">Для вмикання синхронізації зайдіть в \"Налаштування\" &gt; \"Синхронізувати перелік пісень\".</string>
     <string name="find_ktv">Пошук музики в KTV</string>
     <string name="playlist_my_ktv">Плейлист KTV</string>
 	<string name="pay_service_guide_new">Доступна музика високої якості</string>
@@ -368,9 +368,9 @@
 	<string name="sync_alert_title">Синхронізація музики</string>
     <string name="sync_alert_message">Синхронізувати музику з Mi cloud?</string>
     <string name="not_now">Скасування</string>
-    <string name="sync_disable_toast">Ви можете увімкнути синхронізацію музики через \"Налаштування\" > \"Аккаунти\" > \"Mi Cloud\"</string>
+    <string name="sync_disable_toast">Ви можете увімкнути синхронізацію музики через Налаштування &gt; Аккаунти &gt; Mi Cloud</string>
     <string name="login_and_enable">Синхронізувати</string>
-    <string name="sync_enable_toast">Ви можете змінити цю функцію через \"Налаштування\" > \"Аккаунти\" > \"Mi Cloud\"</string>
+    <string name="sync_enable_toast">Ви можете змінити цю функцію через Налаштування &gt; Аккаунти &gt; Mi Cloud</string>
     <string name="impunity_declaration_ignore">Запам\'ятати</string>
     <string name="impunity_declaration_settings">Запитувати доступ до мережі</string>
     <string name="impunity_declaration_summary">Запит доступу до мережі при кожному запуску програвача</string>

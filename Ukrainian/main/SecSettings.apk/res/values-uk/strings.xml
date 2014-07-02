@@ -538,7 +538,7 @@
     <string name="wifi_disabled_generic">Вимкнено</string>
     <string name="wifi_failed_to_obtain_IP">Failed to obtain IP</string>
     <string name="wifi_disabled_network_failure">Підключення до мережі розірвано. Поганий сигнал</string>
-    <string name="wifi_disabled_help">Підключення до мережі не встановлено через поганий сигнал. Щоб вимкнути цю установку, відкрийте \"Установки\" > \"Екран Wi-Fi\" > пункти розділу \"Розширене меню\"</string>
+    <string name="wifi_disabled_help">Підключення до мережі не встановлено через поганий сигнал. Щоб вимкнути цю установку, відкрийте \"Установки\" &gt; \"Екран Wi-Fi\" &gt; пункти розділу \"Розширене меню\"</string>
     <string name="wifi_disabled_password_failure">Сталася помилка ідентифікації</string>
     <string name="wifi_not_in_range">Поза зоною досяжності</string>
     <string name="wifi_wps_available_first_item">Доступний WPS</string>
@@ -1699,7 +1699,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="wifi_setup_status_connecting">З\'єднання…</string>
     <string name="wifi_setup_status_proceed_to_next">Перейдіть до наступного кроку</string>
     <string name="wifi_setup_status_eap_not_supported">EAP не підтримується</string>
-    <string name="wifi_setup_eap_not_supported">Неможливо налаштувати підключення до мережі Wi-Fi за протоколом EAP під час настроювання. Це можна зробити після завершення настроювання, відкривши меню \"Установки\" > \"Безпр. з\'єдн. та мережі\"</string>
+    <string name="wifi_setup_eap_not_supported">Неможливо налаштувати підключення до мережі Wi-Fi за протоколом EAP під час настроювання. Це можна зробити після завершення настроювання, відкривши меню \"Установки\" &gt; \"Безпр. з\'єдн. та мережі\"</string>
     <string name="wifi_setup_description_connecting">Підключення. Зачекайте…</string>
     <string name="wifi_setup_description_connected">Натисніть \"Далі\", щоб продовжити настроювання. Натисніть \"Назад\", щоб підключитися до іншої мережі Wi-Fi</string>
     <string name="accessibility_sync_enabled">Синхронізацію ввімкнено</string>
@@ -1743,7 +1743,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="finish_button_label">Завершити</string>
     <string name="really_remove_account_title">Видалити обліковий запис?</string>
     <string name="really_remove_account_message">Видалення облікового запису призведе до видалення всіх повідомлень, контактів та інших даних із пристрою. Продовжити?</string>
-    <string name="remove_account_failed">Для використання певних програм потрібен обліковий запис. Його можна видалити, лише відновивши заводські установки пристрою (це призведе до видалення особистих даних). Щоб це зробити, скористайтеся меню \"Установки\" > \"Резервне копіювання та скидання\"</string>
+    <string name="remove_account_failed">Для використання певних програм потрібен обліковий запис. Його можна видалити, лише відновивши заводські установки пристрою (це призведе до видалення особистих даних). Щоб це зробити, скористайтеся меню \"Установки\" &gt; \"Резервне копіювання та скидання\"</string>
     <string name="provider_label">Примусова передплата</string>
     <string name="sync_item_title">Синхронізувати %s</string>
     <string name="cant_sync_dialog_title">Неможливо синхронізувати вручну</string>
@@ -1854,7 +1854,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
 
 Деякі облікові записи, наприклад облікові записи Google, також можуть автоматично копіювати будь-які зміни, внесені на пристрої, до Інтернету.
 
-Щоб вибрати відомості для синхронізації для кожного облікового запису, перейдіть до меню \"Установки\" > \"Облікові записи\""</string>
+Щоб вибрати відомості для синхронізації для кожного облікового запису, перейдіть до меню \"Установки\" &gt; \"Облікові записи\""</string>
     <string name="data_usage_auto_sync_off_dialog_title">Вимкнути автосинхронізацію</string>
     <string name="data_usage_auto_sync_off_dialog">Буде зменшено обсяг використовуваних даних і заощаджено заряд акумулятора, але для отримання нових відомостей потрібно буде синхронізувати облікові записи вручну. Якщо цю функцію ввімкнено, ви не отримуватимете сповіщень про оновлення</string>
     <string name="data_usage_cycle_editor_title">Дата скидання циклу використання даних</string>
@@ -2818,7 +2818,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="auto_power_off_time">Час автоматичного вимк. живлення</string>
     <string name="auto_power_on_off_time_same_summary">Час автоматичного ввімк. живлення не може дорівнювати часу автоматичного вимк. живлення</string>
     <string name="auto_power_on_off">Автоматичне ввімк./вимк. живлення</string>
-    <string name="auto_power_deactivate_alarm">Функцію ввімк. живлення перед активацією будильника ввімкнено. Щоб увімкнути автоввімк./вимк. живлення, вимкніть цю функцію в меню \"Будильники\" > клавіша меню > \"Установки функції ввімк. живлення перед активацією будильника\" та спробуйте ще раз</string>
+    <string name="auto_power_deactivate_alarm">Функцію ввімк. живлення перед активацією будильника ввімкнено. Щоб увімкнути автоввімк./вимк. живлення, вимкніть цю функцію в меню \"Будильники\" &gt; клавіша меню &gt; \"Установки функції ввімк. живлення перед активацією будильника\" та спробуйте ще раз</string>
     <string name="auto_power_start_time">Час вимкнення живлення</string>
     <string name="auto_power_end_time">Час увімкнення живлення</string>
     <string name="auto_power_repeat">Повторення</string>
@@ -2924,10 +2924,10 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="home_settings_message">%s will be applied to your home screen</string>
     <string name="home_settings_customer_mode">docomo palette UI</string>
     <string name="home_settings_customer_mode_summary">Зробіть свій телефон більш простим і інтуітивно зрозумілим використовуючи робочий чтіл DoCoMo</string>
-    <string name="home_settings_basic_mode_summary">Enjoy new experiences with the latest Galaxy features</string>
-    <string name="home_settings_easy_mode_summary">Make your first experience of a smartphone easier with easy widgets</string>
-    <string name="home_settings_setup_title">Home selection</string>
-    <string name="home_settings_setup_help">You can change this setting later by going to Settings > Change home</string>
+    <string name="home_settings_basic_mode_summary">TouchWiz Простий режим</string>
+    <string name="home_settings_easy_mode_summary">Зробіть знайомство зі смартфоном легким і зрозумілим за допомогою віджетів</string>
+    <string name="home_settings_setup_title">Вибір лаунчера</string>
+    <string name="home_settings_setup_help">Ви можете змінити ці налаштування пізніше, перейдіть в Налаштування &gt; Вибір лаунчера</string>
     <string name="prev_button_label">Поперед.</string>
     <string name="iwlan_network_skt_default">За замовчуванням</string>
     <string name="iwland_state_connected">З\'єднано</string>

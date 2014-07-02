@@ -311,7 +311,7 @@
      <string name="ext_media_unmountable_notification_title">Накопичувач ушкоджений</string>
      <string name="ext_media_unmountable_notification_message">Можливо прийдеться відформатувати накопичувач</string>
      <string name="ext_media_badremoval_notification_title">Накопичувач від\’єднаний</string>
-     <string name="ext_media_badremoval_notification_message">Витягніть накопичувач перед від\'єднанням</string>
+     <string name="ext_media_badremoval_notification_message">Витягніть накопичувач перед від'єднанням</string>
      <string name="ext_media_safe_unmount_notification_title">Накопичувач можна від\'єднати</string>
      <string name="ext_media_safe_unmount_notification_message">Від\'єднаєте накопичувач</string>
      <string name="ext_media_nomedia_notification_title">Накопичувач від\’єднаний </string>

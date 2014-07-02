@@ -35,9 +35,9 @@
 	<string name="menu_rename_folder">Перейменувати</string>
 	<string name="info_note_enter_desktop">Нотатка додана на робочий стіл</string>
 	<string name="alert_title_delete">Видалення вибраних нотатки</string>
-	<string name="alert_message_delete_notes">Видалити нотатки (%1$s шт.)?</string>
-	<string name="alert_message_delete_folders">Видалити папки (%1$s шт.)?</string>
-	<string name="alert_message_delete_folders_notes">Видалити папки (%1$s шт.) та нотатки (%2$s шт.)?</string>
+	<string name="alert_message_delete_notes">Видалити нотаток: %1$s?</string>
+	<string name="alert_message_delete_folders">Видалити папок: %1$s?</string>
+	<string name="alert_message_delete_folders_notes">Видалити\nтек:%1$s\nнотаток: %2$s?</string>
 	<string name="alert_message_delete_note">Видалити нотатки?</string>
 	<string name="alert_title_discard">Скасувати зміни?</string>
 	<string name="alert_message_discard_changes">Скасувати всі зміни?</string>
