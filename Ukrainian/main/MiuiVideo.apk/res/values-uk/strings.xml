@@ -302,4 +302,6 @@
  	<string name="receive_ad_notify_summary">Показувати найновіші та популярне відео під час запуску.</string>
  	<string name="success_add_waitfornewset">Готово</string>
 	<string name="check_network">Помилка підключення. Перевірте налаштування мережі.</string>
+	<string name="setting_use_network">Мобільна мережа</string>
+ 	<string name="setting_use_network_summery">Дозволити додатку використовувати мобільну мережу</string>
 </resources>

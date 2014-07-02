@@ -95,7 +95,7 @@
     <string name="snooze_all_label">Відкласти всі</string>
     <string name="dismiss_all_label">Віхилити всі</string>
     <string name="snooze_label">Відкласти</string>
-    <string name="does_not_repeat">Одноразова подія</string>
+    <string name="does_not_repeat">Один раз</string>
     <string name="daily">Щоденно</string>
     <string name="every_weekday">Кожен будній день (пн–пт)</string>
     <string name="weekly">Щотижнево (кожн. %s)</string>
@@ -277,4 +277,9 @@
 	<string name="event_date_format">d MMMM</string>
     <string name="event_full_date_format">MM.dd.yyyy</string>
 	<string name="pref_error_no_ringtone_select">Нічого не вибрано</string>
+	<string name="cta_notice_checkbox">Запам\'ятати</string>
+	<string name="cta_notice_message">Календарю необхідний доступ до контактів для одержання даних про дні народження</string>
+	<string name="cta_notice_ok">ОК</string>
+	<string name="cta_notice_title">Дозволити доступ до контактів?</string>
+	<string name="cta_notify_settings">Запитувати доступ до контактів</string>
 </resources>

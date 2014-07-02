@@ -386,7 +386,7 @@
     <string name="add_connection_button">Додати соц.мережу</string>
     <string name="recent">Нещодавні</string>
     <string name="recent_updates">Нещодавні</string>
-    <string name="account_type_format">Контакт%1$s</string>
+    <string name="account_type_format">Контакт: %1$s</string>
     <string name="use_photo_as_primary">Використовувати це зображення</string>
     <string name="contact_read_only">Не редагується з цього додатку.</string>
     <string name="no_contact_details">Ніякої додаткової інформації для цього контакту.</string>
@@ -449,7 +449,7 @@
     <string name="organization_company_and_title">%2$s, %1$s</string>
     <string name="hint_findContacts">Найти контакти</string>
     <string name="non_phone_caption">Номер телефону</string>
-    <string name="non_phone_add_to_contacts">Додати до контактів</string>
+    <string name="non_phone_add_to_contacts">Додати до контакту</string>
     <string name="activity_title_confirm_add_detail">Додати до контакту</string>
     <string name="non_phone_close">Закрити</string>
     <string name="date_year_toggle">Вказати рік</string>
@@ -1173,4 +1173,11 @@
  	<string name="resource_connect_network_settings">Запитувати доступ до мережі</string>
  	<string name="resource_remind_another_time">Запам\'ятати</string>
 	<string name="callrecordview_menu_delete_confirm">Підтвердити %s?</string>
+	<string name="yellowpage_navigation_network_location_enabled">Сервіс активний. Відключити його можна в налаштуваннях місця розташування</string>
+	<string name="cta_notice_checkbox">Запам\'ятати</string>
+	<string name="cta_notice_new_contact_message">Для збереження контакту в аккаунті \"%s\" необхідний доступ до мережі</string>
+	<string name="cta_notice_ok">ОК</string>
+	<string name="cta_notice_photo_message">Для зміни фото контакту необхідний доступ до мережі</string>
+	<string name="cta_notice_settings">Запитувати доступ до мережі</string>
+	<string name="cta_notice_title">Дозволити доступ до мережі?</string>
 </resources>

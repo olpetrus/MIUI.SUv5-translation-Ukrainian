@@ -82,9 +82,7 @@
  	<string name="confirm_delete">Вилучити обране? \n\файлів: %s</string>
  	<string name="confirm_delete_album" formatted="false">Вилучити обрані альбоми із зображеннями? \n\альбомів: %s \nзображень: %s</string>
  	<string name="confirm_delete_cloud_all_item_page" formatted="false">Вилучити обрані альбоми й зображення? \n\nзображень:%s \nальбомів: %s</string>
- 	<string name="confirm_delete_pictures">Зображень: %s</string>
  	<string name="confirm_delete_system_album">Вилучити системний альбом \"%s\"?</string>
- 	<string name="confirm_delete_videos">Відео: %s</string>
  	<string name="contact_photo">Фото контакту</string>
  	<string name="context_menu_add_contact">Додати в контакти</string>
  	<string name="context_menu_copy">Копіювати</string>
@@ -226,7 +224,7 @@
  	<string name="miliao_painting_folder_display_name">Малюнки MiTalk</string>
  	<string name="miliao_saved_folder_display_name">Зображення MiTalk</string>
  	<string name="mimetype">Тип MIME</string>
- 	<string name="mishop_saved_folder_display_name">Зображення Mi-Маркета</string>
+ 	<string name="mishop_saved_folder_display_name">Зображення Mi Маркета</string>
  	<string name="miui_capture_screen_folder_display_name">Скріншоти</string>
  	<string name="model">Модель</string>
  	<string name="more">Ще</string>
@@ -481,8 +479,6 @@
     <string name="make_download_dir_fail">Помилка створення теки для збереження файлів</string>
     <string name="delete_smb_file_fail">Помилка видалення файлу smb</string>
     <string name="new_device_tips">Доступний новий пристрій. Натисніть для перегляду.</string>
-	<string name="confirm_delete_this_picture">Видалити обране зображення?</string>
-    <string name="confirm_delete_this_video">Видалити обране відео?</string>
 	<string name="loading_members">Завантаження користувачів…</string>
 	<string name="loading_video">Завантаження відео…</string>
     <string name="loading_image">Завантаження фото…</string>
@@ -497,8 +493,7 @@
 	<string name="item_not_sync">Цей файл не був синхронізований з хмарним сервісом і не може бути завантажений</string>
 	<string name="error_share_with_creator">Ви вже є учасником цього альбому</string>
 	<string name="yellow_page">Сервіси</string>
-    <string name="confirm_delete_home_merge_item">Вилучити обрані фото з пам\'яті телефону й хмари?\n\nфото: %s</string>
- 	<string name="deselect_all">Зняти вибір</string>
+  	<string name="deselect_all">Зняти вибір</string>
  	<string name="device_model">Пристрій</string>
  	<string name="taken_time">Час зйомки</string>
     <string name="modified_time">Час зміни</string>
@@ -531,4 +526,25 @@
     <string name="item_not_sync_for_origin_video">Відео не було синхронізовано з хмарним сервісом і не може бути завантажено</string>
     <string name="item_not_sync_for_refocus_data">Зображення не було синхронізовано з хмарним сервісом і перефокусовані дані не можуть бути завантажені</string>
     <string name="ubifocus_guide_text">Довге натискання для перефокусування</string>
+		<string name="bigscreen_slide_playing">Слайдшоу відтворюється на пристрої: %s</string>
+	<string name="confirm_delete_has_cloud_image">Видалити %s фото із хмари?</string>
+	<string name="confirm_delete_has_cloud_image_video">Видалити обрані файли із хмари? (% s)</string>
+	<string name="confirm_delete_has_cloud_local_image">Видалити %s фото з пам\'яті телефону й хмари?</string>
+	<string name="confirm_delete_has_cloud_local_image_video">Видалити обрані файли з пам'яті телефону й хмари? (% s)</string>
+	<string name="confirm_delete_has_cloud_local_video">Видалити %s відео з пам\'яті телефону й хмари?</string>
+	<string name="confirm_delete_has_cloud_video">Видалити %s відео із хмари?</string>
+	<string name="confirm_delete_has_local_image">Видалити %s фото?</string>
+	<string name="confirm_delete_has_local_image_video">Видалити обрані файли? (% s)</string>
+	<string name="confirm_delete_has_local_video">Видалити %s відео?</string>
+	<string name="confirm_delete_init_message">Файли будуть віддалені з пам\'яті телефону й хмари. Якщо ви прагнете видалити їх тільки з пам\'яті телефону, то видаліть через локальні альбоми</string>
+	<string name="confirm_delete_init_title">Попередження</string>
+	<string name="skip_hide_special_album">Неможливо сховати системні альбоми</string>
+	<string name="confirm_delete_home_merge_item">Видалити %s фото з пам\'яті телефону й хмари?</string>
+	<string name="confirm_delete_pictures">Фото: %s</string>
+	<string name="confirm_delete_this_picture">Видалити обране фото?</string>
+	<string name="confirm_delete_this_video">Видалити обране відео?</string>
+	<string name="confirm_delete_videos">Відео: %s</string>
+	<string name="ubifocus_refocus_data_missing">Неможливо виконати перефокусування через загублені дані</string>
+	<string name="ubifocus_refocus_download_tip">Завантажите дані перед перефокусуванням</string>
+	<string name="ubifocus_refocus_map_error">Неможливо виконати перефокусування через недійсні дані</string>
 </resources>
