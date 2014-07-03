@@ -833,4 +833,5 @@
      <string name="error_not_acceptable">Помилка сервера: синхронізація відключена</string>
      <string name="sub_sync_item_browser_title_bookmark">Синхронізувати закладки</string>
      <string name="sub_sync_item_browser_title_bookmark_summary">Синхронізувати закладки браузера</string>
+	 <string name="enter_developer_mode">Режим розробників</string>
 </resources>

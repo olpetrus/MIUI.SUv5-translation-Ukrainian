@@ -1016,4 +1016,5 @@
 	<string name="cannot_move_warning_message"> При зйомці не рухайте пристрій</string>
 	<string name="ubifocus_capture_warning_message">Для одержання кращої якості фото використовуйте 2 об\'єкта для фокусування: перший розташуєте на відстані менш 1 метра від об\'єктива, другий - вдалині</string>
 	<string name="pref_camera_auto_capture_when_stable_title">Автозйомка при фокусі</string>
+	<string name="ubi_focus_capture_fail">Помилка зйомки</string>
 </resources>

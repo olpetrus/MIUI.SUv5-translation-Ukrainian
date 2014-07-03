@@ -1180,4 +1180,8 @@
 	<string name="cta_notice_photo_message">Для зміни фото контакту необхідний доступ до мережі</string>
 	<string name="cta_notice_settings">Запитувати доступ до мережі</string>
 	<string name="cta_notice_title">Дозволити доступ до мережі?</string>
+	<string name="yellowpage_navigation_more_items">Еще</string>
+ 	<string name="yellowpage_navigation_send_to_desktop_downloading">Загрузка иконки…</string>
+ 	<string name="yellowpage_navigation_send_to_desktop_failed">Ошибка загрузки. Проверьте параметры сети.</string>
+ 	<string name="yellowpage_user_profile">Профиль</string>
 </resources>
