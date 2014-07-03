@@ -237,7 +237,7 @@
     <string name="deleted">Видалено</string>
     <string name="undo">СКАСУВАТИ</string>
     <string name="select_all">Вибрати всі</string>
-    <string name="deselect_all">Скасувати всі</string>
+    <string name="deselect_all">Зняти вибір</string>
     <string name="slideshow">Слайд-шоу</string>
     <string name="details">Деталі</string>
     <string name="details_title">Елементів %1$d з %2$d:</string>

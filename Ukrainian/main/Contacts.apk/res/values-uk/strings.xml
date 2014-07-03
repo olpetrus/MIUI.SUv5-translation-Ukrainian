@@ -537,7 +537,7 @@
     <string name="default_ringtone">Мелодія за замовчуванням</string>
     <string name="callNoAnswerTimeFormat">Гудки %s разів</string>
     <string name="menu_send_to_desktop">Надіслати на робочий стіл</string>
-    <string name="send_contact_shortcut_todesktop_success">Додано на робочий стіл</string>
+    <string name="send_contact_shortcut_todesktop_success">Доданий на робочий стіл</string>
     <string name="summary_kind_title">Основна інформація</string>
     <string name="callrecordview_item_newcontact">Новий контакт</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d хв %2$d сек</string>
@@ -550,13 +550,13 @@
     <string name="no_contact_name">Ім\'я контакту не збережено</string>
     <string name="contact_pick_photo">Зображення</string>
     <string name="btn_delete_one_contact">Видалити контакт</string>
-    <string name="btn_delete_multi_contacts">Видалити %d</string>
+    <string name="btn_delete_multi_contacts">Видалити контактів: %d</string>
     <string name="btn_split_contact">Розділити контакт</string>
     <string name="use_photo_as_primary2">Використовувати зображення контакту %1$s</string>
     <string name="label_custom_type">На вибір</string>
     <string name="select_photo_from_photo_package">Вибрати зображення з пакету</string>
-    <string name="select_new_photo_from_photo_package">Вибрати нове зображення з пакету</string>
-    <string name="photo_package_activity_title">Зображення з пакету</string>
+    <string name="select_new_photo_from_photo_package">Огляд тек</string>
+    <string name="photo_package_activity_title">Огляд тек</string>
     <string name="lunarBirthdayLabelsGroup">Місячний календар</string>
     <string name="callrecordview_menu_show_title">Варіанти відображення викликів</string>
     <string name="callrecordview_menu_show_all">Всі виклики</string>
@@ -590,7 +590,7 @@
     <string name="t9_search_guide_zhuyin">Введіть номер телефону або знайдіть контакт за допомогою T9</string>
     <string name="date_time_set">Встановіть</string>
     <string name="sim_no_contact">На SIM карті немає контактів</string>
-    <string name="sim_indexed_contact_not_exist">Позиція \"%1$d\" на SIM карті выдутня. Позиція повинна бути між %2$d та %3$d.</string>
+    <string name="sim_indexed_contact_not_exist">Позиція %1$d на SIM карті выдутня. Позиція повинна бути між %2$d та %3$d.</string>
     <string name="sim_contact_search_error">Відбулася помилка</string>
     <string name="contacts_unavailable_add_xiaomi_account">Синхронізація контактів Xiaomi</string>
     <string name="noContactHelpTextAccountsInfo">Синхронізація контактів Xiaomi, Google і Exchange</string>
@@ -607,7 +607,7 @@
     <string name="nickname_picker_nickname_column">Заголовок</string>
     <string name="not_applied">Не підтримується</string>
     <string name="toast_for_saving_nickname">Нік збережено</string>
-    <string name="toast_for_failed_saving_nickname">Помилка збереження ніку</string>
+    <string name="toast_for_failed_saving_nickname">Не вдалось зберегти нік</string>
     <string name="nickname_editor_title">Змінити нік</string>
     <string name="auto_nickname">Автоматично</string>
     <string name="auto_set_nickname">Автоматично</string>
@@ -631,7 +631,7 @@
     <string name="account_sim">SIM карта</string>
     <string name="edit_contact_card_title">Редагувати контакт</string>
     <string name="preview_contact_card_title">Імпортування контактів…</string>
-    <string name="import_contact_card_button">Імпортування контактів</string>
+    <string name="import_contact_card_button">Імпорт контактів</string>
     <string name="success_message_import_from_account">Контакт імпортований</string>
     <string name="menu_group_sms">SMS групі</string>
     <string name="menu_group_ringtone">Мелодія групи</string>
@@ -643,7 +643,7 @@
     <string name="pick_recent_list_title">Нещодавніх контактів: %1$d</string>
     <string name="noRecentContacts">Немає нещодавніх контактів</string>
     <string name="hint_search_contacts">Контактів: %d</string>
-	<string name="hint_search_emails">Поштових адрес: %d</string>
+	<string name="hint_search_emails">Email адрес: %d</string>
     <string name="hint_search_phone_numbers">Номерів контактів: %d</string>
     <string name="pick_favorites_contacts_list_title">Обраних: %1$d</string>
     <string name="pick_recent_contacts_list_title">Останніх контактів: %1$d</string>
@@ -676,11 +676,11 @@
     <string name="scan_duplicate">Пошук однакових даних, зачекайте</string>
     <string name="scan_merge">Пошук однакових контактів…</string>
     <string name="scan_duplicate_message">Контактів з однаковими даними: %1$d</string>
-    <string name="merge_contact_message">Контактів з однаковими даними: %1$d</string>
+    <string name="merge_contact_message">Контактів з частково однаковими даними: %1$d</string>
     <string name="delete_duplicate">Об\'єднати</string>
     <string name="delete_duplicate_message">"Об\'єднання… "</string>
-    <string name="label_no_duplicate_contacts">Немає дублікатів</string>
-    <string name="quit_dialog_confirm_title">Ви не об\'єднували жодного контакту. Вийти?</string>
+    <string name="label_no_duplicate_contacts">Дублікатів не знайдено</string>
+    <string name="quit_dialog_confirm_title">Ви не об\'єднали ні один контакт</string>
     <string name="preference_import_export">Імпорт/Експорт</string>
     <string name="preference_import_export_title">Імпорт/Експорт контактів</string>
     <string name="import_vcard_description">Імпорт контактів з пам\'яті телефону</string>
@@ -701,8 +701,8 @@
     <string name="export_to_sim_title">Експортування…</string>
     <string name="sim_card_no_free_space_title">SIM карта заповнено</string>
     <string name="sim_card_no_free_space_message">Недостатньо пам\'яті.</string>
-    <string name="sim_contacts">Контакти SIM</string>
-    <string name="export_sim_contacts_dialog_message">Ваша SIM карта може містити контактів: %d.</string>
+    <string name="sim_contacts">Контакти SIM карти</string>
+    <string name="export_sim_contacts_dialog_message">Ваша SIM карта може містити контактів: %d</string>
     <string name="export_sim_contact_finish">Експорт завершено</string>
     <string name="export_sim_contact_finish_failure">Скопійовано: %1$d | Залишилося: %2$d</string>
     <string name="export_sim_contact_finish_success">Скопійовано контактів: %d</string>
@@ -750,9 +750,9 @@
     <string name="save_photo_progress">Збереження зображення…</string>
     <string name="edit_photo">Редагувати зображення</string>
     <string name="edit_hint">Редагувати</string>
-    <string name="next_birthday">Наступний день народження: %s</string>
+    <string name="next_birthday">Наступний День народження: %s</string>
     <string name="today">Сьогодні</string>
-    <string name="click_close">Натисніть на екран для закриття</string>
+    <string name="click_close">Натисніть для закриття</string>
     <string name="phone_primary">Основний</string>
     <string name="phone_info_divider">" | "</string>
     <string name="menu_bar_group_add">Додати</string>
@@ -768,7 +768,7 @@
     <string name="group_delete_success_toast">Групу видалено</string>
     <string name="group_create_fail_toast">Помилка створення групи</string>
     <string name="group_rename_fail_toast">Помилка перейменування групи</string>
-    <string name="contact_unfavorite_toast">Контакт видалено з обраних</string>
+    <string name="contact_unfavorite_toast">Контакт видалено з обраного</string>
     <string name="group_member_remove_toast">Контакт видалено з групи</string>
     <string name="contact_delete_toast">Контакт видалено</string>
 	<string name="duplicate_group_name">Група з таким ім\'ям вже існує</string>
@@ -785,7 +785,7 @@
     <string name="contact_edit_title_readonly">Контакт тільки для читання</string>
     <string name="account_container_title">Імпортовано з</string>
     <string name="open_contact">Показати контакт</string>
-    <string name="date_picker_label">Нагадувати за 3 дні та в сам день народження</string>
+    <string name="date_picker_label">Нагадувати за 3 дні та в сам День народження</string>
     <string name="pkgLabel">Контакти та номеронабирач</string>
     <string name="import_to_xiaomi_account_confirm">Імпорт</string>
     <string name="import_to_xiaomi_account_progress_title">Імпорт контактів в Mi аккаунт</string>
@@ -813,7 +813,7 @@
     <string name="option_delete_group">Видалити</string>
     <string name="deleteConfirmation_title">Видалити</string>
     <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" містить інформацію з декількох облікових записів. Інформація контактів тільки для читання не буде видалено, а буде приховано в переліку контактів.</string>
-    <string name="multipleContactDeleteConfirmationDetail">При видаленні \"%s\" видалиться інформація на всіх облікових записах.</string>    
+    <string name="multipleContactDeleteConfirmationDetail">При видаленні \"%s\" видалиться інформація у всіх облікових записах.</string>    
     <string name="deleteConfirmationDetail">Видалити \"%s\"?</string>
     <string name="preference_smart_group_title">Розумне групування</string>
     <string name="preference_smart_group_company_title">За компанією</string>
@@ -821,7 +821,7 @@
     <string name="preference_smart_group_location_title">За розташуванням</string>
     <string name="preference_smart_group_location_summary">Групування контактів по коду оператора</string>
     <string name="preference_smart_group_frequency_title">За останніми викликами</string>
-    <string name="preference_smart_group_frequency_summary">Групування контактів по останнім викликам або SMS</string>
+    <string name="preference_smart_group_frequency_summary">Групування контактів по останнім викликам або повідомленням</string>
     <string name="smart_group_label">Розумне групування</string>
     <string name="smart_group_loading">Завантаження груп…</string>
     <string name="smart_group_company_label">За компанією</string>
@@ -854,7 +854,7 @@
     <string name="device_paired_dialog_title">Добування контактів…</string>
     <string name="device_paired_dialog_message">Добування контактів</string>
     <string name="no_contacts_dialog_title">Контакти не знайдено</string>
-    <string name="no_contacts_dialog_message">Не знайдено відповідності в ваших контактах. Можливо контакти знаходяться на SIM карті, імпортуйте їх в телефон.</string>
+    <string name="no_contacts_dialog_message">Не знайдено відповідностей в ваших контактах. Можливо контакти знаходяться на SIM карті, імпортуйте їх в телефон.</string>
     <string name="cancel_import_dialog_title">Зупинити</string>
     <string name="cancel_import_dialog_message">Зупинити імпорт контактів?</string>
     <string name="title_paired_devices">Поєднані пристрої</string>
@@ -894,7 +894,7 @@
     <string name="starred_contacts">Вибрані</string>
     <string name="other_contacts">Інші</string>
     <string name="set_photo_failed_msg">При встановленні юзерпики виникла помилка.</string>
-    <string name="cloud_antispam_title">Антиспам в хмарах</string>
+    <string name="cloud_antispam_title">Визначення невідомих номерів</string>
     <string name="cloud_antispam_summary">Мережеві запити тільки при Wi-Fi або 3G</string>
     <string name="resource_app_name">Диспетчер ресурсів</string>
     <string name="resource_price_free">Безкоштовно</string>
@@ -934,7 +934,7 @@
 	<string name="resource_delta_update_successful">Вдале оновлення</string>
     <string name="all_resources">Всі</string>
     <string name="antispam_mark_my_contribution">Показувати іншим користувачам, що я відмітив цей номер.</string>
-    <string name="antispam_provider_format">Помітки як спам: %s</string>
+    <string name="antispam_provider_format">Помітив як спам: %s</string>
     <string name="resource_default_name">Ресурси</string>
     <string name="resource_detail">Властивості</string>
     <string name="resource_delete_all">Видалити обрані ресурси (%1$d од.)?</string>
@@ -1071,11 +1071,11 @@
     <string name="sim_error_generic_failure">Помилка</string>
     <string name="sim_error_storage_full">Пам\'ять SIM карти заповнена.</string>
     <string name="sim_error_not_ready">Завантаження контактів SIM карти…</string>
-    <string name="sim_error_text_too_long">Ім\'я дуже довге</string>
-    <string name="sim_error_number_too_long">Номер дуже довгий</string>
-    <string name="sim_error_email_too_long">Адреса email дуже довгий</string>
-    <string name="sim_error_email_full">Пам\'ять для електронної пошти заповнено</string>
-    <string name="sim_error_anr_full">пам\'ять для номерів заповнено</string>
+    <string name="sim_error_text_too_long">Ім\'я дуже довге.</string>
+    <string name="sim_error_number_too_long">Номер дуже довгий.</string>
+    <string name="sim_error_email_too_long">Адреса email дуже довгий.</string>
+    <string name="sim_error_email_full">Пам\'ять для електронної пошти заповнено.</string>
+    <string name="sim_error_anr_full">пам\'ять для номерів заповнено.</string>
     <string name="sim_error_password_error">Хибний пароль</string>
 	<string name="sdcard_not_mounted_dialog_title">SD карта відсутній</string>
     <string name="sdcard_not_mounted_dialog_message">Вставте SD карту \n</string>
@@ -1134,7 +1134,7 @@
     <string name="yellowpage_navigation_search_select_city">Оберіть місто</string>
 	<string name="type_mx_msg">Хмарні повідомлення</string>
 	<string name="yellowpage_navigation_search_result_no_more">Більше результату немає</string>
-    <string name="yellowpage_navigation_search_result_network_error">Помилка підключення до мережі</string>
+    <string name="yellowpage_navigation_search_result_network_error">Не вдалось підключитись до мережі</string>
     <string name="yellowpage_navigation_search_result_service_error">Сервіс недоступний</string>
     <string name="yellowpage_navigation_search_result_unknown_error">Невідома помилка</string>
 	<string name="yellowpage_navigation_menu_order">Моъ замовлення</string>
@@ -1162,7 +1162,7 @@
 	<string name="eventTypeCustom">Користувацький</string>
  	<string name="pref_key_sim_manage2">Керування SIM2</string>
  	<string name="account_sim2">SIM карта %d</string>
-	<string name="meid_invalid">Невірний MEID</string>
+	<string name="meid_invalid">Недійсний MEID</string>
 	<string name="expand_collapse_name_fields_description">Розгорнути або згорнути інформацію</string>
     <string name="menu_export_database">Експорт бази данних</string>
     <string name="contact_detail_picture_description">Натисніть на фото для зміни</string>
