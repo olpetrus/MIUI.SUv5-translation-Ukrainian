@@ -1101,7 +1101,7 @@
     <string name="filename">Ім\'я файлу</string>
     <string name="please_input">Введіть</string>
     <string name="fileisexist">Файл існує, уведіть нове ім\'я</string>
-    <string name="filenameisnull">Порожнє ім'я файлу, введіть нове ім\'я</string>
+    <string name="filenameisnull">Порожнє ім\'я файлу, введіть нове ім\'я</string>
     <string name="filename_invalid">Rename failed: file name contains illegal character.</string>
     <string name="silent">Безшумний</string>
     <string name="encrypt_media">Виберіть окреме відео або фото для кодування</string>
