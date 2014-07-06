@@ -1202,7 +1202,6 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="skip_button_label">Скасув.</string>
     <string name="next_button_label">Далі</string>
     <string name="lock_title">Захист пристрою</string>
-    <string name="lock_intro_message">Захистіть пристрій від неавторизованого використання, створивши власний зразок розблокування екрана. На наступному екрані з\'єднайте пальцем точки в будь-якому порядку. Потрібно з\'єднати принаймні чотири точки. Готові почати? Натисніть \"Далі\"</string>
     <string name="manageapplications_settings_title">Керування програмами</string>
     <string name="manageapplications_settings_summary">Керування та видалення інстальованих програм</string>
     <string name="applications_settings">Диспетчер програм</string>
@@ -1628,7 +1627,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="credentials_unlock_hint">Введення пароля для місця збереження облікових даних</string>
     <string name="credentials_old_password">Поточний пароль</string>
     <string name="credentials_reset_hint">Видалити весь вміст?</string>
-    <string name="credentials_password_too_short">Введіть пароль принаймні 8 символів завдовжки</string>
+    <string name="credentials_password_too_short">Введіть пароль (мінімум 8 символів)</string>
     <string name="credentials_wrong_password">Хибний пароль</string>
     <string name="credentials_reset_warning">Хибний пароль. Залишилася ще одна спроба, після чого місце збереження облікових даних буде очищено</string>
     <string name="credentials_reset_warning_plural">Хибний пароль. Залишилося декілька спроб (%1$d), перш ніж місце збереження облікових даних буде очищено</string>
