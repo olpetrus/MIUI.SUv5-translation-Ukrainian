@@ -2341,7 +2341,7 @@
     <string name="perm_hips_adjust_ringer_volume">Регулювання гучності сигналу виклику</string>
     <string name="perm_hips_security_prompt_caption">Попередження безпеки</string>
     <string name="perm_hips_security_prompt_title">%1$s намагається %2$s</string>
-    <string name="perm_hips_security_prompt_remember">Запам\'ятати мій вибір</string>
+    <string name="perm_hips_security_prompt_remember">Запам\'ятати вибір</string>
     <string name="perm_hips_security_prompt_accept">Дозволити (%d)</string>
     <string name="perm_hips_security_prompt_reject">Заборонити (%d)</string>
     <string name="perm_hips_security_prompt_accept_root">Дозволити</string>

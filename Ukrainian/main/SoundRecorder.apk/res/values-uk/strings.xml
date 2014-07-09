@@ -44,7 +44,7 @@
     <string name="second">%d сек.</string>
     <string name="minute">%d хв.</string>
     <string name="hour">%d год.</string>
-    <string name="call_record_or">або</string>
+    <string name="call_record_or">" або "</string>
     <string name="dialog_play">Відтворити</string>
     <string name="dialog_send">Надіслати</string>
     <string name="dialog_delete">Видалити</string>

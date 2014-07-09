@@ -656,12 +656,12 @@
     <string name="sms_control_message">&lt;b>%1$s&lt;/b> надсилає більшу кількість SMS повідомлень. Натисніть \"Гаразд\" для продовження або \"Скасувати\" для припинення надсилання.</string>
     <string name="sms_control_yes">Гаразд</string>
     <string name="sms_control_no">Скасувати</string>
-    <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> хоче надіслати повідомлення &lt;b>%2$s&lt;/b>.</string>
-    <string name="sms_short_code_details">Це <font fgcolor="#ffffb060">може призвести до витрат</font> на вашому рахунку.</string>
-    <string name="sms_premium_short_code_details"><font fgcolor="#ffffb060">Це призведе до витрат на вашому рахунку.</font></string>
+    <string name="sms_short_code_confirm_message">Додаток &lt;b>%1$s&lt;/b> хоче надіслати повідомлення &lt;b>%2$s&lt;/b>.</string>
+    <string name="sms_short_code_details">Це <font fgcolor="#ffffb060">може призвести до додаткових витрат</font>.</string>
+    <string name="sms_premium_short_code_details"><font fgcolor="#ffffb060">Це призведе до додаткових витрат</font>.</string>
     <string name="sms_short_code_confirm_allow">Надіслати</string>
     <string name="sms_short_code_confirm_deny">Скасувати</string>
-    <string name="sms_short_code_remember_choice">Запам\'ятати мій вибір</string>
+    <string name="sms_short_code_remember_choice">Запам\'ятати вибір</string>
     <string name="sms_short_code_remember_undo_instruction">Ви зможете змінити це пізніше в Налаштування > Додатки</string>
     <string name="sms_short_code_confirm_always_allow">Дозволити завжди</string>
     <string name="sms_short_code_confirm_never_allow">Забороняти завжди</string>
@@ -1671,9 +1671,9 @@
      <string name="zzz_keyguard_password_attempts_count_pin_code">Залишилося спроб: %1$d</string>
  	 <string name="keyguard_password_entry_touch_hint">Увести пароль</string>
  	 <string name="candidates_style">Кандидати</string>
-     <string name="sim_unavailable"> SIM Карта відсутня</string>
-     <string name="sim_locked"> SIMКарта заблокована</string>
-     <string name="sim_not_ready"> SIMКарта не готова. Спробуйте пізніше.</string>
+     <string name="sim_unavailable"> SIM карта відсутня</string>
+     <string name="sim_locked"> SIM карта заблокована</string>
+     <string name="sim_not_ready">SIM карта вже використовується</string>
      <string name="sim_in_airplane_mode">Включити режим \"В літаку\"</string>
      <string name="volume_warning_message">Прослуховування музики на великій гучності може вплинути на ваш слух</string>
      <string name="resolver_guide_title">Настроювання за замовчуванням</string>

@@ -113,7 +113,7 @@
     <string name="theme_batch_update_dlg_content_single">Оновити %1$s?</string>
 	<string name="resource_comment_sending">Надсилаю коментар…</string>
 	<string name="resource_comment_upload_failed">Помилка надсилання коментаря.</string>
-	<string name="resource_comment_upload_success">Коментар надіслано! Він буде опублікований після перевірки.</string>
+	<string name="resource_comment_upload_success">Коментар буде опублікований після перевірки.</string>
 	<string name="resource_comment_upload_data_invalid">Некоректний коментар</string>
 	<string name="resource_comment_upload_not_logined">Спочатку увійдіть в систему</string>
 	<string name="resource_comment_upload_not_bought">Перш ніж залишити коментар, необхідно застосувати тему.</string>
@@ -252,7 +252,7 @@
     <string name="resource_account_login_title">Вхід</string>
     <string name="resource_account_fail_to_add">Помилка додавання облікового запису</string>
     <string name="resource_account_abnormal_state">Помилка облікового запису. Будь ласка, спробуйте пізніше.</string>
-    <string name="resource_account_login_before_action">Спочатку необхідно авторизуватися в обліковому записі Xiaomi</string>
+    <string name="resource_account_login_before_action">Увійдіть в ваш Mi аккаунт</string>
     <string name="resource_send">Надіслати</string>
     <string name="resource_save_to_note">Зберегти в нотатки</string>
     <string name="resource_present">Подарунок</string>
@@ -277,7 +277,7 @@
     <string name="resource_comment_score_count">Користувачів: %1$s</string>
     <string name="resource_comment_loading_list">Завантаження…</string>
     <string name="account_unactivated">Обліковий запис Xiaomi не активовано</string>
-    <string name="to_activate_the_account">Активуйте обліковий запис Xiaomi</string>
+    <string name="to_activate_the_account">Активуйте Mi аккаунт</string>
     <string name="resource_menu_refresh">Оновити</string>
     <string name="resource_unknow_error">Невідома помилка</string>
     <string name="resource_user_know">ОК</string>

@@ -2105,7 +2105,7 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="perm_hips_adjust_ringer_volume">Регулювання гучності сигналу виклику</string>
     <string name="perm_hips_security_prompt_caption">Попередження безпеки</string>
     <string name="perm_hips_security_prompt_title">%1$s намагається %2$s</string>
-    <string name="perm_hips_security_prompt_remember">Запам\'ятати мій вибір</string>
+    <string name="perm_hips_security_prompt_remember">Запам\'ятати вибір</string>
     <string name="perm_hips_security_prompt_accept">Дозволити (%d)</string>
     <string name="perm_hips_security_prompt_reject">Заборонити (%d)</string>
     <string name="perm_hips_security_prompt_accept_root">Дозволити</string>
@@ -4040,8 +4040,8 @@ Android File Transfer
     <string name="dialog_msg_check_all">Додаток: %1$s \nфайлів: %2$d</string>
     <string name="toast_removed_from_white_list">" видалено з білого списку"</string>
     <string name="notification_button_text_of_low_memory">Очищення</string>
-    <string name="notification_title_of_low_memory">Пам\'ять заповнена на %s</string>
-    <string name="notification_summary_of_low_memory">Натисніть для очищення</string>
+    <string name="notification_title_of_low_memory">Використано пам\'яті %s</string>
+    <string name="notification_summary_of_low_memory">Немає місця для нових додатків.</string>
  	<string name="power_20s_enter_mode">%1$dз до режиму %2$s</string>
     <string name="power_notify_lowbattery">Заряд менш %1$d%%</string>
     <string name="power_recovery_mode">Відновлений режим %1$s</string>
@@ -4386,7 +4386,7 @@ Android File Transfer
     <string name="menu_item_show_more">Ще</string>
     <string name="ringtone_mute">Порожньо</string>
     <string name="title_system_resource">Системні ресурси</string>
-    <string name="resource_ringtone_volume_mute">Сигнал у режимі \" Без звуку\"</string>
+    <string name="resource_ringtone_volume_mute">Звук мелодії відключено</string>
     <string name="audio_list_loading">Завантаження…</string>
     <string name="title_local_resource">Локальні ресурси</string>
     <string name="online_resource_entry">Онлайн ресурси</string>
