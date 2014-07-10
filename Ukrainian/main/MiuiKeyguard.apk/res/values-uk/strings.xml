@@ -71,8 +71,4 @@
      <string name="miui_keyguard_ble_unlock_succeed_msg">Розблоковане Bluetooth пристроєм</string>
      <string name="bluetooth_unlock_rssi_far_debug_msg">Bluetooth пристрій знаходиться занадто далеко, щоб розблокувати.</string>
      <string name="default_lockscreen_unlock_hint_text">Посуньте вгору для розблокування</string>
-<<<<<<< HEAD
- </resources>
-=======
 </resources>
->>>>>>> origin/master
