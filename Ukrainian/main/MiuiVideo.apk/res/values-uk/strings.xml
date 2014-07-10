@@ -328,11 +328,11 @@
      <string name="addon_update_desc">Доступна нова версія. Оновити?</string>
      <string name="upgrade">Оновити</string>
      <string name="episode_suffix">Епізод: %d</string>
-  	 <string name="gong_count_netdevice">Інтернет пристроїв: %d</string>
- 	 <string name="sure">ОК</string>
- 	 <string name="declaration_content_short">Прийняти умови користування від Sohu, iqiyi і інших відео контент-провайдерів?</string>
-     <string name="ok_no_more">ОК і запам\'ятати</string>
- 	 <string name="net_device_name">Інтернет пристрій</string>
+     <string name="gong_count_netdevice">Інтернет пристроїв: %d</string>
+     <string name="sure">ОК</string>
+     <string name="declaration_content_short">Прийняти умови користування від Sohu, iqiyi і інших відео контент-провайдерів?</string>
+     <string name="ok_no_more">Запам\'ятати</string>
+     <string name="net_device_name">Інтернет пристрій</string>
      <string name="thunder_cinema">Кінотеатр xunlei</string>
      <string name="xunlei_login_error">Помилка авторизації</string>
      <string name="xunlei_cinema_title">Кінотеатр xunlei</string>
@@ -346,7 +346,7 @@
      <string name="failed_text_21">Фільм недоступний у режимі онлайн. Будь ласка, почекайте</string>
      <string name="failed_text_708">Занадто багато терміналів. Відтворіть через стандартний</string>
      <string name="failed_text_502">Не вдається відтворити фільм. Термін дії минув або він недоступний у режимі онлайн.</string>
- 	 <string name="info_title">Інформація</string>
+      <string name="info_title">Інформація</string>
      <string name="prex_playcount">Переглядів:</string>
      <string name="post_playcount">" "</string>
 </resources>
