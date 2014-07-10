@@ -57,8 +57,8 @@
         <item quantity="one">%d пісня на SD карті</item>
     </plurals>
     <plurals name="NNNtrackstoplaylist">
-        <item quantity="other">пісень додано в плейлист: %d.</item>
-        <item quantity="one">1 пісня додана в плейлист.</item>
+        <item quantity="other">Додано треків в плейлист: %d.</item>
+        <item quantity="one">Додано треків у плейлист: 1</item>
     </plurals>
     <plurals name="NNNtrackstofavoriteplaylist">
         <item quantity="other">пісень додано в плейлист: %d.</item>
@@ -99,5 +99,16 @@
         <item quantity="other">Термін дії закінчується через% d дн.</item>
         <item quantity="one">Термін дії закінчується через% d дн.</item>
     </plurals>
-
+        <plurals name="Ntracks_search_result">
+ 	<item quantity="other">Знайдено треків: %d</item>
+ 	<item quantity="one">Знайдено треків: %d</item>
+    </plurals>
+        <plurals name="Ntracks_count">
+ 	<item quantity="other">Треків: %d</item>
+ 	<item quantity="one">Треків: %d</item>
+    </plurals>
+ 	<plurals name="Ntracks_add_to_playlist">
+ 	<item quantity="other">Додано треків у плейлист: %d</item>
+ 	<item quantity="one">Додано треків у плейлист: 1</item>
+     </plurals>
 </resources>

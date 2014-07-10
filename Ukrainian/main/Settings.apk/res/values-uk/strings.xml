@@ -2251,7 +2251,6 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="preferred_launcher_warning_message">Заміна стандартного лаунчера може спричинити за собою більше споживання енергії, погіршення швидкості роботи, погіршити безпеку приватних даних і т.д.</string>
     <string name="preferred_launcher_warning_replace">Заміна</string>
     <string name="preferred_launcher_warning_use_system">Скасувати</string>
-    <string name="key_settings_title">Клавіші</string>
     <string name="key_settings">Клавіші</string>
     <string name="screen_key_long_press">Утримування клавіш</string>
     <string name="screen_key_long_press_action">Функція тригера</string>
