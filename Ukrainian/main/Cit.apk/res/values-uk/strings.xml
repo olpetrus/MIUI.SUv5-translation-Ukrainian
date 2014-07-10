@@ -266,5 +266,6 @@
  
  Говоріть у верхній мікрофон і ви повинні почути свій голос із динаміка."</string>
    <string name="cit_main_camera_sdcard_error">SD карта заповнена</string>
-
+   <string name="cit_play_sd_mp3_hifi_summary">Перевірте наявність файлу \"music.mp3\" на SD-карті. Файл \"music.mp3\" буде відтворено через пристрій HIFI при тестуванні.</string>
+   <string name="cit_play_sd_mp3_hifi_title">Відтворити MP3(HIFI) з SD-карти</string>
 </resources>

@@ -579,4 +579,9 @@
      <string name="send_message_notification_tickertext">Запит дозволу керування пристроєм</string>
      <string name="send_message_notification_title">Керування пристроєм</string>
      <string name="send_message_notification_msg">Керування пристроєм запитує дозвіл на відправлення повідомлення</string>
+     <string name="hms_first_use_tips">Для отримання сервісних повідомлень необхідно підключення до мережі Wi-Fi</string>
+     <string name="retrive_hms_tips">Отримання…</string>
+     <string name="send_hms_editor_hints">Хмарне повідомлення</string>
+     <string name="view_hms_details">Інформація</string>
+     <string name="xiaomi_service_number">Сервісний номер</string>
 </resources>

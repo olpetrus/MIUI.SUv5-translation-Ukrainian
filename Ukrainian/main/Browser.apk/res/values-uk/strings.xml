@@ -833,5 +833,14 @@
      <string name="error_not_acceptable">Помилка сервера: синхронізація відключена</string>
      <string name="sub_sync_item_browser_title_bookmark">Синхронізувати закладки</string>
      <string name="sub_sync_item_browser_title_bookmark_summary">Синхронізувати закладки браузера</string>
-	 <string name="enter_developer_mode">Режим розробників</string>
+     <string name="enter_developer_mode">Режим розробників</string>
+     	<string name="account_prifix">Аккаунт:</string>
+ 	<string name="adblock_notification">Заблоковано реклами: %d</string>
+ 	<string name="miui_autologin_bar_error">Не вдається авторизуватися</string>
+ 	<string name="miui_autologin_bar_title">Використовувати системний аккаунт</string>
+ 	<string name="pref_adblock_counts">Заблоковано реклами: %d</string>
+ 	<string name="pref_adblock_title">Блокування реклами</string>
+ 	<string name="pref_clear_adblock_statistics">Очистити статистику</string>
+ 	<string name="pref_clear_adblock_statistics_dlg">Очистити статистику блокування реклами?</string>
+ 	<string name="pref_enable_adblock_notification">Сповіщення блокування</string>
 </resources>
