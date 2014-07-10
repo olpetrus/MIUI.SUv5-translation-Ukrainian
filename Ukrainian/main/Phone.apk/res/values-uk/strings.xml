@@ -151,7 +151,7 @@
 	<string name="close_dialog">Гаразд</string>
 	<string name="enable">Увімкнути</string>
 	<string name="disable">Вимкнути</string>
-	<string name="enable_antispam_strange_summary">Не сповіщати про перший вхідний виклик від невідомого номеру</string>
+	<string name="enable_antispam_strange_summary">Не сповіщати про про перщі два гудки від невідомого номеру</string>
 	<string name="enable_antispam_strange_title">Невідомі номери без звуку</string>
 	<string name="change_num">Оновити</string>
 	<string name="vm_save_number">Зберегти номер голосової пошти</string>
@@ -1532,8 +1532,8 @@
     <string name="international_dialing_add_country_code_and_area_code_without_prefix">Додати код країни та код міста?</string>
     <string name="no_search_result">Немає результатів пошуку</string>
     <string name="gemini_3g_disable_warning_case0">Необхідно увімкнути передачу даних в роумінгу для цієї SIM карти, що можуть призвести  значні витрати на послуги зв\'язку! Увімкнути передачу даних в роумінгу та вибрати цю SIM карту?</string>
-    <string name="gemini_3g_disable_warning_case1">3G недоступний для обраній SIM карти. З-за цього завантаження даних буде повільною. Увімкнути 3G мережа для цієї SIM карти можна через Налаштування > Бездротові мережі > Мобільні мережі. Вибрати цю SIM карту?</string>
-    <string name="gemini_3g_disable_warning_case2">Необхідно увімкнути передачу даних в роумінгу для цієї SIM карти, що можуть призвести значні витрати на послуги зв\'язку! Окрім того 3G недоступний для обраній SIM карти. З-за цього завантаження даних буде повільною. Увімкнути 3G мережа для цієї SIM карти можна через Налаштування > Бездротові мережі > Мобільні мережі. Увімкнути передачу даних в роумінгу та вибрати цю SIM карту?</string>
+    <string name="gemini_3g_disable_warning_case1">3G недоступний для обраній SIM карти. З-за цього завантаження даних буде повільною. Увімкнути 3G мережа для цієї SIM карти можна через Налаштування &gt; Бездротові мережі &gt; Мобільні мережі. Вибрати цю SIM карту?</string>
+    <string name="gemini_3g_disable_warning_case2">Необхідно увімкнути передачу даних в роумінгу для цієї SIM карти, що можуть призвести значні витрати на послуги зв\'язку! Окрім того 3G недоступний для обраній SIM карти. З-за цього завантаження даних буде повільною. Увімкнути 3G мережа для цієї SIM карти можна через Налаштування &gt; Бездротові мережі &gt; Мобільні мережі. Увімкнути передачу даних в роумінгу та вибрати цю SIM карту?</string>
     <string name="disable_data_connection_msg">Пошук доступних мереж вимкне під\'єднання передачі даних, що знаходяться в використанні. Ви хочете продовжити?</string>
     <string name="voice_command_notification_ticker" formatted="false">Ви можете сказати \"%s\" або \"%s\" для відповіді або скасування вхідного виклику</string>
     <string name="voice_command_notification_title">Голосове керування</string>

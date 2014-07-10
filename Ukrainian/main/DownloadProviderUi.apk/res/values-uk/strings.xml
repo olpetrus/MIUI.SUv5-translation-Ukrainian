@@ -30,7 +30,7 @@
     <string name="keep_queued_download">Продовжити</string>
     <string name="cancel_running_download">Скасувати</string>
     <string name="retry_download">Повторити</string>
-    <string name="deselect_all">Зняти виділення</string>
+    <string name="deselect_all">Зняти вибір</string>
     <string name="select_all">Вибрати всі</string>
     <string name="selected_count">Вибрано %1$d з %2$d</string>
     <string name="download_share_dialog">Відправити…</string>

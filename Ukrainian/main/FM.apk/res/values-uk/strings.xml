@@ -108,7 +108,7 @@
     <string name="alert_title_new_station">Нова станція</string>
     <string name="alert_title_delete">Видалити станцію?</string>
     <string name="alert_message_delete_station">Обрана станція буде видалена.</string>
-    <string name="toast_delete_station">%s МГц була видалена</string>
+    <string name="toast_delete_station">%s МГц видалена</string>
     <string name="msg_noantenna_message">Навушники не виявлені. Деякі функції можуть бути недоступні.</string>
     <string name="msg_do_not_support_fm">FM Радіо не підтримується на цьому пристрої</string>
     <string name="exit_fm">Вихід</string>

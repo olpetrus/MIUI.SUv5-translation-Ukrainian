@@ -212,11 +212,11 @@
     <string name="loading">Завантаження…</string>
     <string name="fail_to_load">Не завантажено</string>
     <string name="fail_to_load_image">Не вдалося завантажити зображення</string>
-    <string name="no_thumbnail">Немає зменшеного зображення</string>
+    <string name="no_thumbnail">Немає ескізу</string>
     <string name="resume_playing_restart">Почати з початку</string>
     <string name="crop_save_text">Гаразд</string>
     <string name="ok">Гаразд</string>
-    <string name="multiface_crop_help">Натисніть на обличчя, щоб почати.</string>
+    <string name="multiface_crop_help">Натисніть на обличчя, щоб почати</string>
     <string name="saving_image">Збереження малюнку…</string>
     <string name="save_error">Зображення не збережено.</string>
     <string name="crop_label">Обрізати світлину</string>
@@ -237,7 +237,7 @@
     <string name="deleted">Видалено</string>
     <string name="undo">СКАСУВАТИ</string>
     <string name="select_all">Вибрати всі</string>
-    <string name="deselect_all">Скасувати всі</string>
+    <string name="deselect_all">Зняти вибір</string>
     <string name="slideshow">Слайд-шоу</string>
     <string name="details">Деталі</string>
     <string name="details_title">Елементів %1$d з %2$d:</string>

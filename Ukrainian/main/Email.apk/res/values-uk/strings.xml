@@ -482,7 +482,7 @@
      <string name="exception_updated">Інформація події була змінена для: %s</string>
      <string name="policy_dont_allow_storage_cards">Не дозволяти використовувати карту пам\'яті</string>
      <string name="policy_dont_allow_unsigned_apps">Не дозволяти використовувати додатки без підписів</string>
-     <string name="policy_dont_allow_unsigned_installers">Не дозволяти використовувати Apk без підписів</string>
+     <string name="policy_dont_allow_unsigned_installers">Не дозволяти використовувати APK без підписів</string>
      <string name="policy_dont_allow_wifi">Не дозволяти використовувати мережу Wi-Fi</string>
      <string name="policy_dont_allow_text_messaging">Не дозволяти використовувати SMS</string>
      <string name="policy_dont_allow_pop_imap">Не дозволяти використовувати аккаунти  POP і IMAP</string>

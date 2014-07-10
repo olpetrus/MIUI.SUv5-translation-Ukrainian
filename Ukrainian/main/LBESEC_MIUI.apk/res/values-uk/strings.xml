@@ -226,4 +226,19 @@
 	<string name="HIPS_Perm_DisableKeyguard">Розблокування екрана</string>
     <string name="HIPS_Perm_DisableKeyguard_Desc">Розблокування екрана</string>
     <string name="HIPS_Perm_DisableKeyguard_Hint">Доступ до розблокування екрана</string>
+		<string name="HIPS_Perm_Autostart">Автозапуск</string>
+	<string name="HIPS_Perm_Autostart_Desc">Автозапуск</string>
+	<string name="HIPS_Perm_Autostart_Hint">Дозвіл на автоматичний запуск</string>
+	<string name="HIPS_Perm_Calendar">Календар</string>
+	<string name="HIPS_Perm_Calendar_Desc">Доступ до календаря</string>
+	<string name="HIPS_Perm_Calendar_Hint">Доступ до календаря</string>
+	<string name="HIPS_Perm_Notification">Повідомлення</string>
+	<string name="HIPS_Perm_Notification_Desc">Доступ до повідомлень</string>
+	<string name="HIPS_Perm_Notification_Hint">Доступ до повідомлень у рядку стану</string>
+	<string name="HIPS_Perm_Systemalert">Спливаючі вікна</string>
+	<string name="HIPS_Perm_Systemalert_Desc">Спливаючі вікна</string>
+	<string name="HIPS_Perm_Systemalert_Hint">Доступ до спливаючих вікон</string>
+	<string name="HIPS_Perm_Wakelock">Пробудження пристрою</string>
+	<string name="HIPS_Perm_Wakelock_Desc">Пробудження пристрою</string>
+	<string name="HIPS_Perm_Wakelock_Hint">Доступ до пробудження пристрою</string>
 </resources>

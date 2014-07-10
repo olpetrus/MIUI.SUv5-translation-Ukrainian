@@ -28,8 +28,8 @@
      <string name="mibi_license">Користувацька угода Micredit</string>
      <string name="user_manual"> Посібник користувача</string>
      <string name="license_host_unreachable">Помилка підключення до мережі. Щоб переглянути цю інформацію, перейдіть на %s.</string>
-     <string name="perm_payment_lab">Сервіс оплати Xiaomi</string>
-     <string name="perm_payment_dspt">Дозволити додатку оплату через сервіси Xiaomi</string>
+     <string name="perm_payment_lab">Mi Pay</string>
+     <string name="perm_payment_dspt">Дозволити додатку оплату через Mi Pay</string>
      <string name="sync_one_time_sync">Натисніть для синхронізації (%1$s)</string>
      <string name="no_sim">SIM карта не виявлена</string>
      <string name="activating">Активація…</string>
@@ -47,7 +47,7 @@
      <string name="error_not_acceptable">Помилка сервера: синхронізація відключена</string>
      <string name="sim_unavailable">SIM карта недоступна</string>
      <string name="sim_locked">SIM карта заблокована</string>
-     <string name="sim_not_ready">SIM карта використовується. Повторите пізніше.</string>
+     <string name="sim_not_ready">SIM карта вже використовується.</string>
      <string name="sim_in_airplane_mode">Вимкніть режим \"У літаку\".</string>
      <string name="select_all">Вибрати всі</string>
      <string name="deselect_all">зняти вибір</string>

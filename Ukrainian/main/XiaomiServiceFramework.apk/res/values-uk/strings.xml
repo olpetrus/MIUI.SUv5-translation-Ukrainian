@@ -222,8 +222,8 @@
     <string name="error_too_frequent_visits_summary">Ви робите запит дуже часто. Будь ласка, спробуйте ще раз через п\'ять хвилин.</string>
     <string name="title_recharge">Поповнення рахунку</string>
     <string name="title_pay">Сплатити MiCredits</string> 
-    <string name="recharge_group_favorite">Основні методи поповнення</string>
-    <string name="recharge_group_others">Інші методи поповнення</string>
+    <string name="recharge_group_favorite">Основні способи поповнення</string>
+    <string name="recharge_group_others">Інші способи поповнення</string>
 	<string name="recharge_group_1to1">1 юань рівний 1 MiCredit</string>
 	<string name="recharge_group_2to1">2 юаня рівні 1 MiCredit</string>
     <string name="recharge_prepaid_title">Карти передплати</string>
@@ -235,7 +235,7 @@
     <string name="recharge_message_title">SMS</string>
     <string name="recharge_message_summary">Підтримка сплати через телефон</string>
     <string name="recharge_pcpay_title">Поповнення через комп\'ютер</string>
-    <string name="recharge_pcpay_summary">Підтримує більше методів поповнення</string>
+    <string name="recharge_pcpay_summary">Підтримує більше способів поповнення</string>
     <string name="recharge_voucher_title">Карти Mi Credit</string>
     <string name="recharge_voucher_summary">Підтримка переказів Mi Credit карт</string>
     <string name="recharge_hint">1 юань рівний 1 Mi Credit</string>
@@ -245,7 +245,7 @@
     <string name="recharge_denomination">%1$s юань</string>
     <string name="btn_recharge_large">Поповнити зараз</string>
     <string name="btn_pay_large">Сплатити зараз</string> 
-    <string name="recharge_other">Вибрати інші методи поповнення</string>
+    <string name="recharge_other">Вибрати інші способи поповнення</string>
     <string name="paytool_picker_hint">Вкажіть суму Mi Credit для зарахування</string>
     <string name="paytool_edit_hint">>Сума зарахування (RMB)</string>
     <string name="paytool_edit_limit">Менше ніж %1$s</string>

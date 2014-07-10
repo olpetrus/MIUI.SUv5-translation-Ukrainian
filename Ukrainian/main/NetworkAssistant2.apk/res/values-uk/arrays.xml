@@ -42,4 +42,14 @@
          <item>Автоматично одержати шаблон повідомлення</item>
          <item>Задати шаблон повідомлення вручну</item>
      </string-array>
+	 <string-array name="date_of_traffic_prefix">
+         <item>"Вчора"</item>
+         <item>"Сьогодні "</item>
+         <item>" За місяць "</item>
+     </string-array>
+     <string-array name="traffic_type">
+         <item>" по мобільному трафіку "</item>
+         <item>"по Wi-Fi трафіку "</item>
+         <item>" за стиснутим даними "</item>
+     </string-array>
  </resources>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
  <resources>
      <string name="lockscreen_emergency_call">Екстрений виклик</string>
      <string name="lockscreen_forgot_pattern_button_text">Відновити</string>
@@ -36,7 +36,7 @@
      <string name="lockscreen_glogin_instructions">Введіть аккаунт Xiaomi для розблокування</string>
      <string name="lockscreen_glogin_password_hint">Пароль</string>
      <string name="lockscreen_glogin_checking_password">Перевірка…</string>
-     <string name="login_website_in_case_forget_password"> Для скидання пароля, перейдіть на сайт \"i.xiaomi.com\".</string>
+     <string name="login_website_in_case_forget_password">Для скидання пароля відвідайте i.xiaomi.com.</string>
      <string name="screen_on_proximity_sensor_title">Запобігання помилок</string>
      <string name="screen_on_proximity_sensor_summary">Використання датчика наближення для запобігання випадкових натискань на екран заблокованого телефону</string>
      <string name="screen_on_proximity_sensor_hint">Щоб відключити цю функцію, затисніть одночасно клавіші \"Назад\" і \"Гучність\".</string>
@@ -65,12 +65,14 @@
      <string name="lockscreen_access_pattern_cleared">Ключ очищений</string>
      <string name="lockscreen_access_pattern_cell_added">Оператор доданий</string>
      <string name="lockscreen_access_pattern_detected">Кінець ключа</string>
-     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Ви ввели пароль невірно %d раз(а). Після %d невірних спроб введення вам буде запропоновано розблокувати телефон за допомогою аккаунта Xiaomi.
- 
-  Повторите спробу через %d сек."</string>
+     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Ви ввели пароль невірно %d раз(а). Після %d невірних спроб введення вам буде запропоновано розблокувати телефон за допомогою аккаунта Xiaomi. Повторите спробу через %d сек."</string>
      <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Ви ввели пароль невірно %d раз(а). Після %d невірних спроб усі дані будуть очищені й відновлені заводські настроювання</string>
      <string name="lockscreen_failed_attempts_now_wiping">Ви ввели пароль невірно %d раз(а). Усі дані будуть очищені й відновлені заводські настроювання</string>
      <string name="miui_keyguard_ble_unlock_succeed_msg">Розблоковане Bluetooth пристроєм</string>
      <string name="bluetooth_unlock_rssi_far_debug_msg">Bluetooth пристрій знаходиться занадто далеко, щоб розблокувати.</string>
      <string name="default_lockscreen_unlock_hint_text">Посуньте вгору для розблокування</string>
+<<<<<<< HEAD
  </resources>
+=======
+</resources>
+>>>>>>> origin/master

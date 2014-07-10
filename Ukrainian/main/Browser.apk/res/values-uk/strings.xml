@@ -316,7 +316,7 @@
 	<string name="geolocation_permissions_prompt_share">Дозволити</string>
 	<string name="geolocation_permissions_prompt_dont_share">Відхилити</string>
 	<string name="geolocation_permissions_prompt_remember">Запам\'ятати налаштування</string>
-	<string name="geolocation_permissions_prompt_toast_allowed">У цього сайту є доступ до даних про місцезнаходження. Щоб змінити параметри, виберіть Налаштування > Додатково > Данні веб-сайтiв.</string>
+	<string name="geolocation_permissions_prompt_toast_allowed">У цього сайту є доступ до даних про місцезнаходження. Щоб змінити параметри, виберіть Налаштування &gt; Додатково &gt; Данні веб-сайтiв.</string>
 	<string name="geolocation_settings_page_title">Очистити геодані</string>
 	<string name="geolocation_settings_page_summary_allowed">Цей сайт зараз має доступ до вашого місцезнаходження</string>
 	<string name="geolocation_settings_page_summary_not_allowed">У цього сайту зараз немає доступу до даних про ваше місцезнаходження</string>
@@ -562,7 +562,7 @@
     <string name="menu_download_video">Завантажені відео</string>
     <string name="download_video_unseleted_all">Зняти вибір</string>
     <string name="download_video_please_select_video">Вибрати відео</string>
-    <string name="download_video_please_download_market">Необхідно встановити Mi-Маркет</string>
+    <string name="download_video_please_download_market">Необхідно встановити Mi Маркет</string>
     <string name="download_video_no_title_default_name">Відео</string>
     <string name="download_video_menu_dialog_title">Встановлення…</string>
     <string name="download_video_menu_dialog_summary">Необхідно встановити відеоплеєр перед використанням цієї функції</string>
@@ -833,4 +833,5 @@
      <string name="error_not_acceptable">Помилка сервера: синхронізація відключена</string>
      <string name="sub_sync_item_browser_title_bookmark">Синхронізувати закладки</string>
      <string name="sub_sync_item_browser_title_bookmark_summary">Синхронізувати закладки браузера</string>
+	 <string name="enter_developer_mode">Режим розробників</string>
 </resources>
