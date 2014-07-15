@@ -163,4 +163,19 @@
 	<string name="delete_record">Видалити запис</string>
 	<string name="start_server">Запустити TCP сервер</string>
 	<string name="notify_server">Повідомити TCP сервер</string>
+	<string name="permlab_fm_receiver">access FM receiver</string>
+    <string name="permdesc_fm_receiver">Allows an application to access the FM receiver functions.</string>
+    <string name="bt_advanced_settings">Розширені настроювання Bluetooth</string>
+    <string name="profile_hs_hfp">HS/HFP</string>
+    <string name="profile_description_hs_hfp">Профіль навушників/гарнітури</string>
+    <string name="profile_a2dp">A2DP</string>
+    <string name="profile_description_a2dp">Профіль A2DP</string>
+    <string name="profile_hid">HID Host</string>
+    <string name="profile_description_hid">Профіль Human Interface Device (Host)</string>
+    <string name="profile_hdp">HDP</string>
+    <string name="profile_description_hdp">Health Devices Profile</string>
+    <string name="profile_pan">Персональна мережа</string>
+    <string name="profile_description_pan">Профіль персональної мережі</string>
+    <string name="profile_gatt">GATT</string>
+    <string name="profile_description_gatt">Профіль GATT/BLE</string>
 </resources>

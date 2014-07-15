@@ -310,4 +310,6 @@
     <string name="item_is_selected">Обране: %1$s</string>
     <string name="deleted_key">Вилучене: %1$s</string>
 	<string name="timer_message_with_seconds">%1$d сек.</string>
+	<string name="alarm_on">УВІМКНЕНИЙ</string>
+    <string name="alarm_off">ВИМКНЕНИЙ</string>
 </resources>

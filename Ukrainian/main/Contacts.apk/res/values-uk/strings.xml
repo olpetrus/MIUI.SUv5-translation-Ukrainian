@@ -1184,4 +1184,12 @@
  	<string name="yellowpage_navigation_send_to_desktop_downloading">Загрузка иконки…</string>
  	<string name="yellowpage_navigation_send_to_desktop_failed">Ошибка загрузки. Проверьте параметры сети.</string>
  	<string name="yellowpage_user_profile">Профиль</string>
+	<string name="dialerallcontactslabel">Обрані та всі контакти</string>
+    <string name="call_log_voicemail_header">Тільки голосова пошта</string>
+    <string name="call_log_incoming_header">Тільки вхідні виклики</string>
+    <string name="call_log_outgoing_header">Тільки вихідні виклики</string>
+    <string name="call_log_missed_header">Тільки пропущені виклики</string>
+    <string name="menu_show_outgoing_only">Показувати тільки вихідні</string>
+    <string name="menu_show_incoming_only">Показувати тільки вхідні</string>
+    <string name="menu_show_missed_only">Показувати тільки пропущені</string>
 </resources>

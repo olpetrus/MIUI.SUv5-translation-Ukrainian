@@ -639,7 +639,7 @@
     <string name="face_beauty_intelligent_title">Покрашення тону шкіри</string>
     <string name="face_beauty_manual_title">Покрашення тона шкіри</string>
     <string name="face_beauty_simple_mode_title">Тон шкіри</string>
-    <string name="face_beauty_intelligent_level_0">Вимкнено</string>
+    <string name="face_beauty_intelligent_level_0">Вимк.</string>
     <string name="face_beauty_intelligent_level_1">Низьке</string>
     <string name="face_beauty_intelligent_level_2">Середнє</string>
     <string name="face_beauty_intelligent_level_3">Высоке</string>

@@ -132,4 +132,11 @@
     <string name="notification_title_all_paused">Завантаження призупинено</string>
     <string name="notification_message_all_paused">Можливі надмірні витрати трафіку/</string>
 	<string name="toast_file_is_downloading">Файл завантажується</string>
+	 <string name="record_your_message">Записати повідомлення</string>
+     <string name="message_recorded">Повідомлення записане</string>
+     <string name="review_message">Огляд повідомлення</string>
+     <string name="min_available">%d хв. доступно</string>
+     <string name="sec_available">%d сек. доступно</string>
+     <string name="accept">Готове</string>
+     <string name="discard">Відмовитися</string>
 </resources>

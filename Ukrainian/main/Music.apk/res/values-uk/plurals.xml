@@ -105,10 +105,16 @@
     </plurals>
         <plurals name="Ntracks_count">
  	<item quantity="other">Треків: %d</item>
- 	<item quantity="one">Треків: %d</item>
+ 	    <item quantity="one">Треків: %d</item>
     </plurals>
  	<plurals name="Ntracks_add_to_playlist">
- 	<item quantity="other">Додано треків у плейлист: %d</item>
- 	<item quantity="one">Додано треків у плейлист: 1</item>
+ 	    <item quantity="other">Додано треків у плейлист: %d</item>
+ 	    <item quantity="one">Додано треків у плейлист: 1</item>
+     </plurals>
+	     <plurals name="Nsongs">
+         <item quantity="other">Треків: %d</item>
+     </plurals>
+     <plurals name="Nsongscomp">
+         <item quantity="other">%2$d з %1$d треків</item>
      </plurals>
 </resources>
