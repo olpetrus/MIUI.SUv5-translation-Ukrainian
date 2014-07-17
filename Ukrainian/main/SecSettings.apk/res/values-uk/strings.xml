@@ -1265,7 +1265,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="filter_apps_onsdcard">На кар.пам.</string>
     <string name="disabled">Вимкнено</string>
     <string name="no_applications">Немає програм</string>
-    <string name="internal_storage">Пам\'ять пристрою</string>
+    <string name="internal_storage">Внутрішня пам\'ять</string>
     <string name="sd_card_storage">Карта пам\'яті</string>
     <string name="recompute_size">Переобчислення розміру…</string>
     <string name="clear_data_dlg_title">Видалити дані програми?</string>

@@ -1395,7 +1395,7 @@
     <string name="disabled">Вимкнено</string>
     <string name="not_installed">Не встановлено</string>
     <string name="no_applications">Немає додатків</string>
-    <string name="internal_storage">Пам\'ять додатків</string>
+    <string name="internal_storage">Внутрішня пам\'ять</string>
     <string name="sd_card_storage">USB накопичувач</string>
     <string name="recompute_size">Повторний розрахунок розміру…</string>
     <string name="clear_data_dlg_title">Видалити дані додатки?</string>

@@ -41,7 +41,7 @@
     <string name="toast_message_continue_play_hour">"г "</string>
     <string name="toast_message_continue_play_minute">"хвил. "</string>
     <string name="toast_message_continue_play_second_and_play">"сек. "</string>
-    <string name="vp_VideoView_error_network_not_available">Иережа недоступна</string>
+    <string name="vp_VideoView_error_network_not_available">Мережа недоступна</string>
     <string name="top_status_local_media">Локальне медіа</string>
     <string name="top_status_online_media">Онлайн медіа</string>
     <string name="loading_video_netplay_label_v5">Завантаження відео…</string>
