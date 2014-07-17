@@ -376,7 +376,6 @@
     <string-array name="power_mode_entries">
         <item>Потужний</item>
         <item>Збалансований</item>
-        <item>Енергозберігаючий</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Через 1 хвилину</item>
@@ -730,4 +729,8 @@
          <item>Дозволити</item>
          <item>Заборонити</item>
     </string-array>
+     <string-array name="priority_storage_entries">
+ 		<item>Внутрішня пам\’ять</item>
+ 		<item>Зовнішня пам\’ять </item>
+ 	</string-array>
  </resources>

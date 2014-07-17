@@ -328,4 +328,8 @@
  	<string name="added_to_favorite">Додане</string>
  	<string name="remove_from_favorite">Видалити з обраного</string>
  	<string name="removed_from_favorite">Віддалене</string>
+	<string name="dont_enable">Скасувати</string>
+        <string name="enable_now">Включити</string>
+        <string name="express_inquiry_provider_info">Підтримка:</string>
+        <string name="group_name_more">Інше</string>
 </resources>

@@ -884,10 +884,10 @@
     <string name="memory_media_cache_usage">Кешовані дані</string>
     <string name="sd_eject">Вилучити накопичувач</string>
     <string name="sd_eject_summary">Вилучити зовнішній накопичувач</string>
-    <string name="sd_insert_summary">Під\'єднайте SD карту для підключення</string>
-    <string name="sd_mount">Під\'єднати SD карту</string>
-    <string name="sd_format">Очистити SD карту</string>
-    <string name="sd_format_summary">Видаляє всі дані з SD карти, наприклад, музику та світлини</string>
+    <string name="sd_insert_summary">Підключить накопичувач</string>
+    <string name="sd_mount">Підключить накопичувач</string>
+    <string name="sd_format">Очистити накопичувач</string>
+    <string name="sd_format_summary">Видаляє всі дані з накопичувача, наприклад, музику та світлини</string>
     <string name="memory_clear_cache_title">Очистити кеш?</string>
     <string name="memory_clear_cache_message">Видалення всіх збережених даних для усіх додатків.</string>
     <string name="mtp_ptp_mode_summary">MTP або PTP функції активні</string>
@@ -1155,12 +1155,12 @@
     <string name="filter_apps_all">Всі</string>
     <string name="filter_apps_third_party">Сторонні</string>
     <string name="filter_apps_running">Що працюють</string>
-    <string name="filter_apps_onsdcard">USB накопичувач</string>
+    <string name="filter_apps_onsdcard">Накопичувач</string>
     <string name="disabled">Вимкнено</string>
     <string name="not_installed">Не встановлено</string>
     <string name="no_applications">Немає додатків</string>
-    <string name="internal_storage">Пам\'ять додатків</string>
-    <string name="sd_card_storage">USB накопичувач</string>
+    <string name="internal_storage">Внутрішня пам\'ять</string>
+    <string name="sd_card_storage">Накопичувач</string>
     <string name="recompute_size">Повторний розрахунок розміру…</string>
     <string name="clear_data_dlg_title">Видалити дані додатки?</string>
     <string name="clear_data_dlg_text">Всі дані цього додатку будуть видалені без можливості відновлення, включаючи всі файли, бази даних, налаштування, облікові записи і т.д.</string>
@@ -4422,4 +4422,11 @@ Android File Transfer
 	<string name="accessibility_service_no_apps_confirm">ОК</string>
 	<string name="accessibility_service_no_apps_prompt">Безкоштовний додаток Talkback дає голосовий опис елементів інтерфейсу для користувачів з порушенням зору</string>
 	<string name="bluetooth_preference_connected_devices">Підключення пристрою</string>
+	<string name="priority_storage_app_settings">Дані будуть збережені у %1$s</string>
+        <string name="priority_storage_settings_summary">Коли SD-карта не підключена, дані автоматично зберігаються у внутрішню пам\'ять пристрою.</string>
+        <string name="priority_storage_summary">Виберіть пам\'ять за замовчуванням для збереження даних</string>
+        <string name="priority_storage_title">Налаштування пам\'яті</string>
+        <string name="high_performance_notif_summary">Високе споживання батареї</string>
+        <string name="high_performance_notif_title">Режим продуктивності активний</string>
+        <string name="high_performance_title">Використовуйте режим продуктивності для більш комфортного ігрового процесу і отримання кращого результату в бенчмарках</string>
 </resources>

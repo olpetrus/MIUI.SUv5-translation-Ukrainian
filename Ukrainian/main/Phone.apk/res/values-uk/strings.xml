@@ -1640,4 +1640,9 @@
  	<string name="set_sub_not_supported_phone_in_call">Неможливо активувати або деактивувати підписки під час виклику</string>
 	<string name="open_miui">Відкрити</string>
  	<string name="callwait_open_hint">Послуга \"Очікування виклику\" надається оператором, якщо ви отримуєте помилку коду MMI, зверніться до вашого оператора для з\'ясування подробиць.</string>
+	<string name="ivr_menu_dialing_msg">Переадресування…</string>
+ 	<string name="ivr_menu_list_title">Голосове меню</string>
+ 	<string name="non_ivr_menu_collapse_menu">Згорнути меню</string>
+ 	<string name="non_ivr_menu_view_menu">Показати меню</string>
+ 	<string name="ivr_menu_list_sub_menu_count_format">Натисніть %s</string>
 </resources>

@@ -282,4 +282,7 @@
 	<string name="cta_notice_ok">Дозволити</string>
 	<string name="cta_notice_title">Дозволити доступ до контактів?</string>
 	<string name="cta_notify_settings">Запитувати доступ до контактів</string>
+	<string name="alarm_label">ОК</string>
+ 	<string name="button_week">Н</string>
+ 	<string name="week_view_today_toast">Вже обраний поточний тиждень</string>
 </resources>

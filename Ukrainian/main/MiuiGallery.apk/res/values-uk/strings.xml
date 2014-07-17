@@ -547,4 +547,6 @@
 	<string name="ubifocus_refocus_data_missing">Неможливо виконати перефокусування через загублені дані</string>
 	<string name="ubifocus_refocus_download_tip">Завантажите дані перед перефокусуванням</string>
 	<string name="ubifocus_refocus_map_error">Неможливо виконати перефокусування через недійсні дані</string>
+        <string name="priority_storage">Збереження на SD-карту</string>
+	<string name="priority_storage_summary">Автоматично зберігати файли на SD-карту, коли вона підключена.</string>
 </resources>

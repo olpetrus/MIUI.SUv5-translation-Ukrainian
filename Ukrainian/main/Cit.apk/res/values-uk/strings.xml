@@ -268,4 +268,5 @@
    <string name="cit_main_camera_sdcard_error">SD карта заповнена</string>
    <string name="cit_play_sd_mp3_hifi_summary">Перевірте наявність файлу \"music.mp3\" на SD-карті. Файл \"music.mp3\" буде відтворено через пристрій HIFI при тестуванні.</string>
    <string name="cit_play_sd_mp3_hifi_title">Відтворити MP3(HIFI) з SD-карти</string>
+   <string name="cit_tool_enable_3A_log">Включити лог 3A</string>
 </resources>
