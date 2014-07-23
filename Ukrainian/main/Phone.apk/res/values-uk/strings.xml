@@ -1026,7 +1026,7 @@
 	<string name="preferred_network_type_pref_entries_only_2g_miui">Тільки 2G (енергозбереження)</string>
 	<string name="preferred_network_type_pref_entries_only_3g_miui">Тільки 3G</string>
 	<string name="preferred_network_type_pref_entries_global_miui">Глобально</string>
-	<string name="preferred_network_type_3g_only_warning_miui">Переконайтеся, що ваша SIM-карта підтримує режим 3G, інакше мережа може бути недоступна! \n\nУвімкнути режим 3G?.</string>
+	<string name="preferred_network_type_3g_only_warning_miui">Переконайтеся, що ваша SIM карта підтримує режим 3G, інакше мережа може бути недоступна! \n\nУвімкнути режим 3G?.</string>
 	<string name="preferred_network_type_title_miui">Тип мережі</string>
     <string name="preferred_network_type_group_title_miui">Мобільна мережа (%s)</string>
 	<string name="puk_lock_warning_miui">\nSIM карту буде очищена при невдалій спробі</string>
@@ -1077,7 +1077,7 @@
 	<string name="voice_quality_ui_values_normal_miui">Нормальний</string>
 	<string name="sim_contacts_title_miui">Контакти на SIM карті</string>
 	<string name="delete_sim_entry_miui">Видалити</string>
-	<string name="confirm_delete_sim_entry_miui">Видалити обрані контакти з SIM-карти? \n\nКонтактів: %d</string>
+	<string name="confirm_delete_sim_entry_miui">Видалити обрані контакти з SIM карти? \n\nКонтактів: %d</string>
 	<string name="deleting_sim_entry_miui">Видалення…</string>
 	<string name="delete_selected_sim_entry_miui">Видалити обрані контакти</string>
 	<string name="import_all_sim_entry_miui">Імпортувати усі</string>
@@ -1645,4 +1645,5 @@
  	<string name="non_ivr_menu_collapse_menu">Згорнути меню</string>
  	<string name="non_ivr_menu_view_menu">Показати меню</string>
  	<string name="ivr_menu_list_sub_menu_count_format">Натисніть %s</string>
+	<string name="ivr_menu_dialing_msg_no_mute">Передавання обранних номерів (ігнорувати повідомлення про помилки)…</string>
 </resources>

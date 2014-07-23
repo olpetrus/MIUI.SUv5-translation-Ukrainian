@@ -238,5 +238,5 @@
  	<string name="traffic_saving_toast_start_none_mobile">Функція буде доступна тільки при використанні мобільного інтернету</string>
  	<string name="traffic_saving_toast_start_unreachable">Не вдається включити</string>
  	<string name="traffic_saving_toast_stop">Економія трафіка виключена</string>
-	<string name="traffic_saving_button_sorted_chose_simcard">Оберіть SIM-карту</string>
+	<string name="traffic_saving_button_sorted_chose_simcard">Оберіть SIM карту</string>
  </resources>

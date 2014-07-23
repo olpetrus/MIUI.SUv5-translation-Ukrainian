@@ -41,7 +41,7 @@
 	<string name="theme_component_title_all">Теми</string>
 	<string name="apply_theme_no_select_message">Виберіть компоненти</string>
 	<string name="apply_lockscreen_paper_tips">Екран не підтримує різні шпалери</string>
-	<string name="theme_import_from_sdcard">Імпорт з SD карти</string>
+	<string name="theme_import_from_sdcard">Імпорт теми</string>
 	<string name="theme_select_others">Інші</string>
 	<string name="third_party_pickers_activity_title">Встановити %1$s</string>
 	<string name="lockstyle_personal_settings">Персоналізація</string>

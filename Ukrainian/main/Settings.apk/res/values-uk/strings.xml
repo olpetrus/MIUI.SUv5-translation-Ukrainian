@@ -4423,10 +4423,10 @@ Android File Transfer
 	<string name="accessibility_service_no_apps_prompt">Безкоштовний додаток Talkback дає голосовий опис елементів інтерфейсу для користувачів з порушенням зору</string>
 	<string name="bluetooth_preference_connected_devices">Підключення пристрою</string>
 	<string name="priority_storage_app_settings">Дані будуть збережені у %1$s</string>
-        <string name="priority_storage_settings_summary">Коли SD-карта не підключена, дані автоматично зберігаються у внутрішню пам\'ять пристрою.</string>
-        <string name="priority_storage_summary">Виберіть пам\'ять за замовчуванням для збереження даних</string>
-        <string name="priority_storage_title">Налаштування пам\'яті</string>
-        <string name="high_performance_notif_summary">Високе споживання батареї</string>
-        <string name="high_performance_notif_title">Режим продуктивності активний</string>
-        <string name="high_performance_title">Використовуйте режим продуктивності для більш комфортного ігрового процесу і отримання кращого результату в бенчмарках</string>
+    <string name="priority_storage_settings_summary">Коли SD карта не підключена, дані автоматично зберігаються у внутрішню пам\'ять пристрою.</string>
+    <string name="priority_storage_summary">Виберіть пам\'ять за замовчуванням для збереження даних</string>
+    <string name="priority_storage_title">Налаштування пам\'яті</string>
+    <string name="high_performance_notif_summary">Високе споживання батареї</string>
+    <string name="high_performance_notif_title">Режим продуктивності активний</string>
+    <string name="high_performance_title">Використовуйте режим продуктивності для більш комфортного ігрового процесу і отримання кращого результату в бенчмарках</string>
 </resources>
