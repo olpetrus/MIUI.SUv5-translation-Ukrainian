@@ -64,7 +64,7 @@
     <string name="safe_relative">Особиста безпека</string>
     <string name="privacy_relative">Доступ до особистих даних</string>
     <string name="other_relative">Інші дозволи</string>
-    <string name="perm_notice">Сповіщення безпеки</string>
+    <string name="perm_notice">Попередження</string>
     <string name="trust_switch_dialog_msg">"MIUI не запитуватиме вашого дозволу на будь-які дії цього застосування.
 Довіряти цьому застосуванню?"</string>
     <string name="auto_startup_dialog_msg">"MIUI дозволить цьому застосуванню запускатися автоматично. Це може викликати підвищений вжиток енергії і трафіку.
