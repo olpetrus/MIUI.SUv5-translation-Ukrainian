@@ -1646,4 +1646,5 @@
  	<string name="non_ivr_menu_view_menu">Показати меню</string>
  	<string name="ivr_menu_list_sub_menu_count_format">Натисніть %s</string>
 	<string name="ivr_menu_dialing_msg_no_mute">Передавання обранних номерів (ігнорувати повідомлення про помилки)…</string>
+	<string name="fdn_contacts_empty_miui">Немає контактів</string>
 </resources>

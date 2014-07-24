@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
  <resources>
+     <string name="copy">Копіювати</string>
+     <string name="name">Ім\'я:</string>
+     <string name="nickname">Нік:</string>
+     <string name="company">Компанія:</string>
+     <string name="title">Назва:</string>
+     <string name="phone">Телефон:</string>
+     <string name="email">Email:</string>
+     <string name="web">Сайт:</string>
+     <string name="address">Адреса:</string>
+     <string name="birthday">День народження:</string>
+     <string name="note">Примітка:</string>
+     <string name="add_to_contacts">Додати</string>
+     <string name="recognize">Розпізнати</string>
+     <string name="place_barcode_into_rectangle">Наведіть камеру на QR-код</string>
+     <string name="open_flash_error">Не вдалося включити спалах</string>
+     <string name="close_flash_error">Не вдалося вимкнути спалах</string>
+     <string name="scan_fail">Помилка сканування</string>
+     <string name="vcard_prompt">Неможливо зберегти контакт без імені</string>
+     <string name="copy_succeed">Скопійовано</string>
+     <string name="fail_generate_barcode">Не вдалося створити штрих-код або QR-код</string>
+     <string name="scan_result">Результат</string>
+     <string name="flash_lable">Спалах</string>
+     <string name="picker_lable">Галерея</string>
      <string name="app_name">Mikey</string>
      <string name="short_click_1">1 натискання</string>
      <string name="short_click_2">2 натискання</string>
@@ -14,19 +37,21 @@
      <string name="long_click">Довге натискання</string>
      <string name="action_open_flashlight">Ліхтарик</string>
      <string name="action_open_other_app">Інший додаток</string>
-     <string name="action_open_mi_route">Відкрити Mi роутер</string>
+     <string name="action_open_mi_route">Відкрити Mi-роутер</string>
      <string name="action_open_camera">Відкрити камеру</string>
-     <string name="action_open_camera2">Зробити фото</string>
+     <string name="action_open_camera2">Зняти фото</string>
      <string name="action_screen_shot">Скриншот</string>
-     <string name="action_clear_sms_inbox">Очистити список вхідних смс</string>
+     <string name="action_clear_sms_inbox">Очистити список вхідних SMS</string>
      <string name="action_clear_call_list">Очистити журнал викликів</string>
      <string name="action_clear_memory">Очистити пам\'ять</string>
      <string name="action_capture_video">Записати відео</string>
      <string name="action_lock_screen">Заблокувати екран</string>
      <string name="action_qrcode"> QR-код</string>
      <string name="action_zero_volume">Відключити звук</string>
-     <string name="action_open_sound_recorder">Запис звуку</string>
+     <string name="action_open_sound_recorder">Записати звук</string>
      <string name="action_open_or_close_motion">Автоповорот</string>
+	 <string name="action_open_camera360_capture">Эфекти Camera360</string>
+     <string name="action_open_camera360_edit">Camera360</string>
      <string name="action_open_wechat">Відкрити Wechat</string>
      <string name="action_share_to_wechat">Відправити в Wechat</string>
      <string name="action_share_to_moment">Відправити в Google Moment</string>
@@ -35,7 +60,7 @@
      <string name="action_share_to_miliao">Відправити в Mitalk</string>
      <string name="action_share_to_miliao_wall">Відправити на стіну Mitalk</string>
      <string name="action_toolbox">Панель інструментів</string>
-     <string name="action_phone">Дзвінок</string>
+     <string name="action_phone">Виклик</string>
      <string name="category_app">Додатка</string>
      <string name="category_system_settings">Системні</string>
      <string name="action_close">Скасування</string>
@@ -43,10 +68,10 @@
      <string name="delete_gesture">Вилучити послідовність?</string>
      <string name="recommend">(рекомендується)</string>
      <string name="add">Додати</string>
-     <string name="running_notification">Яке устройсто вставлене?</string>
+     <string name="running_notification">Виберіть тип пристрою?</string>
      <string name="click_to_open">Натисніть для відкриття</string>
      <string name="call_to">Подзвонити</string>
-     <string name="sms_to">Відправити СМС</string>
+     <string name="sms_to">Відправити SMS</string>
      <string name="sms_template">Текст</string>
      <string name="confirm">ОК</string>
      <string name="cancel">Скасування</string>
@@ -55,13 +80,13 @@
      <string name="earphone">Навушники</string>
      <string name="select_device">Яке устройсто вставлене?</string>
      <string name="times">" раз"</string>
-     <string name="rank_prefix">Глобальний рейтинг:</string>
-     <string name="rank_suffix">" місце."</string>
-     <string name="no_usage">...</string>
+     <string name="rank_prefix">"Глобальний рейтинг: "</string>
+     <string name="rank_suffix">" місце"</string>
+     <string name="no_usage">…</string>
      <string name="device_not_recognized">Помилка розпізнавання, повторно вставте кнопку</string>
      <string name="clean_memory">Пам\'ять очищена</string>
      <string name="close_all">Закрити всі</string>
-     <string name="sms_sent_done">СМС відправлене</string>
+     <string name="sms_sent_done">SMS відправлене</string>
      <string name="cn_0">0</string>
      <string name="cn_1">1</string>
      <string name="cn_2">2</string>
@@ -85,63 +110,75 @@
      <string name="front_camera">Фронтальна</string>
      <string name="back_camera">Основна</string>
      <string name="write_pic_fail">Помилка збереження</string>
-     <string name="settings">Настроювання</string>
-     <string name="buy">Купити Mikey</string>
+     <string name="settings">Налаштування</string>
+     <string name="setting_buy">Купити MiKey</string>
+     <string name="app_not_installed">Додаток не встановлено</string>
+     <string name="setting_toolbar">Панель інструментів</string>
+     <string name="setting_toolbar_desc">Панель інструментів для швидкого доступу до функцій додатка в панелі сповіщень</string>
+     <string name="setting_toolbar_tip">"Натисніть на кнопку \"\" для додавання нових функцій.
+Натисніть на існуючу іконку для зміни дії. 
+Утримуйте для видалення функції."</string>
      <string name="task_title_prefix">"N: "</string>
      <string name="setting_feedback"> Зворотний зв\'язок</string>
      <string name="setting_speed_desc"> Чим менше швидкість спрацьовування кнопки, тим більше ймовірність успіху виконання функції при кількаразовому натисканні кнопки</string>
      <string name="setting_speed_slow">Повільніше</string>
      <string name="setting_speed_quick">Швидше</string>
-     <string name="setting_vibrate_desc">Вібрувати при діях (не працює при зйомці й відключеному звуці).</string>
+     <string name="setting_vibrate_desc">Вібрувати при діях. 
+	 Не працює при зйомці та в режимі \"Без звуку\"."</string>
      <string name="setting_keeplive_desc">"Додаток не буде вивантажуватися з пам\'яті, для більш швидкого реагування при натисканні на кнопку. Можлива більш швидка витрата заряду акумулятора."</string>
      <string name="setting_speed_text">Швидкість спрацьовування</string>
-     <string name="setting_keeplive_text">Не вивантажувати з пам\'яті</string>
+     <string name="setting_keeplive_text">Тримати в пам\'яті</string>
      <string name="setting_instant_photo_text">Фокусування</string>
      <string name="setting_vibrate_text">Вібровідгук</string>
-     <string name="setting_silent_mode">Інші режими роботи кнопки</string>
+     <string name="setting_silent_mode">Інші режими кнопки</string>
      <string name="setting_silent_mode_default">Режим гарнітури</string>
      <string name="setting_silent_mode_dust_cap">Режим аксесуара</string>
-     <string name="setting_silent_mode_desc">"Режим гарнітури - керування плеєром. Одне натискання - вкл/вимкн плеєр; два - наступний трек; чотири - попередній трек.
- Завжди відключайте цей режим перед презавантаженням і використанням кнопки. А якщо ні, то це приведе до відсутності звуку.
+     <string name="setting_silent_mode_desc">"Режим гарнітури використовується для управління плеєром. 
+Одне натискання - вкл/викл музику, 
+Два натискання - наступний трек, 
+Чотири натискання - попередній трек. 
+Завжди відключайте цей режим перед перезавантаженням і використанням кнопки, в іншому випадку це може привести до відсутності звуку.
  
  Режим аксесуара - кнопка служить для захисту гнізда навушників від пилу й бруду."</string>
-     <string name="setting_instant_photo_desc">Чіткі зображення, але потрібно більше часу</string>
+     <string name="setting_instant_photo_desc">"Використовувати фокусування перед зйомкою фото для отримання більш чітких знімків. 
+Потрібно більше часу."</string>
      <string name="toolbox_outer_desc">Натисніть на кнопку додати або на одну з доданих посилань</string>
      <string name="setting_speed_max_time">1000 м.з.</string>
      <string name="setting_speed_middle_time">500 м.з.</string>
      <string name="setting_speed_min_time">0 м.з.</string>
-     <string name="notification_recorder_start">Початок записи...</string>
+     <string name="notification_recorder_start">Початок записи…</string>
      <string name="notification_control_stop">Стоп</string>
      <string name="notification_control_play">Відтворити</string>
-     <string name="notification_recorder_file_location">Шлях зберігання записів：</string>
+     <string name="notification_recorder_file_location">Шлях зберігання записівя:</string>
      <string name="sdcard">Карта пам\'яті</string>
      <string name="showslip">Перегляд</string>
      <string name="close_recorder">Закрити диктофон</string>
      <string name="file_delimiter">／</string>
      <string name="silent_mode_tip_main">Mikey відключений</string>
-     <string name="update_message">Доступне відновлення!</string>
+     <string name="update_message">Доступне оновлення</string>
      <string name="silent_mode_tip_sub">Включите в настроюваннях</string>
      <string name="test_user_entry">Відкликання</string>
      <string name="goto_update">Відновлення</string>
      <string name="faq_title">FAQ</string>
      <string name="faq_speed_title">Кнопка реагує дуже довго?</string>
-     <string name="faq_speed_text">На різних мобільних телефонах кнопка реагує з різною швидкістю. Швидкість натискань можна відрегулювати в налаштуваннях.</string>
+     <string name="faq_speed_text">На різних пристроях кнопка реагує з різною швидкістю. Швидкість натискань можна відрегулювати в налаштуваннях.</string>
      <string name="faq_focus_title">Камера фотографує нечітко?</string>
-     <string name="faq_focus_text">У настроюваннях можна включити автофокус перед знімком. Однак це може привести до збільшення часу створення знімка</string>
+     <string name="faq_focus_text">У налаштуваннях можна включити фокусування перед знімком. Однак це може привести до збільшення часу створення знімка.</string>
      <string name="faq_plug_title">Кнопка не визначається?</string>
      <string name="faq_plug_text">Натискання на кнопку під час вставки, може привести до помилки її розпізнавання пристроєм. Натисніть і втримуйте за краї кнопки, щоб уникнути натискання клавіші</string>
      <string name="faq_misreq_title">Кнопка не спрацьовує?</string>
      <string name="faq_misreq_text">Іноді кнопка може не спрацьовувати в сплячому режимі, тому що телефон вивантажує додаток з пам\'яті. Так само може некоректно працювати під час відтворення музики. Наші інженери працюють над усуненням цієї проблеми ;)</string>
-     <string name="faq_comp_title">На яких телефонах працює Mikey?</string>
-     <string name="faq_comp_text">Кнопка буде працювати тільки на Miui v5. Крім того для роботи необхідно встановити даний додаток</string>
+     <string name="faq_comp_title">На яких пристроях працює Mikey?</string>
+     <string name="faq_comp_text">Кнопка буде працювати тільки на пристроях з прошивкою Miui v5. Крім того для роботи необхідно встановити даний додаток</string>
      <string name="faq_voice_title">Не чутно співрозмовника?</string>
      <string name="faq_voice_text">Повторно вставте кнопку й виберіть Mikey</string>
      <string name="faq_slow_title">Довго відгукується?</string>
      <string name="faq_slow_text">Перевірте в настроюваннях швидкість роботи, можливо вона виставлена на 0. Задайте підходящу для себе</string>
-     <string name="faq_quni_title"> Який термін служби кнопки？</string>
+     <string name="faq_quni_title"> Який термін служби кнопки?</string>
      <string name="faq_quni_text">Кнопка здатна витримати до 30 000 натискань</string>
-     <string name="faq_stat_title"> Як скинути статистику？</string>
+     <string name="faq_stat_title"> Як скинути статистику?</string>
      <string name="faq_stat_text">Статистика натискань автоматично скидається раз на добу.</string>
      <string name="faq_vsm_title">Заходи обережності</string>
      <string name="faq_vsm_text">Перед зняттям задньої кришки не забудьте відключити кнопку!</string>
+	 <string name="buy">Купити MiKey</string>
  </resources>

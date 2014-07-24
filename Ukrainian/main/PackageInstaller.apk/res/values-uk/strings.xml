@@ -103,4 +103,12 @@
     <string name="button_continue_install">Продовжити встановлення</string>
     <string name="button_install_lastest">Скачати й установити нову версію</string>
     <string name="button_install_official">Скачати й установити офіційну версію</string>
+	<string name="warn_title">Додаток може бути небезпечно</string>
+    <string name="warn_message">Додаток може представляти шкоду для ваших особистих даних, впливати на витрати на мобільний інтернет і т.д.</string>
+    <string name="progress_verifying">Перевірка безпеки...</string>
+    <string name="update_title">%1$s: нова версія</string>
+    <string name="update_time">%1$s %2$s дата:%3$s версія:%4$s</string>
+    <string name="update_log_default">Немає оновлень</string>
+    <string name="permission_warn_title">Установка додатків з неофіційних джерел може завдати шкоди вашому пристрою</string>
+    <string name="permission_warn_hint">Додаток отримає дозволи:</string>
 </resources>
