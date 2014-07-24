@@ -584,4 +584,9 @@
      <string name="send_hms_editor_hints">Хмарне повідомлення</string>
      <string name="view_hms_details">Інформація</string>
      <string name="xiaomi_service_number">Сервісний номер</string>
+	 <string name="file_create_time">Час створення:</string>
+     <string name="file_size">Розмір:</string>
+     <string name="file_title">Ім\'я:</string>
+     <string name="file_width_height">Розмір:</string>
+     <string name="share_img">Надіслати</string>
 </resources>

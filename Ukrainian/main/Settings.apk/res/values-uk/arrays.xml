@@ -395,7 +395,6 @@
     <string-array name="power_dialog_cpu_state_items">
         <item>Потужність</item>
         <item>Баланс</item>
-        <item>Енергозбереження</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
         <item>Ніколи</item>
@@ -486,8 +485,6 @@
         <item>Подвійний мікрофон</item>
     </string-array>
 	<string-array name="slideshow_time_entries">
-        <item>1 хвилина</item>
-		<item>3 хвилини</item>
 		<item>5 хвилин</item>
         <item>15 хвилин</item>
         <item>30 хвилин</item>
@@ -563,7 +560,7 @@
         <item>8 користувачів</item>
     </string-array>
 	<string-array name="preferred_app_entries">
-        <item>Лаунчер</item>
+        <item>Робочий стіл</item>
         <item>Телефон</item>
         <item>Повідомлення</item>
         <item>Браузер</item>
