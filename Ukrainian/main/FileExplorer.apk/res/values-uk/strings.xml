@@ -55,7 +55,7 @@
     <string name="delete_files">Видалити файлів: %1$d?</string>
     <string name="delete_files_and_folders">Видалити файлів: %1$d | тек: %2$d?</string>
     <string name="new_folder_name">Нова тека</string>
-    <string name="sd_card_size">Пам'ять: %1$s</string>
+    <string name="sd_card_size">Пам\'ять: %1$s</string>
     <string name="sd_card_available">Доступно: %1$s</string>
     <string name="file_info_location">Розміщено:</string>
     <string name="file_info_size">Розмір:</string>
