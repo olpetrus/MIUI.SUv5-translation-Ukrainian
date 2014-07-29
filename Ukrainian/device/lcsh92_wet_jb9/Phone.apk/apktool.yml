@@ -4,7 +4,7 @@ version: 2.0.2-BZ
  usesFramework:
    ids:
    - 1
-   - 3
+   - 2
    - 6
  sdkInfo:
    minSdkVersion: '17'
@@ -14,5 +14,5 @@ version: 2.0.2-BZ
    forced-package-id: '6'
  versionInfo:
    versionCode: '17'
-   versionName: 4.2.2-JHDCNBE25.0
+   versionName: 4.2.2-JHDCNBE23.0
  compressionType: false

@@ -1192,5 +1192,5 @@
     <string name="menu_show_outgoing_only">Показувати тільки вихідні</string>
     <string name="menu_show_incoming_only">Показувати тільки вхідні</string>
     <string name="menu_show_missed_only">Показувати тільки пропущені</string>
-	<string name="yellowpage_navigation_search_result_average_price">В середньому %d RMB</string>
+	<string name="yellowpage_navigation_search_result_average_price">В середньому %d юанів</string>
 </resources>

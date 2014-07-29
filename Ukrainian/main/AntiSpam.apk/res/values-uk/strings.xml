@@ -268,7 +268,7 @@
      <string name="ad_install_monitor">Монітор установки</string>
      <string name="ad_install_monitor_hint">Перевіряти наявність реклами при установці додатка</string>
      <string name="ad_update_setting">Налаштування оновлення</string>
-     <string name="ad_update_title">Автоматичне оновлення</string>
+     <string name="ad_update_title">Автооновлення</string>
      <string name="ad_update_time">Оновлення: %s</string>
      <string name="ad_update_time_unknown">Оновлення: невідомо</string>
      <string name="Nacaddnumcontent">Введіть номер телефону</string>
@@ -279,6 +279,6 @@
      <string name="call_delete_hint">Видалити всі заблоковані виклики від цього номера?</string>
      <string name="backsound_set_hint">Установити сигнал блокування на \"%s\"?</string>
      <string name="ad_block_hint">Заблоковано: %d</string>
-     <string name="ad_permission_hint">Використання блокувальника реклами може вплинути на продуктивність додатків і погіршити їх роботу</string>
+     <string name="ad_permission_hint">Використання блокувальника реклами може вплинути на продуктивність додатків і погіршити їх роботу.</string>
      <string name="ad_single_block_hint">Заблоковано</string>
 </resources>
