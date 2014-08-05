@@ -333,4 +333,5 @@
     <string name="express_inquiry_provider_info">Підтримка:</string>
     <string name="group_name_more">Інше</string>
 	<string name="nearby_average_price">В середньому %d RMB</string>
+	<string name="express_send_notice">Про заборонені предмети</string>
 </resources>

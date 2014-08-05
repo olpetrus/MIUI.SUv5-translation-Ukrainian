@@ -847,4 +847,6 @@
 	<string name="close_cloud_tab_tip">Закрити хмарні вкладення на %s?</string>
  	<string name="cloud_sync_closed_toast"> Не вдається оновити, синхронізація вимкнена.</string>
  	<string name="cloud_sync_failed_toast">Помилка оновлення</string>
+	<string name="bookmarks_history">Закладинки/Історія</string>
+	<string name="delete_homepage">Видалити домашню сторінку</string>
 </resources>

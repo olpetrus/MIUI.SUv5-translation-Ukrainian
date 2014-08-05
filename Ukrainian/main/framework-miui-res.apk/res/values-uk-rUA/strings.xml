@@ -461,7 +461,7 @@
 	<string name="v5_date_time_picker_dialog_title">Час нагадування</string>
 	<string name="text_copied">Текст скопійовано</string>
 	<string name="text_cut">Текст вирізано</string>
-	<string name="login_website_in_case_forget_password">Для скидання паролю відвідайте i.xiaomi.com.</string>
+	<string name="login_website_in_case_forget_password">Для скидання паролю відвідайте i.mi.com.</string>
 	<string name="shutdown_progress">Вимкнення…</string>
  	<string name="global_actions_airplane_mode">Режим польоту</string>
     <string name="global_actions_reboot">Перезавантаження</string>

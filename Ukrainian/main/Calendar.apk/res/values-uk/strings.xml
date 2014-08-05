@@ -285,4 +285,5 @@
 	<string name="alarm_label">ОК</string>
  	<string name="button_week">Н</string>
  	<string name="week_view_today_toast">Вже обраний поточний тиждень</string>
+	<string name="edit_event_confirm_message">Скасувати зміни?</string>
 </resources>

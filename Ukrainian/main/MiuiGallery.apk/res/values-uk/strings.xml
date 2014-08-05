@@ -70,7 +70,7 @@
      <string name="scan_qr_code_failure">Помилка сканування</string>
  	<string name="cloud_camera_display_name">Камера</string>
  	<string name="cloud_gallery_no_pictures">Немає фото</string>
- 	<string name="cloud_gallery_recyclebin_full">Кошик у Mi Cloud заповнений. Будь ласка очистіть кошик через сайт i.xiaomi.com.</string>
+ 	<string name="cloud_gallery_recyclebin_full">Кошик у Mi Cloud заповнений. Будь ласка очистіть кошик через сайт i.mi.com.</string>
  	<string name="cloud_gallery_space_full">Хмарне сховище заповнене</string>
  	<string name="share_album_space_full">Обраний альбом заповнений</string>
  	<string name="cloud_media_set_set">Хмарні альбоми</string>
@@ -333,7 +333,7 @@
  	<string name="set_screensaver_path_title">Заставка слайдшоу</string>
  	<string name="set_wallpaper">Установка шпалер…</string>
  	<string name="settings">Настроювання</string>
- 	<string name="settings_i_xiaomi_com">Зайдіть на сайт i.xiaomi.com, щоб переглянути ваші фото й відео з комп\’ютера.</string>
+ 	<string name="settings_i_xiaomi_com">Зайдіть на сайт i.mi.com, щоб переглянути ваші фото й відео з комп\’ютера.</string>
  	<string name="shadow">Затемнення</string>
  	<string name="share_album">Обмін альбомами</string>
 	<string name="share_album_owner">Володар</string>
@@ -549,4 +549,7 @@
 	<string name="ubifocus_refocus_map_error">Неможливо виконати перефокусування через недійсні дані</string>
     <string name="priority_storage">Збереження на SD карту</string>
 	<string name="priority_storage_summary">Автоматично зберігати файли на SD карту, коли вона підключена.</string>
+	<string name="crop_recognize_text">Розпізнати</string>
+	<string name="crop_save_text_setas">Застосувати</string>
+	<string name="recognizing_image">Розпізнавання фото…</string>
 </resources>

@@ -195,7 +195,7 @@
 	<string name="micloud_intro_02_part_01">Не треба робити нічего зайвого.</string>
 	<string name="micloud_intro_02_part_02">Mi Cloud синхронізація даних з сервісом в хмарах.</string>
 	<string name="micloud_intro_03_part_01">Безпека в користуванні</string>
-	<string name="micloud_intro_03_part_02">Керування даними на \"i.xiaomi.com\".</string>
+	<string name="micloud_intro_03_part_02">Керування даними на \"i.mi.com\".</string>
 	<string name="micloud_dspt">MiCloud керування даними в будь-який час!</string>
 	<string name="label_balance">"Баланс: "</string>
 	<string name="button_call">Виклик</string>
