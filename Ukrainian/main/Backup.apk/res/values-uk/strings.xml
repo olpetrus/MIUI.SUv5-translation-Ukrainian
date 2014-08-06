@@ -35,7 +35,7 @@
 	<string name="restore_telephony_hit">Процес відновлення перезавантажить додаток \"Телефон\".</string>
 	<string name="restore_launcher_layout_hit">Відновлення ярликів робочого столу</string>
 	<string name="settings_summary">": налаштування телефону та повідомлень"</string>
-	<string name="account_summary">(Облікові записи Google, Xiaomi та інші користувацькі дані)</string>
+	<string name="account_summary">(Облікові записи Google, Mi та інші користувацькі дані)</string>
 	<string name="cloud_app_name">Бекап в хмари</string>
 	<string name="cloud_home_title">Mi Cloud</string>
 	<string name="prompt_reading">Читання…</string>
@@ -46,7 +46,7 @@
 	<string name="backup_delete">Видалити:</string>
 	<string name="findlost_contact">Відновити контакти</string>
 	<string name="findlost_contact_online">Відновити видалені контакти з Mi Cloud</string>
-	<string name="cloud_backup_login">Увійти через обліковий запис Xiaomi</string>
+	<string name="cloud_backup_login">Увійти через Mi акаунт</string>
 	<string name="cloud_backup_hint">Авторизуйтесь для доступу до бекапів</string>
 	<string name="cloud_backup_window_title">Mi Cloud бекап</string>
 	<string name="cloud_restore_window_title">Mi Cloud відновлення</string>
@@ -55,7 +55,7 @@
 	<string name="local_restore_window_title">Локальне відновлення</string>
 	<string name="account_login">Вхід</string>
 	<string name="miliao_account_login">Вхід через MiTalk</string>
-	<string name="miliao_account_guide">Створіть обліковий запис Xiaomi та насолоджуйтесь всіма онлайн послугами</string>
+	<string name="miliao_account_guide">Створіть Mi акаунт та насолоджуйтесь всіма онлайн послугами</string>
 	<string name="auto_backup">Автобекап</string>
 	<string name="contact_title">Контакти</string>
 	<string name="call_title">Журнал викликів</string>
@@ -106,7 +106,7 @@
 	<string name="sc_service_unavailable">Mi Cloud  недосяжний</string>
 	<string name="sc_unauthorized">Увійдіть знову.</string>
 	<string name="sc_request_timeout">Час очікування сплив</string>
-	<string name="sc_precondition_failed">Необхідно пов\'язати ваш Xiaomi аккаунт з електронною поштою</string>
+	<string name="sc_precondition_failed">Необхідно зв\'язати ваш Miакаунт з електронною поштою</string>
 	<string name="sc_internal_server_error">Помилка серверу</string>
 	<string name="sc_others">Відбулася помилка</string>
 	<string name="succeed">Завершено</string>
@@ -159,7 +159,7 @@
     <string name="import_from_xiaomi_account_hint1">"1.\u0009Завантажте додаток MiTalk та увійдіть в систему.
 \u0009http://www.miui.su/mitalk
 
-2.\u0009Увійдіть в налаштування MiTalk та оберіть \"Резервне копіювання контактів на обліковий запис Xiaomi\""</string>
+2.\u0009Увійдіть в налаштування MiTalk та оберіть \"Резервне копіювання контактів на Mi акаунт\""</string>
 	<string name="import_from_xiaomi_account_hint2">Перейдіть до наступного кроку якщо бекап вже існує.</string>
 	<string name="import_from_xiaomi_account_hint_title">Використовуйте MiTalk для бекапа контактів на інших пристроях</string>
  	<string name="guarded_mode_dialog_title">Ви в режимі \"Гість\"</string>
@@ -170,19 +170,19 @@
 	<string name="enable_encrypt_indicator">Натисніть для шифрування</string>
 	<string name="enable_encrypt">Увімкнути</string>
 	<string name="already_enable_encrypt">Шифрування включено</string>
-	<string name="enable_encrypt_summery1">Увійдіть у свій аккаунт Xiaomi для використання шифрованих бекапов.</string>
- 	<string name="enable_encrypt_summery2">Ваші бекапы будуть автоматично зашифровані. Увійдіть у свій аккаунт Xiaomi для використання шифрованих бекапов.</string>
- 	<string name="enable_encrypt_xiaomi_account">Бекап створений аккаунтом \"%1$s\". Для відновлення вилучіть поточний аккаунт і ввійдіть як \"%2$s\".</string>
+	<string name="enable_encrypt_summery1">Увійдіть у свій Mi акаунт для використання шифрованих бекапов.</string>
+ 	<string name="enable_encrypt_summery2">Ваші бекапы будуть автоматично зашифровані. Увійдіть у свій Mi акаунт для використання шифрованих бекапов.</string>
+ 	<string name="enable_encrypt_xiaomi_account">Бекап створений акаунтом \"%1$s\". Для відновлення вилучіть поточний акаунт і ввійдіть як \"%2$s\".</string>
 	<string name="enable_encrypt_ok">Гаразд</string>
     <string name="no_encrypt_password">Немає пароля</string>
  	<string name="enable_encrypt_fail">Помилка шифрування</string>
  	<string name="read_encrypt_fail">Не вдалося прочитати зашифрований бекап</string>
- 	<string name="exchange_account">Перемкнути аккаунт</string>
+ 	<string name="exchange_account">Перемкнути акаунт</string>
 	<string name="system_backup">Бекап</string>
 	<string name="backup_empty_info">" Бекап ваших даних, налаштувань та додатків"</string>
 	<string name="system_backup_info">Налаштування системи і значків робочого столу.</string>
 	<string name="software_backup_info">Дані додатків </string>
-	<string name="account_contact_backup_info">Обліковий запис Google, Xiaomi та дані контактів</string>
+	<string name="account_contact_backup_info">Акаунт Google, Mi та дані контактів</string>
 	<string name="select_backup_item">Оберіть бекапи</string>
 	<string name="restore_data">Відновити дані</string>
 	<string name="backup_data">Бекап даних</string>

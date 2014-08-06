@@ -59,7 +59,7 @@
     <string name="reminders_label">Додати нагадування</string>
     <string name="no_syncable_calendars">Нема календарів</string>
     <string name="no_calendars_found">Додати подію можна лише в видимий календар, пов\'язаний с обліковкою Google. Натисніть \"Додати обліковку\" або, якщо обліковку вже додано, дочекайтеся закінчення синхронізації і повторіть спробу. Або натисніть \"Скасувати\" й створіть видимим хоча б один календар.</string>
-    <string name="create_an_account_desc">Календар працює краще з аккаунтом Xiaomi. \n\n• Доступ з любого пристрою\n• Надійна синхронізація подій</string>
+    <string name="create_an_account_desc">Календар працює краще з акаунтом Xiaomi. \n\n• Доступ з любого пристрою\n• Надійна синхронізація подій</string>
     <string name="add_account">Додати обліковку</string>
     <string name="view_event_calendar_label">Календар:</string>
     <string name="view_event_organizer_label">Організатор:</string>
@@ -103,7 +103,7 @@
     <string name="monthly">Щомісячно</string>
     <string name="yearly_plain">Щорічно</string>
     <string name="monthly_on_day">Щомісячно (в той же день кожний місяць)</string>
-    <string name="yearly">Щорічно (кожний %s)</string>
+    <string name="yearly">Щорічно (кожн. %s)</string>
     <string name="custom">Особливе (неможливо налагодити на телефоні)</string>
     <string name="modify_event">Змінити тільки цю подію</string>
     <string name="modify_all">Змінити всі події в серії</string>
@@ -182,13 +182,13 @@
 	<string name="rest_day_indication">:)</string>
     <string name="button_day">Д</string>
     <string name="button_month">М</string>
-    <string name="account_and_calendar">Аккаунт і календар</string>
-    <string name="account_and_calendar_to_display">Аккаунт і календар для відображення</string>
+    <string name="account_and_calendar">Акаунт і календар</string>
+    <string name="account_and_calendar_to_display">Акаунт і календар для відображення</string>
     <string name="default_reminder_mode">Режим повідомлень за замовчуванням</string>
     <string name="time_zone">Часовий пояс</string>
     <string name="show_all_lunar">Місячний календар</string>
     <string name="event_all_day_label">Всі дні</string>
-    <string name="event_account">Аккаунт календаря</string>
+    <string name="event_account">Акаунт календаря</string>
     <string name="event_show_more">Показати</string>
     <string name="event_hide_more">Приховати</string>
     <string name="event_info_when">"Коли: "</string>

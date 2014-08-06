@@ -83,7 +83,7 @@
     <string name="sync_dspt">Увімкнути синхронізацію</string>
     <string name="sync_sub_dspt">При отриманий через SMS можливі додаткові витрати.</string>
     <string name="sync_sub_int_dspt">При активації через SMS можливы додатковы витрати.</string>
-    <string name="send_sms_for_sync_title">Надіслати повідомлення</string>
+    <string name="send_sms_for_sync_title">Служба синхронізації не запущена</string>
     <string name="send_sms_for_sync_notice">Для активації потрібно відправити SMS. За це може стягуватися додаткова плата.</string>
 	<string name="title">Назва</string>
     <string name="send_int_sms_for_sync_notice">При активації через SMS можливы додатковы витрати.</string>
@@ -98,7 +98,7 @@
     <string name="no_sim">Відсутня SIM карта. Сервіс недосяжний</string>
     <string name="sim_changed_notification_content">SIM карту не активовано</string>
     <string name="activating">Активація…</string>
-    <string name="check_phone_error_title">Помилка включення синхронізації</string>
+    <string name="check_phone_error_title">Служба синхронізації не запущена</string>
     <string name="check_phone_io_error">Помилка мережі</string>
     <string name="other_settings">Інші налаштування</string>
     <string name="find_device">Пошук пристрою</string>

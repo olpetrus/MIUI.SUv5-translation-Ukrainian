@@ -99,7 +99,7 @@
  	<string name="crop_fail_to_load_image">Помилка завантаження фото</string>
  	<string name="crop_label">Обрізати</string>
  	<string name="crop_save_text">Зберегти</string>
- 	<string name="crop_tooltip">Щоб обрізати зображення, перетягніть маркери</string>
+ 	<string name="crop_tooltip">Щоб обрізати фото, перетягніть маркери</string>
  	<string name="crossprocess"> Крос-Обробка</string>
  	<string name="cut">Обрізати</string>
  	<string name="damaged_file">Файл пошкоджений</string>
@@ -122,7 +122,7 @@
  	<string name="documentary">Документальні</string>
  	<string name="done">Готове</string>
  	<string name="doodle">Малюнок</string>
- 	<string name="doodle_tooltip">Малюйте пальцем на зображенні</string>
+ 	<string name="doodle_tooltip">Малюйте пальцем на фото</string>
  	<string name="duotone">Подвійний тон</string>
  	<string name="duration">Тривалість</string>
  	<string name="edit">Змінити</string>
@@ -152,7 +152,7 @@
  	<string name="flash_off"> Без спалаху</string>
  	<string name="flash_on">Зі спалахом</string>
  	<string name="flip">Відбити</string>
- 	<string name="flip_tooltip">Щоб відбити зображення, перетягніть його за край</string>
+ 	<string name="flip_tooltip">Щоб відбити фото, перетягніть його за край</string>
  	<string name="focal_length">Фокус</string>
  	<string name="frame_black">Чорний</string>
  	<string name="frame_button">Рамка</string>
@@ -198,7 +198,7 @@
 	<string name="kick_sharer_successfully">Отримувача видалено</string>
 		<string name="photo_page_always_rotate">Автоповорот</string>
  	<string name="loading">Завантаження…</string>
- 	<string name="loading_failure">Не вдалося завантажити зображення</string>
+ 	<string name="loading_failure">Не вдалося завантажити фото</string>
  	<string name="loading_thumbnail">Завантаження ескізу…</string>
  	<string name="local_albums">Локальні</string>
  	<string name="cloud_albums">Хмарні</string>
@@ -270,8 +270,8 @@
  	<string name="photo_page_save_image">Зберегти</string>
  	<string name="photo_page_save_uri_image_fail">Не вдалося зберегти фото</string>
  	<string name="photo_page_save_uri_image_ok">Фото збережене в папку камери</string>
- 	<string name="photo_saved">Світлина збережена в альбомі \"%s\"</string>
- 	<string name="photoeditor_name">Фотостудія</string>
+ 	<string name="photo_saved">Фото збережене в \"%s\"</string>
+ 	<string name="photoeditor_name">Mi фотостудія</string>
  	<string name="photos">фото</string>
  	<string name="pick_too_many_recipients">Занадто багато одержувачів</string>
  	<string name="posterize">Постеризація</string>

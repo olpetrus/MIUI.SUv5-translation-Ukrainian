@@ -1647,4 +1647,12 @@
  	<string name="ivr_menu_list_sub_menu_count_format">Натисніть %s</string>
 	<string name="ivr_menu_dialing_msg_no_mute">Передавання обранних номерів (ігнорувати повідомлення про помилки)…</string>
 	<string name="fdn_contacts_empty_miui">Немає контактів</string>
+	<string name="simui_intenet_call">Інтернет виклик</string>
+    <string name="confirm_save_info_saved_to">Запис збережено в</string>
+    <string name="dual_mic_summary">Приглушення шумів при розмові</string>
+    <string name="minutereminder_summary">Нагадувати 50ю секунду кожної хвилини</string>
+    <string name="not_show_again">Більше не питати</string>
+    <string name="callFailed_simError_cdma">Немає UIM/SIM, або помилка UIM/SIM</string>
+    <string name="cipher_indication_notification_title">Немає шифрування мови</string>
+    <string name="cipher_indication_notification_message">Шифрування мови відключено мережею</string>
 </resources>

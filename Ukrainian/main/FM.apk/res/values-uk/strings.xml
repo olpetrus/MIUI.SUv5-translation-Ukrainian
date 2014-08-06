@@ -281,4 +281,5 @@
 	<string name="toast_fm_error_startfailed">Помилка запису. Можливо, запис запущений в іншій програмі.</string>
     <string name="toast_fm_recorder_access_error">Неможливо записувати радіо в режимі \"Гість\"</string>
 	<string name="msg_fm_starting">Запуск…</string>
+	<string name="toast_fm_scaning">Сканування…</string>
 </resources>

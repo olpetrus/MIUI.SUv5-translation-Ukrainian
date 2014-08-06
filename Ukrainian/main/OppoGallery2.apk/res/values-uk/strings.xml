@@ -159,9 +159,9 @@
     <string name="oppo_pano_generated">Панораму створено</string>
     <string name="oppo_pano_hint">Натисніть кнопку камери та повільно рухайте смартфон в одному напрямку</string>
     <string name="photoeditor_name">Фотостудія</string>
-    <string name="loading_failure">Не вдалося завантажити світлину</string>
-    <string name="saving_failure">Не вдалося зберегти зміни</string>
-    <string name="photo_saved">Змінену світлину збережено в теці%s</string>
+    <string name="loading_failure">Не вдалося завантажити фото</string>
+    <string name="saving_failure">Не вдалося зберегти фото</string>
+    <string name="photo_saved">Змінена світлина збережена в %s</string>
     <string name="discard_unsaved_photo">Скасувати незбережені зміни?</string>
     <string name="yes">Так</string>
     <string name="save">ГОТОВО</string>
@@ -192,9 +192,9 @@
     <string name="temperature">Тепло</string>
     <string name="tint">Відтінок</string>
     <string name="vignette">Віньєтування</string>
-    <string name="crop_tooltip">Щоб кадрувати світлину, перетягніть маркери</string>
-    <string name="doodle_tooltip">Малюйте на світлині пальцем</string>
-    <string name="flip_tooltip">Щоб віддзеркалити світлину, потягніть її край</string>
+    <string name="crop_tooltip">Щоб обрізати фото, перетягніть маркери</string>
+    <string name="doodle_tooltip">Малюйте пальцем на фото</string>
+    <string name="flip_tooltip">Щоб віддзеркалити світлину, потягніть її за край</string>
     <string name="redeye_tooltip">Натисніть на червоні очі, щоб прибрати їх</string>
     <string name="rotate_tooltip">Щоб повернути світлину, потягніть її край</string>
     <string name="straighten_tooltip">Щоб вирівняти світлину, потягніть її</string>

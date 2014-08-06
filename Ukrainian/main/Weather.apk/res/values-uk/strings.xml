@@ -21,7 +21,6 @@
     <string name="menu_send_sms">Надіслати</string>
     <string name="app_love_sms_title">Повідомлення</string>
     <string name="app_love_view_title">Перегляд</string>
-    <string name="app_love_font_lng">%s</string>
     <string name="app_nohave_net">Немає з\'єднання з мережею</string>
     <string name="app_unquiet_net">З\'єднання нестабільне</string>
     <string name="widget_loading">Немає даних про погоду</string>
@@ -31,7 +30,6 @@
     <string name="act_find_city_hint">Пошук (Англійською)</string>
     <string name="act_set_city_find_side_on">Відкрити визначення розташування</string>
     <string name="act_set_city_find_side">Визначення розташування…</string>
-    <string name="local_city"></string>
     <string name="act_set_city_re_find_side">Визначення розташування…</string>
     <string name="act_set_city_find_side_error">Не вдалося визначити місцезнаходження</string>
     <string name="act_city_find_gps_error">Виберіть місто вручну</string>
@@ -84,8 +82,8 @@
     <string name="tip_weather_info_title_2">%1$s: %2$s</string>
     <string name="alert_provider_title">Сповіщення про розташування</string>
     <string name="alert_provider_message">Дозволити визначення місцезнаходження по мобільній мережі?</string>
-    <string name="button_allow">Дозволити</string>
-    <string name="button_not_allow">Заборонити</string>
+    <string name="button_allow">ОК</string>
+    <string name="button_not_allow">Назад</string>
     <string name="location_allow_err">Неможливо визначити розташування</string>
     <string name="format_date_wmd">d MMMM EEE</string>
     <string name="format_date_md">d MMMM kk:mm</string>
@@ -124,7 +122,7 @@
 	<string name="gps_hint">Поточне місце розташування</string>
  	<string name="edit_city">Змінити</string>
  	<string name="act_weather_cycle_no_forcast">Невідомо</string>
- 	<string name="button_abandon">Скасувати зміни</string>
+ 	<string name="button_abandon">Не зберігати</string>
  	<string name="aqi_quality_index_break">Упс!</string>
  	<string name="act_weather_find_city_net_no_good">Не вдається підключитися до мережі</string>
     <string name="act_weather_find_city_click_retry">Повтор</string>

@@ -252,10 +252,10 @@
 	<string name="country_name_zw">Зімбабве</string>
 	<string name="delete">Видалити</string>
 	<string name="double_seventh_day">Танабата</string>
-	<string name="error_forbidden">Знайдено помилки облікового запису: синхронізацію вимкнено.</string>
-	<string name="error_not_acceptable">Помилка серверу: синхронізацію вимкнено.</string>
+	<string name="error_forbidden">Синхронизація вимкнена через проблеми з Mi акаунтом.</string>
+	<string name="error_not_acceptable">Синхронізація вимкнена.</string>
 	<string name="error_title">Помилка синхронізації</string>
-	<string name="error_unauthorized">Дуже багато помилок авторизації: синхронізацію вимкнено.</string>
+	<string name="error_unauthorized">Синхронізація вимкнена через велику кількість спроб авторизації.</string>
 	<string name="every_day">Кажен день</string>
 	<string name="experimental_validate">Ідентифікація</string>
 	<string name="experimental_validate_fail">Не вдалося увійти.</string>
@@ -347,7 +347,7 @@
 	<string name="select">Вибрати</string>
 	<string name="select_all">Обрати всі</string>
 	<string name="send_sms_for_sync_notice">Для активації треба відправити SMS. За це може стягуватись додаткова плата.</string>
-	<string name="send_sms_for_sync_title">Сервіс активації не запущено</string>
+	<string name="send_sms_for_sync_title">Служба синхронізації не запущена</string>
 	<string name="sim_changed_reactivate_notice">Поточна SIM не активована. Для активації треба відправити SMS. За це може стягуватись додаткова плата.</string>
 	<string name="sim_changed_reactivate_int_notice">Поточна SIM не активована. Для активації треба відправити SMS. За це може стягуватись додаткова плата.</string>
 	<string name="slight_cold">Осаму</string>
@@ -434,7 +434,7 @@
 	<string name="share">Поділитись</string>
 	<string name="perm_data_update_lab">Оновлення даних</string>
 	<string name="perm_data_update_dspt">Дозволити надсилати помітку про оновлення даних</string>
-    <string name="provider_sougou">Надано Sogou</string>
+    <string name="provider_sougou">Підтримка: Sogou</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Ви ввели невірний пароль %d раз. Після %d невдалих спроб, Вам буде запропоновано розблокувати телефон через системний обліковий запис. Спробуйте ще через %d сек."</string>
     <string name="sim_unavailable">SIM карта недосяжна</string>
     <string name="sim_locked">SIM карту заблоковано</string>
@@ -467,18 +467,20 @@
     <string name="global_actions_reboot">Перезавантаження</string>
     <string name="global_actions_shutdown">Вимкнення</string>
     <string name="global_actions_silent_mode">Режим \"Без звуку\"</string>
-	<string name="sync_data_merge_warning_desc">Об\'єднати локальні %s з хмарними данними?</string>
+	<string name="sync_data_merge_warning_desc">Дані на пристрої (%s) будуть об\'єднані з даними Mi Cloud.</string>
     <string name="sync_data_recover_warning_title">Попередження</string>
-    <string name="sync_data_recover_warning_desc">Відновити %s з хмарного сервісу?</string>
+    <string name="sync_data_recover_warning_desc">Відновлювані дані з Mi Cloud (%s) будуть об\'єднані з даними на пристрої.</string>
     <string name="sync_data_merge_warning_ok">Об\'єднати</string>
     <string name="sync_data_merge_warning_cancel">Скасування</string>
-    <string name="sync_data_recover_warning_ok">Відновити</string>
+    <string name="sync_data_recover_warning_ok">ОК</string>
     <string name="sync_data_recover_warning_cancel">Скасування</string>
     <string name="sync_data_contact">контакти</string>
     <string name="sync_data_mms">повідомлення</string>
-    <string name="sync_data_cloud_album">хмарний альбом</string>
+    <string name="sync_data_cloud_album">хмарні альбоми</string>
     <string name="sync_data_call_log">записи викликів</string>
     <string name="sync_data_notes">замітки</string>
     <string name="sync_data_loading">Одержання інформації із сервера</string>
     <string name="sync_data_merge_warning_title">Попередження</string>
+	<string name="softap_notifif_title">Точка доступу \"%s\" увімкнена</string>
+    <string name="softap_notifif_summary">Підключено: %d</string>
 </resources>

@@ -36,7 +36,7 @@
      <string name="activating">Активація…</string>
      <string name="check_phone_error_title">Служба синхронізації не запущена</string>
      <string name="check_phone_io_error">Мережна помилка</string>
-     <string name="send_sms_for_sync_title">Сервіс активації не запущений</string>
+     <string name="send_sms_for_sync_title">Служба синхронізації не запущена</string>
      <string name="send_sms_for_sync_notice"> Для активації потрібно відправити SMS. За це може стягуватися додаткова плата</string>
      <string name="activate">Активувати</string>
      <string name="activate_fail_notification_title">Повторна активація</string>

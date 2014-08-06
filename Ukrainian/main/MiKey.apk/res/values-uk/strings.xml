@@ -181,4 +181,16 @@
      <string name="faq_vsm_title">Заходи обережності</string>
      <string name="faq_vsm_text">Перед зняттям задньої кришки не забудьте відключити кнопку!</string>
 	 <string name="buy">Купити MiKey</string>
+	 <string name="toast_open">Відкрити</string>
+     <string name="toast_close">Закрити</string>
+     <string name="toggle_wifi">Wi-Fi</string>
+     <string name="toggle_bluetooth">Bluetooth</string>
+     <string name="toggle_shake">Вібрація</string>
+     <string name="toggle_ring">Дзвінок</string>
+     <string name="toggle_gps">GPS</string>
+     <string name="toggle_data">Дані</string>
+     <string name="toggle_sleep">Сон</string>
+     <string name="toggle_bright">Яскравість</string>
+     <string name="toggle_flight">В літаку</string>
+     <string name="chooser_dust_cap">MiKey (Режим заглушки)</string>
  </resources>
