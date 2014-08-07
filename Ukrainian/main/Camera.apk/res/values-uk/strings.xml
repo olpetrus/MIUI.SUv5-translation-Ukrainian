@@ -88,6 +88,7 @@
  	<string name="pref_camera_picturesize_entry_4208x2368">10 Мп (4208x2368) 16:9</string>
     <string name="pref_camera_picturesize_entry_3264x2448">8 Мп (3264x2448) 4:3</string>
     <string name="pref_camera_picturesize_entry_3200x2400">8 Мп (3200x2400) 4:3</string>
+	<string name="pref_camera_picturesize_entry_3328x1872">6 Мп (3328x1872) 16:9</string>
     <string name="pref_camera_picturesize_entry_4160x3120">13 Мп (4160x3120) 4:3</string>
     <string name="pref_camera_picturesize_entry_3264x1840">6 Мп (3264x1840) 16:9</string>
     <string name="pref_camera_picturesize_entry_3200x1800">6 Мп (3200x1800) 16:9</string>
@@ -127,7 +128,10 @@
     <string name="pref_camera_picturesize_entry_2592x1936">5 Mп (2592x1936) 1,66:1</string>
     <string name="pref_camera_picturesize_entry_2592x1456">4 Mп (2592x1456) 16:9</string>
     <string name="pref_camera_picturesize_entry_2048x1536">3 Mп (2048x1536) 1,66:1</string>
+	<string name="pref_camera_picturesize_entry_1920x1088">2 Mп (1920x1088) 16:9</string>
     <string name="pref_camera_picturesize_entry_1600x1200">2 Mп (1600x1200) 1,66:1</string>
+	<string name="pref_camera_picturesize_entry_1472x832">1.2 Mп (1472x832) 16:9</string>
+	<string name="pref_camera_picturesize_entry_1472x1104">1.6 Mп (1472x1104) 4:3</string>
     <string name="pref_camera_picturesize_entry_1280x768">1.6 (1280x768) 16:10</string>
     <string name="pref_camera_picturesize_entry_1280x960">1.3 Mп (1280x960) 1,66:1</string>
     <string name="pref_camera_picturesize_entry_800x600">0.4 Мп SVGA (800x600)</string>
@@ -334,7 +338,7 @@
     <string name="effect_backdropper_gallery">Вибрати свій</string>
     <string name="bg_replacement_message">Установіть телефон нерухомо. \nна деякий час відійдіть від об\'єктива.</string>
     <string name="not_selectable_in_effect">Недоступно при використанні ефектів.</string>
-    <string name="video_snapshot_hint">Щоб зробити знімок при відеозйомці, натисніть на екран перегляду.</string>
+    <string name="video_snapshot_hint">Щоб зробити знімок при відеозйомці, натисніть на екран перегляду</string>
     <string name="disable_video_snapshot_hint">Неможливо зробити знімок під час запису відео з ефектами</string>
     <string name="snapshot_lower_than_video">Розмір знімка менше, ніж розмір самого відео. Виберіть роздільну здатність вище або рівне поточному розміру відео</string>
     <string name="snapshotsize_low_powermode">Неможливо зробити знімок у режимі енергозбереження</string>
@@ -607,7 +611,7 @@
     <string name="qq_details">Деталі QQ:</string>
     <string name="launch_qq">Виконати QQ через браузер</string>
     <string name="download_qq">Завантажити QQ</string>
-    <string name="wifi_warning">Переконайтеся в надійності даної мережі перед під\'єднанням</string>
+    <string name="wifi_warning">Переконайтеся в надійності даної мережі перед під\'єднанням.</string>
     <string name="cloud_album_details">Інформація про альбом в хмарах:</string>
     <string name="visit_cloud_album">Відвідайте альбом в хмарах</string>
     <string name="find_cloud_album">Знайти альбом в хмарах за допомогою QR коду</string>
@@ -996,9 +1000,9 @@
 	<string name="pref_camera_ubi_focus_title">Перефокусування</string>
     <string name="pref_camera_opti_zoom_title"> Opti-наближення</string>
     <string name="pref_camera_chroma_flash_title"> Chroma-спалах</string>
-    <string name="simple_mode_button_text_ubi_focus">Відключити режим перефокусування</string>
-    <string name="simple_mode_button_text_chroma_flash">Відключити режим Chroma-спалаху</string>
-    <string name="simple_mode_button_text_opti_zoom">Відключити режим Opti-наближення</string>
+    <string name="simple_mode_button_text_ubi_focus">Вийти з режиму перефокусування</string>
+    <string name="simple_mode_button_text_chroma_flash">Вийти з режиму Chroma-спалаху</string>
+    <string name="simple_mode_button_text_opti_zoom">Вийти з режиму Opti-наближення</string>
     <string name="ubi_focus_exit_button_text">Відключити режим перефокусування</string>
     <string name="chroma_flash_exit_button_text">Відключити режим Chroma-спалаху</string>
     <string name="opti_zoom_exit_button_text">Відключити режим Opti-наближення</string>
@@ -1007,7 +1011,7 @@
     <string name="enable_feature">ОК</string>
     <string name="not_enable_feature">Скасування</string>
     <string name="accessibility_opti_zoom_button">Optizoom</string>
-	<string name="pref_camera_auto_chroma_flash_title">Авто Chroma-вспышка</string>
+	<string name="pref_camera_auto_chroma_flash_title">Chroma-вспышка</string>
 	<string name="pref_touch_down_capture_title">Натисніть для зйомки</string>
 	<string name="pref_video_fast_speed_title_simple_mode">Швидкісна зйомки</string>
   	<string name="simple_mode_button_text_fast_video">Вийти зі скоростної зйомки</string>
@@ -1024,4 +1028,5 @@
 	<string name="burst_shoot_exit_button_text">Відключити серійну зйомку</string>
  	<string name="pref_burst_shoot_title">Серійна зйомка</string>
 	<string name="pref_priority_storage_title">Пріоритет збереження на зовнішню пам\'ять</string>
+	<string name="pref_long_press_shutter_button_focus_title">Довге натискання кнопки затвору для фокусування</string>
 </resources>

@@ -366,11 +366,11 @@
         <item>Кіно</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>Пристрій під\'єднано, створення сесії…</item>
+        <item>Створення сесії…</item>
         <item>Сессію створено</item>
         <item>Сессію обірвано…</item>
         <item>Сессію не створено</item>
-        <item>Час очікування сплив, повтор…</item>
+        <item>Час очікування сплив. Повтор…</item>
         <item>Пристрій під\'єднано</item>
     </string-array>
     <string-array name="power_mode_entries">

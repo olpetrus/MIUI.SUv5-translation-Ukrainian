@@ -1968,7 +1968,7 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="dndm_dlg_remove_vip">Удалить из белого списка?</string>
     <string name="dndm_dlg_remove_ok">ОК</string>
     <string name="dndm_menu_add_vip_custom">Добавить</string>
-    <string name="dndm_mute_all">Уведомления отключены</string>
+    <string name="dndm_mute_all">Звук викликів і повідомлень буде вимкнено</string>
     <string name="dndm_special_call_setting_group">Винятки</string>
     <string name="dndm_vip_call_setting_title">Білий список</string>
     <string name="dndm_vip_call_summary_none">Відключено</string>
@@ -2198,7 +2198,7 @@ Step 2: Натисніть та утримуйте двома пальцями, 
     <string name="search_power_mode">Режим живлення</string>
     <string name="debug_log">Програма розвитку</string>
     <string name="upload_debug_log_title">Програма розвитку</string>
-    <string name="upload_debug_log_summary">Допоможіть Xiaomi покращити їх продукт та сервіси, надіславши дані діагностики і т.д.</string>
+    <string name="upload_debug_log_summary">Допоможіть покращити MIUI відправкою анонімних звітів</string>
     <string name="device_miui_version">Версія MIUI:</string>
     <string name="device_cpu">Процесор:</string>
     <string name="device_memory">ОЗП:</string>
@@ -3887,7 +3887,7 @@ Android File Transfer
     <string name="user_dict_settings_add_shortcut_hint">Додатковий ярлик</string>
  	<string name="development_settings_not_available">Режим \" Для розроблювачів\" не доступний для даного користувача</string>
  	<string name="clear_adb_keys">Заборонити доступ USB налагодження</string>
- 	<string name="adb_keys_warning_message">Заборонити доступ для USB налагодження на всіх комп\'ютерах, на яких ви входили в аккаунт?</string>
+ 	<string name="adb_keys_warning_message">Заборонити доступ для USB налагодження на всіх комп\'ютерах, на яких ви входили в акаунт?</string>
  	<string name="enable_service_title">Включити %1$s?</string>
     <string name="capabilities_list_title">%1$s буде:</string>
     <string name="capability_title_receiveaccessibilityevents">Обробляти дії</string>
@@ -3911,11 +3911,11 @@ Android File Transfer
  	<string name="user_you">Ви (%s)</string>
  	<string name="user_add_user_type_title">Додати</string>
     <string name="user_add_user_item_summary">У користувачів є свої додатки й контент</string>
-    <string name="user_add_profile_item_summary">Ви можете обмежити доступ до додатків і контенту з вашого аккаунта</string>
+    <string name="user_add_profile_item_summary">Ви можете обмежити доступ до додатків і контенту з вашого акаунта</string>
     <string name="user_add_user_item_title">Додати користувача</string>
     <string name="user_add_profile_item_title">Профіль із обмеженим доступом</string>
  	<string name="user_setup_profile_dialog_message">Настроїти профіль?</string>
- 	<string name="user_cannot_add_accounts_message">Користувачі з обмеженим доступом не можуть додавати аккаунти</string>
+ 	<string name="user_cannot_add_accounts_message">Користувачі з обмеженим доступом не можуть додавати акаунти</string>
  	<string name="user_new_profile_name">Новий профіль</string>
  	<string name="user_profile_confirm_remove_title">Вилучити профіль?</string>
  	<string name="user_profile_confirm_remove_message"> Збережені на телефоні дані цього профілю будуть вилучені без можливості відновлення</string>
@@ -3926,7 +3926,7 @@ Android File Transfer
     <string name="app_restrictions_custom_label">Настроїти обмеження</string>
     <string name="user_restrictions_controlled_by">Підтримка: %1$s</string>
     <string name="app_not_supported_in_limited">Додаток не підтримується в профілях з обмеженим доступом</string>
-    <string name="app_sees_restricted_accounts">Цьому додатку дозволений доступ до ваших аккаунтам</string>
+    <string name="app_sees_restricted_accounts">Цьому додатку дозволений доступ до ваших акаунтам</string>
     <string name="restriction_wifi_config_title">Wi-Fi і мобільна мережа</string>
     <string name="restriction_wifi_config_summary">Дозволити зміна настроювань Wi-Fi і мобільної мережі</string>
     <string name="restriction_bluetooth_config_title">Bluetooth</string>
@@ -4019,8 +4019,8 @@ Android File Transfer
     <string name="dialog_msg_cleanup_system_cache">Буде очищений кеш в усіх додатків</string>
     <string name="dialog_title_cleanup_apps">Вилучити дані додатків?</string>
     <string name="dialog_title_backup_and_cleanup_apps">Створити бекап і вилучити додаток?</string>
-    <string name="dialog_msg_cleanup_apps">Усі дані додатки будуть вилучені, включаючи настроювання й аккаунти.</string>
-    <string name="dialog_msg_backup_and_cleanup_apps">Після завершення резервного копіювання всі дані додатки будуть вилучені, включаючи настроювання й аккаунти.</string>
+    <string name="dialog_msg_cleanup_apps">Усі дані додатки будуть вилучені, включаючи настроювання й акаунти.</string>
+    <string name="dialog_msg_backup_and_cleanup_apps">Після завершення резервного копіювання всі дані додатки будуть вилучені, включаючи настроювання й акаунти.</string>
     <string name="button_text_cleanup_apps">Очистити дані</string>
     <string name="button_text_backup_and_cleanup_apps">Бекап</string>
     <string name="toast_backup_cleanup_success">Бекап створений і дані вилучені</string>
@@ -4269,7 +4269,7 @@ Android File Transfer
  	<string name="account_list">Усі</string>
  	<string name="account_add">Додати</string>
  	<string name="private_gallery_need_to_unlock">Уведіть пароль:</string>
- 	<string name="private_gallery_reset_by_account">Щоб скинути пароль, увійдіть в аккаунт Xiaomi.</string>
+ 	<string name="private_gallery_reset_by_account">Щоб скинути пароль, увійдіть в акаунт Xiaomi.</string>
  	<string name="private_gallery_recording_intro_header">Намалюйте ключ блокування</string>
  	<string name="system_app_settings">Системні додатки</string>
  	<string name="connect_to_internet">Підключення до інтернету</string>
@@ -4333,9 +4333,9 @@ Android File Transfer
  	<string name="preferred_sms_title">Додаток повідомлень за замовчуванням</string>
 	<string name="dirac_mode_general_earbuds">Звичайні навушники</string>
     <string name="dirac_mode_general_inear">Звичайні вкладиші</string>
-    <string name="dirac_mode_piston_1">Пістони Xiaomi-1</string>
-    <string name="dirac_mode_piston_2">Пістони Xiaomi-2</string>
-    <string name="dirac_mode_piston_youth">Пістони Xiaomi-youth</string>
+    <string name="dirac_mode_piston_1">Mi пістони-1</string>
+    <string name="dirac_mode_piston_2">Mi пістони-2</string>
+    <string name="dirac_mode_piston_youth">Mi пістони-youth</string>
  	<string name="msd_pc_system_install_start_summary_vista"> Для версій Windows Vista і новіше, \"%1$s\" буде автоматично відображатися як USB накопичувач</string>
     <string name="msd_pc_system_install_step_2_summary_xp">2. % 1$s буде відображатися як USB накопичувач при підключенні КПК.</string>
     <string name="msd_pc_system_install_finish_summary_xp">Після установки драйверів \"%1$s\" буде відображатися при підключенні до ПК як USB накопичувач </string>
@@ -4377,11 +4377,11 @@ Android File Transfer
     <string name="google_backup_section_title">Бекап та відновлення</string>
     <string name="system_backup_section_title">Бекап системи</string>
     <string name="local_backup_section_title">Локальний бекап</string>
-    <string name="local_backup_section_summary">Бекап налаштування систем, аккаунта і додатків</string>
+    <string name="local_backup_section_summary">Бекап налаштування систем, акаунта і додатків</string>
  	<string name="bluetooth_device_address">Адреса пристрою:</string>
  	<string name="title_font">Шрифт</string>
  	<string name="title_font_current">Вибір шрифту</string>
- 	<string name="use_network_warning">Необхідний інтернет для налаштування і синхронізації Mi аккаунта</string>
+ 	<string name="use_network_warning">Необхідний інтернет для налаштування і синхронізації Mi акаунта</string>
     <string name="menu_item_show_more">Ще</string>
     <string name="ringtone_mute">Порожньо</string>
     <string name="title_system_resource">Системні ресурси</string>
@@ -4395,11 +4395,11 @@ Android File Transfer
     <string name="app_switch_key">Недавні</string>
     <string name="erase_data">Видалити</string>
     <string name="lockpassword_pin_fixed_length">PIN повинен складатися з %d цифр</string>
-    <string name="toast_need_login">Увійдіть в Mi аккаунт</string>
+    <string name="toast_need_login">Увійдіть в Mi акаунт</string>
     <string name="button_text_reboot_now">Перезавантаження</string>
     <string name="button_text_login">Вхід</string>
-    <string name="dialog_title_login">Вхід в Mi аккаунт</string>
-    <string name="dialog_content_login"> Для оновлення необхідний Mi аккаунт, увійти?</string>
+    <string name="dialog_title_login">Вхід в Mi акаунт</string>
+    <string name="dialog_content_login"> Для оновлення необхідний Mi акаунт, увійти?</string>
     <string name="launching_pho">Завантаження інформації про телефон.</string>
     <string name="status_serialno">серійний номер</string>
     <string name="msd_pc_system_install_summary_xp">1. Запустіть установку</string>
@@ -4428,6 +4428,6 @@ Android File Transfer
     <string name="priority_storage_title">Налаштування пам\'яті</string>
     <string name="high_performance_notif_summary">Високе споживання батареї</string>
     <string name="high_performance_notif_title">Режим продуктивності активний</string>
-    <string name="high_performance_title">Используйте режим производительности для более комфортного игрового процесса</string>
+    <string name="high_performance_title">Використовуйте режим продуктивності для більш комфортного ігрового процесу.</string>
 	<string name="enable_mobile_data_when_opening_hotspot">Включить мобильный интернет?</string>
 </resources>

@@ -94,7 +94,7 @@
     <string name="sign_in_info">"Статус оновлення: %1$s\n%2$s користувачів установили MIUI %3$s""</string>
     <string name="sign_in_info_total_more">Статус оновлення: %1$s\nпонад %2$s користувачів установили MIUI %3$s</string>
     <string name="sign_in_info_rank_more">Статус оновлення: %1$s\nпонад  %2$s користувачів установили MIUI %3$s</string>
-    <string name="sign_in_add_account">Активуйте ваш Mi аккаунт</string>
+    <string name="sign_in_add_account">Активуйте ваш Mi акаунт</string>
     <string name="sign_in_add_account_helper">Синхронізуйте контакти, фото й інше між своїми пристроями</string>
     <string name="my_rank">Статус оновлення:</string>
     <string name="check_update">Перевірити оновлення</string>
@@ -144,8 +144,8 @@
     <string name="my_worst_update">Гірше оновлення</string>
     <string name="my_expect_update">Очікування</string>
     <string name="get_update_error">Не вдалося отримати інформацію оновлення</string>
-    <string name="active_xiaomi_account_title">Активуйте обліковий запис Xiaomi</string>
-    <string name="active_xiaomi_account_msg">"Для активації аккаунта Xiaomi відвідайте https://account.xiaomi.com/pass/serviceLogin"</string>
+    <string name="active_xiaomi_account_title">Активуйте Mi акаунт</string>
+    <string name="active_xiaomi_account_msg">"Для активації Mi акаунту відвідайте https://account.xiaomi.com/pass/serviceLogin"</string>
     <string name="active_xiaomi_account">Активний</string>
     <string name="update_comment_title">Коментар</string>
     <string name="next">Далі</string>
@@ -160,14 +160,14 @@
  	<string name="comment_upload_hint">Спасибі за ваш відгук!</string>
  	<string name="comment_upload_success">Відправлене</string>
  	<string name="comment_invalid">Натисніть на зірку, щоб залишити оцінку</string>
- 	<string name="comment_upload_not_logined">Спочатку ввійдіть в аккаунт Xiaomi</string>
+ 	<string name="comment_upload_not_logined">Спочатку ввійдіть в акаунт Xiaomi</string>
  	<string name="fourgrid_hint_text"> Дякуємо вам за використання зборки MIUI для розроблювачів. Розкажіть, що ви думаєте про прошивання, цим ви допоможете нам зробити MIUI краще.</string>
 	<string name="fourgrid_notificaiont">Показувати в статусбарі</string>
 	<string name="fourgrid_no_notificaiont">Не показувати в статусбарі</string>
-	<string name="updater_finish_download">Завантаження прошивки закінчено</string>
+	<string name="updater_finish_download">Завантаження завершене</string>
 	<string name="toast_update_failed_hints">Помилка оновлення. Завантажте повну прошивку.</string>
      <string name="toast_msg_reboot">Відновлення завершене, необхідне перезавантаження</string>
-     <string name="toast_need_login">Увійдіть в Mi аккаунт</string>
+     <string name="toast_need_login">Увійдіть в Mi акаунт</string>
      <string name="notify_title_reboot_now">Відновлення завершене, необхідне перезавантаження</string>
      <string name="button_text_reboot_now">Перезавантаження</string>
      <string name="toast_not_enough_free_space">Недостатньо вільного місця для OTA</string>

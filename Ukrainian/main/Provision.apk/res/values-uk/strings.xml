@@ -13,7 +13,7 @@
     <string name="other_service_permission_manager">Керування дозволами</string>
     <string name="other_service_permission_manager_summary">Моніторинг додатків для забезпечення безпеки та приватності</string>
     <string name="other_service_user_experience">Програма покращення якості</string>
-    <string name="other_service_user_experience_summary0">"При використанні нашого продукту ми сподіваємося, що ви допоможете забезпечити зворотній зв\'язок. Ваші відгуки будуте надіслано відповідно до "</string>
+    <string name="other_service_user_experience_summary0">Допоможіть покращити MIUI відправкою анонімних звітів</string>
     <string name="other_service_user_experience_summary1">Політики конфіденційності</string>
     <string name="sim_card_detection_dialog_message">Виявлення SIM карти.</string>
     <string name="sim_card_detection_label">SIM карта</string>

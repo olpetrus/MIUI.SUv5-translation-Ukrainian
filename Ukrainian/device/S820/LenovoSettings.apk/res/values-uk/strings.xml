@@ -2204,7 +2204,7 @@
     <string name="dndm_dlg_remove_vip">Видалити з переліку винятків?</string>
     <string name="dndm_dlg_remove_ok">Видалити</string>
     <string name="dndm_menu_add_vip_custom">Додати виняток</string>
-    <string name="dndm_mute_all">Вимкнути звук дзвоників та повідомлень</string>
+    <string name="dndm_mute_all">Звук викликів і повідомлень буде відключений</string>
     <string name="dndm_special_call_setting_group">Винятки</string>
     <string name="dndm_vip_call_setting_title">Налаштування винятків</string>
     <string name="dndm_vip_call_summary_none">Натисніть, для налаштування</string>

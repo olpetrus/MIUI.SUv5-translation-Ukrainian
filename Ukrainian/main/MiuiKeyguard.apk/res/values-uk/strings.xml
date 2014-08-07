@@ -33,7 +33,7 @@
      <string name="unlock_string">ОК</string>
      <string name="open_wifi_settings">Відкрити мережеві підключення</string>
      <string name="lock_screen_date">EE, d MMMM yyyy</string>
-     <string name="lockscreen_glogin_instructions">Введіть аккаунт Xiaomi для розблокування</string>
+     <string name="lockscreen_glogin_instructions">Введіть акаунт Xiaomi для розблокування</string>
      <string name="lockscreen_glogin_password_hint">Пароль</string>
      <string name="lockscreen_glogin_checking_password">Перевірка…</string>
      <string name="login_website_in_case_forget_password">Для скидання пароля відвідайте i.mi.com.</string>
@@ -48,7 +48,7 @@
      <string name="experimental_validate_password">Пароль</string>
      <string name="experimental_validate_progress">Авторизація…</string>
      <string name="experimental_validate_fail">Помилка авторизації</string>
-     <string name="lockscreen_glogin_forgot_pattern">Розблокувати аккаунт</string>
+     <string name="lockscreen_glogin_forgot_pattern">Розблокувати акаунт</string>
      <string name="lockscreen_glogin_too_many_attempts">Занадто багато спроб введення</string>
      <string name="lockscreen_glogin_invalid_input">Невірне ім\'я користувача або пароль</string>
      <string name="find_device_turn_off_flight_mode_instructions">Ваш телефон заблокований. \nбудь-ласка, виключіть режим польоту</string>
@@ -65,10 +65,11 @@
      <string name="lockscreen_access_pattern_cleared">Ключ очищений</string>
      <string name="lockscreen_access_pattern_cell_added">Оператор доданий</string>
      <string name="lockscreen_access_pattern_detected">Кінець ключа</string>
-     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Ви ввели пароль невірно %d раз(а). Після %d невірних спроб введення вам буде запропоновано розблокувати телефон за допомогою аккаунта Xiaomi. Повторите спробу через %d сек."</string>
+     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Ви ввели пароль невірно %d раз(а). Після %d невірних спроб введення вам буде запропоновано розблокувати телефон за допомогою акаунта Xiaomi. Повторите спробу через %d сек."</string>
      <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Ви ввели пароль невірно %d раз(а). Після %d невірних спроб усі дані будуть очищені й відновлені заводські настроювання</string>
      <string name="lockscreen_failed_attempts_now_wiping">Ви ввели пароль невірно %d раз(а). Усі дані будуть очищені й відновлені заводські настроювання</string>
      <string name="miui_keyguard_ble_unlock_succeed_msg">Розблоковане Bluetooth пристроєм</string>
      <string name="bluetooth_unlock_rssi_far_debug_msg">Bluetooth пристрій знаходиться занадто далеко, щоб розблокувати.</string>
      <string name="default_lockscreen_unlock_hint_text">Посуньте вгору для розблокування</string>
+	 <string name="empty_password_error_msg">Поле пароля не може бути порожнім</string>
 </resources>

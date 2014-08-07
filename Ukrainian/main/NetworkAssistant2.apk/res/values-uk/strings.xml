@@ -139,7 +139,7 @@
      <string name="data_usage_warning_title">Попередження про трафік</string>
      <string name="data_usage_warning_body">Натисніть для перегляду інформації</string>
      <string name="data_usage_mobile_limit_title">Передача даних відключена</string>
-     <string name="data_usage_limit_body">Натисніть для включення</string>
+     <string name="data_usage_limit_body">Натисніть для включення.</string>
      <string name="data_usage_disabled_dialog">"Трафік досяг межі. 
  
  За подальше використання мобільного інтернету можуть утримуватися додаткові витрати відповідно вашому тарифному плану."</string>
@@ -207,15 +207,15 @@
      <string name="datausage_purchase_ordering">Покупка…</string>
      <string name="datausage_purchase_result_ok">"Ви придбали %s
  Прочитайте ориману SMS для отримання детальної інформації"</string>
-     <string name="datausage_purchase_result_failed">Не вдається завершити покупку</string>
+     <string name="datausage_purchase_result_failed">Не вдається завершити покупку.</string>
      <string name="datausage_purchase_backto_ns">Назад</string>
      <string name="datausage_purchase_goto_monthsetting">Змінити трафік</string>
      <string name="datausage_purchase_pkglist_nodata">"Виявлений конфлікт вашого тарифного плану та поточного замовлення. \nЗверніться до мобільного оператора для з\’ясування інформації."</string>
      <string name="datausage_purchase_pkglist_networkerror">Мережа недоступна. Перевірте під\'єднання і повторіть спробу.</string>
      <string name="datausage_purchase_pkglist_servererror">Помилка серверу</string>
-	 	<string name="main_toolbar_saving">Економія</string>
+	 <string name="main_toolbar_saving">Економія</string>
  	<string name="pref_traffic_saving_issue">Інформація</string>
- 	<string name="pref_traffic_saving_issue_content">&lt;b>Безпечне використання&lt;/b>&lt;br />&lt;br /> Будьте впевнені, що при використанні цієї функції всі ваші дані залишаються в безпеці.&lt;br />&lt;br />&lt;br />&lt;b>Стиснення даних&lt;/b>&lt;br />&lt;br />Дана функція призначена для економії трафіка за допомогою стиску даних тільки при використанні мобільного інтернету</string>
+ 	<string name="pref_traffic_saving_issue_content">&lt;b>Безпечне використання.&lt;/b>&lt;br />&lt;br /> Будьте впевнені, що при використанні цієї функції всі ваші дані залишаються в безпеці.&lt;br />&lt;br />&lt;br />&lt;b>Стиснення даних.&lt;/b>&lt;br />&lt;br />Дана функція призначена для економії трафіка за допомогою стиску даних тільки при використанні мобільного інтернету</string>
  	<string name="pref_traffic_saving_notify_switch">Повідомлення</string>
  	<string name="pref_traffic_saving_notify_switch_hint">Показувати повідомлення економії трафіка в рядку стану</string>
  	<string name="pref_traffic_saving_switch">Економія трафіка</string>
@@ -245,10 +245,10 @@
     <string name="none_mi_service_app_detail">Порожньо</string>
     <string name="pref_traffic_saving_whitelist">Білий список</string>
     <string name="pref_traffic_saving_whitelist_hint">Стиснення трафіку не буде використовуватися для цього списку додатків</string>
-    <string name="traffic_saving_history_total_month">Економія трафіку за місяць</string>
-    <string name="traffic_saving_history_total_month_default">Середня економія за місяць</string>
+    <string name="traffic_saving_history_total_month">Економія трафіку за місяць:</string>
+    <string name="traffic_saving_history_total_month_default">Середня економія за місяць:</string>
     <string name="traffic_saving_history_total_month_value">"Пісень: &lt;font color='#45c487'>&lt;b>&lt;big>%1$s&lt;/big>&lt;/b>&lt;/font> | Спілкування: &lt;font color='#45c487'>&lt;b>&lt;big>%2$s&lt;/big>&lt;/b>&lt;/font> год. | Статей: &lt;font color='#45c487'>&lt;b>&lt;big>%3$s&lt;/big>&lt;/b>&lt;/font>"</string>
-    <string name="traffic_saving_history_total_month_value_default">"Пісень: &lt;font color='#45c487'>&lt;b>&lt;big>18&lt;/big>&lt;/b>&lt;/font> треків | Спілкування: &lt;font color='#45c487'>&lt;b>&lt;big>10&lt;/big>&lt;/b>&lt;/font> год. | Статей: &lt;font color='#45c487'>&lt;b>&lt;big>86&lt;/big>&lt;/b>&lt;/font>"</string>
+    <string name="traffic_saving_history_total_month_value_default">"Пісень: &lt;font color='#45c487'>&lt;b>&lt;big>18&lt;/big>&lt;/b>&lt;/font> | Спілкування: &lt;font color='#45c487'>&lt;b>&lt;big>10&lt;/big>&lt;/b>&lt;/font> год. | Статей: &lt;font color='#45c487'>&lt;b>&lt;big>86&lt;/big>&lt;/b>&lt;/font>"</string>
     <string name="traffic_saving_history_total_rate">Рівень</string>
     <string name="traffic_saving_msg_not_started">УВІМКНУТИ</string>
     <string name="traffic_saving_whitelist_btn_add">Дод.</string>

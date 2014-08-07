@@ -77,11 +77,12 @@
     <string name="accessibility_phone_one_bar">Рівень сигналу мережі: 1.</string>
     <string name="accessibility_phone_two_bars">Рівень сигналу мережі: 2.</string>
     <string name="accessibility_phone_three_bars">Рівень сигналу мережі: 3..</string>
-	    <string name="accessibility_phone_signal_full">Рівень сигналу мережі: повний.</string>
+	<string name="accessibility_phone_four_bars">Рівень сигналу мережі: 4.</string>
+	<string name="accessibility_phone_signal_full">Рівень сигналу мережі: повний.</string>
     <string name="accessibility_no_data">Немає сигналу передачі даних.</string>
     <string name="accessibility_data_one_bar">Рівень сигналу передачі даних: 1.</string>
     <string name="accessibility_data_two_bars">Рівень сигналу передачі даних: 2.</string>
-    <string name="accessibility_data_three_bars">ГРівень сигналу передачі даних: 3.</string>
+    <string name="accessibility_data_three_bars">Рівень сигналу передачі даних: 3.</string>
     <string name="accessibility_data_signal_full">Рівень сигналу передачі даних: повний.</string>
     <string name="accessibility_no_wifi">Немає сигналу Wi-Fi.</string>
     <string name="accessibility_wifi_one_bar">Рівень сигналу Wi-Fi: 1.</string>

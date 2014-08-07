@@ -1882,4 +1882,24 @@
      <string name="other_ext_media_nomedia_notification_title">Removed external storage</string>
      <string name="ext2_media_nomedia_notification_message">External SD card removed. Insert a new one.</string>
      <string name="other_ext_media_nomedia_notification_message">External storage removed. Insert a new one.</string>
+	     <string name="quick_contacts_not_available">No application found to view this contact.</string>
+    <string name="webviewchromium_date_picker_dialog_other_button_label">Other</string>
+    <string name="webviewchromium_time_picker_dialog_title">Set time</string>
+    <string name="webviewchromium_accessibility_time_picker_hour">Hour</string>
+    <string name="webviewchromium_accessibility_time_picker_minute">Minute</string>
+    <string name="webviewchromium_accessibility_time_picker_second">Second</string>
+    <string name="webviewchromium_accessibility_time_picker_milli">Millisecond</string>
+    <string name="webviewchromium_color_picker_button_red">Red</string>
+    <string name="webviewchromium_color_picker_button_cyan">Cyan</string>
+    <string name="webviewchromium_color_picker_button_blue">Blue</string>
+    <string name="webviewchromium_color_picker_button_green">Green</string>
+    <string name="webviewchromium_color_picker_button_magenta">Magenta</string>
+    <string name="webviewchromium_color_picker_button_yellow">Yellow</string>
+    <string name="webviewchromium_color_picker_button_black">Black</string>
+    <string name="webviewchromium_color_picker_button_white">White</string>
+    <string name="webviewchromium_copy_to_clipboard_failure_message">Failed to copy to the clipboard</string>
+    <string name="webviewchromium_profiler_started_toast">Profiler started</string>
+    <string name="webviewchromium_profiler_stopped_toast">Profiler finished. Results are in %1$s.</string>
+    <string name="webviewchromium_profiler_no_storage_toast">"Can't start profiler because external storage is not ready"</string>
+    <string name="webviewchromium_profiler_error_toast">Failed to start profiler</string>
 </resources>
