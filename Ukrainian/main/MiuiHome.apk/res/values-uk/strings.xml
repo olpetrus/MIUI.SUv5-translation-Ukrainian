@@ -211,5 +211,5 @@
  	<string name="status_installing">Встановлення…</string>
  	<string name="status_paused">Встановлено</string>
 	<string name="status_pending">Очікування…</string>
-        <string name="gadget_mtz_label">Mi гаджети</string>
+    <string name="gadget_mtz_label">Mi гаджети</string>
 </resources>

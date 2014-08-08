@@ -177,8 +177,8 @@
 	<string name="sina_share_pendding">Відправлення…</string>
     <string name="sina_share_success">Відправлене</string>
     <string name="sina_share_fail">Помилка відправлення</string>
-    <string name="sina_token_expired_warning">Минув термін дії аккаунта Weibo, прив\'яжіть аккаунт заново.</string>
-    <string name="sina_token_invalid_warning">Невірний аккаунт Weibo, прив\'яжіть аккаунт заново.</string>
+    <string name="sina_token_expired_warning">Минув термін дії акаунта Weibo, прив\'яжіть акаунт заново.</string>
+    <string name="sina_token_invalid_warning">Невірний акаунт Weibo, прив\'яжіть акаунт заново.</string>
  	<string name="notify_connect_every_time">Запитувати доступ мережі щораз</string>
     <string name="do_not_remind_me">Не нагадувати</string>
  	<string name="recharge_phone_number_empty">Номер не може бути порожнім</string>
@@ -318,8 +318,8 @@
      <string name="account_order">Мої замовлення</string>
      <string name="account_address">Мої адреси</string>
      <string name="account_title">Профіль</string>
-     <string name="account_type_name">Аккаунт Xiaomi</string>
-     <string name="account_verify_password"> Для безпечного використання сервісів необхідно перевірити пароль аккаунта</string>
+     <string name="account_type_name">Акаунт Xiaomi</string>
+     <string name="account_verify_password"> Для безпечного використання сервісів необхідно перевірити пароль акаунта</string>
      <string name="account_updating_device">Завантаження сервісів…</string>
      <string name="account_updating_device_failed">Помилка авторизації</string>
      <string name="quick_yellow_page_tab_phones">Телефон</string>

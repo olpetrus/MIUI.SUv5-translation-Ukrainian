@@ -368,9 +368,9 @@
 	<string name="sync_alert_title">Синхронізація музики</string>
     <string name="sync_alert_message">Синхронізувати музику з Mi cloud?</string>
     <string name="not_now">Скасування</string>
-    <string name="sync_disable_toast">Ви можете увімкнути синхронізацію музики через Налаштування &gt; Аккаунти &gt; Mi Cloud</string>
+    <string name="sync_disable_toast">Ви можете увімкнути синхронізацію музики через Налаштування &gt; Акаунти &gt; Mi Cloud</string>
     <string name="login_and_enable">Синхронізувати</string>
-    <string name="sync_enable_toast">Ви можете змінити цю функцію через Налаштування &gt; Аккаунти &gt; Mi Cloud</string>
+    <string name="sync_enable_toast">Ви можете змінити цю функцію через Налаштування &gt; Акаунти &gt; Mi Cloud</string>
     <string name="impunity_declaration_ignore">Запам\'ятати</string>
     <string name="impunity_declaration_settings">Запитувати доступ до мережі</string>
     <string name="impunity_declaration_summary">Запит доступу до мережі при кожному запуску програвача</string>

@@ -4,7 +4,7 @@
 	<string name="activate_fail_notification_title">Повторна активація</string>
 	<string name="activating">Активація…</string>
 	<string name="alwaysUsePrompt">Запом\'ятати вибір</string>
-	<string name="android_lockscreen_glogin_instructions">Для разблокування увійдіть в Mi аккаунт</string>
+	<string name="android_lockscreen_glogin_instructions">Для разблокування увійдіть в Mi акаунт</string>
 	<string name="today">Сьогодні</string>
 	<string name="tomorrow">Завтра</string>
 	<string name="yesterday">Вчора</string>
@@ -265,7 +265,7 @@
 	<string name="experimental_validate_username">Ім\'я користувача</string>
 	<string name="experimental_validate_warning">Дякуємо за те, що допомагаєте MIUI стати краще!</string>
 	<string name="find_device_check_sim">Перевірка SIM…</string>
-	<string name="find_device_sim_change_instructions">Ваш пристрій був заблокований.\nВставте SIM карту або введіть пароль вашого Mi аккаунта.</string>
+	<string name="find_device_sim_change_instructions">Ваш пристрій був заблокований.\nВставте SIM карту або введіть пароль вашого Mi акаунта.</string>
 	<string name="find_device_sim_change_instructions_no_network">Ваш пристрій був заблокований\nДля розблокування вставте SIM карту</string>
 	<string name="find_device_turn_off_flight_mode">Вимкніть режим \"В літаку\"</string>
 	<string name="find_device_turn_off_flight_mode_instructions">Ваш пристрій заблоковано.\nДля разблокування вимкніть режим \"В літаку\"</string>

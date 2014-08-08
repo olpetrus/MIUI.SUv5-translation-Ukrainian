@@ -388,7 +388,7 @@
  	<string name="holding">Утримання…</string>
  	<string name="tab_download_history">Історія</string>
  	<string name="no_download_history">Немає завантажених додатків</string>
- 	<string name="download_history_login_hint">Війдіть в аккаунт Xiaomi для перегляду історії встановлених додатків.</string>
+ 	<string name="download_history_login_hint">Війдіть в акаунт Xiaomi для перегляду історії встановлених додатків.</string>
 	<string name="guess_tag">Пропозиції</string>
      <string name="search_tag">Пошук</string>
      <string name="searchview_hint">Пошук пропозицій</string>

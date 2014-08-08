@@ -180,7 +180,7 @@
      <string name="miui_ringer_mode">Звичайний режим</string>
      <string name="ringer_normal">Дзвінок</string>
      <string name="ringer_silent"> Без звуку</string>
-     <string name="dialog_select_account">Вибрати аккаунт</string>
+     <string name="dialog_select_account">Вибрати акаунт</string>
      <string name="toast_import_failed">Не вдалося імпортувати контакт</string>
      <string name="xiaomi_update_dialog_title">%1$s оновлене!</string>
      <string name="xiaomi_update_dialog_message">"Нова версія %1$s

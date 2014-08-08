@@ -44,7 +44,7 @@
      <string name="sim_changed_reactivate_int_notice">Поточна SIM карта не активована. Для активації потрібно відправити SMS. За це може стягуватися додаткова плата</string>
      <string name="error_title">Помилка синхронізації</string>
      <string name="error_unauthorized">Занадто багато помилок авторизації: синхронізація відключена</string>
-     <string name="error_forbidden">Виявлені помилки аккаунта: синхронізація відключена</string>
+     <string name="error_forbidden">Виявлені помилки акаунта: синхронізація відключена</string>
      <string name="error_not_acceptable">Помилка сервера: синхронізація відключена</string>
      <string name="sim_unavailable">SIM карта недоступна</string>
      <string name="sim_locked">SIM карта заблокована</string>

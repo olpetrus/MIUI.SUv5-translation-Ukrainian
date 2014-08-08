@@ -1048,7 +1048,7 @@
 	<string name="sim_pin_change_miui">Змінити PIN</string>
 	<string name="sim_pin_toggle_miui">Блокування SIM карти</string>
 	<string name="sip_settings_miui">SIP телефонія</string>
-	<string name="sip_add_account_tip_text">Немає аккаунтів</string>
+	<string name="sip_add_account_tip_text">Немає акаунтів</string>
 	<string name="sliding_down_hint_miui">Посуньте вниз для відповіді</string>
 	<string name="sliding_target_hint_miui">Напрям зсуву</string>
 	<string name="sliding_up_hint_miui">Посуньте вгору, щоб відхилити.</string>
@@ -1616,14 +1616,14 @@
     <string name="managed_roaming_dialog_ok_button">ОК</string>
     <string name="managed_roaming_dialog_cancel_button">Скасування</string>
  	<string name="no_volte">Не вдається зробити виклик IMS</string>
- 	<string name="ims_edit_title">Інформація аккаунта IMS</string>
-    <string name="ims_accounts_title">Аккаунт IMS</string>
+ 	<string name="ims_edit_title">Інформація акаунта IMS</string>
+    <string name="ims_accounts_title">Акаунт IMS</string>
     <string name="ims_domain_address_title">Сервер IMS</string>
  	<string name="use_ims_default_title">Завжди використовувати IMS</string>
     <string name="use_ims_default_summary">Використовувати IMS для всіх голосових викликів</string>
     <string name="ims_menu_save">Зберегти</string>
     <string name="ims_menu_discard">Скасування</string>
-    <string name="remove_ims_account">Вилучити аккаунт</string>
+    <string name="remove_ims_account">Вилучити акаунт</string>
  	<string name="respond_via_sms_menu_reset_default_activity">Скидання настроювань</string>
  	<string name="description_target_answer_video">Відповісти з відео</string>
     <string name="description_target_answer_tx_video">Відповісти з відео TX</string>

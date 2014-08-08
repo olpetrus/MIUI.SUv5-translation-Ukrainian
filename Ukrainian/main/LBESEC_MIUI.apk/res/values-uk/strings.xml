@@ -157,7 +157,7 @@
  	<string name="HIPS_Securityprompt_ROOT_Caption">Увага!</string>
  	<string name="HIPS_Securityprompt_ROOT_Step1">Дозволити ROOT доступ додатку \"%1$s\"?</string>
  	<string name="HIPS_Securityprompt_ROOT_Step2">ROOT доступ може привести до нестабільної роботи системи</string>
- 	<string name="HIPS_Securityprompt_ROOT_Step3">Ваші особисті дані (аккаунти, паролі й повідомлення) можуть стати загальнодоступні</string>
+ 	<string name="HIPS_Securityprompt_ROOT_Step3">Ваші особисті дані (акаунти, паролі й повідомлення) можуть стати загальнодоступні</string>
  	<string name="HIPS_Securityprompt_ROOT_Step4">Можливе порушення роботи встаткування</string>
  	<string name="HIPS_Securityprompt_ROOT_Step5">Використовуйте з обережністю!</string>
  	<string name="HIPS_Securityprompt_ROOT_Step6">Дозволити додатку \"%1$s\" одержувати ROOT доступ?</string>

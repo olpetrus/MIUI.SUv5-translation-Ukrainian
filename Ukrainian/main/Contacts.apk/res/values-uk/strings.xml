@@ -128,23 +128,23 @@
     <string name="noContactsHelpTextWithSyncForCreateShortcut">Відсутні контакти для відображення. (Якщо обліковий запис був тільки що доданий, потрібно декілька хвилин для синхронізації контактів.)</string>
     <string name="noContactsHelpTextForCreateShortcut">Відсутні контакти для відображення.</string>
     <string name="nocontactshelptext">" У вас немає контактів для відображення.\n\nщоб додати контакт натисніть <font fgcolor="#ffffffff"><b>Меню</b></font>, потім натисніть:\n
-         \n<li><font fgcolor="#ffffffff"><b>Аккаунти</b></font> для додавання або настроювання аккаунта з контактами, для синхронізації із пристроєм\n</li>
+         \n<li><font fgcolor="#ffffffff"><b>Акаунти</b></font> для додавання або настроювання акаунта з контактами, для синхронізації із пристроєм\n</li>
          \n<li><font fgcolor="#ffffffff"><b>Новий контакт</b></font> для створення нового контакту\n</li>
          \n<li><font fgcolor="#ffffffff"><b>Імпорт/експорт</b></font> для імпорту контактів з SIM або SD карти\n</li>"
      </string>
-      <string name="nocontactshelptextwithsync">" У вас немає контактів для відображення. (Якщо ви тільки що додали аккаунт, синхронізація займе кілька хвилин.)\n\nЩоб додати контакт натисніть <font fgcolor="#ffffffff"><b>Меню</b></font>, потім натисніть:\n
-         \n<li><font fgcolor="#ffffffff"><b>Аккаунти</b></font> для додавання або настроювання аккаунта з контактами, для синхронізації з пристроєм\n</li>
+      <string name="nocontactshelptextwithsync">" У вас немає контактів для відображення. (Якщо ви тільки що додали акаунт, синхронізація займе кілька хвилин.)\n\nЩоб додати контакт натисніть <font fgcolor="#ffffffff"><b>Меню</b></font>, потім натисніть:\n
+         \n<li><font fgcolor="#ffffffff"><b>Акаунти</b></font> для додавання або настроювання акаунта з контактами, для синхронізації з пристроєм\n</li>
          \n<li><font fgcolor="#ffffffff"><b>Параметри відображення</b></font> для вибору відображуваних контактів\n</li>
          \n<li><font fgcolor="#ffffffff"><b>Новий контакт</b></font> для створення нового контакту\n</li>
          \n<li><font fgcolor="#ffffffff"><b>Імпорт/експорт</b></font> для імпорту контактів з SIM або SD карти\n</li>"
      </string>
          <string name="nocontactsnosimhelptext">" У вас немає контактів для відображення.\n\nщоб додати контакт натисніть <font fgcolor="#ffffffff"><b>Меню</b></font>, потім натисніть:\n
-         \n<li><font fgcolor="#ffffffff"><b>Аккаунт</b></font> для додавання або настроювання аккаунта з контактами, для синхронізації з пристроєм\n</li>
+         \n<li><font fgcolor="#ffffffff"><b>Акаунт</b></font> для додавання або настроювання акаунта з контактами, для синхронізації з пристроєм\n</li>
          \n<li><font fgcolor="#ffffffff"><b>Новий контакт</b></font> для створення нового контакту\n</li>
          \n<li><font fgcolor="#ffffffff"><b>Імпорт/експорт</b></font> для імпорту контактів з SD карти\n</li>"
      </string>
-     <string name="nocontactsnosimhelptextwithsync">" У вас немає контактів для відображення. (Якщо ви тільки що додали аккаунт, синхронізація займе кілька хвилин.)\n\nщоб додати контакт натисніть <font fgcolor="#ffffffff"><b>Меню</b></font>, потім натисніть:\n
-         \n<li><font fgcolor="#ffffffff"><b>Аккаунти</b></font> для додавання або настроювання аккаунта з контактами, для синхронізації з пристроєм\n</li>
+     <string name="nocontactsnosimhelptextwithsync">" У вас немає контактів для відображення. (Якщо ви тільки що додали акаунт, синхронізація займе кілька хвилин.)\n\nщоб додати контакт натисніть <font fgcolor="#ffffffff"><b>Меню</b></font>, потім натисніть:\n
+         \n<li><font fgcolor="#ffffffff"><b>Акаунти</b></font> для додавання або настроювання акаунта з контактами, для синхронізації з пристроєм\n</li>
          \n<li><font fgcolor="#ffffffff"><b>Параметри відображення</b></font> для вибору відображуваних контактів\n</li>
          \n<li><font fgcolor="#ffffffff"><b>Новий контакт</b></font> для створення нового контакту\n</li>
          \n<li><font fgcolor="#ffffffff"><b>Імпорт/експорт</b></font> для імпорту контактів з SD карти\n</li>"
@@ -284,7 +284,7 @@
     <string name="relationLabelsGroup">Зв\'язок</string>
     <string name="groupsLabel">Групи</string>
     <string name="dialog_new_contact_account">Створити контакт в обліковому записі</string>
-    <string name="dialog_new_group_account">Створити групу в аккаунті</string>
+    <string name="dialog_new_group_account">Створити групу в акаунті</string>
     <string name="menu_sync_remove">Відключити синхронізацію групи</string>
     <string name="dialog_sync_add">Додати синхронізацію групи</string>
     <string name="display_more_groups">Ще групи…</string>
@@ -666,7 +666,7 @@
     <string name="frequency_weekly">Кожний тиждень</string>
     <string name="frequency_none">Ніколи</string>
     <string name="dirty_contacts_notification_title">Синхронізувати контакти?</string>
-    <string name="dirty_contacts_notification_description">Контактів, не синхронізованих з Mi аккаунтом: %d.</string>
+    <string name="dirty_contacts_notification_description">Контактів, не синхронізованих з Mi акаунтом: %d.</string>
     <string name="dirty_contacts_notification_message">Ви можете змінити нагадування в налаштуваннях)"</string>
     <string name="remind_btn_sync_now">Синхронізувати</string>
     <string name="remind_btn_ignore">Ігнорувати</string>
@@ -687,7 +687,7 @@
     <string name="import_weibo_dialog_title">Імпорт контактів Sina Weibo</string>
     <string name="import_weibo_error_no_matched_contacts">Немає співпадаючих контактів</string>
     <string name="import_weibo_error_no_network">Помилка мережі</string>
-    <string name="import_weibo_error_no_xiaomi_phone">Немає телефонів в Mi аккаунті.</string>
+    <string name="import_weibo_error_no_xiaomi_phone">Немає телефонів в Mi акаунті.</string>
     <string name="import_weibo_error_unknown">Невідома помилка</string>
     <string name="import_weibo_error_user_cancel">Скасовано користувачем</string>
     <string name="import_weibo_fetch_followers">Видобування контактів…</string>
@@ -708,8 +708,8 @@
     <string name="export_sim_contact_finish_success">Скопійовано контактів: %d</string>
     <string name="sim_export_loading">Читання SIM карти…</string>
     <string name="pref_title_account_import">Імпорт з облікового запису</string>
-    <string name="pref_title_import_from_account">Імпорт в Mi аккаунт</string>
-    <string name="pref_summary_import_from_account">Передача контактів з Google та Exchange в Mi аккаунт</string>
+    <string name="pref_title_import_from_account">Імпорт в Mi акаунт</string>
+    <string name="pref_summary_import_from_account">Передача контактів з Google та Exchange в Mi акаунт</string>
     <string name="preference_select_account_display">Відображення облікового запису</string>
     <string name="select_show_contacts">Список контактів</string>
     <string name="pref_key_rebuild_t9_index_title">Перебудувати індексі Т9</string>
@@ -788,10 +788,10 @@
     <string name="date_picker_label">Нагадувати за 3 дні та в сам День народження</string>
     <string name="pkgLabel">Контакти та номеронабирач</string>
     <string name="import_to_xiaomi_account_confirm">Імпорт</string>
-    <string name="import_to_xiaomi_account_progress_title">Імпорт контактів в Mi аккаунт</string>
+    <string name="import_to_xiaomi_account_progress_title">Імпорт контактів в Mi акаунт</string>
     <string name="import_to_xiaomi_account_progress_message">Імпортування…</string>
     <string name="import_to_xiaomi_account_progress_finish">Імпорт завершено</string>
-    <string name="import_to_xiaomi_account_title">Імпортувати обрані контакти в Mi аккаунт?</string>
+    <string name="import_to_xiaomi_account_title">Імпортувати обрані контакти в Mi акаунт?</string>
     <string name="menu_batch_delete">Пакетне видалення контактів</string>
     <string name="listTotalAllContactsZero">Немає контактів</string>
     <string name="listTotalAllContactsZeroCustom">Немає видимих контактів</string>
@@ -886,8 +886,8 @@
     <string name="no_contact_in_other_phone">Контактів не виявлено</string>
     <string name="no_connection_dialog_title">Помилка під\'єднання Bluetooth</string>
     <string name="add_xiaomi_account_dialog_title">Оберіть обліковий запис</string>
-    <string name="add_xiaomi_account_dialog_msg">Використовуйте Mi аккаунт для синхронізації контактів та доступу до них з будь-якого пристрою!</string>
-    <string name="add_xiaomi_account_dialog_btn">Використовувати Mi аккаунт</string>
+    <string name="add_xiaomi_account_dialog_msg">Використовуйте Mi акаунт для синхронізації контактів та доступу до них з будь-якого пристрою!</string>
+    <string name="add_xiaomi_account_dialog_btn">Використовувати Mi акаунт</string>
     <string name="keep_local_btn">Використовувати пам\'ять телефону</string>
     <string name="batch_delete">Пакетне видалення</string>
     <string name="batch_delete_msg">Видалити контактів: %d? \n\n Дані, які зберігаються в Mi Cloud також будуть видалены.</string>
@@ -1089,7 +1089,7 @@
     <string name="resource_account_login_title">Вхід</string>
     <string name="resource_account_fail_to_add">Помилка додавання облікового запису.</string>
     <string name="resource_account_abnormal_state">Помилка облікового запису: спробуйте пізніше.</string>
-    <string name="resource_account_login_before_action">Увійдіть в ваш Mi аккаунт</string>
+    <string name="resource_account_login_before_action">Увійдіть в ваш Mi акаунт</string>
     <string name="resource_send">Надіслати</string>
     <string name="resource_save_to_note">Зберегти в замітки</string>
     <string name="resource_present">Подарунок</string>
@@ -1114,7 +1114,7 @@
     <string name="resource_comment_score_count">Користувачів: %1$s</string>
     <string name="resource_comment_loading_list">Завантаження…</string>
     <string name="account_unactivated">Обліковий запис Xiaomi не активовано</string>
-    <string name="to_activate_the_account">Активуйте Mi аккаунт</string>
+    <string name="to_activate_the_account">Активуйте Mi акаунт</string>
     <string name="resource_menu_refresh">Оновити</string>
     <string name="resource_unknow_error">Невідома помилка</string>
     <string name="resource_user_know">Гаразд</string>
@@ -1175,7 +1175,7 @@
 	<string name="callrecordview_menu_delete_confirm">%s?</string>
 	<string name="yellowpage_navigation_network_location_enabled">Сервіс активний. Відключити його можна в налаштуваннях місця розташування</string>
 	<string name="cta_notice_checkbox">Запам\'ятати</string>
-	<string name="cta_notice_new_contact_message">Для збереження контакту в аккаунті \"%s\" необхідний доступ до мережі</string>
+	<string name="cta_notice_new_contact_message">Для збереження контакту в акаунті \"%s\" необхідний доступ до мережі</string>
 	<string name="cta_notice_ok">Дозволити</string>
 	<string name="cta_notice_photo_message">Для зміни фото контакту необхідний доступ до мережі</string>
 	<string name="cta_notice_settings">Запитувати доступ до мережі</string>

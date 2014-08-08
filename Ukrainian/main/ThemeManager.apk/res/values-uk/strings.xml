@@ -132,7 +132,7 @@
 	<string name="resource_comment_account_need_activitied">Активуйте обліковий запис Xiaomi</string>
 	<string name="resource_comment_rate">Оцінка:</string>
 	<string name="resource_comment_entry_tips">Показати коментарі</string>
-	<string name="fail_to_add_account">Не вдалося додати аккаунт</string>
+	<string name="fail_to_add_account">Не вдалося додати акаунт</string>
 	<string name="menu_refresh">Оновити</string>
 	<string name="mi_wallpaper_title">Mi Шпалери</string>
 	<string name="mi_wallpaper_loading">Завантаження Mi шпалер…</string>
@@ -252,7 +252,7 @@
     <string name="resource_account_login_title">Вхід</string>
     <string name="resource_account_fail_to_add">Помилка додавання облікового запису</string>
     <string name="resource_account_abnormal_state">Помилка облікового запису. Будь ласка, спробуйте пізніше.</string>
-    <string name="resource_account_login_before_action">Увійдіть в ваш Mi аккаунт</string>
+    <string name="resource_account_login_before_action">Увійдіть в ваш Mi акаунт</string>
     <string name="resource_send">Надіслати</string>
     <string name="resource_save_to_note">Зберегти в нотатки</string>
     <string name="resource_present">Подарунок</string>
@@ -277,7 +277,7 @@
     <string name="resource_comment_score_count">Користувачів: %1$s</string>
     <string name="resource_comment_loading_list">Завантаження…</string>
     <string name="account_unactivated">Обліковий запис Xiaomi не активовано</string>
-    <string name="to_activate_the_account">Активуйте Mi аккаунт</string>
+    <string name="to_activate_the_account">Активуйте Mi акаунт</string>
     <string name="resource_menu_refresh">Оновити</string>
     <string name="resource_unknow_error">Невідома помилка</string>
     <string name="resource_user_know">ОК</string>

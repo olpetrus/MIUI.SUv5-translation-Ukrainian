@@ -338,7 +338,7 @@
 	<string name="movie_view_label">Відео плеєр</string>
 	<string name="loading_video">Завантажити відео…</string>
 	<string name="loading_image">Завантаження зображення…</string>
-	<string name="loading_account">Завантаження аккаунта…</string>
+	<string name="loading_account">Завантаження акаунта…</string>
 	<string name="resume_playing_title">Відновити відео</string>
 	<string name="resume_playing_message">Продовжити відтворення з %s?</string>
 	<string name="resume_playing_resume">Продовжити відтворення</string>
