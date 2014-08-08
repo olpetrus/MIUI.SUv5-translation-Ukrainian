@@ -1877,7 +1877,7 @@
     <string name="ext2_media_safe_unmount_notification_title">Зовнішній накопичувач безпечно відключений</string>
     <string name="other_ext_media_safe_unmount_notification_title">Зовнішня пам\'ять безпечно відключена</string>
     <string name="ext2_media_safe_unmount_notification_message">Ви можете безпечно витягти зовнішній накопичувач</string>
-    <string name="other_ext_media_safe_unmount_notification_message">Ви можете безпечно витягти зовнішню пам'ять</string>
+    <string name="other_ext_media_safe_unmount_notification_message">Ви можете безпечно витягти зовнішню пам\'ять</string>
     <string name="ext2_media_nomedia_notification_title">Зовнішній накопичувач витягнутий</string>
     <string name="other_ext_media_nomedia_notification_title">Зовнішня пам\'ять відключена</string>
     <string name="ext2_media_nomedia_notification_message">Зовнішній накопичувач витягнутий. Підключите інший</string>
