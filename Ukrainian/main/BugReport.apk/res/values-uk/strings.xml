@@ -57,7 +57,6 @@
 	<string name="camera_problem3">Камери закриваються з помилкою</string>
 	<string name="camera_problem4">Не вдається перемкнутися між основною і фронтальною камерами</string>
 	<string name="camera_problem5">Камера перестає працювати</string>
-	<string name="err_type">Тип помилки</string>
 	<string name="err_type_bluetooth">Bluetooth</string>
 	<string name="err_type_camera">Камера</string>
 	<string name="err_type_nonsystemapp">Сторонні додатки</string>
