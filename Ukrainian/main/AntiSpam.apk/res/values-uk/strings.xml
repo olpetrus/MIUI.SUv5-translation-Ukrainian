@@ -281,8 +281,6 @@
      <string name="ad_block_hint">Заблоковано: %d</string>
      <string name="ad_permission_hint">Використання блокувальника реклами може вплинути на продуктивність додатків і погіршити їх роботу.</string>
      <string name="ad_single_block_hint">Заблоковано</string>
-	 <string name="create_table_report_sms">Створення таблиці звіту( id TEXT NOT NULL );</string>
-	 <string name="create_table_report_sms_pending">Очікування створення таблиці звіту( id TEXT NOT NULL, address TEXT, body TEXT, date TEXT );</string>
 	 <string name="report">Звіт</string>
 	 <string name="report_error">Звіт буде автоматично відправлений при підключенні до мережі Wi-Fi</string>
 	 <string name="report_only">Виберіть повідомлення</string>
