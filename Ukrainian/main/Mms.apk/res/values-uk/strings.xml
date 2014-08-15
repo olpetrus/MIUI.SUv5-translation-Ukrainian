@@ -497,7 +497,7 @@
     <string name="mx_activate_int_hint_server">Для повторної активації повідомлень в хмарах буде надіслано повідомлення на номер в Китаї (вартість залежить від вашого оператора).</string>
     <string name="need_download">Синхронізація…</string>
     <string name="found_wild_messages_title">Завантаження повідомлень</string>
-    <string name="found_wild_messages">Завантажити повідомлення в хмарах з іншої SIM карти?</string>
+    <string name="found_wild_messages">Завантажити повідомлення в хмарах з іншої SIM карти? %s</string>
     <string name="found_old_messages_title">Вивантажити повідомлення в хмарах для інших SIM карт?</string>
     <string name="found_old_messages">Вивантажити повідомлення з попередніх облікових записів (%1$s) в обліковий запис %2$s?</string>
     <string name="show_all_messages">Показати всі повідомлення</string>

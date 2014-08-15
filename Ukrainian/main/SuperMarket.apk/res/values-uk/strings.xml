@@ -207,7 +207,7 @@
     <string name="install_no_network_description">Не виявлено мереж.</string>
     <string name="install_on_data_description">Завантаження без Wi-Fi може призвести до витрат, продовжити встановлення %1$s та %2$s?</string>
     <string name="install_only_on_wifi_description">Ви обрали \"Тільки Wi-Fi\", тому завантаження не може початися. Для завантаження від\'єднайте цю опцію.</string>
-    <string name="install_all_description">Встановити %1$s та %2$s?</string>
+    <string name="install_all_description">Встановити %1$s?</string>
 	<string name="install_all_title">Встановити всі додатки</string>
     <string name="install_btn_cancel">Скасувати</string>
     <string name="install_btn_continue">Продовжити</string>
@@ -221,7 +221,7 @@
     <string name="install_google_base_message">\"%1$s\" для роботи запитує Google Service Framework</string>
     <string name="install_google_base_button">Встановити зараз</string>
 	<string name="upgrade_all_title">Оновити всі</string>
-    <string name="upgrade_all_description">Оновити %1$s та %2$s?</string>
+    <string name="upgrade_all_description">Оновити %1$s?</string>
     <string name="status_downloading">Завантажено: %1$s%%</string>
     <string name="header_processing">Чергу завантажень</string>
     <string name="header_waiting">Чергу</string>

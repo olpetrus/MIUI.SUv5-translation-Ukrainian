@@ -1069,13 +1069,13 @@
     <string name="sim_contact_existing">Контакт вже існує</string>
     <string name="sim_contact_number_missing">Номер контакту на SIM карті відсутній.</string>
     <string name="sim_error_generic_failure">Помилка</string>
-    <string name="sim_error_storage_full">Пам\'ять SIM карти заповнена.</string>
+    <string name="sim_error_storage_full">Пам\'ять заповнена</string>
     <string name="sim_error_not_ready">Завантаження контактів SIM карти…</string>
     <string name="sim_error_text_too_long">Ім\'я дуже довге.</string>
     <string name="sim_error_number_too_long">Номер дуже довгий.</string>
     <string name="sim_error_email_too_long">Адреса email дуже довгий.</string>
-    <string name="sim_error_email_full">Пам\'ять для електронної пошти заповнено.</string>
-    <string name="sim_error_anr_full">пам\'ять для номерів заповнено.</string>
+    <string name="sim_error_email_full">Пам\'ять заповнена</string>
+    <string name="sim_error_anr_full">Пам\'ять  заповнена</string>
     <string name="sim_error_password_error">Хибний пароль</string>
 	<string name="sdcard_not_mounted_dialog_title">SD карта відсутній</string>
     <string name="sdcard_not_mounted_dialog_message">Вставте SD карту \n</string>
@@ -1173,7 +1173,7 @@
  	<string name="resource_connect_network_settings">Запитувати доступ до мережі</string>
  	<string name="resource_remind_another_time">Запам\'ятати</string>
 	<string name="callrecordview_menu_delete_confirm">%s?</string>
-	<string name="yellowpage_navigation_network_location_enabled">Сервіс активний. Відключити його можна в налаштуваннях місця розташування</string>
+	<string name="yellowpage_navigation_network_location_enabled">Сервіс визначення місцезнаходження активний</string>
 	<string name="cta_notice_checkbox">Запам\'ятати</string>
 	<string name="cta_notice_new_contact_message">Для збереження контакту в акаунті \"%s\" необхідний доступ до мережі</string>
 	<string name="cta_notice_ok">Дозволити</string>

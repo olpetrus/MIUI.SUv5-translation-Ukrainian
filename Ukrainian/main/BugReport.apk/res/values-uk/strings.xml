@@ -14,7 +14,7 @@
 	<string name="err_type_force_close">Примусове закриття</string>
 	<string name="err_type_network">Мережа</string>
 	<string name="err_type_others">Інші</string>
-	<string name="err_type_power_consuming">Споживання</string>
+	<string name="err_type_power_consuming">Споживання батареї</string>
 	<string name="err_type_reboot">Перезавантаження</string>
 	<string name="err_type_suggestion">Пропозиції</string>
 	<string name="menu_attach_screenshot">Приєднати скріншот</string>

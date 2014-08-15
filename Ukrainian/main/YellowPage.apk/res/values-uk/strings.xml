@@ -334,4 +334,7 @@
     <string name="group_name_more">Інше</string>
 	<string name="nearby_average_price">В середньому %d RMB</string>
 	<string name="express_send_notice">Про заборонені предмети</string>
+	<string name="express_no_tracking_number">Немає номера відстеження</string>
+    <string name="express_order_info">Інформація про замовлення</string>
+    <string name="express_tracking_number">Номер</string>
 </resources>

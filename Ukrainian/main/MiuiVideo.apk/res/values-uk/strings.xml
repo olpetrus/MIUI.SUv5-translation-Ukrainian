@@ -64,12 +64,11 @@
      <string name="delete_media_content">Видалити цей елемент?</string>
      <string name="di_count_ji">%d епізод</string>
      <string name="di_count_qi">%s сезон</string>
-     <string name="dianyingwang">Dianyingwang</string>
      <string name="director_colon">Режисер:</string>
      <string name="disk_volume">Зовнішня пам\'ять</string>
      <string name="dlna_list_name">Пристрої DLNA</string>
      <string name="dlna_name">Мережа загального доступу</string>
-     <string name="end_live_status">Over</string>
+     <string name="end_live_status">Трансляція закінчилась</string>
      <string name="favorite">" "</string>
      <string name="favorited_cannot_hide">Вибране не можна приховати</string>
      <string name="fenghuang">Fenghuang</string>
@@ -80,7 +79,7 @@
      <string name="filter_program">Фільтрація програм</string>
      <string name="find_media_count_bu">Знайдено відео: %d</string>
      <string name="find_media_searching">Пошук медіа…</string>
-     <string name="forecast_living_status">Living</string>
+     <string name="forecast_living_status">Пряма трансляція</string>
      <string name="fullscreen_hint_auto">Перемикання в повноекранний режим…</string>
      <string name="fullscreen_hint_horizontal">Для переходу в повний екран, натисніть іконку в верхньому лівому куті</string>
      <string name="fullscreen_hint_vertical">Для переходу в повний екран, натисніть кнопку нижче</string>
@@ -346,7 +345,10 @@
      <string name="failed_text_21">Фільм недоступний у режимі онлайн. Будь ласка, почекайте</string>
      <string name="failed_text_708">Занадто багато терміналів. Відтворіть через стандартний</string>
      <string name="failed_text_502">Не вдається відтворити фільм. Термін дії минув або він недоступний у режимі онлайн.</string>
-      <string name="info_title">Інформація</string>
+     <string name="info_title">Інформація</string>
      <string name="prex_playcount">Переглядів:</string>
      <string name="post_playcount">" "</string>
+	 <string name="backkey_remark">Для виходу натисніть клавішу Назад</string>
+     <string name="setting_network_alert">Поради</string>
+     <string name="setting_network_alert_summery">Показувати поради при запуску</string>
 </resources>

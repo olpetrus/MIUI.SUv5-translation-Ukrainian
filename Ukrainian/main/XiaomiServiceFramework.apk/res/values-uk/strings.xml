@@ -545,7 +545,7 @@
     <string name="activate_desc_mixed_sim_cards">Для активації акаунта Xiaomi на двох SIM картах будуть відправлені SMS</string>
     <string name="activate_desc_2_sim_cards">Для активації акаунта Xiaomi на двох SIM картах будуть відправлені SMS</string>
     <string name="activate_desc_2_intl_sim_cards"> Для активації акаунта Xiaomi на двох SIM картах будуть відправлені інтернаціональні SMS</string>
-    <string name="foreign_login"><u>Країна</u></string>
+    <string name="foreign_login"><u>Код країни</u></string>
 	<string name="sync_sub_1_sms">Для активації SIM карти буде відправлена SMS.</string>
     <string name="sync_sub_1_intl_sms">Для активації SIM карти буде відправлена міжнародна SMS.</string>
     <string name="sync_sub_2_sms">Для активації SIM карт будуть відправлено дві SMS.</string>

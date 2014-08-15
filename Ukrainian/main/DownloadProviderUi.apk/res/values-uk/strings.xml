@@ -125,4 +125,7 @@
     <string name="xunlei_member_annual_fee">Акаунт Xunlei на рік (платиновий)</string>
     <string name="xunlei_member_one_month">Акаунт Xunlei на місяць (платиновий)</string>
     <string name="xunlei_speed_service">Прискорення завантаження Xunlei</string>
+	<string name="add_flow_fail_haveget_msg">Ви вже отримали безкоштовне прискорення Xunlei в цьому місяці</string>
+	<string name="add_flow_fail_vip_msg">Прискорення завантаження Xunlei отримано</string>
+	<string name="add_flow_success_msg">Прискорення на 300Мб успішно отримано</string>
 </resources>

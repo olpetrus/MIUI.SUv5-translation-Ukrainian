@@ -4430,4 +4430,11 @@ Android File Transfer
     <string name="high_performance_notif_title">Режим продуктивності активний</string>
     <string name="high_performance_title">Використовуйте режим продуктивності для більш комфортного ігрового процесу.</string>
 	<string name="enable_mobile_data_when_opening_hotspot">Включить мобильный интернет?</string>
+	  <string name="cache_data_sort_type_item_name">За назвою</string>
+      <string name="cache_data_sort_type_item_size">За розміром</string>
+      <string name="deepclean_cache_header_left">Кеш: %d</string>
+      <string name="deepclean_sort_type_title">Сортування</string>
+      <string name="empty_content_size">Невідомо</string>
+      <string name="large_file_sort_type_item_name">За назвою</string>
+      <string name="large_file_sort_type_item_size">За розміром</string>
 </resources>
