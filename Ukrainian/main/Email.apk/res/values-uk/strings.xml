@@ -881,7 +881,7 @@
      <string name="search_result">"Результати пошуку: "</string>
      <string name="not_subject">(Немає теми)</string>
      <string name="pull_to_refresh">Потягніть вниз щоб оновити</string>
-     <string name="release_to_refresh">Відпустіть шоб оновити</string>
+     <string name="release_to_refresh">Відпустіть щоб оновити</string>
      <string name="refreshing">Оновлення…</string>
      <string name="not_updated_yet">Потяніть вниз щоб оновити</string>
      <string name="updated_at">Останнє оновлення: %1$s</string>
@@ -895,7 +895,7 @@
      <string name="mailbox_name_server_junk">Junk</string>
      <string name="mailbox_name_server_starred">Starred</string>
      <string name="mailbox_name_server_all_unread">Unread</string>
- 	 <string name="contact_select">Вибрытьконтакти</string>
+ 	 <string name="contact_select">Виберіть контакти</string>
  	 <string name="request_entity_large">Файл занадто великий</string>
      <string name="conversation_item_mark_read">Прочитане</string>
      <string name="conversation_item_mark_unread">Не прочитане</string>
